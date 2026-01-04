@@ -74,6 +74,3 @@ available on GitHub:
 Feel free to explore, modify, or reuse any part of this project.
 
 
-
-```{tableofcontents}
-```
