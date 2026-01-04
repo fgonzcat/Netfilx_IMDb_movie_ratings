@@ -104,3 +104,11 @@ do
 done
 
 ```
+
+
+## imdb-rating_omdbapi.sh
+
+```{literalinclude} ../scripts/imdb-rating_omdbapi.sh
+:language: bash
+:linenos:
+```
