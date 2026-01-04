@@ -37,7 +37,7 @@ jupyter-book build website_jupyter_book
 
 ```
 open website_jupyter_book/_build/html/index.html
-``
+```
 
 ## 4. Publish to GitHub Pages
 ```
@@ -48,12 +48,12 @@ ghp-import -n -p -f website_jupyter_book/_build/html
 - -p pushes to gh-pages branch automatically
 - -f forces overwrite of the previous build
 
-# 5. Update content in the future
+## 5. Update content in the future
 1. Modify or add .md files or scripts.
 2. Re-run jupyter-book build website_jupyter_book
 3. Re-run ghp-import to update the live site.
 
-## Optional tips
-- Keep your scripts and data in the repository; link to raw files from Markdown.
-- Use a _generated/ folder for Markdown tables automatically produced by scripts.
-- Always preview locally before publishing.
+> [!NOTE]
+> - Keep your scripts and data in the repository; link to raw files from Markdown.
+> - Use a `_generated/` folder for Markdown tables automatically produced by scripts.
+> - Always preview locally before publishing.
