@@ -28,7 +28,6 @@ NA      "Izla"                                                                  
 NA      "Kang Mak from Pee Mak"                                                 2024    https://www.imdb.com/title/tt13309170/              https://www.netflix.com/title/81971170
 NA      "Mononoke The Movie: The Phantom in the Rain"                           2024    https://www.imdb.com/title/tt35301440/              https://www.netflix.com/title/81580574
 NA      "The Redemption of Sin"                                                 2024    https://www.imdb.com/title/tt2975578/               https://www.netflix.com/title/82018121
-OMDb API error: No API key provided.  :  "#Alive"   https://www.netflix.com/title/81240831
 2.6     "Chandramukhi 2"                                                        2023    https://www.imdb.com/title/tt12132908/              https://www.netflix.com/title/81644300
 2.7     "Grizzly II"                                                            1983    https://www.imdb.com/title/tt0093119/               https://www.netflix.com/title/82105447
 2.8     "Dark Forces"                                                           2020    https://www.imdb.com/title/tt12536776/              https://www.netflix.com/title/80990348
