@@ -3,7 +3,11 @@
 
 format: jb-book
 root: intro
+
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+  - file: horror
+  - file: comedy
+  - file: action
+  - file: thrillers
+  - file: scifi
+  - file: lgbtq
