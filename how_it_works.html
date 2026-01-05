@@ -380,6 +380,7 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#omdb-key-what-you-need-to-know">🔑 OMDb Key: what you need to know</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#how-to-get-an-omdb-api-key">How to get an OMDb API key</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#where-the-key-is-used">Where the key is used</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#query-example-in-omdb">Query example in OMDb</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#quick-start-5-commands">⚡ Quick start (5 commands)</a></li>
@@ -451,6 +452,18 @@ IMDb does not provide a free public API directly. Instead, this project uses OMD
 </pre></div>
 </div>
 <p>You must replace this key in the variable <code class="docutils literal notranslate"><span class="pre">APIKEY</span></code> of the <code class="docutils literal notranslate"><span class="pre">imdb-rating_omdbapi.sh</span></code> script.</p>
+</section>
+<section id="query-example-in-omdb">
+<h3>Query example in OMDb<a class="headerlink" href="#query-example-in-omdb" title="Permalink to this heading">#</a></h3>
+<p>Just visiting the URL <a class="reference external" href="http://www.omdbapi.com/?t=%22Battlefield%20Earth%22%20%20&amp;y=2000&amp;apikey=1a8c9011">http://www.omdbapi.com/?t=”Battlefield%20Earth”%20%20&amp;y=2000&amp;apikey=1a8c9011</a> or executing</p>
+<div class="highlight-ruby notranslate"><div class="highlight"><pre><span></span><span class="n">curl</span><span class="w"> </span><span class="o">-</span><span class="n">s</span><span class="w"> </span><span class="s2">&quot;http://www.omdbapi.com/?t=&quot;</span><span class="no">Battlefield</span><span class="o">%</span><span class="mi">20</span><span class="no">Earth</span><span class="s2">&quot;%20%20&amp;y=2000&amp;apikey=1a8c9011&quot;</span>
+</pre></div>
+</div>
+<p>in your terminal will show you the following output:</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>{&quot;Title&quot;:&quot;Battlefield Earth&quot;,&quot;Year&quot;:&quot;2000&quot;,&quot;Rated&quot;:&quot;PG-13&quot;,&quot;Released&quot;:&quot;12 May 2000&quot;,&quot;Runtime&quot;:&quot;117 min&quot;,&quot;Genre&quot;:&quot;Action, Adventure, Sci-Fi&quot;,&quot;Director&quot;:&quot;Roger Christian&quot;,&quot;Writer&quot;:&quot;Corey Mandell, J.D. Shapiro, L. Ron Hubbard&quot;,&quot;Actors&quot;:&quot;John Travolta, Forest Whitaker, Barry Pepper&quot;,&quot;Plot&quot;:&quot;It&#39;s the year 3000 A.D., and the Earth is lost to the alien race of Psychlos. Humanity is enslaved by these gold-thirsty tyrants, who are unaware that their &#39;man-animals&#39; are about to ignite the rebellion of a lifetime.&quot;,&quot;Language&quot;:&quot;English&quot;,&quot;Country&quot;:&quot;United States, Canada&quot;,&quot;Awards&quot;:&quot;19 wins &amp; 3 nominations total&quot;,&quot;Poster&quot;:&quot;https://m.media-amazon.com/images/M/MV5BODJiODc1NjQtZmRhZS00ZTlmLTlmNTItMmZiZjcxMmU4ZDI2XkEyXkFqcGc@._V1_SX300.jpg&quot;,&quot;Ratings&quot;:[{&quot;Source&quot;:&quot;Internet Movie Database&quot;,&quot;Value&quot;:&quot;2.5/10&quot;},{&quot;Source&quot;:&quot;Rotten Tomatoes&quot;,&quot;Value&quot;:&quot;3%&quot;},{&quot;Source&quot;:&quot;Metacritic&quot;,&quot;Value&quot;:&quot;9/100&quot;}],&quot;Metascore&quot;:&quot;9&quot;,&quot;imdbRating&quot;:&quot;2.5&quot;,&quot;imdbVotes&quot;:&quot;84,567&quot;,&quot;imdbID&quot;:&quot;tt0185183&quot;,&quot;Type&quot;:&quot;movie&quot;,&quot;DVD&quot;:&quot;N/A&quot;,&quot;BoxOffice&quot;:&quot;$21,471,685&quot;,&quot;Production&quot;:&quot;N/A&quot;,&quot;Website&quot;:&quot;N/A&quot;,&quot;Response&quot;:&quot;True&quot;}
+</pre></div>
+</div>
+<p>which corresponds to the OMDb details of the movie <strong>Battlefield Earth</strong> that you can see in the URL above, released in the year 2000, using the API key <code class="docutils literal notranslate"><span class="pre">1a8c9011</span></code>.</p>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
 <p>A <strong>free OMDb API key</strong> is limited to <strong>1,000 requests per day</strong>.</p>
@@ -685,6 +698,7 @@ Outputs a plain text file in the data/ directory containing:</p>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#omdb-key-what-you-need-to-know">🔑 OMDb Key: what you need to know</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#how-to-get-an-omdb-api-key">How to get an OMDb API key</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#where-the-key-is-used">Where the key is used</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#query-example-in-omdb">Query example in OMDb</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#quick-start-5-commands">⚡ Quick start (5 commands)</a></li>
