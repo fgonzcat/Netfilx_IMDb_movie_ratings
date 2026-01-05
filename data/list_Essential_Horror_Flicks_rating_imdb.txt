@@ -24,11 +24,13 @@ NA      "Fear Street Part 2: 1978"                                              
 NA      "Fear Street Part 3: 1666"                                              2021    https://www.imdb.com/title/tt21113540/              https://www.netflix.com/title/81334750
 NA      "Game Over (Telugu Version)"                                            2019    https://www.imdb.com/title/tt1312221/               https://www.netflix.com/title/81151878
 NA      "Ile Owo"                                                               2022    https://www.imdb.com/title/tt4045450/               https://www.netflix.com/title/81663120
+NA      "Izla"                                                                  2021    https://www.imdb.com/title/tt0093119/               https://www.netflix.com/title/81510752
 NA      "Izla"                                                                  2021    https://www.imdb.com/title/tt18968540/              https://www.netflix.com/title/81510752
 NA      "Kang Mak from Pee Mak"                                                 2024    https://www.imdb.com/title/tt13309170/              https://www.netflix.com/title/81971170
 NA      "Mononoke The Movie: The Phantom in the Rain"                           2024    https://www.imdb.com/title/tt35301440/              https://www.netflix.com/title/81580574
 NA      "The Redemption of Sin"                                                 2024    https://www.imdb.com/title/tt2975578/               https://www.netflix.com/title/82018121
 2.6     "Chandramukhi 2"                                                        2023    https://www.imdb.com/title/tt12132908/              https://www.netflix.com/title/81644300
+2.7     "Grizzly II"                                                            1983    https://www.imdb.com/title/tt0093119/               https://www.netflix.com/title/82105447
 2.7     "Grizzly II"                                                            1983    https://www.imdb.com/title/tt0093119/               https://www.netflix.com/title/82105447
 2.8     "Dark Forces"                                                           2020    https://www.imdb.com/title/tt12536776/              https://www.netflix.com/title/80990348
 3.1     "Splatter"                                                              2009    https://www.imdb.com/title/tt1576464/               https://www.netflix.com/title/70127998
@@ -82,6 +84,7 @@ NA      "The Redemption of Sin"                                                 
 5.1     "Wish Upon"                                                             2017    https://www.imdb.com/title/tt5322012/               https://www.netflix.com/title/80171120
 5.2     "Afraid"                                                                2024    https://www.imdb.com/title/tt24577462/              https://www.netflix.com/title/81950625
 5.2     "Cadaver"                                                               2020    https://www.imdb.com/title/tt11284280/              https://www.netflix.com/title/81203335
+5.2     "Devil on Campus: The Larry Ray Story"                                  2024    https://www.imdb.com/title/tt32094258/              https://www.netflix.com/title/82095231
 5.2     "Ghost Lab"                                                             2021    https://www.imdb.com/title/tt13446126/              https://www.netflix.com/title/81306156
 5.2     "Primbon"                                                               2023    https://www.imdb.com/title/tt28080971/              https://www.netflix.com/title/81725776
 5.2     "Re/Member"                                                             2022    https://www.imdb.com/title/tt21250176/              https://www.netflix.com/title/81486809
@@ -164,6 +167,7 @@ NA      "The Redemption of Sin"                                                 
 6.3     "He Never Died"                                                         2015    https://www.imdb.com/title/tt2386404/               https://www.netflix.com/title/80058460
 6.3     "The Sentinel"                                                          1977    https://www.imdb.com/title/tt0076683/               https://www.netflix.com/title/70000813
 6.4     "Creep 2"                                                               2017    https://www.imdb.com/title/tt3654796/               https://www.netflix.com/title/80168161
+6.4     "Deadstream"                                                            2022    https://www.imdb.com/title/tt12788488/              https://www.netflix.com/title/82151269
 6.4     "Deadstream"                                                            2022    https://www.imdb.com/title/tt12788488/              https://www.netflix.com/title/82151269
 6.4     "El Conde"                                                              2023    https://www.imdb.com/title/tt21113540/              https://www.netflix.com/title/81590652
 6.4     "His House"                                                             2020    https://www.imdb.com/title/tt8508734/               https://www.netflix.com/title/81231197
