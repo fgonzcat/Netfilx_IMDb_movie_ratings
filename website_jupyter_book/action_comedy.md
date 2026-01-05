@@ -1,6 +1,6 @@
 # Action Comedy Movies on Netflix
 
-Netflix genre: https://www.netflix.com/browse/genre/43040
+Netflix genre: <a href="https://www.netflix.com/browse/genre/43040" target="_blank">https://www.netflix.com/browse/genre/43040</a>
 
 ## 🎬 Movie list (sample)
 
