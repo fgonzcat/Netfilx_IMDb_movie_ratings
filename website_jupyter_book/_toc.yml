@@ -12,7 +12,9 @@ parts:
 
   - caption: Movie categories
     chapters:
+      - file: action_adventure
       - file: action_comedy 
+      - file: action_thrillers
       - file: comedy 
       - file: cult
       - file: korean 
