@@ -14,3 +14,4 @@ parts:
     chapters:
       - file: horror
       - file: cult
+      - file: comedy 
