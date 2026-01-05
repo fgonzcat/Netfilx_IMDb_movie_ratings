@@ -8,6 +8,8 @@
 
 ## What is this website?
 
+This is the github repository for the website: [https://fgonzcat.github.io/Netfilx_IMDb_movie_ratings/](https://fgonzcat.github.io/Netfilx_IMDb_movie_ratings/)
+
 This project combines **Netflix movie categories** with **IMDb ratings** to produce
 clean, ranked movie lists you can browse — or generate yourself.
 
@@ -39,15 +41,6 @@ So I automated it.
 
 ---
 
-## How to use this site
-
-- Use the **menu on the left** to browse movie categories  
-- Click any IMDb or Netflix link to explore further  
-- Explore **“How it works”** to learn how to recreate everything yourself
-
----
-
-This is the github repository for the website: [https://fgonzcat.github.io/Netfilx_IMDb_movie_ratings/intro.html](https://fgonzcat.github.io/Netfilx_IMDb_movie_ratings/intro.html)
 
 Built by [Felipe Gonzalez](https://www.gnm.cl/fgonzalez/)
 
