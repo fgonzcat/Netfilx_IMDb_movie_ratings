@@ -23,5 +23,7 @@ parts:
       - file: dramas 
       - file: independent 
       - file: korean 
+      - file: LGBTQ_dramas
       - file: horror
       - file: scifi 
+      - file: thrillers

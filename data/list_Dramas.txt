@@ -1,362 +1,323 @@
 #List of moves in genre "Dramas" :  https://www.netflix.com/browse/genre/5763
 
-"10 Days of a Bad Man"                                                  2023    https://www.netflix.com/title/81428003
-"12 Strong"                                                             2018    https://www.netflix.com/title/80196613
-"20th Century Girl"                                                     2022    https://www.netflix.com/title/81472752
-"1917"                                                                  2019    https://www.netflix.com/title/81140931
-"8 Mile"                                                                2002    https://www.netflix.com/title/60024922
-"22 July"                                                               2018    https://www.netflix.com/title/80210932
-"A Christmas Prince: The Royal Wedding"                                 2018    https://www.netflix.com/title/80238204
-"A Cowboy Christmas Romance"                                            2023    https://www.netflix.com/title/82095258
-"A Christmas Prince"                                                    2017    https://www.netflix.com/title/80160759
-"A Fall from Grace"                                                     2020    https://www.netflix.com/title/81127902
-"A HOUSE OF DYNAMITE"                                                   2025    https://www.netflix.com/title/81744537
-"A League of Their Own"                                                 1992    https://www.netflix.com/title/691124
-"A Lot Like Christmas"                                                  2021    https://www.netflix.com/title/82062865
-"A Man of Action"                                                       2022    https://www.netflix.com/title/81308434
-"A Normal Woman"                                                        2025    https://www.netflix.com/title/81700180
-"A Paris Christmas Waltz"                                               2023    https://www.netflix.com/title/81779944
-"A Ranjith Cinema"                                                      2023    https://www.netflix.com/title/81742905
-"A Sacrifice"                                                           2024    https://www.netflix.com/title/81738559
-"A Widow's Game"                                                        2025    https://www.netflix.com/title/81786479
-"Aaha Kalyanam"                                                         2014    https://www.netflix.com/title/82027345
-"Aaryan (Tamil)"                                                        2025    https://www.netflix.com/title/81615047
-"Abducted at an HBCU: A Black Girl Missing Movie"                       2024    https://www.netflix.com/title/82095242
-"Ad Vitam"                                                              2025    https://www.netflix.com/title/81752951
-"After"                                                                 2019    https://www.netflix.com/title/80244311
-"Against The Ice"                                                       2022    https://www.netflix.com/title/81115160
-"Alice"                                                                 2022    https://www.netflix.com/title/81570230
-"All Day and a Night"                                                   2020    https://www.netflix.com/title/80226923
-"All The Bright Places"                                                 2020    https://www.netflix.com/title/80208802
-"All Saints"                                                            2017    https://www.netflix.com/title/80182618
-"All Quiet on the Western Front"                                        2022    https://www.netflix.com/title/81260280
-"Aloha"                                                                 2015    https://www.netflix.com/title/80038361
-"Along for the Ride"                                                    2022    https://www.netflix.com/title/81074938
-"Ambulance"                                                             2022    https://www.netflix.com/title/81495232
-"Animal Factory"                                                        2000    https://www.netflix.com/title/60003541
-"Anonymously Yours"                                                     2021    https://www.netflix.com/title/81332722
-"Article 370"                                                           2024    https://www.netflix.com/title/81773534
-"Are You There God? It's Me                                             2023    https://www.netflix.com/title/81590252
-"Ashes"                                                                 2024    https://www.netflix.com/title/81616617
-"Azaad"                                                                 2025    https://www.netflix.com/title/81977810
-"Atlas"                                                                 2024    https://www.netflix.com/title/81012048
-"Baahubali The Epic"                                                    2025    https://www.netflix.com/title/82663312
-"Bad Influence"                                                         2025    https://www.netflix.com/title/81688846
-"Ballad of a Small Player"                                              2025    https://www.netflix.com/title/81692347
-"Barry"                                                                 2016    https://www.netflix.com/title/80144803
-"Beasts of No Nation"                                                   2015    https://www.netflix.com/title/80044545
-"Benji"                                                                 2018    https://www.netflix.com/title/80204923
-"Beautiful Rebel"                                                       2024    https://www.netflix.com/title/81705944
-"Burlesque"                                                             NA      name:Burlesque:https://www.netflix.com/title/70137790
-"Bhool Bhulaiyaa"                                                       2007    https://www.netflix.com/title/70082633
-"Bison Kaalamaadan"                                                     2025    https://www.netflix.com/title/81782075
-"Boyz n the Hood"                                                       1991    https://www.netflix.com/title/328438
-"Blood & Gold"                                                          2023    https://www.netflix.com/title/81557402
-"Broke"                                                                 2025    https://www.netflix.com/title/83077231
-"Braveheart"                                                            1995    https://www.netflix.com/title/60000540
-"Calibre"                                                               2018    https://www.netflix.com/title/80198478
-"Bruised"                                                               2021    https://www.netflix.com/title/81043365
-"Can You Feel the Beat: The Lisa Lisa Story"                            2025    https://www.netflix.com/title/82176031
-"Captain Phillips"                                                      2013    https://www.netflix.com/title/70243460
-"Caramelo"                                                              2025    https://www.netflix.com/title/81702623
-"Cast Away"                                                             2000    https://www.netflix.com/title/60020683
-"Christmas as Usual"                                                    2023    https://www.netflix.com/title/81657786
-"Clear and Present Danger"                                              1994    https://www.netflix.com/title/382460
-"Coach Carter"                                                          2005    https://www.netflix.com/title/70019004
-"Christmas Inheritance"                                                 2017    https://www.netflix.com/title/80177441
-"Collateral"                                                            2004    https://www.netflix.com/title/60036246
-"Dad Wanted"                                                            2020    https://www.netflix.com/title/81043104
-"CTRL"                                                                  2024    https://www.netflix.com/title/81769841
-"Dancing on Glass"                                                      2022    https://www.netflix.com/title/81328187
-"Dangal"                                                                2016    https://www.netflix.com/title/80166185
-"Darkest Hour"                                                          2017    https://www.netflix.com/title/80189214
-"Deep Impact"                                                           1998    https://www.netflix.com/title/11819345
-"Devil on Campus: The Larry Ray Story"                                  2024    https://www.netflix.com/title/82095231
-"Dirty Dancing"                                                         1987    https://www.netflix.com/title/445386
-"Dog Gone"                                                              2023    https://www.netflix.com/title/81155175
-"Dhoom Dhaam"                                                           2025    https://www.netflix.com/title/81943001
-"Dog"                                                                   2022    https://www.netflix.com/title/81350890
-"Don't Look Up"                                                         2021    https://www.netflix.com/title/81252357
-"Don't Worry Darling"                                                   2022    https://www.netflix.com/title/81592177
-"Downton Abbey: A New Era"                                              2022    https://www.netflix.com/title/81474943
-"Dreamgirls"                                                            2006    https://www.netflix.com/title/70045283
-"Dumplin'"                                                              2018    https://www.netflix.com/title/80201490
-"El Camino: A Breaking Bad Movie"                                       2019    https://www.netflix.com/title/81078819
-"Elvis"                                                                 2022    https://www.netflix.com/title/81591116
-"EMILIA PÉREZ"                                                         2024    https://www.netflix.com/title/81901696
-"Enola Holmes 2"                                                        2022    https://www.netflix.com/title/81406219
-"Enola Holmes"                                                          2020    https://www.netflix.com/title/81277950
-"Extinction"                                                            2018    https://www.netflix.com/title/80236421
-"Everybody's Fine"                                                      2009    https://www.netflix.com/title/70117697
-"Fatherhood"                                                            2021    https://www.netflix.com/title/81435227
-"Fall for Me"                                                           2025    https://www.netflix.com/title/81678621
-"Feel the Beat"                                                         2020    https://www.netflix.com/title/80994878
-"Fair Play"                                                             2023    https://www.netflix.com/title/81674326
-"Fifty Shades Darker"                                                   2017    https://www.netflix.com/title/80131194
-"Fifty Shades Freed"                                                    2018    https://www.netflix.com/title/80200957
-"Fifty Shades of Grey"                                                  2015    https://www.netflix.com/title/80013872
-"Forgotten"                                                             2017    https://www.netflix.com/title/80223050
-"Forrest Gump"                                                          1994    https://www.netflix.com/title/60000724
-"Four Brothers"                                                         2005    https://www.netflix.com/title/70028902
-"Fury"                                                                  2014    https://www.netflix.com/title/70305907
-"Gatao: Big Brothers"                                                   2025    https://www.netflix.com/title/82630592
-"Gatao"                                                                 2015    https://www.netflix.com/title/81032934
-"Geronimo: An American Legend"                                          1993    https://www.netflix.com/title/538871
-"Glory"                                                                 1989    https://www.netflix.com/title/547335
-"Go Karts"                                                              2020    https://www.netflix.com/title/80241136
-"Godzilla Minus One"                                                    2023    https://www.netflix.com/title/81767635
-"God's Crooked Lines"                                                   2022    https://www.netflix.com/title/81453541
-"Good Sam"                                                              2019    https://www.netflix.com/title/80998967
-"Ghost"                                                                 1990    https://www.netflix.com/title/60010395
-"Goodbye June"                                                          2025    https://www.netflix.com/title/81955146
-"Guntur Kaaram"                                                         2024    https://www.netflix.com/title/81637260
-"Greater Kalesh"                                                        2025    https://www.netflix.com/title/82171959
-"Hacksaw Ridge"                                                         2016    https://www.netflix.com/title/80108975
-"Harriet"                                                               2019    https://www.netflix.com/title/81011382
-"Heart of Stone"                                                        2023    https://www.netflix.com/title/81416533
-"Heaven Is for Real"                                                    2014    https://www.netflix.com/title/70295734
-"Hello                                                                  2024    https://www.netflix.com/title/81901877
-"Hichki"                                                                2018    https://www.netflix.com/title/81587844
-"Hijack '93"                                                            2024    https://www.netflix.com/title/81676888
-"Hillbilly Elegy"                                                       2020    https://www.netflix.com/title/81071970
-"Holiday in the Wild"                                                   2019    https://www.netflix.com/title/80231468
-"Holiday Rush"                                                          2019    https://www.netflix.com/title/81033086
-"Holy Spider"                                                           2022    https://www.netflix.com/title/81659282
-"Hunger"                                                                2023    https://www.netflix.com/title/81517155
-"Homebound"                                                             2025    https://www.netflix.com/title/82109253
-"Hustle"                                                                2022    https://www.netflix.com/title/80242342
-"I'm Still Here"                                                        2024    https://www.netflix.com/title/82040265
-"iHostage"                                                              2025    https://www.netflix.com/title/81709663
-"I Am All Girls"                                                        2021    https://www.netflix.com/title/81393386
-"In Good Hands"                                                         2022    https://www.netflix.com/title/81350683
-"In the Heights"                                                        2021    https://www.netflix.com/title/80999073
-"In the Shadow of the Moon"                                             2019    https://www.netflix.com/title/80231903
-"Inside Furioza"                                                        2025    https://www.netflix.com/title/81623506
-"Ip Man 4: The Finale"                                                  2019    https://www.netflix.com/title/81227536
-"Ip Man"                                                                2008    https://www.netflix.com/title/70118799
-"It Ends With Us"                                                       2024    https://www.netflix.com/title/81762778
-"Jay Kelly"                                                             2025    https://www.netflix.com/title/81551446
-"Jolly LLB 3"                                                           2025    https://www.netflix.com/title/82145971
-"Judas and the Black Messiah"                                           2021    https://www.netflix.com/title/81341644
-"Just Mercy"                                                            2019    https://www.netflix.com/title/80207506
-"Justice"                                                               2024    https://www.netflix.com/title/81620884
-"K.O."                                                                  2025    https://www.netflix.com/title/81745661
-"K-Pax"                                                                 2001    https://www.netflix.com/title/60020811
-"Karate Kid: Legends"                                                   2025    https://www.netflix.com/title/82064961
-"Kabhi Khushi Kabhie Gham"                                              2001    https://www.netflix.com/title/60036750
-"King Richard"                                                          2021    https://www.netflix.com/title/81039550
-"Karthik Calling Karthik"                                               2010    https://www.netflix.com/title/70134537
-"Khufiya"                                                               2023    https://www.netflix.com/title/81252372
-"Kuch Kuch Hota Hai"                                                    1998    https://www.netflix.com/title/60036752
-"Kneecap"                                                               2024    https://www.netflix.com/title/81956594
-"Leave the World Behind"                                                2023    https://www.netflix.com/title/81314956
-"Last Christmas"                                                        2019    https://www.netflix.com/title/81115192
-"Left-Handed Girl"                                                      2025    https://www.netflix.com/title/83077166
-"Let Go"                                                                2024    https://www.netflix.com/title/81611209
-"Let It Snow"                                                           2019    https://www.netflix.com/title/80201542
-"Lies We Tell"                                                          2023    https://www.netflix.com/title/82187820
-"Lion"                                                                  2016    https://www.netflix.com/title/80108447
-"Like Father"                                                           2018    https://www.netflix.com/title/80174897
-"Live Twice                                                             2020    https://www.netflix.com/title/80233408
-"Lonely Planet"                                                         2024    https://www.netflix.com/title/81157573
-"Little Women"                                                          1994    https://www.netflix.com/title/707114
-"Look Both Ways"                                                        2022    https://www.netflix.com/title/81050546
-"Lost Bullet 2"                                                         2022    https://www.netflix.com/title/81509213
-"Love at First Sight"                                                   2023    https://www.netflix.com/title/81504327
-"Lou"                                                                   2022    https://www.netflix.com/title/81058695
-"Love Untangled"                                                        2025    https://www.netflix.com/title/81785333
-"Luckiest Girl Alive"                                                   2022    https://www.netflix.com/title/80992607
-"Maareesan"                                                             2025    https://www.netflix.com/title/81781839
-"Luther: The Fallen Sun"                                                2023    https://www.netflix.com/title/81280035
-"Marriage Story"                                                        2019    https://www.netflix.com/title/80223779
-"Mango"                                                                 2025    https://www.netflix.com/title/81772077
-"Mary Mother of Jesus"                                                  2024    https://www.netflix.com/title/81920791
-"Meet Joe Black"                                                        1998    https://www.netflix.com/title/5670418
-"Match Point"                                                           2006    https://www.netflix.com/title/70035180
-"Memoirs of a Geisha"                                                   2005    https://www.netflix.com/title/70021662
-"Miracles from Heaven"                                                  2016    https://www.netflix.com/title/80081151
-"Mirage"                                                                2018    https://www.netflix.com/title/80991158
-"Molly's Game"                                                          2017    https://www.netflix.com/title/80199959
-"Money Monster"                                                         2016    https://www.netflix.com/title/80084089
-"Mosul"                                                                 2020    https://www.netflix.com/title/81041495
-"Moving On"                                                             2022    https://www.netflix.com/title/81664059
-"Mowgli: Legend of the Jungle"                                          2018    https://www.netflix.com/title/80993105
-"Mudbound"                                                              2017    https://www.netflix.com/title/80175694
-"Munich – The Edge of War"                                            2021    https://www.netflix.com/title/81144852
-"Murder at Yellowstone City"                                            2022    https://www.netflix.com/title/81609709
-"My Dad's Christmas Date"                                               2020    https://www.netflix.com/title/81350088
-"My Oxford Year"                                                        2025    https://www.netflix.com/title/81287950
-"Night Always Comes"                                                    2025    https://www.netflix.com/title/81770158
-"Nonnas"                                                                2025    https://www.netflix.com/title/81936724
-"Nappily Ever After"                                                    2018    https://www.netflix.com/title/80189630
-"Not Easily Broken"                                                     2009    https://www.netflix.com/title/70109684
-"Nowhere"                                                               2023    https://www.netflix.com/title/81449034
-"Number 24"                                                             2024    https://www.netflix.com/title/81664509
-"Official Secrets"                                                      2019    https://www.netflix.com/title/81052553
-"Only We Know"                                                          2025    https://www.netflix.com/title/83075038
-"On the Basis of Sex"                                                   2018    https://www.netflix.com/title/80998984
-"Operation Finale"                                                      2018    https://www.netflix.com/title/80986885
-"Outlaw King"                                                           2018    https://www.netflix.com/title/80190859
-"Overcomer"                                                             2019    https://www.netflix.com/title/81075659
-"Oxygen"                                                                2021    https://www.netflix.com/title/81277610
-"Paradise"                                                              2023    https://www.netflix.com/title/82658030
-"Parenthood"                                                            1989    https://www.netflix.com/title/842383
-"Persuasion"                                                            2022    https://www.netflix.com/title/81410649
-"Prayers for the Stolen"                                                2021    https://www.netflix.com/title/81499072
-"Pulp Fiction"                                                          1994    https://www.netflix.com/title/880640
-"Premonition"                                                           2007    https://www.netflix.com/title/70056439
-"Purple Hearts"                                                         2022    https://www.netflix.com/title/81043665
-"¡Que viva México!"                                                   2023    https://www.netflix.com/title/81357618
-"Queen of Coal"                                                         2025    https://www.netflix.com/title/81728098
-"Raat Akeli Hai - The Bansal Murders"                                   2025    https://www.netflix.com/title/81922895
-"Race"                                                                  2016    https://www.netflix.com/title/80022604
-"RaPo 22"                                                               2025    https://www.netflix.com/title/83072509
-"Radio"                                                                 2003    https://www.netflix.com/title/60031265
-"Rebecca"                                                               2020    https://www.netflix.com/title/81002196
-"Rebel Ridge"                                                           2024    https://www.netflix.com/title/81157729
-"Red Joan"                                                              2019    https://www.netflix.com/title/80202772
-"Redeeming Love"                                                        2022    https://www.netflix.com/title/81522433
-"Rescued by Ruby"                                                       2022    https://www.netflix.com/title/81107362
-"Respect"                                                               2021    https://www.netflix.com/title/81241313
-"Rez Ball"                                                              2024    https://www.netflix.com/title/81426668
-"Robin Hood"                                                            2010    https://www.netflix.com/title/70111323
-"Rogue City"                                                            2020    https://www.netflix.com/title/81115400
-"Rogue Agent"                                                           2022    https://www.netflix.com/title/81607404
-"Ruth & Boaz"                                                           2025    https://www.netflix.com/title/81902164
-"Saiyaara"                                                              2025    https://www.netflix.com/title/82024663
-"Sand Castle"                                                           2017    https://www.netflix.com/title/80118916
-"Saturday Night"                                                        2024    https://www.netflix.com/title/81990313
-"Shirley"                                                               2024    https://www.netflix.com/title/81473752
-"Silverton Siege"                                                       2022    https://www.netflix.com/title/81176353
-"Scarface"                                                              1983    https://www.netflix.com/title/60029681
-"Single Salma"                                                          2025    https://www.netflix.com/title/82145967
-"Society of the Snow"                                                   2024    https://www.netflix.com/title/81268316
-"Spaceman"                                                              2024    https://www.netflix.com/title/81301595
-"Spencer"                                                               2021    https://www.netflix.com/title/81495595
-"Squad 36"                                                              2025    https://www.netflix.com/title/81752988
-"Stand by Me"                                                           1986    https://www.netflix.com/title/994992
-"STEPHEN"                                                               2025    https://www.netflix.com/title/82057638
-"Still Alice"                                                           2014    https://www.netflix.com/title/70301350
-"STRAW"                                                                 2025    https://www.netflix.com/title/81774713
-"Sultan"                                                                2016    https://www.netflix.com/title/80104037
-"Taken in Plain Sight"                                                  2024    https://www.netflix.com/title/82147483
-"Ta Ra Rum Pum"                                                         2007    https://www.netflix.com/title/70069019
-"Sweet Girl"                                                            2021    https://www.netflix.com/title/81058613
-"Taxi Driver"                                                           1976    https://www.netflix.com/title/18907685
-"Talaash"                                                               2012    https://www.netflix.com/title/70262614
-"Telusu Kada"                                                           2025    https://www.netflix.com/title/82020122
-"TEST"                                                                  2025    https://www.netflix.com/title/81775792
-"The Angel"                                                             2018    https://www.netflix.com/title/80188120
-"The Abyss"                                                             2023    https://www.netflix.com/title/81621532
-"The Ballad of Buster Scruggs"                                          2018    https://www.netflix.com/title/80200267
-"The Beautiful Game"                                                    2024    https://www.netflix.com/title/81001287
-"The Best You Can"                                                      2025    https://www.netflix.com/title/82193695
-"The Boy Who Harnessed the Wind"                                        2019    https://www.netflix.com/title/80200047
-"The Covenant"                                                          2023    https://www.netflix.com/title/81667991
-"The Crimes That Bind"                                                  2020    https://www.netflix.com/title/81227758
-"The Children's Train"                                                  2024    https://www.netflix.com/title/81685656
-"The Curious Case of Benjamin Button"                                   2008    https://www.netflix.com/title/70100380
-"The Dad Quest"                                                         2025    https://www.netflix.com/title/81936020
-"The Dirt"                                                              2019    https://www.netflix.com/title/80169469
-"The Discovery"                                                         2017    https://www.netflix.com/title/80115857
-"The Forge"                                                             2024    https://www.netflix.com/title/81947895
-"The Diplomat"                                                          2025    https://www.netflix.com/title/81946513
-"The Forgiven"                                                          2021    https://www.netflix.com/title/81557918
-"The Forgotten Battle"                                                  2021    https://www.netflix.com/title/81166791
-"The Girlfriend"                                                        2025    https://www.netflix.com/title/82050268
-"The Fundamentals of Caring"                                            2016    https://www.netflix.com/title/80097349
-"The Founder"                                                           2016    https://www.netflix.com/title/80101899
-"The Good Nurse"                                                        2022    https://www.netflix.com/title/81260083
-"The Gospel"                                                            2005    https://www.netflix.com/title/70038802
-"The Green Mile"                                                        1999    https://www.netflix.com/title/60000417
-"The Guilty"                                                            2021    https://www.netflix.com/title/81345983
-"The Half Of It"                                                        2020    https://www.netflix.com/title/81005150
-"The Harder They Fall"                                                  2021    https://www.netflix.com/title/81077494
-"The Great Flood"                                                       2025    https://www.netflix.com/title/81579978
-"The Highwaymen"                                                        2019    https://www.netflix.com/title/80200571
-"The Hill"                                                              2023    https://www.netflix.com/title/81713306
-"The Holiday Calendar"                                                  2018    https://www.netflix.com/title/80242446
-"The Hurt Locker"                                                       2008    https://www.netflix.com/title/70105601
-"The Iceman"                                                            2013    https://www.netflix.com/title/70241593
-"The Irishman"                                                          2019    https://www.netflix.com/title/80175798
-"The Karate Kid"                                                        1984    https://www.netflix.com/title/60036164
-"The Karate Kid"                                                        2010    https://www.netflix.com/title/70125931
-"The Killer"                                                            2023    https://www.netflix.com/title/80234448
-"The King"                                                              2019    https://www.netflix.com/title/80182016
-"The Last Days of American Crime"                                       2020    https://www.netflix.com/title/80198975
-"The Last Kingdom: Seven Kings Must Die"                                2023    https://www.netflix.com/title/81460361
-"The Last Thing He Wanted"                                              2020    https://www.netflix.com/title/80245076
-"The Last Word"                                                         2017    https://www.netflix.com/title/80154681
-"The Life List"                                                         2025    https://www.netflix.com/title/81246107
-"The Lincoln Lawyer"                                                    2011    https://www.netflix.com/title/70167077
-"The Long Game"                                                         2023    https://www.netflix.com/title/81766487
-"The Lost Husband"                                                      2020    https://www.netflix.com/title/81176585
-"The Little Things"                                                     2021    https://www.netflix.com/title/81267316
-"The Marksman"                                                          2021    https://www.netflix.com/title/81404853
-"The Martian"                                                           2015    https://www.netflix.com/title/80058399
-"The Lost Patient"                                                      2022    https://www.netflix.com/title/81521006
-"The Most Hated Woman in America"                                       2017    https://www.netflix.com/title/80082242
-"The Mother"                                                            2023    https://www.netflix.com/title/80210920
-"The Noel Diary"                                                        2022    https://www.netflix.com/title/81045305
-"The Northman"                                                          2022    https://www.netflix.com/title/81502485
-"The Old Guard 2"                                                       2025    https://www.netflix.com/title/81328881
-"The Outfit"                                                            2022    https://www.netflix.com/title/81518647
-"The Paramedic"                                                         2020    https://www.netflix.com/title/81136406
-"The Pale Blue Eye"                                                     2022    https://www.netflix.com/title/81444818
-"The Patriot"                                                           2000    https://www.netflix.com/title/60001044
-"The Penguin Lessons"                                                   2024    https://www.netflix.com/title/82073569
-"The Perfumier"                                                         2022    https://www.netflix.com/title/81410551
-"The Photographer Of Mauthausen"                                        2018    https://www.netflix.com/title/80191608
-"The Pledge"                                                            2001    https://www.netflix.com/title/60004419
-"The Princess Switch: Switched Again"                                   2020    https://www.netflix.com/title/81084350
-"The Princess Switch"                                                   2018    https://www.netflix.com/title/80242926
-"The Power of the Dog"                                                  2021    https://www.netflix.com/title/81127997
-"The Red Sea Diving Resort"                                             2019    https://www.netflix.com/title/80240537
-"The Resistance Banker"                                                 2018    https://www.netflix.com/title/80244019
-"The Secret: Dare to Dream"                                             2020    https://www.netflix.com/title/81232236
-"The Room Next Door"                                                    2024    https://www.netflix.com/title/81900236
-"The Seduction of Joe Tynan"                                            1979    https://www.netflix.com/title/70181831
-"The Siege of Jadotville"                                               2016    https://www.netflix.com/title/80041653
-"The Six Triple Eight"                                                  2024    https://www.netflix.com/title/81590591
-"The Son"                                                               2019    https://www.netflix.com/title/80994020
-"The Snow Sister"                                                       2024    https://www.netflix.com/title/81681292
-"The Strays"                                                            2023    https://www.netflix.com/title/81444812
-"The Swimmers"                                                          2022    https://www.netflix.com/title/81365134
-"The Starling"                                                          2021    https://www.netflix.com/title/81281320
-"The Talented Mr. Ripley"                                               1999    https://www.netflix.com/title/60000209
-"The Tearsmith"                                                         2024    https://www.netflix.com/title/81711218
-"The Two Popes"                                                         2019    https://www.netflix.com/title/80174451
-"The Trial of the Chicago 7"                                            2020    https://www.netflix.com/title/81043755
-"The Unforgivable"                                                      2021    https://www.netflix.com/title/81028975
-"The Way Back"                                                          2020    https://www.netflix.com/title/81264235
-"The Wolf of Wall Street"                                               2013    https://www.netflix.com/title/70266676
-"The Woman in the Window"                                               2021    https://www.netflix.com/title/81092222
-"The Wrath of God"                                                      2022    https://www.netflix.com/title/81453545
-"Titanic"                                                               1997    https://www.netflix.com/title/1181461
-"Toscana"                                                               2022    https://www.netflix.com/title/81498233
-"Training Day"                                                          2001    https://www.netflix.com/title/60021234
-"Traffic"                                                               2000    https://www.netflix.com/title/60003243
-"Train Dreams"                                                          2025    https://www.netflix.com/title/82020378
-"Trigger Warning"                                                       2024    https://www.netflix.com/title/81064546
-"Trial by Fire"                                                         2018    https://www.netflix.com/title/81088152
-"True Grit"                                                             2010    https://www.netflix.com/title/70142543
-"Uglies"                                                                2024    https://www.netflix.com/title/81002266
-"Unbroken"                                                              2014    https://www.netflix.com/title/70305949
-"Ullozhukku"                                                            2024    https://www.netflix.com/title/82656255
-"Under Her Control"                                                     2022    https://www.netflix.com/title/81085817
-"Uprising"                                                              2024    https://www.netflix.com/title/81672158
-"Wake Up Dead Man: A Knives Out Mystery"                                2025    https://www.netflix.com/title/81458424
-"Walk. Ride. Rodeo."                                                    2019    https://www.netflix.com/title/80995799
-"War Machine"                                                           2017    https://www.netflix.com/title/80068327
-"War Room"                                                              2015    https://www.netflix.com/title/80044538
-"Wasp Network"                                                          2020    https://www.netflix.com/title/81000201
-"When the Game Stands Tall"                                             2014    https://www.netflix.com/title/80008749
-"Where the Tracks End"                                                  2023    https://www.netflix.com/title/81408600
-"Whiplash"                                                              2014    https://www.netflix.com/title/70299275
-"White Fang"                                                            2018    https://www.netflix.com/title/80245121
-"Wingwomen"                                                             2023    https://www.netflix.com/title/81282091
-"Wind River"                                                            2017    https://www.netflix.com/title/80173524
-"Worth"                                                                 2021    https://www.netflix.com/title/80226212
-"WILL"                                                                  2024    https://www.netflix.com/title/81485977
-"Zero Dark Thirty"                                                      2012    https://www.netflix.com/title/70251669
-"Zodiac"                                                                2007    https://www.netflix.com/title/70044686
+"12 Years a Slave"                                                      2013      https://www.netflix.com/title/70284282
+"10DANCE"                                                               2025      https://www.netflix.com/title/81759550
+"20th Century Girl"                                                     2022      https://www.netflix.com/title/81472752
+"1917"                                                                  2019      https://www.netflix.com/title/81140931
+"A Beautiful Life"                                                      2023      https://www.netflix.com/title/81580045
+"A Christmas Prince: The Royal Baby"                                    2019      https://www.netflix.com/title/81029841
+"A Christmas Prince"                                                    2017      https://www.netflix.com/title/80160759
+"A Christmas Prince: The Royal Wedding"                                 2018      https://www.netflix.com/title/80238204
+"A Cowboy Christmas Romance"                                            2023      https://www.netflix.com/title/82095258
+"22 July"                                                               2018      https://www.netflix.com/title/80210932
+"A Fall from Grace"                                                     2020      https://www.netflix.com/title/81127902
+"A League of Their Own"                                                 1992      https://www.netflix.com/title/691124
+"27 Nights"                                                             2025      https://www.netflix.com/title/81594315
+"A HOUSE OF DYNAMITE"                                                   2025      https://www.netflix.com/title/81744537
+"A Little Bit of Heaven"                                                2011      https://www.netflix.com/title/70136071
+"A Widow's Game"                                                        2025      https://www.netflix.com/title/81786479
+"Abducted at an HBCU: A Black Girl Missing Movie"                       2024      https://www.netflix.com/title/82095242
+"A Lot Like Christmas"                                                  2021      https://www.netflix.com/title/82062865
+"After the Quake"                                                       2025      https://www.netflix.com/title/82121847
+"After We Collided"                                                     2020      https://www.netflix.com/title/81172914
+"After"                                                                 2019      https://www.netflix.com/title/80244311
+"Ad Vitam"                                                              2025      https://www.netflix.com/title/81752951
+"Against The Ice"                                                       2022      https://www.netflix.com/title/81115160
+"All Day and a Night"                                                   2020      https://www.netflix.com/title/80226923
+"Alice"                                                                 2022      https://www.netflix.com/title/81570230
+"All Saints"                                                            2017      https://www.netflix.com/title/80182618
+"All Quiet on the Western Front"                                        2022      https://www.netflix.com/title/81260280
+"All The Bright Places"                                                 2020      https://www.netflix.com/title/80208802
+"Along for the Ride"                                                    2022      https://www.netflix.com/title/81074938
+"Ambulance"                                                             2022      https://www.netflix.com/title/81495232
+"Atlas"                                                                 2024      https://www.netflix.com/title/81012048
+"Are You There God? It's Me, Margaret"                                  2023      https://www.netflix.com/title/81590252
+"Awake"                                                                 2021      https://www.netflix.com/title/81040362
+"Babylon"                                                               2022      https://www.netflix.com/title/81616260
+"Backstabbing for Beginners"                                            2018      https://www.netflix.com/title/80239235
+"Ballad of a Small Player"                                              2025      https://www.netflix.com/title/81692347
+"Bad Influence"                                                         2025      https://www.netflix.com/title/81688846
+"Bangkok Breaking: Heaven and Hell"                                     2024      https://www.netflix.com/title/81662479
+"Beasts of No Nation"                                                   2015      https://www.netflix.com/title/80044545
+"Benji"                                                                 2018      https://www.netflix.com/title/80204923
+"Bleeding Tiger: Resolution"                                            2024      https://www.netflix.com/title/81949637
+"Bogotá: City of the Lost"                                             2025      https://www.netflix.com/title/81942643
+"Blood & Gold"                                                          2023      https://www.netflix.com/title/81557402
+"Blue Miracle"                                                          2021      https://www.netflix.com/title/81298682
+"Bordertown"                                                            2006      https://www.netflix.com/title/70068648
+"Borg vs. McEnroe"                                                      2017      https://www.netflix.com/title/80209447
+"Boxer"                                                                 2024      https://www.netflix.com/title/81620854
+"Boyhood"                                                               2014      https://www.netflix.com/title/70301281
+"Braveheart"                                                            1995      https://www.netflix.com/title/60000540
+"Broke"                                                                 2025      https://www.netflix.com/title/83077231
+"Boyz n the Hood"                                                       1991      https://www.netflix.com/title/328438
+"Bruised"                                                               2021      https://www.netflix.com/title/81043365
+"Burlesque"                                                             2010      https://www.netflix.com/title/70137790
+"Can You Feel the Beat: The Lisa Lisa Story"                            2025      https://www.netflix.com/title/82176031
+"Call Me Dad"                                                           2025      https://www.netflix.com/title/81755726
+"Caramelo"                                                              2025      https://www.netflix.com/title/81702623
+"Cast Away"                                                             2000      https://www.netflix.com/title/60020683
+"Candy Jar"                                                             2018      https://www.netflix.com/title/80164864
+"Canvas"                                                                2020      https://www.netflix.com/title/81332733
+"Christmas Inheritance"                                                 2017      https://www.netflix.com/title/80177441
+"Colors of Evil: Red"                                                   2024      https://www.netflix.com/title/81619384
+"Da 5 Bloods"                                                           2020      https://www.netflix.com/title/81045635
+"Dad Wanted"                                                            2020      https://www.netflix.com/title/81043104
+"Danny Collins"                                                         2015      https://www.netflix.com/title/80026390
+"Courageous"                                                            2011      https://www.netflix.com/title/70202144
+"Darkest Hour"                                                          2017      https://www.netflix.com/title/80189214
+"Dog Gone"                                                              2023      https://www.netflix.com/title/81155175
+"Devara"                                                                2024      https://www.netflix.com/title/81728598
+"Dog"                                                                   2022      https://www.netflix.com/title/81350890
+"Dogwashers"                                                            2021      https://www.netflix.com/title/81089261
+"Dolemite Is My Name"                                                   2019      https://www.netflix.com/title/80182014
+"Double Dad"                                                            2020      https://www.netflix.com/title/81175170
+"Downton Abbey: A New Era"                                              2022      https://www.netflix.com/title/81474943
+"Don't Look Up"                                                         2021      https://www.netflix.com/title/81252357
+"Downton Abbey"                                                         2019      https://www.netflix.com/title/81086533
+"Dumplin'"                                                              2018      https://www.netflix.com/title/80201490
+"Eko"                                                                   2025      https://www.netflix.com/title/82673540
+"El Camino: A Breaking Bad Movie"                                       2019      https://www.netflix.com/title/81078819
+"Enola Holmes 2"                                                        2022      https://www.netflix.com/title/81406219
+"EMILIA PÉREZ"                                                         2024      https://www.netflix.com/title/81901696
+"Enola Holmes"                                                          2020      https://www.netflix.com/title/81277950
+"Everybody's Fine"                                                      2009      https://www.netflix.com/title/70117697
+"Erin Brockovich"                                                       2000      https://www.netflix.com/title/60000165
+"Extinction"                                                            2018      https://www.netflix.com/title/80236421
+"Extremely Wicked, Shockingly Evil and Vile"                            2019      https://www.netflix.com/title/81028570
+"Facing the Giants"                                                     2006      https://www.netflix.com/title/70056416
+"Fall for Me"                                                           2025      https://www.netflix.com/title/81678621
+"Fatherhood"                                                            2021      https://www.netflix.com/title/81435227
+"Feel the Beat"                                                         2020      https://www.netflix.com/title/80994878
+"Forever My Girl"                                                       2018      https://www.netflix.com/title/80190025
+"Ford v. Ferrari"                                                       2019      https://www.netflix.com/title/81056197
+"Forrest Gump"                                                          1994      https://www.netflix.com/title/60000724
+"Free Rein: The Twelve Neighs of Christmas"                             2018      https://www.netflix.com/title/81001412
+"Four Brothers"                                                         2005      https://www.netflix.com/title/70028902
+"Fullmetal Alchemist The Revenge of Scar"                               2022      https://www.netflix.com/title/81266975
+"Go Karts"                                                              2020      https://www.netflix.com/title/80241136
+"Godzilla Minus One"                                                    2023      https://www.netflix.com/title/81767635
+"Fury"                                                                  2014      https://www.netflix.com/title/70305907
+"Gold"                                                                  2016      https://www.netflix.com/title/80126750
+"Golden Kamuy"                                                          2024      https://www.netflix.com/title/81726698
+"Goodbye June"                                                          2025      https://www.netflix.com/title/81955146
+"GTMAX"                                                                 2024      https://www.netflix.com/title/81711199
+"Guntur Kaaram"                                                         2024      https://www.netflix.com/title/81637260
+"Heart of Stone"                                                        2023      https://www.netflix.com/title/81416533
+"Haq"                                                                   2025      https://www.netflix.com/title/82085150
+"Hello, Love, Again"                                                    2024      https://www.netflix.com/title/81901877
+"Harriet"                                                               2019      https://www.netflix.com/title/81011382
+"Hillbilly Elegy"                                                       2020      https://www.netflix.com/title/81071970
+"Hold the Dark"                                                         2018      https://www.netflix.com/title/80157072
+"Holiday in the Wild"                                                   2019      https://www.netflix.com/title/80231468
+"Heaven Is for Real"                                                    2014      https://www.netflix.com/title/70295734
+"House of Gucci"                                                        2021      https://www.netflix.com/title/81460845
+"Hijack '93"                                                            2024      https://www.netflix.com/title/81676888
+"Hunger"                                                                2023      https://www.netflix.com/title/81517155
+"Hustle"                                                                2022      https://www.netflix.com/title/80242342
+"How I Became a Superhero"                                              2021      https://www.netflix.com/title/81453003
+"I Am All Girls"                                                        2021      https://www.netflix.com/title/81393386
+"iHostage"                                                              2025      https://www.netflix.com/title/81709663
+"In Good Hands"                                                         2022      https://www.netflix.com/title/81350683
+"Inside Furioza"                                                        2025      https://www.netflix.com/title/81623506
+"In the Shadow of the Moon"                                             2019      https://www.netflix.com/title/80231903
+"Ip Man"                                                                2008      https://www.netflix.com/title/70118799
+"Ip Man 4: The Finale"                                                  2019      https://www.netflix.com/title/81227536
+"Jab Tak Hai Jaan"                                                      2012      https://www.netflix.com/title/70258134
+"Justice"                                                               2024      https://www.netflix.com/title/81620884
+"K-19: The Widowmaker"                                                  2002      https://www.netflix.com/title/60023606
+"It Ends With Us"                                                       2024      https://www.netflix.com/title/81762778
+"K.O."                                                                  2025      https://www.netflix.com/title/81745661
+"Karate Kid: Legends"                                                   2025      https://www.netflix.com/title/82064961
+"Jay Kelly"                                                             2025      https://www.netflix.com/title/81551446
+"Kidnapping Stella"                                                     2019      https://www.netflix.com/title/81044248
+"Laapataa Ladies"                                                       2024      https://www.netflix.com/title/81760391
+"Lady Chatterley's Lover"                                               2022      https://www.netflix.com/title/81476441
+"Leave the World Behind"                                                2023      https://www.netflix.com/title/81314956
+"Left-Handed Girl"                                                      2025      https://www.netflix.com/title/83077166
+"Like Father"                                                           2018      https://www.netflix.com/title/80174897
+"Little Women"                                                          1994      https://www.netflix.com/title/707114
+"Lion"                                                                  2016      https://www.netflix.com/title/80108447
+"Lone Survivor"                                                         2013      https://www.netflix.com/title/70259795
+"Lonely Planet"                                                         2024      https://www.netflix.com/title/81157573
+"Lost Girls"                                                            2020      https://www.netflix.com/title/80223927
+"Lou"                                                                   2022      https://www.netflix.com/title/81058695
+"Lost Bullet 2"                                                         2022      https://www.netflix.com/title/81509213
+"Look Both Ways"                                                        2022      https://www.netflix.com/title/81050546
+"Love at First Sight"                                                   2023      https://www.netflix.com/title/81504327
+"Love Untangled"                                                        2025      https://www.netflix.com/title/81785333
+"Lucca's World"                                                         2024      https://www.netflix.com/title/81436662
+"Luther: The Fallen Sun"                                                2023      https://www.netflix.com/title/81280035
+"Loving Adults"                                                         2022      https://www.netflix.com/title/81205314
+"Mango"                                                                 2025      https://www.netflix.com/title/81772077
+"Marriage Story"                                                        2019      https://www.netflix.com/title/80223779
+"Marry My Dead Body"                                                    2023      https://www.netflix.com/title/81689962
+"Match Point"                                                           2006      https://www.netflix.com/title/70035180
+"Mea Culpa"                                                             2024      https://www.netflix.com/title/81577005
+"Memoirs of a Geisha"                                                   2005      https://www.netflix.com/title/70021662
+"Mirage"                                                                2018      https://www.netflix.com/title/80991158
+"Money Monster"                                                         2016      https://www.netflix.com/title/80084089
+"Mosul"                                                                 2020      https://www.netflix.com/title/81041495
+"Molly's Game"                                                          2017      https://www.netflix.com/title/80199959
+"Moving On"                                                             2022      https://www.netflix.com/title/81664059
+"Minnal Murali"                                                         2021      https://www.netflix.com/title/81497215
+"Mudbound"                                                              2017      https://www.netflix.com/title/80175694
+"Mowgli: Legend of the Jungle"                                          2018      https://www.netflix.com/title/80993105
+"Moxie"                                                                 2021      https://www.netflix.com/title/81078393
+"Murder at Yellowstone City"                                            2022      https://www.netflix.com/title/81609709
+"My Best Friend Anne Frank"                                             2021      https://www.netflix.com/title/81248111
+"My Oxford Year"                                                        2025      https://www.netflix.com/title/81287950
+"My Girl"                                                               1991      https://www.netflix.com/title/786137
+"Nonnas"                                                                2025      https://www.netflix.com/title/81936724
+"Nappily Ever After"                                                    2018      https://www.netflix.com/title/80189630
+"Never Back Down 2: The Beatdown"                                       2011      https://www.netflix.com/title/70197438
+"Not Easily Broken"                                                     2009      https://www.netflix.com/title/70109684
+"Nowhere"                                                               2023      https://www.netflix.com/title/81449034
+"Number 24"                                                             2024      https://www.netflix.com/title/81664509
+"Operation Finale"                                                      2018      https://www.netflix.com/title/80986885
+"Only the Brave"                                                        2017      https://www.netflix.com/title/80182216
+"Our Souls at Night"                                                    2017      https://www.netflix.com/title/80104068
+"Operation Mincemeat"                                                   2022      https://www.netflix.com/title/81428563
+"Outlaw King"                                                           2018      https://www.netflix.com/title/80190859
+"Overcomer"                                                             2019      https://www.netflix.com/title/81075659
+"Outlaw"                                                                2024      https://www.netflix.com/title/81641273
+"Pain Hustlers"                                                         2023      https://www.netflix.com/title/81614419
+"Pedro Páramo"                                                         2024      https://www.netflix.com/title/81322606
+"Penguin Bloom"                                                         2021      https://www.netflix.com/title/81350434
+"Persuasion"                                                            2022      https://www.netflix.com/title/81410649
+"Premante: Thrillu Prapthirasthu"                                       2025      https://www.netflix.com/title/81920591
+"Priscilla"                                                             2023      https://www.netflix.com/title/81725554
+"Promised Hearts"                                                       2025      https://www.netflix.com/title/81913460
+"Pulp Fiction"                                                          1994      https://www.netflix.com/title/880640
+"Purple Hearts"                                                         2022      https://www.netflix.com/title/81043665
+"Pushpa 2: The Rule (Reloaded Version)"                                 2025      https://www.netflix.com/title/82006666
+"Radio"                                                                 2003      https://www.netflix.com/title/60031265
+"¡Que viva México!"                                                   2023      https://www.netflix.com/title/81357618
+"Really Love"                                                           2020      https://www.netflix.com/title/81397545
+"Rebecca"                                                               2020      https://www.netflix.com/title/81002196
+"Rebel Ridge"                                                           2024      https://www.netflix.com/title/81157729
+"Reptile"                                                               2023      https://www.netflix.com/title/81463014
+"Rescued by Ruby"                                                       2022      https://www.netflix.com/title/81107362
+"Redeeming Love"                                                        2022      https://www.netflix.com/title/81522433
+"Respect"                                                               2021      https://www.netflix.com/title/81241313
+"Rogue City"                                                            2020      https://www.netflix.com/title/81115400
+"RRR (Hindi)"                                                           2022      https://www.netflix.com/title/81476453
+"Ruth & Boaz"                                                           2025      https://www.netflix.com/title/81902164
+"Sabotage"                                                              2014      https://www.netflix.com/title/70287290
+"Saiyaara"                                                              2025      https://www.netflix.com/title/82024663
+"Sand Castle"                                                           2017      https://www.netflix.com/title/80118916
+"Skater Girl"                                                           2021      https://www.netflix.com/title/81283585
+"Sikandar"                                                              2025      https://www.netflix.com/title/81993917
+"Sky High"                                                              2021      https://www.netflix.com/title/81348771
+"Satan"                                                                 2007      https://www.netflix.com/title/70113849
+"Society of the Snow"                                                   2024      https://www.netflix.com/title/81268316
+"Sleeping with Other People"                                            2015      https://www.netflix.com/title/80039069
+"Space Sweepers"                                                        2021      https://www.netflix.com/title/81094067
+"Stand by Me"                                                           1986      https://www.netflix.com/title/994992
+"Stowaway"                                                              2021      https://www.netflix.com/title/81321986
+"Squad 36"                                                              2025      https://www.netflix.com/title/81752988
+"Still Alice"                                                           2014      https://www.netflix.com/title/70301350
+"Sweet Girl"                                                            2021      https://www.netflix.com/title/81058613
+"Taken in Plain Sight"                                                  2024      https://www.netflix.com/title/82147483
+"STRAW"                                                                 2025      https://www.netflix.com/title/81774713
+"Tee Yai: Born To Be Bad"                                               2025      https://www.netflix.com/title/81739747
+"Telusu Kada"                                                           2025      https://www.netflix.com/title/82020122
+"The Ballad of Buster Scruggs"                                          2018      https://www.netflix.com/title/80200267
+"The Best You Can"                                                      2025      https://www.netflix.com/title/82193695
+"The Boy Who Harnessed the Wind"                                        2019      https://www.netflix.com/title/80200047
+"The Courier"                                                           2024      https://www.netflix.com/title/81564307
+"The Children's Train"                                                  2024      https://www.netflix.com/title/81685656
+"The Dad Quest"                                                         2025      https://www.netflix.com/title/81936020
+"The Devil All The Time"                                                2020      https://www.netflix.com/title/81028870
+"The Dig"                                                               2021      https://www.netflix.com/title/81167887
+"The Dirt"                                                              2019      https://www.netflix.com/title/80169469
+"The Covenant"                                                          2023      https://www.netflix.com/title/81667991
+"The Father Who Moves Mountains"                                        2021      https://www.netflix.com/title/81174182
+"The Forge"                                                             2024      https://www.netflix.com/title/81947895
+"The Founder"                                                           2016      https://www.netflix.com/title/80101899
+"The Fundamentals of Caring"                                            2016      https://www.netflix.com/title/80097349
+"The Forgotten Battle"                                                  2021      https://www.netflix.com/title/81166791
+"The Girlfriend"                                                        2025      https://www.netflix.com/title/82050268
+"The Good Nurse"                                                        2022      https://www.netflix.com/title/81260083
+"The Guilty"                                                            2021      https://www.netflix.com/title/81345983
+"The Great Seduction"                                                   2023      https://www.netflix.com/title/81552473
+"The Great Flood"                                                       2025      https://www.netflix.com/title/81579978
+"The Half Of It"                                                        2020      https://www.netflix.com/title/81005150
+"The Harder They Fall"                                                  2021      https://www.netflix.com/title/81077494
+"The Hill"                                                              2023      https://www.netflix.com/title/81713306
+"The Highwaymen"                                                        2019      https://www.netflix.com/title/80200571
+"The Hurt Locker"                                                       2008      https://www.netflix.com/title/70105601
+"The Iceman"                                                            2013      https://www.netflix.com/title/70241593
+"The Illusionist"                                                       2006      https://www.netflix.com/title/70043951
+"The Infiltrator"                                                       2016      https://www.netflix.com/title/80100648
+"The Irishman"                                                          2019      https://www.netflix.com/title/80175798
+"The Kingdom"                                                           2024      https://www.netflix.com/title/82627302
+"The Killer"                                                            2023      https://www.netflix.com/title/80234448
+"The King"                                                              2019      https://www.netflix.com/title/80182016
+"The Last Kingdom: Seven Kings Must Die"                                2023      https://www.netflix.com/title/81460361
+"The Last Days of American Crime"                                       2020      https://www.netflix.com/title/80198975
+"The Last Letter From Your Lover"                                       2021      https://www.netflix.com/title/81030821
+"The Last Word"                                                         2017      https://www.netflix.com/title/80154681
+"The Life Ahead"                                                        2020      https://www.netflix.com/title/81046378
+"The Life List"                                                         2025      https://www.netflix.com/title/81246107
+"The Long Game"                                                         2023      https://www.netflix.com/title/81766487
+"The Marksman"                                                          2021      https://www.netflix.com/title/81404853
+"The Miracle Season"                                                    2018      https://www.netflix.com/title/80233402
+"The Lost Husband"                                                      2020      https://www.netflix.com/title/81176585
+"The Miseducation of Cameron Post"                                      2018      https://www.netflix.com/title/80240971
+"The Mother"                                                            2023      https://www.netflix.com/title/80210920
+"The Noel Diary"                                                        2022      https://www.netflix.com/title/81045305
+"The Old Guard 2"                                                       2025      https://www.netflix.com/title/81328881
+"The Northman"                                                          2022      https://www.netflix.com/title/81502485
+"The Pale Blue Eye"                                                     2022      https://www.netflix.com/title/81444818
+"The Outsider"                                                          2018      https://www.netflix.com/title/80152434
+"The Outfit"                                                            2022      https://www.netflix.com/title/81518647
+"The Patriot"                                                           2000      https://www.netflix.com/title/60001044
+"The Penguin Lessons"                                                   2024      https://www.netflix.com/title/82073569
+"The Perfect Dictatorship"                                              2014      https://www.netflix.com/title/80032640
+"The Pledge"                                                            2001      https://www.netflix.com/title/60004419
+"The Princess Switch 3: Romancing the Star"                             2021      https://www.netflix.com/title/81262270
+"The Princess Switch"                                                   2018      https://www.netflix.com/title/80242926
+"The Princess Switch: Switched Again"                                   2020      https://www.netflix.com/title/81084350
+"The Red Sea Diving Resort"                                             2019      https://www.netflix.com/title/80240537
+"The Rats: A Witcher Tale"                                              2025      https://www.netflix.com/title/81572393
+"The Secret: Dare to Dream"                                             2020      https://www.netflix.com/title/81232236
+"The Siege of Jadotville"                                               2016      https://www.netflix.com/title/80041653
+"The Six Triple Eight"                                                  2024      https://www.netflix.com/title/81590591
+"The Snow Sister"                                                       2024      https://www.netflix.com/title/81681292
+"The Starling"                                                          2021      https://www.netflix.com/title/81281320
+"The Talented Mr. Ripley"                                               1999      https://www.netflix.com/title/60000209
+"The Tearsmith"                                                         2024      https://www.netflix.com/title/81711218
+"The Sting"                                                             1973      https://www.netflix.com/title/1001011
+"The Threesome"                                                         2025      https://www.netflix.com/title/82161418
+"The Vanishing of Sidney Hall"                                          2017      https://www.netflix.com/title/80173398
+"The Unforgivable"                                                      2021      https://www.netflix.com/title/81028975
+"The Witcher: Sirens of the Deep"                                       2025      https://www.netflix.com/title/81484026
+"The Wolf of Wall Street"                                               2013      https://www.netflix.com/title/70266676
+"The Woman in the Window"                                               2021      https://www.netflix.com/title/81092222
+"The Woman in the Line"                                                 2025      https://www.netflix.com/title/81752049
+"The Zookeeper's Wife"                                                  2017      https://www.netflix.com/title/80146804
+"Thoda Pyaar Thoda Magic"                                               2008      https://www.netflix.com/title/70102768
+"Titanic"                                                               1997      https://www.netflix.com/title/1181461
+"Train Dreams"                                                          2025      https://www.netflix.com/title/82020378
+"True Spirit"                                                           2023      https://www.netflix.com/title/81054619
+"Uglies"                                                                2024      https://www.netflix.com/title/81002266
+"Trigger Warning"                                                       2024      https://www.netflix.com/title/81064546
+"Unbroken"                                                              2014      https://www.netflix.com/title/70305949
+"Under the Silver Lake"                                                 2018      https://www.netflix.com/title/80990376
+"Uprising"                                                              2024      https://www.netflix.com/title/81672158
+"Walk. Ride. Rodeo."                                                    2019      https://www.netflix.com/title/80995799
+"War Room"                                                              2015      https://www.netflix.com/title/80044538
+"War Machine"                                                           2017      https://www.netflix.com/title/80068327
+"Wake Up Dead Man: A Knives Out Mystery"                                2025      https://www.netflix.com/title/81458424
+"Wasp Network"                                                          2020      https://www.netflix.com/title/81000201
+"Where the Tracks End"                                                  2023      https://www.netflix.com/title/81408600
+"Whiplash"                                                              2014      https://www.netflix.com/title/70299275
+"White Fang"                                                            2018      https://www.netflix.com/title/80245121
+"Wind River"                                                            2017      https://www.netflix.com/title/80173524
+"When the Game Stands Tall"                                             2014      https://www.netflix.com/title/80008749
+"Wingwomen"                                                             2023      https://www.netflix.com/title/81282091
+"Wonder"                                                                2017      https://www.netflix.com/title/80147986
+"You Gotta Believe"                                                     2024      https://www.netflix.com/title/81969558
+"Woman of the Hour"                                                     2024      https://www.netflix.com/title/81728818
+"Zodiac"                                                                2007      https://www.netflix.com/title/70044686
