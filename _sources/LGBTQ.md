@@ -1,4 +1,4 @@
-# Watch LGBTQ Movies on Netflix
+# LGBTQ Movies on Netflix
 
 Netflix genre: <a href="https://www.netflix.com/browse/genre/5977" target="_blank">https://www.netflix.com/browse/genre/5977</a>
 
@@ -11,6 +11,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/5977" target="_blan
 | 7.8 | *Brother Outsider: The Life of Bayard Rustin* | <a href="https://www.imdb.com/title/tt0337902/" target="_blank">https://www.imdb.com/title/tt0337902/</a> | <a href="https://www.netflix.com/title/70139371" target="_blank">https://www.netflix.com/title/70139371</a> |
 | 7.8 | *A Secret Love* | <a href="https://www.imdb.com/title/tt3260524/" target="_blank">https://www.imdb.com/title/tt3260524/</a> | <a href="https://www.netflix.com/title/80209024" target="_blank">https://www.netflix.com/title/80209024</a> |
 | 7.6 | *The Paradise of Thorns* | <a href="https://www.imdb.com/title/tt32362515/" target="_blank">https://www.imdb.com/title/tt32362515/</a> | <a href="https://www.netflix.com/title/81981328" target="_blank">https://www.netflix.com/title/81981328</a> |
+| 7.6 | *Blue Is the Warmest Colour* | <a href="https://www.imdb.com/title/tt2278871/" target="_blank">https://www.imdb.com/title/tt2278871/</a> | <a href="https://www.netflix.com/title/70275600" target="_blank">https://www.netflix.com/title/70275600</a> |
 | 7.5 | *Nimona* | <a href="https://www.imdb.com/title/tt19500164/" target="_blank">https://www.imdb.com/title/tt19500164/</a> | <a href="https://www.netflix.com/title/81444554" target="_blank">https://www.netflix.com/title/81444554</a> |
 | 7.5 | *Eldorado: Everything the Nazis Hate* | <a href="https://www.imdb.com/title/tt27906298/" target="_blank">https://www.imdb.com/title/tt27906298/</a> | <a href="https://www.netflix.com/title/81331646" target="_blank">https://www.netflix.com/title/81331646</a> |
 | 7.4 | *Will & Harper* | <a href="https://www.imdb.com/title/tt30321133/" target="_blank">https://www.imdb.com/title/tt30321133/</a> | <a href="https://www.netflix.com/title/81760197" target="_blank">https://www.netflix.com/title/81760197</a> |
@@ -92,7 +93,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/5977" target="_blan
 | NA | *Fear Street Part 3: 1666* | <a href="https://www.imdb.com/title/tt0885520/" target="_blank">https://www.imdb.com/title/tt0885520/</a> | <a href="https://www.netflix.com/title/81334750" target="_blank">https://www.netflix.com/title/81334750</a> |
 | NA | *Fear Street Part 1: 1994* | <a href="https://www.imdb.com/title/tt0885520/" target="_blank">https://www.imdb.com/title/tt0885520/</a> | <a href="https://www.netflix.com/title/81325689" target="_blank">https://www.netflix.com/title/81325689</a> |
 | NA | *Dance of the Forty One* | <a href="https://www.imdb.com/title/tt15314640/" target="_blank">https://www.imdb.com/title/tt15314640/</a> | <a href="https://www.netflix.com/title/80235267" target="_blank">https://www.netflix.com/title/80235267</a> |
-| NA | *Blue Is the Warmest Color* | <a href="https://www.imdb.com/title/tt17527468/" target="_blank">https://www.imdb.com/title/tt17527468/</a> | <a href="https://www.netflix.com/title/70275600" target="_blank">https://www.netflix.com/title/70275600</a> |
 | NA | *Anne+: The Film* | <a href="https://www.imdb.com/title/tt5688996/" target="_blank">https://www.imdb.com/title/tt5688996/</a> | <a href="https://www.netflix.com/title/81337079" target="_blank">https://www.netflix.com/title/81337079</a> |
 | NA | *10DANCE* | <a href="https://www.imdb.com/title/tt3260524/" target="_blank">https://www.imdb.com/title/tt3260524/</a> | <a href="https://www.netflix.com/title/81759550" target="_blank">https://www.netflix.com/title/81759550</a> |
 | N/A | *The Lulú Club* | <a href="https://www.imdb.com/title/tt23489688/" target="_blank">https://www.imdb.com/title/tt23489688/</a> | <a href="https://www.netflix.com/title/81093644" target="_blank">https://www.netflix.com/title/81093644</a> |
