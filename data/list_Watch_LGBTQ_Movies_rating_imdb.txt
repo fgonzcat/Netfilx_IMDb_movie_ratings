@@ -11,7 +11,6 @@ N/A     "I Care a Lot"                                                          
 N/A     "The Lulú Club"                                                        2022    https://www.imdb.com/title/tt23489688/              https://www.netflix.com/title/81093644
 NA      "10DANCE"                                                               2025    https://www.imdb.com/title/tt3260524/               https://www.netflix.com/title/81759550
 NA      "Anne+: The Film"                                                       2021    https://www.imdb.com/title/tt5688996/               https://www.netflix.com/title/81337079
-NA      "Blue Is the Warmest Color"                                             2013    https://www.imdb.com/title/tt17527468/              https://www.netflix.com/title/70275600
 NA      "Dance of the Forty One"                                                2021    https://www.imdb.com/title/tt15314640/              https://www.netflix.com/title/80235267
 NA      "Fear Street Part 1: 1994"                                              2021    https://www.imdb.com/title/tt0885520/               https://www.netflix.com/title/81325689
 NA      "Fear Street Part 3: 1666"                                              2021    https://www.imdb.com/title/tt0885520/               https://www.netflix.com/title/81334750
@@ -94,6 +93,7 @@ NA      "Partners in Crime (Philippines Movie)"                                 
 7.5     "Eldorado: Everything the Nazis Hate"                                   2023    https://www.imdb.com/title/tt27906298/              https://www.netflix.com/title/81331646
 7.5     "Nimona"                                                                2023    https://www.imdb.com/title/tt19500164/              https://www.netflix.com/title/81444554
 7.6     "The Paradise of Thorns"                                                2024    https://www.imdb.com/title/tt32362515/              https://www.netflix.com/title/81981328
+7.6     "Blue Is the Warmest Colour"                                            2013    https://www.imdb.com/title/tt2278871/               https://www.netflix.com/title/70275600
 7.8     "A Secret Love"                                                         2020    https://www.imdb.com/title/tt3260524/               https://www.netflix.com/title/80209024
 7.8     "Brother Outsider: The Life of Bayard Rustin"                           2003    https://www.imdb.com/title/tt0337902/               https://www.netflix.com/title/70139371
 8.0     "It's Only Life After All"                                              2023    https://www.imdb.com/title/tt12716222/              https://www.netflix.com/title/81746813
