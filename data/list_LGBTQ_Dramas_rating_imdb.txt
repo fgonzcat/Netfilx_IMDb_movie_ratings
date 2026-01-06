@@ -8,7 +8,6 @@ N/A     "Fuchsia Libre"                                                         
 N/A     "Good Grief"                                                            2024    https://www.imdb.com/title/tt32204945/              https://www.netflix.com/title/81462549
 NA      "10DANCE"                                                               2025                                                        https://www.netflix.com/title/81759550
 NA      "Anne+: The Film"                                                       2021    https://www.imdb.com/title/tt5688996/               https://www.netflix.com/title/81337079
-NA      "Blue Is the Warmest Color"                                             2013    https://www.imdb.com/title/tt28690443/              https://www.netflix.com/title/70275600
 NA      "Dance of the Forty One"                                                2021    https://www.imdb.com/title/tt15314640/              https://www.netflix.com/title/80235267
 NA      "I Wish You Had Told Me"                                                2025    https://www.imdb.com/title/tt32204945/              https://www.netflix.com/title/81682079
 NA      "Latin Blood - The Ballad of Ney Matogrosso"                            2025    https://www.imdb.com/title/tt28657882/              https://www.netflix.com/title/81754156
@@ -58,3 +57,4 @@ NA      "Latin Blood - The Ballad of Ney Matogrosso"                            
 7.3     "Dear Ex"                                                               2018    https://www.imdb.com/title/tt8443704/               https://www.netflix.com/title/81045891
 7.3     "Your Name Engraved Herein"                                             2020    https://www.imdb.com/title/tt10329134/              https://www.netflix.com/title/81287844
 7.6     "The Paradise of Thorns"                                                2024    https://www.imdb.com/title/tt32362515/              https://www.netflix.com/title/81981328
+7.6     "Blue Is the Warmest Colour"                                            2013    https://www.imdb.com/title/tt2278871/               https://www.netflix.com/title/70275600
