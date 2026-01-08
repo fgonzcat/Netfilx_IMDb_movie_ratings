@@ -25,9 +25,10 @@ fi
 
 
 #APIKEY="1a8c9011"
-APIKEY="d7e16fa4"
-#APIKEY="b79f4081"
+#APIKEY="d7e16fa4"
 #APIKEY="ed6cc44c"
+APIKEY="14cf7f93"
+#APIKEY="b79f4081"
 
 list=$1                         #  Input file as first variable
 # $list  must look like this:
@@ -53,7 +54,8 @@ while IFS= read -r movie; do
    echo "$movie $year $URL"
    echo curl -s \""http://www.omdbapi.com/?t=$(printf '%s' "$movie_safe" | sed 's/ /%20/g')&y=$year&apikey=$APIKEY"\"
   fi
-  json=$(curl -s "http://www.omdbapi.com/?t=$(printf '%s' "$movie_safe" | sed 's/ /%20/g')&y=$year&apikey=$APIKEY")
+  omdb_url=$(echo "http://www.omdbapi.com/?t=$(printf '%s' "$movie_safe" | sed 's/ /%20/g')&y=$year&apikey=$APIKEY")
+  json=$(curl -s "$omdb_url") 
   rating=$(echo "$json" | jq -r '.imdbRating // "NA"')
   imdbid=$(echo "$json" | jq -r '.imdbID // empty')
   omdbError=$(echo "$json" | jq -r '.Error  // empty')
@@ -66,11 +68,17 @@ while IFS= read -r movie; do
   
   if [[ -n "$omdbError" ]]; then
    if [[ "$omdbError" == *"not found"* ]]; then
-    json=$(curl -s "http://www.omdbapi.com/?t=$(printf '%s' "$movie_safe" | sed 's/ /%20/g')&apikey=$APIKEY")
+    omdb_url=$(echo  "http://www.omdbapi.com/?t=$(printf '%s' "$movie_safe" | sed 's/ /%20/g')&apikey=$APIKEY")
+    json=$(curl -s "$omdb_url") 
     rating=$(echo "$json" | jq -r '.imdbRating // "NA"')
     imdbid=$(echo "$json" | jq -r '.imdbID // empty')
+   elif [[ "$omdbError"  == *"limit"* ]]; then
+     echo "⚠️  OMDb rate limit reached — skipping $movie" 
+     #continue
+     exit
    else
-   echo "OMDb API error: $omdbError  :  $movie $URL"
+    omdb_url=$(echo  "http://www.omdbapi.com/?t=$(printf '%s' "$movie_safe" | sed 's/ /%20/g')&apikey=$APIKEY")
+    echo "OMDb API error: $omdbError  :  $movie $URL $omdb_url"
    fi
   fi
 
