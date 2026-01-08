@@ -22,7 +22,7 @@ NEW_MOVIES=$(echo "$raw_json" | jq -c '.itemListElement[] | {title: .item.name, 
 
 # Wrap as JSON object
 NEW_MOVIES_ARRAY=$(echo "$raw_json"     | jq -c '.itemListElement[] | {title: .item.name, netflix_url: .item.url}'     | jq -s '.')   # <- slurp: turns multiple JSON objects into an array
-NEW_JSON=$(jq -n --argjson arr "$NEW_MOVIES_ARRAY" --arg genre "$GENRE_NAME" --arg url "$GENRE_URL" '{genre: $genre, genre_url: $url, movies: [$arr[] | .year=null | .imdb_rating=null | .imdb_id=null]}')
+NEW_JSON=$(jq -n --argjson arr "$NEW_MOVIES_ARRAY" --arg genre "$GENRE_NAME" --arg url "$GENRE_URL" '{genre: $genre, genre_url: $url, movies: [$arr[] | .year=null | .imdb_rating=null | .imdb_id=null | .Poster=null | .Plot=null ]}')
 
 # Eliminate duplicates
 NEW_JSON=$(echo "$NEW_JSON" | jq -r '.movies |= unique_by(.netflix_url)')
@@ -131,8 +131,8 @@ echo -e "\nSTEP 4: OMDb"
 #APIKEY="1a8c9011"
 #APIKEY="d7e16fa4"
 #APIKEY="ed6cc44c"
-APIKEY="14cf7f93"
-#APIKEY="b79f4081"
+#APIKEY="14cf7f93"
+APIKEY="b79f4081"
 
 #echo "Fetching missing IMDb ratings and IDs for new movies..."
 #
@@ -214,6 +214,8 @@ while IFS=$'\t' read -r title year url; do
     json=$(curl -s "$omdb_url") 
     rating=$(echo "$json" | jq -r '.imdbRating // empty')
     imdbid=$(echo "$json" | jq -r '.imdbID // empty')
+    poster=$(echo "$json" | jq -r '.Poster  // empty')
+    plot=$(echo "$json" | jq -r '.Plot  // empty')
     omdbError=$(echo "$json" | jq -r '.Error // empty')
 
     if [[ -n "$omdbError"  ]]; then
@@ -227,6 +229,8 @@ while IFS=$'\t' read -r title year url; do
       json=$(curl -s "$omdb_url") 
       rating=$(echo "$json" | jq -r '.imdbRating // empty')
       imdbid=$(echo "$json" | jq -r '.imdbID // empty')
+      poster=$(echo "$json" | jq -r '.Poster  // empty')
+      plot=$(echo "$json" | jq -r '.Plot  // empty')
       # Did it work?
       if [[ -z "$imdbid" ]]; then
         echo "⚠️  OMDb lookup FAILED after retry: $title" >&2
@@ -236,8 +240,12 @@ while IFS=$'\t' read -r title year url; do
       echo "OMDb API error: $omdbError  :  $title  'http://www.omdbapi.com/?t=$safe_title&apikey=$APIKEY' "
     fi
 
+    plot=${plot//$'\t'/ }      # replace tabs
+    plot=${plot//$'\n'/ }      # replace newlines
+
     # Emit one result line (append-only, atomic)
-    printf "%s\t%s\t%s\n" "$url" "$rating" "$imdbid"
+    printf "%s\t%s\t%s\t%s\t%s\n" "$url" "$rating" "$imdbid" "$poster" "$plot"
+    #printf "%s\t%s\t%s\n" "$url" "$rating" "$imdbid"
     echo "$title -> Rating: ${rating:-NA}, ID: ${imdbid:-NA}"
   ) >> "$TMP_OUT" &
 
@@ -246,15 +254,17 @@ done < "$TMP_TSV"
 wait
 
 # Reading the TMP_OUT
-while IFS=$'\t' read -r url rating imdbid; do
+while IFS=$'\t' read -r url rating imdbid poster plot; do
   [[ -z "$rating" && -z "$imdbid" ]] && continue
 
-  jq --arg u "$url" --arg r "$rating" --arg i "$imdbid" '
+  jq --arg u "$url" --arg r "$rating" --arg i "$imdbid" --arg p "$poster" --arg l "$plot" '
     .movies |= map(
       if .netflix_url == $u then
         . + (
           (if .imdb_rating == null and $r != "" then {imdb_rating: $r} else {} end) +
-          (if .imdb_id     == null and $i != "" then {imdb_id:     $i} else {} end)
+          (if .imdb_id     == null and $i != "" then {imdb_id:     $i} else {} end) +
+          (if .Poster      == null and $p != "" then {Poster:      $p} else {} end) +
+          (if .Plot        == null and $l != "" then {Plot:        $l} else {} end)
         )
       else .
       end
