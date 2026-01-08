@@ -24,11 +24,11 @@ elif [ "$2" == "--debug" ]; then
 fi
 
 
-#APIKEY="1a8c9011"
-#APIKEY="d7e16fa4"
-#APIKEY="ed6cc44c"
+APIKEY="1a8c9011"
+APIKEY="d7e16fa4"
+APIKEY="ed6cc44c"
 APIKEY="14cf7f93"
-#APIKEY="b79f4081"
+APIKEY="b79f4081"
 
 list=$1                         #  Input file as first variable
 # $list  must look like this:
@@ -47,23 +47,29 @@ while IFS= read -r movie; do
   year=$(echo $movie | awk '{print $(NF-1)}')
   movie=$(echo $movie | awk '{$NF=""; $(NF-1)=""; print}')
   #movie=$(printf '%s' "$movie" | sed -e "s/’/'/g; s/–/-/g; s/—/-/g"  -e 's/%/%25/g'  -e 's/#/%23/g' -e 's/&/%26/g' -e 's/?/%3F/g' -e 's/"/%22/g' -e 's/ /%20/g' |  perl -CS -MUnicode::Normalize -pe '$_ = NFD($_); s/\pM//g')  # Fancy apostrophe --> normal apostrophe and no accents
-  movie_safe=$(printf '%s' "$movie" | perl -CS -MUnicode::Normalize -pe '$_=NFD($_); s/\pM//g' | sed -e "s/’/'/g; s/–/-/g; s/—/-/g" -e 's/%/%25/g' -e 's/#/%23/g' -e 's/&/%26/g' -e 's/?/%3F/g' -e 's/‘//g' -e 's/!//g' -e 's/¡//g' -e 's/\xC2\xA0/%20/g' -e 's/ /%20/g') # Fancy apostrophe --> normal apostrophe and no accents
+  movie_safe=$(printf '%s' "$movie" | perl -CS -MUnicode::Normalize -pe '$_=NFD($_); s/\pM//g' | sed -e "s/’/'/g; s/–/-/g; s/—/-/g" -e 's/%/%25/g' -e 's/#/%23/g' -e 's/&/%26/g' -e 's/?/%3F/g' -e 's/‘//g' -e 's/!//g' -e 's/¡//g' -e 's/\xC2\xA0/%20/g' -e 's/"//g' -e 's/ /%20/g') # Fancy apostrophe --> normal apostrophe and no accents
 
 
   if (( $debug )); then
    echo "$movie $year $URL"
-   echo curl -s \""http://www.omdbapi.com/?t=$(printf '%s' "$movie_safe" | sed 's/ /%20/g')&y=$year&apikey=$APIKEY"\"
+   omdb_url=$(echo "http://www.omdbapi.com/?t=$(printf '%s' "$movie_safe" | sed 's/ /%20/g')&y=$year&apikey=$APIKEY")
+   echo "curl -s \"$omdb_url\" "
   fi
   omdb_url=$(echo "http://www.omdbapi.com/?t=$(printf '%s' "$movie_safe" | sed 's/ /%20/g')&y=$year&apikey=$APIKEY")
   json=$(curl -s "$omdb_url") 
   rating=$(echo "$json" | jq -r '.imdbRating // "NA"')
   imdbid=$(echo "$json" | jq -r '.imdbID // empty')
+  poster=$(echo "$json" | jq -r '.Poster  // empty')
+  plot=$(echo "$json" | jq -r '.Plot  // empty')
   omdbError=$(echo "$json" | jq -r '.Error  // empty')
+
   if [ "$rating" == "N/A" ]; then
    movie_safe=$(echo "$movie" | sed "s/&/ and /g")  #  one & two --> one and two
    json=$(curl -s "http://www.omdbapi.com/?t=$(printf '%s' "$movie_safe" | sed 's/ /%20/g')&y=$year&apikey=$APIKEY")
    rating=$(echo "$json" | jq -r '.imdbRating // "NA"')
    imdbid=$(echo "$json" | jq -r '.imdbID // empty')
+   poster=$(echo "$json" | jq -r '.Poster  // empty')
+   plot=$(echo "$json" | jq -r '.Plot  // empty')
   fi
   
   if [[ -n "$omdbError" ]]; then
@@ -72,6 +78,8 @@ while IFS= read -r movie; do
     json=$(curl -s "$omdb_url") 
     rating=$(echo "$json" | jq -r '.imdbRating // "NA"')
     imdbid=$(echo "$json" | jq -r '.imdbID // empty')
+    poster=$(echo "$json" | jq -r '.Poster  // empty')
+    plot=$(echo "$json" | jq -r '.Plot  // empty')
    elif [[ "$omdbError"  == *"limit"* ]]; then
      echo "⚠️  OMDb rate limit reached — skipping $movie" 
      #continue
