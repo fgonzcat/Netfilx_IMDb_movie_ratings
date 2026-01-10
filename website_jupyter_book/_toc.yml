@@ -9,6 +9,7 @@ parts:
     chapters:
       - file: how_it_works
       - file: scripts 
+      - file: netflix_codes
 
   - caption: Movie categories
     chapters:
