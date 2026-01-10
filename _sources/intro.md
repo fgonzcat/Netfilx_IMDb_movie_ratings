@@ -8,6 +8,8 @@ No scrolling. No guessing. Just pick a genre and start watching.
 <small>On mobile: tap the ☰ icon in the top-left corner</small>
 </div>
 
+## Explore
+
 ::::{grid} 1 2 2 3
 :gutter: 1 1 1 2
 
