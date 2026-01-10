@@ -15,7 +15,7 @@ html[data-theme="dark"] .movie-plot {
 }
 
 .zoom-img:hover {
-  transform: scale(1.8);
+  transform: scale(2.0);
   z-index: 100;
   position: relative;
 }
