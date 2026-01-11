@@ -1,0 +1,555 @@
+{
+  "genre": "anime_scifi",
+  "genre_url": "https://www.netflix.com/browse/genre/2729",
+  "movies": [
+    {
+      "title": "The End of Evangelion",
+      "netflix_url": "https://www.netflix.com/title/60024788",
+      "year": "1997",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0169858",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Gurren Lagann",
+      "netflix_url": "https://www.netflix.com/title/70213196",
+      "year": "2007",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt0948103",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "TIGER & BUNNY",
+      "netflix_url": "https://www.netflix.com/title/80039972",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt12076822",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "AJIN: Demi-Human",
+      "netflix_url": "https://www.netflix.com/title/80043576",
+      "year": "2016",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt6215712",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Kuromukuro",
+      "netflix_url": "https://www.netflix.com/title/80103318",
+      "year": "2016",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt5895314",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "BLAME!",
+      "netflix_url": "https://www.netflix.com/title/80115466",
+      "year": "2017",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt4607722",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Mobile Suit Gundam Seed",
+      "netflix_url": "https://www.netflix.com/title/80146549",
+      "year": "2002",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0374407",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "World Trigger",
+      "netflix_url": "https://www.netflix.com/title/80149562",
+      "year": "2021",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt3950102",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Levius",
+      "netflix_url": "https://www.netflix.com/title/80156799",
+      "year": "2019",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt10619444",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "A.I.C.O.",
+      "netflix_url": "https://www.netflix.com/title/80161848",
+      "year": "2018",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt8116380",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "ID-0",
+      "netflix_url": "https://www.netflix.com/title/80174918",
+      "year": "2017",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt7161218",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "GODZILLA Planet of the Monsters",
+      "netflix_url": "https://www.netflix.com/title/80180373",
+      "year": "2017",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt5979874",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "GODZILLA City on the Edge of Battle",
+      "netflix_url": "https://www.netflix.com/title/80180376",
+      "year": "2018",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt8015080",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "7SEEDS",
+      "netflix_url": "https://www.netflix.com/title/80183051",
+      "year": "2020",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt9348718",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "GODZILLA The Planet Eater",
+      "netflix_url": "https://www.netflix.com/title/80198623",
+      "year": "2018",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt8478602",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "HERO MASK",
+      "netflix_url": "https://www.netflix.com/title/80200027",
+      "year": "2019",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt9316078",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "LAST HOPE",
+      "netflix_url": "https://www.netflix.com/title/80221272",
+      "year": "2018",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt8893554",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Cagaster of an Insect Cage",
+      "netflix_url": "https://www.netflix.com/title/80224581",
+      "year": "2020",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt9288892",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Ultraman",
+      "netflix_url": "https://www.netflix.com/title/80231373",
+      "year": "2023",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt27560594",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Godzilla Singular Point",
+      "netflix_url": "https://www.netflix.com/title/80234811",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt13229934",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Eden",
+      "netflix_url": "https://www.netflix.com/title/80992783",
+      "year": "2021",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt10545250",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "revisions",
+      "netflix_url": "https://www.netflix.com/title/80992787",
+      "year": "2018",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt8921012",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Ingress: The Animation",
+      "netflix_url": "https://www.netflix.com/title/80992853",
+      "year": "2018",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt9561968",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Altered Carbon: Resleeved",
+      "netflix_url": "https://www.netflix.com/title/81001991",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt9310328",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Pacific Rim: The Black",
+      "netflix_url": "https://www.netflix.com/title/81002003",
+      "year": "2022",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt9288848",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Transformers: War for Cybertron: Siege",
+      "netflix_url": "https://www.netflix.com/title/81002438",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "exception",
+      "netflix_url": "https://www.netflix.com/title/81002444",
+      "year": "2022",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt14825954",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Ghost in the Shell: SAC_2045",
+      "netflix_url": "https://www.netflix.com/title/81030224",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt9466298",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Neon Genesis Evangelion",
+      "netflix_url": "https://www.netflix.com/title/81033445",
+      "year": "1995",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt0112159",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "EVANGELION: DEATH (TRUE)²",
+      "netflix_url": "https://www.netflix.com/title/81033473",
+      "year": "1998",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Super Crooks",
+      "netflix_url": "https://www.netflix.com/title/81034907",
+      "year": "2021",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt14272628",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "High-Rise Invasion",
+      "netflix_url": "https://www.netflix.com/title/81043571",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt13352232",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Dr.STONE",
+      "netflix_url": "https://www.netflix.com/title/81046193",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt19607932",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "SPRIGGAN",
+      "netflix_url": "https://www.netflix.com/title/81050064",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10011306",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Grimm Variations",
+      "netflix_url": "https://www.netflix.com/title/81050090",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt14872196",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Cyberpunk: Edgerunners",
+      "netflix_url": "https://www.netflix.com/title/81054853",
+      "year": "2022",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt12590266",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "GAMERA  -Rebirth-",
+      "netflix_url": "https://www.netflix.com/title/81087387",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt23730842",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Leviathan",
+      "netflix_url": "https://www.netflix.com/title/81152269",
+      "year": "2025",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt32581507",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Tokyo Override",
+      "netflix_url": "https://www.netflix.com/title/81153111",
+      "year": "2024",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt32581509",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Sturgill Simpson Presents Sound & Fury",
+      "netflix_url": "https://www.netflix.com/title/81171121",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Sonic X",
+      "netflix_url": "https://www.netflix.com/title/81172267",
+      "year": "2003",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0367413",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "MAKE MY DAY",
+      "netflix_url": "https://www.netflix.com/title/81176967",
+      "year": "2023",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt14837962",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Yakitori: Soldiers of Misfortune",
+      "netflix_url": "https://www.netflix.com/title/81186862",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt27250338",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Terminator Zero",
+      "netflix_url": "https://www.netflix.com/title/81217220",
+      "year": "2024",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt14153236",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Bee and PuppyCat",
+      "netflix_url": "https://www.netflix.com/title/81245457",
+      "year": "2022",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt4163486",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Moonrise",
+      "netflix_url": "https://www.netflix.com/title/81251383",
+      "year": "2025",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt20672482",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "EDENS ZERO",
+      "netflix_url": "https://www.netflix.com/title/81261630",
+      "year": "2021",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt13167196",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Gundam: Requiem for Vengeance",
+      "netflix_url": "https://www.netflix.com/title/81276500",
+      "year": "2024",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt30277745",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "PLUTO",
+      "netflix_url": "https://www.netflix.com/title/81281344",
+      "year": "2023",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt26737616",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Captain Laserhawk: A Blood Dragon Remix",
+      "netflix_url": "https://www.netflix.com/title/81306319",
+      "year": "2023",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt14837566",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "GOOD NIGHT WORLD",
+      "netflix_url": "https://www.netflix.com/title/81340213",
+      "year": "2023",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt28521881",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Orbital Children",
+      "netflix_url": "https://www.netflix.com/title/81340914",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt13351614",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Bubble",
+      "netflix_url": "https://www.netflix.com/title/81345945",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt16360006",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Transformers: War for Cybertron: Earthrise",
+      "netflix_url": "https://www.netflix.com/title/81393633",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Transformers: War for Cybertron: Kingdom",
+      "netflix_url": "https://www.netflix.com/title/81393636",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Mobile Suit Gundam Hathaway",
+      "netflix_url": "https://www.netflix.com/title/81439253",
+      "year": "2021",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt13288678",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Revelations: The Masters of the Universe: Revelation Aftershow",
+      "netflix_url": "https://www.netflix.com/title/81473420",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt30788647",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "T・P BON",
+      "netflix_url": "https://www.netflix.com/title/81497635",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Ghost in the Shell: SAC_2045 Sustainable War",
+      "netflix_url": "https://www.netflix.com/title/81513128",
+      "year": "2021",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt15392166",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Mobile Suit Gundam Seed Destiny",
+      "netflix_url": "https://www.netflix.com/title/81724493",
+      "year": "2004",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0434694",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Mobile Suit Gundam SEED FREEDOM",
+      "netflix_url": "https://www.netflix.com/title/81747912",
+      "year": "2024",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt14759062",
+      "Poster": null,
+      "Plot": null
+    }
+  ]
+}

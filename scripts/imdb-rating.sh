@@ -337,6 +337,7 @@ if [ "$listURL" != "" ]; then
 
  else  
   genre=$(wget --no-check-certificate -q -O - "$listURL" | tr '{' '\n'| grep '"@type":"ItemList","name":' | tr ':' '\n'  | tr ',' '\n' | awk '/name/{getline; print}')
+  #genre=$(wget --no-check-certificate -q -O - --user-agent="Mozilla/5.0"  --load-cookies cookies.txt "$listURL" | tr '{' '\n'| grep '"@type":"ItemList","name":' | tr ':' '\n'  | tr ',' '\n' | awk '/name/{getline; print}')
   echo "#List of moves in genre $genre :  $listURL"
   echo
   #wget --no-check-certificate -q -O - "$listURL" | tr '{' '\n'| grep '"@type":"Movie","name":' | tr ':' '\n'  | tr ',' '\n' | awk '/name/{getline; print}'  | sort  | uniq

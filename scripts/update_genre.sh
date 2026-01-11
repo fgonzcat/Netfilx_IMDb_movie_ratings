@@ -118,8 +118,8 @@ NEW_JSON=$(echo "$NEW_JSON" | jq -r '.movies |= unique_by(.netflix_url)')
 # Decide whether to proceed or not (too many titles sometimes)
 N=$(echo "$NEW_JSON" | jq '.movies | length')
 MAX_AUTO=30
+printf "\033[33m⚠️  I will analyze %d titles for this genre.\033[0m\n" "$N"
 if (( INTERACTIVE )) && (( N > MAX_AUTO )); then
-    printf "\033[33m⚠️  I will analyze %d titles for this genre.\033[0m\n" "$N"
     read -r -p "Proceed? [y/n] " answer
     answer=${answer:-Y}  # default Enter = yes
 
@@ -227,62 +227,11 @@ echo "... years fetched in $CACHE_JSON_FILE"
 ##########################################
 echo -e "\nSTEP 4: OMDb"
 
-APIKEY="1a8c9011"
-#APIKEY="d7e16fa4"
+#APIKEY="1a8c9011"
+APIKEY="d7e16fa4"
 #APIKEY="ed6cc44c"
 #APIKEY="14cf7f93"
 #APIKEY="b79f4081"
-
-#echo "Fetching missing IMDb ratings and IDs for new movies..."
-#
-#jq -c '.movies[] | select(.imdb_rating == null or .imdb_id == null)' "$CACHE_JSON_FILE" | while read -r movie; do
-#    title=$(echo "$movie" | jq -r '.title')
-#    year=$(echo "$movie" | jq -r '.year')
-#    url=$(echo "$movie" | jq -r '.netflix_url')
-#    safe_title=$(printf '%s' "$title" | perl -CS -MUnicode::Normalize -pe '$_=NFD($_); s/\pM//g' | sed -e "s/’/'/g; s/–/-/g; s/—/-/g" -e 's/%/%25/g' -e 's/#/%23/g' -e 's/&/%26/g' -e 's/?/%3F/g' -e 's/‘//g' -e 's/!//g' -e 's/¡//g' -e 's/\xC2\xA0/%20/g' -e 's/ /%20/g') # No fancy apostrophes, no accents, no weird unicode, etc
-#
-#    # Fetch OMDb info
-#    json=$(curl -s "http://www.omdbapi.com/?t=$safe_title&y=$year&apikey=$APIKEY")
-#    rating=$(echo "$json" | jq -r '.imdbRating // empty')
-#    imdbid=$(echo "$json" | jq -r '.imdbID // empty')
-#    omdbError=$(echo "$json" | jq -r '.Error  // empty')
-#
-#    if [[ -n "$omdbError" ]]; then
-#     if [[ "$omdbError" == *"not found"* ]]; then
-#      json=$(curl -s "http://www.omdbapi.com/?t=$(printf '%s' "$safe_title" | sed 's/ /%20/g')&apikey=$APIKEY")  # Ignore the year
-#      rating=$(echo "$json" | jq -r '.imdbRating // empty')
-#      imdbid=$(echo "$json" | jq -r '.imdbID // empty')
-#     else
-#     echo "OMDb API error: $omdbError  :  $movie $URL"
-#     fi
-#    fi
-#
-#
-#
-#    ## Update JSON in-place
-#    #jq --arg u "$title" --arg r "$rating" --arg i "$imdbid" \
-#    #   '(.movies[] | select(.title==$u) | .imdb_rating) |= ($r // null) |
-#    #    (.movies[] | select(.title==$u) | .imdb_id) |= ($i // null)' \
-#    #   "$CACHE_JSON_FILE" > "${CACHE_JSON_FILE}.tmp" && mv "${CACHE_JSON_FILE}.tmp" "$CACHE_JSON_FILE"
-#
-#    jq --arg u "$url" --arg r "$rating" --arg i "$imdbid" '
-#      .movies |= map(
-#        if .netflix_url == $u then
-#          . + (
-#            (if .imdb_rating == null and $r != "" then {imdb_rating: $r} else {} end) +
-#            (if .imdb_id     == null and $i != "" then {imdb_id:     $i} else {} end)
-#          )
-#        else .
-#        end
-#      )
-#    ' "$CACHE_JSON_FILE" > "${CACHE_JSON_FILE}.tmp" && mv "${CACHE_JSON_FILE}.tmp" "$CACHE_JSON_FILE"
-#
-#
-#    echo "$title -> Rating: ${rating:-NA}, ID: ${imdbid:-NA}"
-#done
-#
-#echo "IMDb ratings and IDs filled in $CACHE_JSON_FILE"
-
 
 echo "Fetching missing IMDb ratings, IDs, Poster, and Plot for new movies..."
 TMP_TSV=$(mktemp)

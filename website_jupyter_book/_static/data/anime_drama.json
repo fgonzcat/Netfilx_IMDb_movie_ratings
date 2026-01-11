@@ -1,0 +1,582 @@
+{
+  "genre": "anime_drama",
+  "genre_url": "https://www.netflix.com/browse/genre/452",
+  "movies": [
+    {
+      "title": "Grave of the Fireflies",
+      "netflix_url": "https://www.netflix.com/title/557010",
+      "year": "1988",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt0095327",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young boy and his little sister struggle to survive in Japan during World War II."
+    },
+    {
+      "title": "Slam Dunk",
+      "netflix_url": "https://www.netflix.com/title/70024218",
+      "year": "1996",
+      "imdb_rating": "8.7",
+      "imdb_id": "tt0965547",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjIyYjg4YWUtNTM2OS00YTc3LWE5NTEtZTdmMDdiMzE1OGJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "About Sakuragi Hanamichi, a freshman of Shohoku High School who joins the basketball team because of the girl he has a crush on, Haruko. Although he is newbie in this sport, he is no ordinary basketball player."
+    },
+    {
+      "title": "5 Centimeters Per Second",
+      "netflix_url": "https://www.netflix.com/title/70093699",
+      "year": "2007",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0983213",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODVmZjhhYTYtYzRiOC00YzFiLThlZjMtZTQxNWY0MTI1MzlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Told in three interconnected segments, Takaki tells the story of his life as cruel winters, cold technology, and finally, adult obligations and responsibility converge to test the delicate petals of love."
+    },
+    {
+      "title": "Puella Magi Madoka Magica",
+      "netflix_url": "https://www.netflix.com/title/70302572",
+      "year": "2011",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt1773185",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGI2NDRmZTgtYzU2NS00M2Y1LTkwMWUtNTkxNWFiNjFkYmQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A creature named Kyubey offers Madoka and Sayaka a wish if they agree to become 'magical girls' and fight abstract beings called 'witches'. However, a magical girl named Homura is, for uncertain reasons, determined to stop this ag..."
+    },
+    {
+      "title": "Your lie in April",
+      "netflix_url": "https://www.netflix.com/title/80041089",
+      "year": "2014",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt3895150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGMyYmFmNzgtMWQ4NS00MWE2LTg4YmEtZGY1MTBiODE0YmE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A piano prodigy who lost his ability to play after suffering a traumatic event in his childhood is forced back into the spotlight by an eccentric girl with a secret of her own."
+    },
+    {
+      "title": "Kuroko's Basketball",
+      "netflix_url": "https://www.netflix.com/title/80063153",
+      "year": "2015",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt2348803",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI3NDAyZGUtYWZiZC00YWIwLTgyNDQtYjZmOGFmNTkzODYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Kagami meets Kuroko, the 6th member of the Miracle Generation, and they make a pact to defeat the other members of the team. A battle of light (Kagami) and shadow (Kuroko) begins."
+    },
+    {
+      "title": "Haikyu!!",
+      "netflix_url": "https://www.netflix.com/title/80090673",
+      "year": "2020",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt11688394",
+      "Poster": "N/A",
+      "Plot": "N/A"
+    },
+    {
+      "title": "GTO: Great Teacher Onizuka",
+      "netflix_url": "https://www.netflix.com/title/80124041",
+      "year": "1999",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt0209631",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2M4NmZlZmEtNWJhMi00ZDkxLTgwOWEtMGMyZGNjYjQ0MjU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Onizuka, a former delinquent finds himself in the role of a high school teacher, facing students who behave just as he used to. Using unusual methods, he manages to reach through to his students and help them with their problems."
+    },
+    {
+      "title": "Levius",
+      "netflix_url": "https://www.netflix.com/title/80156799",
+      "year": "2019",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt10619444",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGMyYWRlYmYtYzU0NC00OTU3LTlhMTUtZWI5MTc4ZGEyMGEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young man whose parents became casualties of war. He is taken in by his uncle Zack, and it is there that Levius begins to immerse himself in the world of metal boxing as if led by fate itself, and his innate ability for the mart..."
+    },
+    {
+      "title": "Kakegurui",
+      "netflix_url": "https://www.netflix.com/title/80175351",
+      "year": "2019",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt9552162",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGU4MTM3MDItMmYwMy00YmQ1LWI5OWEtNmY4Y2IzYmZhZDU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Hyakaou Academy is an institute where the academic ranking is based on the pupils' gambling winnings. Yumeko is new to the academy. Her pretty enchantress looks are only surpassed by her voracious appetite to gamble it all and win..."
+    },
+    {
+      "title": "Violet Evergarden",
+      "netflix_url": "https://www.netflix.com/title/80182123",
+      "year": "2018",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt7078180",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWUwNDFiNjQtYjQ0MC00MTcxLWE0MGQtNTdkYTlhZGU2NDFmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the aftermath of a great war, Violet Evergarden, a young female ex-soldier, gets a job at a writers' agency and goes on assignments to create letters that can connect people."
+    },
+    {
+      "title": "7SEEDS",
+      "netflix_url": "https://www.netflix.com/title/80183051",
+      "year": "2020",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt9348718",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjdlOWNlNDktOGM5NS00MjYzLTg4Y2ItZjlkZTdhODY1Mzg2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the immediate future, a giant meteorite has collided with earth. All living organisms, including mankind, have been wiped off the face of the planet."
+    },
+    {
+      "title": "LOST SONG",
+      "netflix_url": "https://www.netflix.com/title/80191369",
+      "year": "2018",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt7211600",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTkxNWNhM2MtZmJmMC00YjVjLWIzNDEtMWQ5YTg4Y2QzMTlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rin, a young girl blessed with the power of song goes through on a journey trying to get to the capital to sing, little does she know, there's another girl who also has the power of song named finis."
+    },
+    {
+      "title": "Rilakkuma and Kaoru",
+      "netflix_url": "https://www.netflix.com/title/80196883",
+      "year": "2019",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt9348716",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2RhMTEwNWItMDQzNC00YjgyLThmYzUtNzk3OGQ3MGNhOGMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Her life might be a little mundane, but Kaoru gets to go home to Rilakkuma, her endearingly lazy roommate who happens to be a fuzzy toy bear."
+    },
+    {
+      "title": "LAST HOPE",
+      "netflix_url": "https://www.netflix.com/title/80221272",
+      "year": "2018",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt8893554",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWQyOGMwOTktZmM3OC00NDNkLTgzMzItMzhlZWViNjE4YTk3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After causing the near extinction of mankind seven years ago, genius scientist Leon Lau must now fight the ecological disaster he unwittingly created."
+    },
+    {
+      "title": "From Me to You: Kimi ni Todoke",
+      "netflix_url": "https://www.netflix.com/title/80236253",
+      "year": "2024",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt22001792",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjAyYjNhZjItMzE1Yy00ZTRmLWFkMDgtY2ExZmExODFiZjZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Put off by her gloomy demeanor, Sawako has a hard time fitting in but when an outgoing classmate approaches her, life takes a turn for the better."
+    },
+    {
+      "title": "DRAGON PILOT: Hisone & Masotan",
+      "netflix_url": "https://www.netflix.com/title/80241960",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Forest of Piano",
+      "netflix_url": "https://www.netflix.com/title/80986797",
+      "year": "2019",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt8043492",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjgxY2IzZGUtYzY1Yi00YmIxLWFjZjMtYjEwM2QwY2FkNzc3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two different people - the son of a prostitute, and the son of a professional musician - develop a bond of friendship through their love of playing the piano."
+    },
+    {
+      "title": "CAROLE & TUESDAY",
+      "netflix_url": "https://www.netflix.com/title/80992137",
+      "year": "2019",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt8107988",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWNjMzVjODUtMjE1Ny00YTVmLTgyMDctOGQwM2I5YjRiYThjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two girls, from different backgrounds but sharing a love for music, meet and change history with their united musical talent."
+    },
+    {
+      "title": "Eden",
+      "netflix_url": "https://www.netflix.com/title/80992783",
+      "year": "2021",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt10545250",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmJhMTUyNTgtNTE4Ny00ODNlLTk4NWEtZmY1YTk1MGVhOGVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A human girl secretly raised by robots starts to uncover the dark secrets behind her lush, utopian world where humanity has all but vanished."
+    },
+    {
+      "title": "Japan Sinks: 2020",
+      "netflix_url": "https://www.netflix.com/title/80993018",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt12031040",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWRiYmFkNTctZDBkNC00NWVkLWIwZDAtMjlkZjJmOWRkOGJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An ordinary family is put to the test as a series of massive earthquakes throw Japan into total mayhem. From director Masaaki Yuasa (Devilman Crybaby), the first anime adaptation of the bestselling science fiction novel by Sakyo K..."
+    },
+    {
+      "title": "Hajime no Ippo: The Fighting!",
+      "netflix_url": "https://www.netflix.com/title/80995578",
+      "year": "2013",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Vampire in the Garden",
+      "netflix_url": "https://www.netflix.com/title/80996247",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10011314",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGIwMzFjZmItYmExNS00YzE5LTkxMmUtNjBjZDc2YTZkMDdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the divided world of the future, two girls want to do the forbidden: the human wants to play the violin, and the vampire wants to see a wider world."
+    },
+    {
+      "title": "exception",
+      "netflix_url": "https://www.netflix.com/title/81002444",
+      "year": "2022",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt14825954",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2U5MWI4NjktZTZmYS00YWI4LWIzMDMtNjA4OTE1MGMzY2I4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the distant future, human beings have been forced to leave earth and migrate to another galaxy. An advanced team of spacecraft arrives at a planet that is to be terraformed. Each member of the team is output by a biological 3D ..."
+    },
+    {
+      "title": "Violet Evergarden: Special",
+      "netflix_url": "https://www.netflix.com/title/81010662",
+      "year": "2018",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt9359564",
+      "Poster": "N/A",
+      "Plot": "N/A"
+    },
+    {
+      "title": "The Grimm Variations",
+      "netflix_url": "https://www.netflix.com/title/81050090",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt14872196",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmU3NGQxMzQtMTkyYy00YThjLTljOTAtZGQ2YTY3OTg2OTE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Inspired by the classic Brothers Grimm stories, this anthology features six fairy tales with a dark twist, exposing the shadowy side of human desire."
+    },
+    {
+      "title": "BEASTARS",
+      "netflix_url": "https://www.netflix.com/title/81054847",
+      "year": "2024",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt11043632",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDRlMDA0MTctYjNmYy00MzRhLWEwYjEtYmYxZTI5YTdjMTgyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a world of anthropomorphic animals, a reclusive wolf's complicated relationship with a kindly rabbit is tested by a classmate's murder, a charismatic deer's influence, and his own burgeoning predatory instincts."
+    },
+    {
+      "title": "KAKEGURUI TWIN",
+      "netflix_url": "https://www.netflix.com/title/81176966",
+      "year": "2022",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt15912380",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzMyNGZjNDMtYjc5MS00MDMyLTljN2YtOTY3OGNmMDdlYmRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A year before Yumeko Jabami graced the hallowed halls of Hyakkou Private Academy, Mary Saotome got her own start at the gambling-addicted school. Can this normal girl achieve her own rags-to-riches story through wits and luck?"
+    },
+    {
+      "title": "MAKE MY DAY",
+      "netflix_url": "https://www.netflix.com/title/81176967",
+      "year": "2023",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt14837962",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2Y2NWQxN2QtNDc0Yi00NDQzLTg4Y2ItNGMxYjgzMjA3NjViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "On an icy mining planet (aka a prison world) mysterious disappearances point to deadly secrets hidden within the mines."
+    },
+    {
+      "title": "Lookism",
+      "netflix_url": "https://www.netflix.com/title/81177634",
+      "year": "2022",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt22297722",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTc1MTAzNWYtM2Q3Yy00OTExLWE1YTUtOTJhMzcyNGUzMGVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a society that favors good looks, a high school outcast leads a double life switching between his two bodies that are polar opposites in appearance."
+    },
+    {
+      "title": "The Rose of Versailles",
+      "netflix_url": "https://www.netflix.com/title/81177638",
+      "year": "2025",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt21996220",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzI2MDk2ZmItYTRlNi00ZDZhLWE3NzgtYTNmYzRiYWE5NDg0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of Lady Oscar, a female military commander who served during the time of the French Revolution."
+    },
+    {
+      "title": "Pokémon Concierge",
+      "netflix_url": "https://www.netflix.com/title/81186864",
+      "year": "2023",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt26916286",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2VmNmY2YTctYzAyYy00YmRiLTg2NjYtMzQ2MmMwMTQ3N2NkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow the adventures of Haru, a concierge at the Pokémon Resort as she interacts with the Pokémon and their visiting owners."
+    },
+    {
+      "title": "Violet Evergarden the Movie",
+      "netflix_url": "https://www.netflix.com/title/81193214",
+      "year": "2020",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt8652818",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWUyNDFjOWUtNGM5MS00YTUzLWFhYzYtZDg5NDNjMWJiY2MyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After the aftermath of a war, a young girl who was used as a 'tool' for war learned to live. With the scars of burns, she goes back to her past to feel the true feelings of the Major's, \"I love you.\""
+    },
+    {
+      "title": "Onmyoji",
+      "netflix_url": "https://www.netflix.com/title/81215624",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt22264252",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzFlMzdhNmQtNWM4OS00OWNjLTg2NDYtYmE5NWQ3NDJlN2M5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The tale of Abe no Seimei, a legendary spell-caster who lived in ancient Japan."
+    },
+    {
+      "title": "Great Pretender",
+      "netflix_url": "https://www.netflix.com/title/81220435",
+      "year": "2020",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt11680468",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxOWUzODEtMTdlYS00NTc5LWFhM2QtZTM3NjE2ZWZhYWVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A Japanese conman crosses paths with a French rival, and gets entangled in conspiracies and scams beyond his wildest dreams."
+    },
+    {
+      "title": "VINLAND SAGA",
+      "netflix_url": "https://www.netflix.com/title/81249833",
+      "year": "2023",
+      "imdb_rating": "8.8",
+      "imdb_id": "tt10233448",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDA3MGNmZTEtMzFiMy00ZmViLThhNmQtMjQ4ZDc5MDEyN2U1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Following a tragedy, Thorfinn embarks on a journey with the man responsible for it to take his life in a duel as a true and honorable warrior to pay homage."
+    },
+    {
+      "title": "Thermae Romae Novae",
+      "netflix_url": "https://www.netflix.com/title/81264354",
+      "year": "2022",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt13357234",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzBkMDEwNzgtNmJhNS00NjQ5LTg4YmQtYWVkODAwYjk3ODJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Roman architect Lucius is transported through time to modern-day Japan, where he learns about Japanese bathhouses and uses this to his gain back home."
+    },
+    {
+      "title": "Kotaro Lives Alone",
+      "netflix_url": "https://www.netflix.com/title/81275353",
+      "year": "2022",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt15490038",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWViYWUzNWQtZjQ0OC00MjU5LTg1YjAtZjI0OGYxMmI4OTAyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A lonely little boy moves into a ramshackle apartment building all on his own and makes friends with the broke manga artist who lives next door."
+    },
+    {
+      "title": "PLUTO",
+      "netflix_url": "https://www.netflix.com/title/81281344",
+      "year": "2023",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt26737616",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmY3NDZjYzctMWEyYS00NzM1LTg5ZDYtYTA5ZDc5NWJjNjhkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When the world's seven most advanced robots and their human allies are murdered one by one, inspector Gesicht soon discovers that he's also in danger."
+    },
+    {
+      "title": "A Whisker Away",
+      "netflix_url": "https://www.netflix.com/title/81281872",
+      "year": "2020",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt11958344",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjEyNGY0MTYtYjE4ZC00MDI1LWJmNjgtMzA2MjhhOGY2ZDhjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Miyo Sasaki is in love with her classmate Kento Hinode and tries repeatedly to get Kento's attention by transforming into a cat, but at some point, the boundary between herself and the cat becomes ambiguous."
+    },
+    {
+      "title": "Case Closed: Zero's Tea Time",
+      "netflix_url": "https://www.netflix.com/title/81313289",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "My Melody & Kuromi",
+      "netflix_url": "https://www.netflix.com/title/81318403",
+      "year": "2025",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt35323313",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2E5MzA1YjMtOGNmMS00YmQ1LWFhNzctNjNlNmI1Y2NkY2MwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "My Melody's new cake shop thrives after finding a mysterious heart. Rival Kuromi's shop struggles. Both prepare for a contest judged by Chef Pistachio, unaware it'll endanger Mariland."
+    },
+    {
+      "title": "Blue Period",
+      "netflix_url": "https://www.netflix.com/title/81318842",
+      "year": "2021",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt14115912",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDRhYWUyMjEtMDgxOC00M2M4LTgyZmItNWU5MmUwOGFkN2JmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bored with life, popular high schooler Yatora Yaguchi jumps into the beautiful yet unrelenting world of art after finding inspiration in a painting."
+    },
+    {
+      "title": "Romantic Killer",
+      "netflix_url": "https://www.netflix.com/title/81318888",
+      "year": "2022",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt21991254",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWQ3NzE1MTQtOGNjYy00Zjg0LWIyMmQtNDAxN2VlODdiMjc4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Living her best single life, romance is the last thing on Anzu's mind, until a tiny matchmaking wizard suddenly turns her life into a clichéd rom-com."
+    },
+    {
+      "title": "Drifting Home",
+      "netflix_url": "https://www.netflix.com/title/81328781",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt15494038",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTUwMzAwYWItZjhiOS00ZTc1LWE4MjgtYzVmZDk5OWEwM2EwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows two childhood friends who drift into a mysterious sea with an entire housing complex."
+    },
+    {
+      "title": "GOOD NIGHT WORLD",
+      "netflix_url": "https://www.netflix.com/title/81340213",
+      "year": "2023",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt28521881",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI5MDE1YmEtNmY2Ni00ZmE2LWI0MzgtMDBhZmY0NDMxZjUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four miserable members of a dysfunctional household have no idea that they've formed a happy family unit in an immersive VR game with each other."
+    },
+    {
+      "title": "Rilakkuma's Theme Park Adventure",
+      "netflix_url": "https://www.netflix.com/title/81341765",
+      "year": "2022",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt14272704",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzEwNWRkZmQtYjIxYi00ZDE0LTllMmUtYjFiZjViYTRmYmU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The series depicts an active day of incidents and meetings that take place when Rilakkuma, Korilakkuma, Kiiroitori, and Kaoru go play in an amusement park that is about to close."
+    },
+    {
+      "title": "Words Bubble Up Like Soda Pop",
+      "netflix_url": "https://www.netflix.com/title/81400497",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt19485326",
+      "Poster": "N/A",
+      "Plot": "N/A"
+    },
+    {
+      "title": "Monster",
+      "netflix_url": "https://www.netflix.com/title/81409869",
+      "year": "2004",
+      "imdb_rating": "8.7",
+      "imdb_id": "tt0434706",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzU2MWQ5NGQtYmNlMC00ZjJkLWJmODItZDM5MDM3YmUyMWJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tenma, a brilliant neurosurgeon with a promising future, risks his career to save the life of a critically wounded young boy. The boy, now a charismatic young man, reappears 9 years later in the midst of a string of unusual serial..."
+    },
+    {
+      "title": "Ōoku: The Inner Chambers",
+      "netflix_url": "https://www.netflix.com/title/81464005",
+      "year": "2023",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt27250301",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjIzYzU4NWQtZGEwYi00MTQzLTgyNzAtZTkxYWIyMzVkNDliXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In an alternate history where the male population is nearly decimated, eligible men serve as concubines to the woman shogun inside the walls of the Ooku."
+    },
+    {
+      "title": "T・P BON",
+      "netflix_url": "https://www.netflix.com/title/81497635",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Inu-Oh",
+      "netflix_url": "https://www.netflix.com/title/81499851",
+      "year": "2020",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt10540510",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2I3NjIzYzItN2M4ZS00MWQwLTkzMGItODczNGU2ODRmZDA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A cursed dancer and a musician stun society with electrifying concerts in this animated rock opera."
+    },
+    {
+      "title": "Rising Impact",
+      "netflix_url": "https://www.netflix.com/title/81563026",
+      "year": "2024",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt30400535",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM1ZDBmZDQtMGU5Zi00ODc1LWFlNDMtNTE3ZTlhMmQwZWI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows the growth of third-grader Gawain Nanaumi as he encounters the sport of golf and competes with his rivals."
+    },
+    {
+      "title": "My Oni Girl",
+      "netflix_url": "https://www.netflix.com/title/81582442",
+      "year": "2024",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt31788773",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmUyNjE1YjUtZGJlNC00YTcyLTgzZWQtOGUxNjJhM2VmODY0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A high school student's life takes an unexpected turn when he meets an oni (demon) girl on a quest in the human world."
+    },
+    {
+      "title": "Blue Box",
+      "netflix_url": "https://www.netflix.com/title/81663323",
+      "year": "2024",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt32639706",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTNhNmQ0ZjgtY2M4ZS00NTlhLTg1MDQtNDA2MzhkOTMyMzdmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Third-year student Taiki joins badminton club. Despite being an early riser, star player Chinatsu, his crush, arrives first. Living together unexpectedly, Taiki strives to reach Nationals to impress Chinatsu."
+    },
+    {
+      "title": "Rurouni Kenshin",
+      "netflix_url": "https://www.netflix.com/title/81705252",
+      "year": "2024",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt0182629",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjhiMzRkMmEtMzZhNi00ZTNhLWIxZTEtZDE3MTA4NzY4OWY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The adventures of a young wandering swordsman who stumbles upon a struggling martial arts school in Meiji era Japan."
+    },
+    {
+      "title": "The Apothecary Diaries",
+      "netflix_url": "https://www.netflix.com/title/81712068",
+      "year": "2023",
+      "imdb_rating": "8.6",
+      "imdb_id": "tt26743760",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjAxMmFjZjgtYjM1ZS00NzdmLTliZDktZmIyMzU5YTBlNDBmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young maiden is kidnapped and sold into servitude at the emperor's palace, where she secretly employs her pharmacist skills with the help of the head eunuch to unravel medical mysteries in the inner court."
+    },
+    {
+      "title": "BLUE GIANT",
+      "netflix_url": "https://www.netflix.com/title/81763062",
+      "year": "2023",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt15737898",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWNkYjQyNDktYjdjMS00MjJiLThmMzEtMDMyM2YyYjdmZDZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dai Miyamoto, a student from Sendai, receives a saxophone as a gift from his brother, Masayuki. He starts practicing immediately."
+    },
+    {
+      "title": "Orb: On the Movements of the Earth",
+      "netflix_url": "https://www.netflix.com/title/81765022",
+      "year": "2024",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt33044444",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRmMThlN2EtYTM0Ni00MjBjLWFmZmMtOGYxZWI1MzUzNzJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After learning heretical teachings about the Earth and the Sun, a child prodigy searches for his master's hidden research while evading the Inquisition."
+    },
+    {
+      "title": "The First Slam Dunk",
+      "netflix_url": "https://www.netflix.com/title/81765372",
+      "year": "2022",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt15242330",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGViYmNmZDUtODFlNi00MjMxLWI0ZmYtYTBiMDg2OGRiODQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows 17-year-old Ryota Miyagi, who struggles to accomplish his late elder brother's dream of becoming a basketball star."
+    },
+    {
+      "title": "100 Meters",
+      "netflix_url": "https://www.netflix.com/title/81785821",
+      "year": "2025",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt32600395",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTYyNWZiNTktNzhiYi00YWVmLWJhZTctZTc4MDRkZGMyZjVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Gifted runner Togashi dominates 100m races until transfer student Komiya arrives, motivating him to train harder. Years later, they compete as rivals on the racetrack."
+    },
+    {
+      "title": "The Summer Hikaru Died",
+      "netflix_url": "https://www.netflix.com/title/81948057",
+      "year": "2025",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt33028568",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDkxYzM3MTYtZmFjMy00MDIxLTllNDctODQxZDNkZDQzNTAxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Hikaru vanishes, replaced by an entity with his appearance, voice, and memories. The mysterious being maintains Hikaru's persona, making distinguishing it from the real Hikaru challenging as they continue their daily routines."
+    },
+    {
+      "title": "The Fragrant Flower Blooms With Dignity",
+      "netflix_url": "https://www.netflix.com/title/82024665",
+      "year": "2025",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt36592690",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q0NTNlMTAtZGVkYS00NDU1LThjYzYtZDQ3M2U5NGJiNzhkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An elite girls' school resides next to a boys' school for delinquents. One day, two students from each school, Kaoruko and Rintaro, meet and develop a connection."
+    },
+    {
+      "title": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
+      "netflix_url": "https://www.netflix.com/title/82047155",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    }
+  ]
+}

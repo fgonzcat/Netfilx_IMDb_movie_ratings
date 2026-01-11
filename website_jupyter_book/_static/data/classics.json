@@ -1,0 +1,303 @@
+{
+  "genre": "classics",
+  "genre_url": "https://www.netflix.com/browse/genre/31574",
+  "movies": [
+    {
+      "title": "The Sting",
+      "netflix_url": "https://www.netflix.com/title/1001011",
+      "year": "1973",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt0070735",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Stripes",
+      "netflix_url": "https://www.netflix.com/title/1008581",
+      "year": "1981",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt0083131",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Terminator",
+      "netflix_url": "https://www.netflix.com/title/1032625",
+      "year": "1984",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0088247",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Titanic",
+      "netflix_url": "https://www.netflix.com/title/1181461",
+      "year": "1997",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt0120338",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "As Good as It Gets",
+      "netflix_url": "https://www.netflix.com/title/1181488",
+      "year": "1997",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0119822",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Night of the Living Dead",
+      "netflix_url": "https://www.netflix.com/title/17017662",
+      "year": "1968",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0063350",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Dil Se",
+      "netflix_url": "https://www.netflix.com/title/17671454",
+      "year": "1998",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0164538",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Daag",
+      "netflix_url": "https://www.netflix.com/title/20258369",
+      "year": "1973",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0150251",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Darr",
+      "netflix_url": "https://www.netflix.com/title/20704518",
+      "year": "1993",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0109555",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Election",
+      "netflix_url": "https://www.netflix.com/title/21060973",
+      "year": "1999",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0126886",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "The Last Days",
+      "netflix_url": "https://www.netflix.com/title/21477429",
+      "year": "1998",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt0174852",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Indian",
+      "netflix_url": "https://www.netflix.com/title/27748788",
+      "year": "1996",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0116630",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Boyz n the Hood",
+      "netflix_url": "https://www.netflix.com/title/328438",
+      "year": "1991",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0101507",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Glory",
+      "netflix_url": "https://www.netflix.com/title/547335",
+      "year": "1989",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0097441",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Grave of the Fireflies",
+      "netflix_url": "https://www.netflix.com/title/557010",
+      "year": "1988",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt0095327",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Groundhog Day",
+      "netflix_url": "https://www.netflix.com/title/563104",
+      "year": "1993",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt0107048",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Erin Brockovich",
+      "netflix_url": "https://www.netflix.com/title/60000165",
+      "year": "2000",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0195685",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Braveheart",
+      "netflix_url": "https://www.netflix.com/title/60000540",
+      "year": "1995",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt0112573",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGMxZDBhNGQtYTZlNi00N2UzLWI4NDEtNmUzNWM2NTdmZDA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England."
+    },
+    {
+      "title": "Forrest Gump",
+      "netflix_url": "https://www.netflix.com/title/60000724",
+      "year": "1994",
+      "imdb_rating": "8.8",
+      "imdb_id": "tt0109830",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Kabhi Kabhie",
+      "netflix_url": "https://www.netflix.com/title/60001663",
+      "year": "1976",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0074730",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Mashaal",
+      "netflix_url": "https://www.netflix.com/title/60002820",
+      "year": "1984",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0085912",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Cast Away",
+      "netflix_url": "https://www.netflix.com/title/60020683",
+      "year": "2000",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0162222",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Barabbas",
+      "netflix_url": "https://www.netflix.com/title/60022356",
+      "year": "1961",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0055774",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Monty Python's The Meaning of Life",
+      "netflix_url": "https://www.netflix.com/title/60029676",
+      "year": "1983",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0085959",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "She's Gotta Have It",
+      "netflix_url": "https://www.netflix.com/title/60034929",
+      "year": "1986",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt0091939",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Dilwale Dulhania Le Jayenge",
+      "netflix_url": "https://www.netflix.com/title/60036747",
+      "year": "1995",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt0112870",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "A League of Their Own",
+      "netflix_url": "https://www.netflix.com/title/691124",
+      "year": "1992",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt0104694",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Crane World",
+      "netflix_url": "https://www.netflix.com/title/70018320",
+      "year": "1999",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt0213905",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Lal Patthar",
+      "netflix_url": "https://www.netflix.com/title/80158481",
+      "year": "1971",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt0237395",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Five Came Back: The Reference Films",
+      "netflix_url": "https://www.netflix.com/title/81405851",
+      "year": "1945",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Pulp Fiction",
+      "netflix_url": "https://www.netflix.com/title/880640",
+      "year": "1994",
+      "imdb_rating": "8.8",
+      "imdb_id": "tt0110912",
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Rooster Cogburn (...and the Lady)",
+      "netflix_url": "https://www.netflix.com/title/919537",
+      "year": "1975",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Stand by Me",
+      "netflix_url": "https://www.netflix.com/title/994992",
+      "year": "1986",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0092005",
+      "Poster": null,
+      "Plot": null
+    }
+  ]
+}
