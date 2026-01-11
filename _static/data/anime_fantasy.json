@@ -1,0 +1,969 @@
+{
+  "genre": "anime_fantasy",
+  "genre_url": "https://www.netflix.com/browse/genre/11146",
+  "movies": [
+    {
+      "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+      "netflix_url": "https://www.netflix.com/title/70074559",
+      "year": "2004",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0476680",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzZiNmI3MWYtYzA4YS00YjE4LWFhMzQtYzQ3MTE2MTcyOGM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Naruto and his team are hired to protect a young actress from three rogue warriors in the Land of the Snow."
+    },
+    {
+      "title": "Naruto the Movie 2: Legend of the Stone of Gelel",
+      "netflix_url": "https://www.netflix.com/title/70101321",
+      "year": "2005",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0791188",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDk5N2Y2ZGUtZGY5YS00YjgyLWEzOGItMjgwZWJjYmJiZmViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Naruto, Shikamaru and Sakura are on a mission to deliver a lost pet to a village when a mysterious knight appear to confront them."
+    },
+    {
+      "title": "Naruto the Movie 3: Guardians of the Crescent Moon Kingdom",
+      "netflix_url": "https://www.netflix.com/title/70108386",
+      "year": "2006",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1071815",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDkzNTAxMjAtMGI0Ni00M2E4LWI0YTgtNTkzMGVhYjAwYTBhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Naruto, Kakashi, Sakura, and Rock Lee are assigned to protect Michiru, the prince of the Land of the Moon, while he travel the world. The prince purchased a tiger Sham and the whole circus, which became the team's protection."
+    },
+    {
+      "title": "Naruto Shippuden: The Movie",
+      "netflix_url": "https://www.netflix.com/title/70124999",
+      "year": "2007",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0988982",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjNiOWU3ODQtNDE4Zi00M2FlLWFjMjYtZDA0NGZiZTc3Yjc2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A powerful spirit that once threatened to destroy the world is back! Naruto's mission is to protect a priestess named Shion, who is the only one with the power to seal away the monster."
+    },
+    {
+      "title": "Yu-Gi-Oh!",
+      "netflix_url": "https://www.netflix.com/title/70177034",
+      "year": "2005",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0249327",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzNkNjA1YTctMzU3ZS00ZWY3LWJjNjYtMTgyMmI0YWVkNjU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Yugi Moto solves an Ancient Egyptian Puzzle and brings forth a dark and powerful alter ego. Whenever he and his friends are threatened by evil in Duel Monster Card Game, this alter ego breaks out to save them."
+    },
+    {
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "netflix_url": "https://www.netflix.com/title/70204981",
+      "year": "2010",
+      "imdb_rating": "9.1",
+      "imdb_id": "tt1355642",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzNiODA5NjYtYWExZS00OTc4LTg3N2ItYWYwYTUyYmM5MWViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two brothers search for a Philosopher's Stone after an attempt to revive their deceased mother goes awry and leaves them in damaged physical forms."
+    },
+    {
+      "title": "InuYasha",
+      "netflix_url": "https://www.netflix.com/title/70204995",
+      "year": "2004",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0473658",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTIwOTEwODQ2Nl5BMl5BanBnXkFtZTcwMTkzODQzMQ@@._V1_SX300.jpg",
+      "Plot": "The past catches up with the world of Inuyasha and Kagome's present in a form they could never have anticipated."
+    },
+    {
+      "title": "Naruto",
+      "netflix_url": "https://www.netflix.com/title/70205012",
+      "year": "2006",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1071815",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDkzNTAxMjAtMGI0Ni00M2E4LWI0YTgtNTkzMGVhYjAwYTBhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Naruto, Kakashi, Sakura, and Rock Lee are assigned to protect Michiru, the prince of the Land of the Moon, while he travel the world. The prince purchased a tiger Sham and the whole circus, which became the team's protection."
+    },
+    {
+      "title": "Naruto Shippuden: The Movie: The Lost Tower",
+      "netflix_url": "https://www.netflix.com/title/70275937",
+      "year": "2010",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Pokémon The Series: Indigo League",
+      "netflix_url": "https://www.netflix.com/title/70297439",
+      "year": "2000",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Hunter X Hunter (2011)",
+      "netflix_url": "https://www.netflix.com/title/70300472",
+      "year": "2014",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Puella Magi Madoka Magica",
+      "netflix_url": "https://www.netflix.com/title/70302572",
+      "year": "2011",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt1773185",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGI2NDRmZTgtYzU2NS00M2Y1LTkwMWUtNTkxNWFiNjFkYmQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A creature named Kyubey offers Madoka and Sayaka a wish if they agree to become 'magical girls' and fight abstract beings called 'witches'. However, a magical girl named Homura is, for uncertain reasons, determined to stop this ag..."
+    },
+    {
+      "title": "Vampire Knight",
+      "netflix_url": "https://www.netflix.com/title/70309457",
+      "year": "2008",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1209393",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWU0ZjMxOTItNmRhYy00NjRlLTllMjgtYTdhYzBlMTgzYzY5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Yuki Cross, a student at the Cross Academy, acts as guardian to the school's vampire population."
+    },
+    {
+      "title": "Dinosaur King",
+      "netflix_url": "https://www.netflix.com/title/80007912",
+      "year": "2008",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt1524993",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzk3ZmY1YjYtMjEyZi00NDM4LTk2MWQtYTEwNmI1NGU4NDE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Max Taylor is the son of paleontologist Dr Spike Taylor and is a fan of dinosaurs."
+    },
+    {
+      "title": "Magi",
+      "netflix_url": "https://www.netflix.com/title/80009097",
+      "year": "2013",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt2935524",
+      "Poster": "N/A",
+      "Plot": "A young boy, on Christmas morning, recognizes the severity of his mother's illness and undergoes a revelation about sacrifice and the true meaning of giving."
+    },
+    {
+      "title": "The Seven Deadly Sins",
+      "netflix_url": "https://www.netflix.com/title/80050063",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt14727244",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTA2MTMwNTItYzQ3OS00NTVjLTgwNWEtZDA2MDQ2NDY0NmEwXkEyXkFqcGdeQXVyOTAxMzQ3NzI@._V1_SX300.jpg",
+      "Plot": "N/A"
+    },
+    {
+      "title": "Inuyasha: The Final Act",
+      "netflix_url": "https://www.netflix.com/title/80057177",
+      "year": "2009",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt1534184",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ0M2I5YjgtYWVjNC00ZmE1LWEyMjUtY2U4MmJjNjk2Njk3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "InuYasha's story draws to a close but not before finding Naraku and the Sacred Jewel, and facing new enemies and new dangers."
+    },
+    {
+      "title": "Kamisama Kiss",
+      "netflix_url": "https://www.netflix.com/title/80070071",
+      "year": "2012",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt2320220",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ2NWQ0Y2UtYzU5Yi00ZjI2LWE2MDEtMjRhZDNlZWJhOWQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Nanami is left homeless after her father runs away due to debts. When she saves a man named Mikage from dogs, he gives her his house which turns out to be a shrine and she becomes the new deity."
+    },
+    {
+      "title": "B: The Beginning",
+      "netflix_url": "https://www.netflix.com/title/80097594",
+      "year": "2021",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt7944664",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2E1MzMyMzQtY2I2Mi00YWRiLWE2MzUtNzZiZDY5YTNlOTVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this anime series, scientists hope \"new humans\" will create universal peace, but they're kidnapped by an evil group with very different plans."
+    },
+    {
+      "title": "Hunter x Hunter: The Last Mission",
+      "netflix_url": "https://www.netflix.com/title/80108453",
+      "year": "2013",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt3198698",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2IyMGNhZWMtNTc4Mi00OWU5LTllY2ItNzY2MGM5NmRkMTRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Hunters divided into \"light\" and \"dark\" factions. \"Dark\" hunters attack, injuring Killua and nearly killing Kurapika. Gon considers joining the \"dark\" side to gain strength to save friends after learning about the Association's mi..."
+    },
+    {
+      "title": "Hunter x Hunter: Phantom Rouge",
+      "netflix_url": "https://www.netflix.com/title/80108601",
+      "year": "2013",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt2918988",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGRhOTJkNTEtZjFiNS00Yzc1LThkM2EtOTIwNmRiZDIxNWQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Someone has stolen Kurapika's eyes-and another survivor from his clan whose members were massacred for their Scarlet Eyes! Gon and Killua begin investigating on his behalf, but shortly after they've begun, the Phantom Troupe appears!"
+    },
+    {
+      "title": "The Disastrous Life of Saiki K.",
+      "netflix_url": "https://www.netflix.com/title/80117781",
+      "year": "2018",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt6354518",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzJhYWEyMWUtZDYwNS00NTU4LTgwODItYjBlNzEwMTc5MTc2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Saiki Kusuo is a powerful psychic who hates attracting attention, yet he is surrounded by colorful characters who always find a way to remove him from his everyday life."
+    },
+    {
+      "title": "Charlotte",
+      "netflix_url": "https://www.netflix.com/title/80142917",
+      "year": "2015",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt4574736",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmIxNDIxMDgtNTk5Mi00YzYyLWI2ZjgtMmUxZmEwOWExOTJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story takes place in an alternate reality where a small percentage of children manifest superhuman abilities upon reaching puberty. A focus is placed on Yuu Otosaka, a high school boy who awakens the ability to temporarily pos..."
+    },
+    {
+      "title": "Sailor Moon Crystal",
+      "netflix_url": "https://www.netflix.com/title/80145747",
+      "year": "2016",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt3124992",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQwMjkyOTMtZjdhMS00NGM0LTkxNTEtMzQ2NjBlMjNhM2FhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Usagi Tsukino is chosen to be a guardian of justice and is sent on a quest to locate a Silver Crystal before the Dark Kingdom invades the Earth."
+    },
+    {
+      "title": "Naruto Shippuden the Movie: Blood Prison",
+      "netflix_url": "https://www.netflix.com/title/80152537",
+      "year": "2011",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt1999167",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTgwZDkyODktYjk0My00NTVhLWIxMmQtMGY4ODYzMTlhYmE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Naruto Uzumaki is framed and sent to an inescapable prison where he must escape by any means necessary."
+    },
+    {
+      "title": "Little Witch Academia",
+      "netflix_url": "https://www.netflix.com/title/80156387",
+      "year": "2017",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt6352180",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA0YTdmOTYtZWQyOS00NjU4LTgyMGItOWRiMWFiZTAzNTYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Akko enrolls at the Luna Nova Witchcraft Academy. She's not the best student, but her bright attitude is the key to her and her friends' success."
+    },
+    {
+      "title": "Children of the Whales",
+      "netflix_url": "https://www.netflix.com/title/80174917",
+      "year": "2017",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt7484994",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzcwZTBjYzYtZWM1Mi00ODFlLTllMzgtNDFkZjVjOWVkNTVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "As a magic weilder, young archivist Chakuro knows his life will be short, but everything changes when a mysterious girl from the outside arrives on his island."
+    },
+    {
+      "title": "SWORDGAI The Animation",
+      "netflix_url": "https://www.netflix.com/title/80175350",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "JoJo's Bizarre Adventure",
+      "netflix_url": "https://www.netflix.com/title/80179831",
+      "year": "2021",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt2359704",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzIyNzY4NTMtNmVhYS00OWFhLTkwMWMtOGFkNTdmNWU2ZDdiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of the Joestar family, who are possessed with intense psychic strength, and the adventures each member encounters throughout their lives."
+    },
+    {
+      "title": "Fate/Apocrypha",
+      "netflix_url": "https://www.netflix.com/title/80180849",
+      "year": "2017",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt6424454",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDdiYTZjYjktYTZmZi00M2FkLWE4MjQtYTE3ZTg3ZWQwN2RiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In an alternate universe, the Holy Grail War was won by the Yggdamillenia family. Now two factions with 7 Master-Servant pairs each and 1 extra Servant as the Ruler are fighting to win the Greater Holy Grail."
+    },
+    {
+      "title": "Violet Evergarden",
+      "netflix_url": "https://www.netflix.com/title/80182123",
+      "year": "2018",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt7078180",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWUwNDFiNjQtYjQ0MC00MTcxLWE0MGQtNTdkYTlhZGU2NDFmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the aftermath of a great war, Violet Evergarden, a young female ex-soldier, gets a job at a writers' agency and goes on assignments to create letters that can connect people."
+    },
+    {
+      "title": "Fate/EXTRA Last Encore",
+      "netflix_url": "https://www.netflix.com/title/80185145",
+      "year": "2018",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt7940468",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmJjOTE1ZjYtMzZiMy00ZGQzLWFjMGEtY2E3MjVlYjFlODMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Hakuno awakens in a virtual realm with amnesia, forced into a deadly conflict for the mythical Holy Grail that can grant any wish. Aided by an enigmatic \"Servant,\" he must battle friends and foes alike to unravel the truth of his ..."
+    },
+    {
+      "title": "SAINT SEIYA: Knights of the Zodiac",
+      "netflix_url": "https://www.netflix.com/title/80186926",
+      "year": "2020",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt0161952",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDI1M2U3NDktNmU3Mi00NDFiLTkyZTUtMjcxNWMzMWVmM2Y5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group a young warriors known as 'Saints', each in possession of a 'cloth' guarded by a different constellation, must protect the reincarnation of the goddess Athena as she attempts to keep the Earth from being destroyed by evil ..."
+    },
+    {
+      "title": "Cannon Busters",
+      "netflix_url": "https://www.netflix.com/title/80195357",
+      "year": "2019",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt5066664",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGRmM2UxZTMtNzJmYi00NmFhLWJlMGItYzlhOTY5MDk0Yzc4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Explore fantastic land of Gearbolt as we follow a motley crew of travelers on an unforgettable journey to reunite 2 best friends."
+    },
+    {
+      "title": "Seis Manos",
+      "netflix_url": "https://www.netflix.com/title/80217066",
+      "year": "2019",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt10106108",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzBjOGJhNzQtOGUxMC00OWI5LTk3NzMtNmI4NzAwNzRhNDdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Orphans raised by a martial arts master are plunged into a mystery involving demonic powers, drug cartels, ancient rituals and blood sacrifice."
+    },
+    {
+      "title": "Black Clover",
+      "netflix_url": "https://www.netflix.com/title/80238012",
+      "year": "2020",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt7441658",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmZkZjNhMWMtM2U0Mi00MjdlLTk3NmMtMTMwZjgwOTJmODMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus."
+    },
+    {
+      "title": "DRAGON PILOT: Hisone & Masotan",
+      "netflix_url": "https://www.netflix.com/title/80241960",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Yasuke",
+      "netflix_url": "https://www.netflix.com/title/80990863",
+      "year": "2021",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt9310330",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGU1OGI2OWItNGU3Yi00YjlmLWIzNDAtODQxZmVhNzU3MjQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "He came from Africa and fought alongside a mighty feudal lord in brutal 16th century Japan. They called him the Black Samurai, and he became a legend."
+    },
+    {
+      "title": "Dorohedoro",
+      "netflix_url": "https://www.netflix.com/title/80991903",
+      "year": "2020",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt11147852",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE2M2I0ZmYtYjMxYS00NzYzLWEzNmEtZjQ4ODhmMDNmN2MyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Amnesiac Caiman seeks to undo his lizard head curse by killing the sorcerer responsible, with his friend Nikaido's help. In the Hole, that's a threat."
+    },
+    {
+      "title": "Dragon's Dogma",
+      "netflix_url": "https://www.netflix.com/title/80992784",
+      "year": "2020",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt10011298",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjJlYTllODktMzExZC00ZjIxLWFkNjQtMTFmY2Q2NTE5M2U4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ethan sets out to vanquish the Dragon that took his heart, but with every demon he battles, he loses more of his humanity."
+    },
+    {
+      "title": "DRIFTING DRAGONS",
+      "netflix_url": "https://www.netflix.com/title/80992788",
+      "year": "2020",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt11418344",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmIyMjg2NmUtNzg4NS00NThiLWJjMDgtY2Q4OTg5NjY4MWVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dragons are on the menu as the crew of the airship Quin Zaza sets out on a hunt. If they fail, empty stomachs will be the least of their worries."
+    },
+    {
+      "title": "DOTA: Dragon's Blood",
+      "netflix_url": "https://www.netflix.com/title/80994336",
+      "year": "2022",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt14069590",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ2YjcwZDUtNDQ4YS00MThjLWJlMjYtZjkxMTYxNmU4MGY0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After encounters with a dragon and a princess on her own mission, a Dragon Knight becomes embroiled in events larger than he could have ever imagined."
+    },
+    {
+      "title": "Vampire in the Garden",
+      "netflix_url": "https://www.netflix.com/title/80996247",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10011314",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGIwMzFjZmItYmExNS00YzE5LTkxMmUtNjBjZDc2YTZkMDdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the divided world of the future, two girls want to do the forbidden: the human wants to play the violin, and the vampire wants to see a wider world."
+    },
+    {
+      "title": "Sirius the Jaeger",
+      "netflix_url": "https://www.netflix.com/title/80997339",
+      "year": "2018",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt8565136",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjNmYmI0YjMtNzJhMy00NmE3LWFjOTgtMWE3MDA2MmExY2FmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In imperial Tokyo, a team calling itself \"Jaegers\" secretly pursues vampires in search of the Ark of Sirius. One of the Jaegers is Yuliy, a young werewolf."
+    },
+    {
+      "title": "Blood of Zeus",
+      "netflix_url": "https://www.netflix.com/title/81001988",
+      "year": "2025",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt10009170",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM0ZDcwMTQtZGQxNS00MjBiLTk5ZGUtZGNhOGU1YzdmMWYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A commoner living in ancient Greece, Heron discovers his true heritage as a son of Zeus, and his purpose: to save the world from a demonic army."
+    },
+    {
+      "title": "Bright: Samurai Soul",
+      "netflix_url": "https://www.netflix.com/title/81001990",
+      "year": "2021",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt14837960",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGIyMGQ4MGItN2U5NS00MGY4LTg3NjEtYzA0NTgyNjM4NjFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Izo, a Ronin, and Raiden, an orc, work to bring a young elf girl and the wand she carries to the land of the elves in the north."
+    },
+    {
+      "title": "The Idhun Chronicles",
+      "netflix_url": "https://www.netflix.com/title/81002001",
+      "year": "2021",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt9731266",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODk5MzE2NTgtZDBkNy00YmQzLTg0NzItM2FkMTQ5MmI5MjdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The day the three Suns and three Moons came together in alignment over Idhun, Ashran the necromancer seized power and the reign of the winged snakes started."
+    },
+    {
+      "title": "Tekken: Bloodline",
+      "netflix_url": "https://www.netflix.com/title/81002441",
+      "year": "2022",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt19875850",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmM3MTc2ODUtZGZkMS00ZWQ2LWEwNWEtOGRkMGI5NmZhY2RhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow Jin Kazama and his fight to become one of the best fighters in the King of the Iron Fist tournament."
+    },
+    {
+      "title": "The Seven Deadly Sins the Movie: Prisoners of the Sky",
+      "netflix_url": "https://www.netflix.com/title/81006261",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Trese",
+      "netflix_url": "https://www.netflix.com/title/81012541",
+      "year": "2021",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt9310336",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODU2ZjEwMjUtMTZiOS00NmFiLTkwOTMtOWUxMjAxZTlmMGFmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set in Manila where the mythical creatures of Philippine folklore live in hiding amongst humans, Alexandra Trese finds herself going head to head with a criminal underworld comprised of malevolent supernatural beings."
+    },
+    {
+      "title": "Sol Levante",
+      "netflix_url": "https://www.netflix.com/title/81017017",
+      "year": "2020",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt12079068",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ExYjA0MjEtYjgyYS00YTA0LWI2NWQtNDE2MjFlZmRkOWY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young warrior leaves in search of the sacred place which is said to grant wishes. Better not to stir the wrath of the ancient guardian spirits."
+    },
+    {
+      "title": "Ultramarine Magmell",
+      "netflix_url": "https://www.netflix.com/title/81019771",
+      "year": "2019",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt9826314",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTdiOTFkM2ItYzg5Mi00MmZlLWFjMjQtZjY2N2EwOWY2NmI5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Unknown creatures. Deadly pitfalls. With so many reckless adventures out to make fortune, someone's got to rescue them."
+    },
+    {
+      "title": "The Witcher: Nightmare of the Wolf",
+      "netflix_url": "https://www.netflix.com/title/81037868",
+      "year": "2021",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt11657662",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQzNDE4N2ItZDAwMC00YzA3LTkwMTEtZDgyMjE3M2ZiY2NiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Escaping from poverty to become a witcher, Vesemir slays monsters for coin and glory, but when a new menace rises, he must face the demons of his past."
+    },
+    {
+      "title": "BEASTARS",
+      "netflix_url": "https://www.netflix.com/title/81054847",
+      "year": "2024",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt11043632",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDRlMDA0MTctYjNmYy00MzRhLWEwYjEtYmYxZTI5YTdjMTgyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a world of anthropomorphic animals, a reclusive wolf's complicated relationship with a kindly rabbit is tested by a classmate's murder, a charismatic deer's influence, and his own burgeoning predatory instincts."
+    },
+    {
+      "title": "The Disastrous Life of Saiki K.: Reawakened",
+      "netflix_url": "https://www.netflix.com/title/81054849",
+      "year": "2019",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt11163352",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmVlMmM1ZWQtNzYzZi00NmViLWI2ZGYtZjgxNGU3MmUzOWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Kusuo and his gaggle of self-proclaimed friends are back for more psychic mishaps. If he didn't have enough problems before, he's got even more now."
+    },
+    {
+      "title": "The Rising of the Shield Hero",
+      "netflix_url": "https://www.netflix.com/title/81058649",
+      "year": "2019",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt9529546",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjc4ZGZkNjMtZTRkYS00Mjk4LTgwMzAtMzg1MWZlZjcxNDRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A gamer is magically summoned into a parallel universe, where he is chosen as one of four heroes destined to save the world from its prophesied doom."
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "netflix_url": "https://www.netflix.com/title/81091393",
+      "year": "2024",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt30395619",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDg2Y2UxYTItMTViNi00ODA5LTljM2ItYzhiZDZmODQwOTE0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tanjiro undergoes rigorous training with the Stone Hashira, Himejima, in his quest to become a Hashira. Meanwhile, Muzan continues to search for Nezuko and Ubuyashiki."
+    },
+    {
+      "title": "NiNoKuni",
+      "netflix_url": "https://www.netflix.com/title/81093113",
+      "year": "2019",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt9760504",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWJkZWU4ODMtZjQzOS00YzljLTkxZjYtY2Q0YzcxY2MwMjc0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "High school peers Yuu and Haru travel between the real world and a parallel fantasy universe to help their friend Kotona, whose life is in danger."
+    },
+    {
+      "title": "Kabaneri of the Iron Fortress: The Battle of Unato",
+      "netflix_url": "https://www.netflix.com/title/81095103",
+      "year": "2019",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt10253816",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzAxY2Y5YWMtNzg2NS00MWQyLTg4YmEtNDcyMzdkZGJiNzkxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The film chronicles the attempt of the team to take back Unato castle."
+    },
+    {
+      "title": "Dragon Age: Absolution",
+      "netflix_url": "https://www.netflix.com/title/81183924",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt21031054",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWM2Y2NmZDItYzZiNS00ZTFkLTk4MzEtOTU1ZDA3MmUwOWUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set in the Tevinter Empire, the oldest of several human nations in Thedas explore the experiences of its different inhabitants."
+    },
+    {
+      "title": "Violet Evergarden the Movie",
+      "netflix_url": "https://www.netflix.com/title/81193214",
+      "year": "2020",
+      "imdb_rating": "8.3",
+      "imdb_id": "tt8652818",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWUyNDFjOWUtNGM5MS00YTUzLWFhYzYtZDg5NDNjMWJiY2MyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After the aftermath of a war, a young girl who was used as a 'tool' for war learned to live. With the scars of burns, she goes back to her past to feel the true feelings of the Major's, \"I love you.\""
+    },
+    {
+      "title": "Onmyoji",
+      "netflix_url": "https://www.netflix.com/title/81215624",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt22264252",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzFlMzdhNmQtNWM4OS00OWNjLTg2NDYtYmE5NWQ3NDJlN2M5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The tale of Abe no Seimei, a legendary spell-caster who lived in ancient Japan."
+    },
+    {
+      "title": "BNA",
+      "netflix_url": "https://www.netflix.com/title/81220429",
+      "year": "2020",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt12013558",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzUxMzAxYTMtMmYzOS00YzYyLWE2ZDUtYmQxZDhiNWIxNDNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Morphed into a raccoon beastman, Michiru seeks refuge, and answers, with the aid of wolf beastman Shirou inside the special zone of Anima-City."
+    },
+    {
+      "title": "SHAMAN KING",
+      "netflix_url": "https://www.netflix.com/title/81239555",
+      "year": "2022",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt0367409",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2IwZTFjNzMtMjA0OC00MGRiLWExOGUtYTdmMjU3ZDMyMTQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "SHAMAN KING follows the adventures of a 13-year-old shaman and his teammate a samurai warrior spirit, who traverse the world fighting evil spirits and misguided shamans on their journey to be the next Shaman King."
+    },
+    {
+      "title": "My Daemon",
+      "netflix_url": "https://www.netflix.com/title/81261227",
+      "year": "2023",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt28612257",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGYzNjRmZmYtMTMwNy00OTA1LTg5NjQtZjA5ODM3YTQzZTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "To save his mother, a kind-hearted boy and his tiny daemon friend set out on a journey across post-apocalyptic Japan as dark forces close in."
+    },
+    {
+      "title": "The Seven Deadly Sins: Cursed by Light",
+      "netflix_url": "https://www.netflix.com/title/81263946",
+      "year": "2021",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt13884144",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGNlMzNiZGYtZDBiOC00MjVjLTgwODYtYWZmYTkxMDY1NjI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Meliodas and his friends jump back into action when the new era of peace is threatened by a powerful magical alliance that could spell the end for all."
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "netflix_url": "https://www.netflix.com/title/81278456",
+      "year": "2020",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt12343534",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjBlNTExMDAtMWZjZi00MDc5LWFkMjgtZDU0ZWQ5ODk3YWY5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman's school to be able to locate the demon's other body parts and thus exorcise himself."
+    },
+    {
+      "title": "Thus Spoke Kishibe Rohan",
+      "netflix_url": "https://www.netflix.com/title/81280998",
+      "year": "2021",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt13887556",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2YxM2Q0ZWYtNGZhOS00MzVlLWFiMDctMTE5ZmI4OGFmNTQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A popular manga creator becomes enmeshed in paranormal events while conducting research."
+    },
+    {
+      "title": "Record of Ragnarok",
+      "netflix_url": "https://www.netflix.com/title/81281579",
+      "year": "2025",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt13676344",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ5NWY2OWEtMDdjNC00N2YxLTkxYTctNDJlNmE1MmMzYzU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Every 1000 years, the Gods' Council assemble to decide the fate of humanity. After 7 million years of human history, the gods come to the decision that humans are irredeemable and must be extinct."
+    },
+    {
+      "title": "BASTARD‼ -Heavy Metal, Dark Fantasy-",
+      "netflix_url": "https://www.netflix.com/title/81281582",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "A Whisker Away",
+      "netflix_url": "https://www.netflix.com/title/81281872",
+      "year": "2020",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt11958344",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjEyNGY0MTYtYjE4ZC00MDI1LWJmNjgtMzA2MjhhOGY2ZDhjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Miyo Sasaki is in love with her classmate Kento Hinode and tries repeatedly to get Kento's attention by transforming into a cat, but at some point, the boundary between herself and the cat becomes ambiguous."
+    },
+    {
+      "title": "The Seven Deadly Sins: Grudge of Edinburgh Part 1",
+      "netflix_url": "https://www.netflix.com/title/81302750",
+      "year": "2022",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt17677744",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDM4OWNiYjUtM2QwYy00NTk4LWFmYWUtZjIzNTc3MTVhZjQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When sinister forces threaten the peace of Britannia, a young prince embarks on a perilous journey to save his loved ones and discover his true powers."
+    },
+    {
+      "title": "The Seven Deadly Sins: Grudge of Edinburgh Part 2",
+      "netflix_url": "https://www.netflix.com/title/81306306",
+      "year": "2023",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt25010142",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjc4MTFkNDgtMGE3MC00OTU2LWIyNDAtOTg3MjU2MWE4MWQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Reunited with Lancelot for the first time since their tragic accident, Tristan must learn to conquer his inner demons in order to save his mother's life."
+    },
+    {
+      "title": "My Melody & Kuromi",
+      "netflix_url": "https://www.netflix.com/title/81318403",
+      "year": "2025",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt35323313",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2E5MzA1YjMtOGNmMS00YmQ1LWFhNzctNjNlNmI1Y2NkY2MwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "My Melody's new cake shop thrives after finding a mysterious heart. Rival Kuromi's shop struggles. Both prepare for a contest judged by Chef Pistachio, unaware it'll endanger Mariland."
+    },
+    {
+      "title": "Drifting Home",
+      "netflix_url": "https://www.netflix.com/title/81328781",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt15494038",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTUwMzAwYWItZjhiOS00ZTc1LWE4MjgtYzVmZDk5OWEwM2EwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows two childhood friends who drift into a mysterious sea with an entire housing complex."
+    },
+    {
+      "title": "Monster Hunter: Legends of the Guild",
+      "netflix_url": "https://www.netflix.com/title/81346827",
+      "year": "2021",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt9174358",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzEzZDk5ZGEtZTI1YS00MzExLWE5MzItNmFjYzczY2Y2ZmMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a world where humans and fearsome monsters live in an uneasy balance, young hunter Aiden fights to save his village from destruction by a dragon."
+    },
+    {
+      "title": "Akuma Kun",
+      "netflix_url": "https://www.netflix.com/title/81400498",
+      "year": "2023",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt16270188",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWM2MGNkZmYtOGQxYS00MDM5LWFhMDEtMzBlZjgzMGMyNjEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A boy trying create a society where humanity realizes it's true potential and lives happily, with the help of some unlikely allies."
+    },
+    {
+      "title": "New Gods: Nezha Reborn",
+      "netflix_url": "https://www.netflix.com/title/81418302",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt13269670",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmEwMTUxNjctNWE3NC00NDY4LThkZDQtNTk4MmJlYjdjZDMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A normal young deliveryman Li Yunxiang, though coming from the slum area, is living a satisfying life but when the arrogant wealthy son of Boss beats him down, his deep anger turns into a blast of Truth Fire."
+    },
+    {
+      "title": "Castlevania: Nocturne",
+      "netflix_url": "https://www.netflix.com/title/81436901",
+      "year": "2025",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt14833612",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODJhZDcxMWItNmI3MC00NGZhLWI2YmMtYjc2ZDFkYjRiYTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "During the French Revolution, vampire hunter prodigy Richter Belmont fights to uphold his family's legacy and prevent the rise of a ruthless, power-hungry vampire."
+    },
+    {
+      "title": "Black Clover: Sword of the Wizard King",
+      "netflix_url": "https://www.netflix.com/title/81448990",
+      "year": "2023",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt22868844",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGIxZjZlZjUtODM0OC00NDJlLWI5ZjItNDg3MGJmODVmZWNhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a world where magic is everything, Asta, a boy who was born with no magic, aims to become the \"Wizard King\" to overcome adversity, prove his power, and keep his oath with his friends."
+    },
+    {
+      "title": "Child of Kamiari Month",
+      "netflix_url": "https://www.netflix.com/title/81478031",
+      "year": "2021",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt13057626",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWY1ODQyNzctMzdjNi00MWVjLTgyZjctM2Q0MmQ3MGNiMTVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A year after losing her mother, a little girl learns that she must journey across Japan to the annual gathering of gods in the sacred land of Izumo."
+    },
+    {
+      "title": "Uncle from Another World",
+      "netflix_url": "https://www.netflix.com/title/81499847",
+      "year": "2022",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt15219320",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjY4MmVhOTItOTU4Mi00N2UxLWFhMGYtNmJkNmIzYzFhYzkxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Takafumi's uncle awakens from a 17-year coma. He had actually gone to another world, and has returned with magical powers. But now that he's back, Takafumi must help him survive in his original world."
+    },
+    {
+      "title": "Inu-Oh",
+      "netflix_url": "https://www.netflix.com/title/81499851",
+      "year": "2020",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt10540510",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2I3NjIzYzItN2M4ZS00MWQwLTkzMGItODczNGU2ODRmZDA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A cursed dancer and a musician stun society with electrifying concerts in this animated rock opera."
+    },
+    {
+      "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+      "netflix_url": "https://www.netflix.com/title/81562396",
+      "year": "2024",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt20228550",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzAyMWVlYzMtN2VjMi00MTMxLWFjNTMtZWQ5NThjOTc2YjNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A new generation of adventurers comes together to change the world, as a prophecy states. But will they bring good or destruction?"
+    },
+    {
+      "title": "Delicious in Dungeon",
+      "netflix_url": "https://www.netflix.com/title/81564899",
+      "year": "2024",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt21621494",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmU3ZGFhMmYtNzczYy00NTE0LThkYjgtNWFiYTY2NzRkM2QzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Can sisters be reincarnated from dragon meat? Laios and his friends Marcille and Chilchuck delve into an endless dungeon in search of his fallen sister, fighting monsters, starvation, and corruption."
+    },
+    {
+      "title": "My Happy Marriage",
+      "netflix_url": "https://www.netflix.com/title/81564905",
+      "year": "2025",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt19869172",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzFkNDE4MmYtYTI4ZS00NTM1LWJlMTEtNWE2ZGNiZTE5YTVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An unhappy young woman from an abusive family is married off to a fearsome and chilly army commander. But the two learn more about each other, love may have a chance."
+    },
+    {
+      "title": "The Imaginary",
+      "netflix_url": "https://www.netflix.com/title/81565710",
+      "year": "2024",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt16369708",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjg1ZWYxNTMtMmUyNC00YjdiLTliNjktMTg4ZDc3NmY5YzU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rudger is a boy no one can see, imagined by Amanda to share her thrilling make-believe adventures. When Rudger arrives alone at The Town of Imaginaries, where forgotten Imaginaries live and find work, he faces a mysterious threat."
+    },
+    {
+      "title": "Hell's Paradise: Jigokuraku",
+      "netflix_url": "https://www.netflix.com/title/81574246",
+      "year": "2023",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt13911284",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjhmMjhkNjUtMGU2MC00N2IzLTg1YzItZDk5ODMxMDYxODc0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A squad of prisoners and their guards are sent to investigate a mysterious island. They get stranded there and must rely on each other to survive the island's mysterious and monstrous residents."
+    },
+    {
+      "title": "My Oni Girl",
+      "netflix_url": "https://www.netflix.com/title/81582442",
+      "year": "2024",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt31788773",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmUyNjE1YjUtZGJlNC00YTcyLTgzZWQtOGUxNjJhM2VmODY0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A high school student's life takes an unexpected turn when he meets an oni (demon) girl on a quest in the human world."
+    },
+    {
+      "title": "Jujutsu Kaisen 0: The Movie",
+      "netflix_url": "https://www.netflix.com/title/81602834",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "No Doubt in Us",
+      "netflix_url": "https://www.netflix.com/title/81648185",
+      "year": "2022",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt26596306",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGMyOWY4ODgtM2MyOC00ZGE4LWE2NzktN2NiYmI0ZWM5ZDBiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When an emperor accidentally switches bodies with his empress, the two must deal with the awkward fallouts as they learn to accept each other."
+    },
+    {
+      "title": "Qi Refining for 3000 Years",
+      "netflix_url": "https://www.netflix.com/title/81648397",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt33361731",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGY1YjkyNTUtNmQxMS00NGI2LTllZjEtNmZhYzhjYjdlYTRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bai Qiuran is one of Qingming's disciples, and has a lot of potential to be his successor. Even though he's still a Qi cultivator, he believes he will finally make his breakthrough this time. As such, Bai Qiuran decides to go down..."
+    },
+    {
+      "title": "Magic and Muscles",
+      "netflix_url": "https://www.netflix.com/title/81685164",
+      "year": "2024",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt21209804",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyNjg4MzItMGI3MS00MGVmLWE5MDMtODk4NjIyNzFlOWZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Into a world of magicians is born Mash, a young boy who lacks magic but is the strongest person around. His existence and destiny will change his world."
+    },
+    {
+      "title": "Suzume",
+      "netflix_url": "https://www.netflix.com/title/81696498",
+      "year": "2022",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt16428256",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODhkNDhmNzktODFmMC00NDZiLWEzN2UtY2YwYzgzYTVlMWZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A modern action adventure road story where a 17-year-old girl named Suzume helps a mysterious young man close doors from the other side that are releasing disasters all over in Japan."
+    },
+    {
+      "title": "The Deer King",
+      "netflix_url": "https://www.netflix.com/title/81700393",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt11417856",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjc4MzVlODAtNjEzYi00MmE5LWIzYzYtMGM5YzE1OGViN2ExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The last survivor of a band of warriors is enslaved in a salt mine. One night, savage dogs attack and a mysterious disease wipes out everyone at the mine. The warrior escapes with a little girl, while a gifted physician looks for ..."
+    },
+    {
+      "title": "Anpanman: Adventure of Happie",
+      "netflix_url": "https://www.netflix.com/title/81719798",
+      "year": "2005",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Anpanman: Star-Spirited Dollie",
+      "netflix_url": "https://www.netflix.com/title/81719799",
+      "year": "2006",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15685194",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTJhMzg4M2ItYTIxOS00MjY5LTg0MDUtYzc4MmU3YzQ0ODhlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The beloved children's superhero has his hands full after he saves Dollie, who comes to life and annoys others with her non-stop search for fun times."
+    },
+    {
+      "title": "Anpanman: The Secret of Fairy Rin-Rin",
+      "netflix_url": "https://www.netflix.com/title/81719804",
+      "year": "2008",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt1260507",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWFkMWY1ZmItNTViYy00OGI4LWJjMzEtMzFhNzAwMzZhN2UzXkEyXkFqcGdeQXVyNjgwNTk4Mg@@._V1_SX300.jpg",
+      "Plot": "N/A"
+    },
+    {
+      "title": "Anpanman: The Blacknose with Magical Song",
+      "netflix_url": "https://www.netflix.com/title/81719808",
+      "year": "2010",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Anpanman: Apple Boy And Everyone's Hope",
+      "netflix_url": "https://www.netflix.com/title/81719818",
+      "year": "2014",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15041652",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NGFiNjctM2JlZC00Njc5LThkZTQtNDVjMDVmZjg4MjAxXkEyXkFqcGdeQXVyMTEwMDc4OTU@._V1_SX300.jpg",
+      "Plot": "N/A"
+    },
+    {
+      "title": "Anpanman: Nanda and Runda from Star of Toys",
+      "netflix_url": "https://www.netflix.com/title/81719826",
+      "year": "2016",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Frieren: Beyond Journey's End",
+      "netflix_url": "https://www.netflix.com/title/81726714",
+      "year": "2023",
+      "imdb_rating": "8.9",
+      "imdb_id": "tt22248376",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTI4ZGMxN2UtODlkYS00MTBjLWE1YzctYzc3NDViMGI0ZmJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Elf mage Frieren and her fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people arou..."
+    },
+    {
+      "title": "Pretty Guardian Sailor Moon Cosmos The Movie",
+      "netflix_url": "https://www.netflix.com/title/81732000",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Shaman King Flowers",
+      "netflix_url": "https://www.netflix.com/title/81749969",
+      "year": "2024",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt30873755",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWM5MGZmZDMtNTcxYi00Njg3LThmMTctYzMzYzdlZTM3MzdmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Asakura Hana's monotonous life takes an unexpected turn when a family feud erupts, challenging him to battle for supremacy within his own clan, igniting excitement he craved."
+    },
+    {
+      "title": "Sakuna: Of Rice and Ruin",
+      "netflix_url": "https://www.netflix.com/title/81914001",
+      "year": "2024",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt32592756",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGI0Y2I3NWItNmZjNS00NTc1LTk1MTQtNjFlODdlNTg2ZTgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the easternmost corner of the country of Yanato, people have believed since ancient times that there are two worlds in this country."
+    },
+    {
+      "title": "Tougen Anki",
+      "netflix_url": "https://www.netflix.com/title/81969861",
+      "year": "2025",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt32344704",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzE5MDU3YjMtZjk5Yi00YTFlLThmMGQtOGI2ODZlNzJlMTg2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Shiki's father is killed, he discovers he has demon ancestry and enters a secret war going on between demons and heroes."
+    },
+    {
+      "title": "WITCH WATCH",
+      "netflix_url": "https://www.netflix.com/title/81991687",
+      "year": "2025",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt33165027",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGMwYjdmMDQtODZiMC00YzczLWFkMjctZDhjYTI3MzEyMDg3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A dire prophecy hangs over the young witch Nico. Can her childhood friend Morihito keep her safe or will Nico's out-of-control magic get in the way?"
+    }
+  ]
+}

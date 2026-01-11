@@ -8,8 +8,8 @@
       "year": "2023",
       "imdb_rating": "7.0",
       "imdb_id": "tt1643266",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ4NTFiNjItYzI1My00NDBhLTg2ODQtZDE1ZWJmMTA4ZGE3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Science and mythology - and how they are the same thing."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Making a Murderer",
@@ -17,8 +17,8 @@
       "year": "2018",
       "imdb_rating": "8.5",
       "imdb_id": "tt5189670",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4Mjc1NjE4Ml5BMl5BanBnXkFtZTgwMjk2NjA1NjM@._V1_SX300.jpg",
-      "Plot": "Filmed over a 10-year period, Steven Avery, a DNA exoneree who, while in the midst of exposing corruption in local law enforcement, finds himself the prime suspect in a grisly new crime."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "30 for 30: Bad Boys",
@@ -35,8 +35,8 @@
       "year": "2024",
       "imdb_rating": "7.5",
       "imdb_id": "tt33323674",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ3Y2NiZjItOTlhOS00ZTdiLThkMGEtMThiNDEyOGFjMjBjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Four masterful chefs explore noodles' rich, diverse world, delving into traditional and innovative techniques. Immerse yourself in the delectable journey."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Cooked",
@@ -44,17 +44,8 @@
       "year": "2016",
       "imdb_rating": "8.0",
       "imdb_id": "tt5347906",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYWYzYWRjOWItNTljOC00MTk0LTk0NWEtMGU1N2JjZmFjY2UyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "As he tries his hand at baking, brewing and braising, acclaimed food writer Michael Pollan explores how cooking transforms food and shapes our world."
-    },
-    {
-      "title": "Hot Girls Wanted",
-      "netflix_url": "https://www.netflix.com/title/80038162",
-      "year": "2015",
-      "imdb_rating": "6.1",
-      "imdb_id": "tt4382552",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDYxZmZhMmUtNTY3YS00YmQyLWI3ODctMWI2ZTEwMWRmYTJlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A documentary about young women who have been drawn into the sex trade - and how easy it is for a web-savvy generation to end up making porn."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Our Planet",
@@ -62,8 +53,8 @@
       "year": "2023",
       "imdb_rating": "8.1",
       "imdb_id": "tt23181388",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTlmZjg1ZDctNjkwMi00NzU2LWFlYWMtZjdkMzMxYjViYmNhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The incredible story of life's epic, four-billion-year journey on Earth comes alive in this series from Steven Spielberg and the team behind \"Our Planet.\""
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Family",
@@ -71,8 +62,8 @@
       "year": "2019",
       "imdb_rating": "6.4",
       "imdb_id": "tt10715148",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDkxNDI0MWEtMDY2My00OTE4LTgwZjktZTI1ZTc2MDg1N2FmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An enigmatic Christian group known as The Family wields enormous influence in Washington, DC, in pursuit of its global ambitions."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Last Chance U",
@@ -80,8 +71,8 @@
       "year": "2020",
       "imdb_rating": "8.4",
       "imdb_id": "tt5863126",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODFhMWQwMDItZmM2Yy00YTVmLTk2YjEtYTFlNjg5YmRhZGE1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Intense look inside the world of junior college football, chronicling the stories of players and coaches in the classroom and on the field."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Roman Empire",
@@ -89,8 +80,8 @@
       "year": "2019",
       "imdb_rating": "7.0",
       "imdb_id": "tt6233538",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQwYzYyODEtMGNhMS00YmI2LWJmZTktYWE1YjI4MDExNDAzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Chronicles some of the most famous leaders of the Roman Civilization."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Audrie & Daisy",
@@ -98,8 +89,8 @@
       "year": "2016",
       "imdb_rating": "7.2",
       "imdb_id": "tt5278460",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDkyMjU1NV5BMl5BanBnXkFtZTgwNjQwNDc4OTE@._V1_SX300.jpg",
-      "Plot": "A look at the effects that online bullying has on the lives of teenagers and their community."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Dirty Money",
@@ -107,8 +98,8 @@
       "year": "2020",
       "imdb_rating": "N/A",
       "imdb_id": "tt13648444",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmJmY2IwOWYtN2VhNy00NzEzLTk5ZWMtZWU3ZjFkMGMyMmYxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In 2020, drug runner Robbie Crux will be sent out on his most important job by his boss Nicky Rings to rob one of the biggest crime hot spots. Robbie's job - acquire the DIRTY MONEY."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "30 for 30: O.J.: Made in America",
@@ -125,8 +116,8 @@
       "year": "2017",
       "imdb_rating": "8.0",
       "imdb_id": "tt6792200",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODgwNDM1Mzg4NF5BMl5BanBnXkFtZTgwOTQ5NzQwMjI@._V1_SX300.jpg",
-      "Plot": "A seven-part docuseries about the unsolved murder of a nun and the horrific secrets and pain that linger nearly five decades after her death."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "MeatEater",
@@ -134,8 +125,8 @@
       "year": "2022",
       "imdb_rating": "7.6",
       "imdb_id": "tt2169245",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwNDMyMDM1OV5BMl5BanBnXkFtZTcwODczNTQ4OA@@._V1_SX300.jpg",
-      "Plot": "Founded on the belief that a deeper understanding of the natural world enriches our lives, MeatEater was established by writer and TV personality Steven Rinella."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Chef's Table: France",
@@ -143,8 +134,8 @@
       "year": "2016",
       "imdb_rating": "8.3",
       "imdb_id": "tt6088326",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTU1MzU4NDI0MV5BMl5BanBnXkFtZTgwMjk1ODA5OTE@._V1_SX300.jpg",
-      "Plot": "Chef's Table, French edition, goes inside the lives and kitchens of some of the world's most renowned French chefs. Each episode focuses on a single chef and their unique look at their lives, talents and passion from their piece o..."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Tales by Light",
@@ -152,8 +143,8 @@
       "year": "2018",
       "imdb_rating": "8.2",
       "imdb_id": "tt5350276",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGE2ZDE3MGQtYmRhZC00NmE5LWJkYWQtZDcxYmE4MDJmMWVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Behind every powerful image is a powerful story. Uniting exploration, photography and the natural world, Tales By Light follows photographers from Australia and around the world as they push the limits of their craft."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Hitler's Circle of Evil",
@@ -161,8 +152,8 @@
       "year": "2017",
       "imdb_rating": "8.0",
       "imdb_id": "tt6600720",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjgwODhhZDctNDk3MC00ZmRhLTliOWEtMzE4N2NlMzEyMDE4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This is the story of the rise and fall of the Third Reich told like the drama it really was: through the personal relationships of the movers and shakers of the Nazi Party."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Rotten",
@@ -170,8 +161,8 @@
       "year": "2019",
       "imdb_rating": "N/A",
       "imdb_id": "tt11911936",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWNkNWQ4NDYtMWM1MC00OGQ1LWE5YzUtZmQ4ZDQzYTRlMWZhXkEyXkFqcGdeQXVyNDc2ODczOTQ@._V1_SX300.jpg",
-      "Plot": "Outside the city, three cardboard sleepers hold a woman's corpse and plot an unlawful purpose in a form of an accident in order to collect atonement. But the problem starts where one of them steels the beautiful woman's body from the"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Somebody Feed Phil",
@@ -179,8 +170,8 @@
       "year": "2025",
       "imdb_rating": "8.3",
       "imdb_id": "tt7752034",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjhjOTUxM2ItMDI5My00OWMzLWIzOTMtYWU5YzkyN2Q5MjNhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Phil travels around the world sampling food and tradition with friends and a sense of humor."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Evil Genius: the True Story of America's Most Diabolical Bank Heist",
@@ -188,8 +179,8 @@
       "year": "2018",
       "imdb_rating": "7.5",
       "imdb_id": "tt8342862",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjFjYzk3N2MtMDg1OC00NmIxLTkzNjEtNDM4ZmQ3YmNhMTE4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The extraordinary story of the \"pizza bomber heist\" and the FBI's investigation into a bizarre collection of suspects."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "72 Dangerous Animals: Latin America",
@@ -197,8 +188,8 @@
       "year": "2017",
       "imdb_rating": "6.5",
       "imdb_id": "tt7909708",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDg3YmRjYTEtODkyZS00ZWUzLTgwYzItNmU3MjQ1M2VlZmEyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Powerful cats, indestructible arachnids and flesh-melting pit vipers are just the beginning in this series about Latin America's deadliest creatures."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "72 Dangerous Animals: Asia",
@@ -206,8 +197,8 @@
       "year": "2018",
       "imdb_rating": "6.5",
       "imdb_id": "tt8728268",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDk2OTcxZTktM2Y4YS00MDA3LTk4MWQtM2UxZjVjMTIwNDEwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "From fangs to claws to venomous stings, they all wield deadly weapons. But which creature will be crowned the fiercest of all?"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Ugly Delicious",
@@ -215,8 +206,8 @@
       "year": "2020",
       "imdb_rating": "7.7",
       "imdb_id": "tt7907916",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDY3MTc3NDM3NF5BMl5BanBnXkFtZTgwMjk0NjI5NDM@._V1_SX300.jpg",
-      "Plot": "Chef David Chang travels around the world tasting food from different cultures."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Drug Lords",
@@ -224,8 +215,8 @@
       "year": "2018",
       "imdb_rating": "6.8",
       "imdb_id": "tt7935522",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzY3YTEzYTUtZTBhZS00NzlmLTgzYTMtOTI0M2ViNjFlMzAyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Documentary series examining drug cartels and kingpins from around the world."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Dope",
@@ -233,17 +224,8 @@
       "year": "2019",
       "imdb_rating": "6.5",
       "imdb_id": "tt11215112",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzI3Yjc3YjEtYzAyZC00Mjk4LWI4NjMtODlmY2Y0YmUzZDNiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Ride with the real players on both sides of the law of the dangerous business of narcotics in different locations around the world."
-    },
-    {
-      "title": "Long Shot",
-      "netflix_url": "https://www.netflix.com/title/80182115",
-      "year": "2017",
-      "imdb_rating": "7.4",
-      "imdb_id": "tt7344360",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTMyNWMwOWMtYWIzNC00Y2FkLTg1YjUtZDg0NmU0MTYxMTBlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When Juan Catalan is arrested for a murder he didn't commit, he builds his case around raw footage from the popular TV show, Curb Your Enthusiasm (2000)."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Dancing with the Birds",
@@ -251,8 +233,8 @@
       "year": "2019",
       "imdb_rating": "8.2",
       "imdb_id": "tt11101698",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTUyYzc0ZTAtOTgwYS00YWM0LWFlMDctZGM4YTJkMTI2NTYyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "From ruffling their majestic feathers to nailing im-peck-able courtship routines, birds in paradise flaunt their best moves in hopes of landing a mate."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Jack Whitehall: Travels with My Father",
@@ -260,8 +242,8 @@
       "year": "2021",
       "imdb_rating": "7.6",
       "imdb_id": "tt7453996",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzYwNzgwNDk2M15BMl5BanBnXkFtZTgwNzIyNTIzNjM@._V1_SX300.jpg",
-      "Plot": "Follows Jack Whitehall as he embarks on the trip of a lifetime with his father, Michael. The two set off on a journey across South East Asia to partake in a series of adventures, mishaps and escapades with two very different persp..."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Dark Tourist",
@@ -269,8 +251,8 @@
       "year": "2018",
       "imdb_rating": "7.4",
       "imdb_id": "tt8725166",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGRhYjc3ZWEtYjE4Zi00OGQ5LWI3MjItM2IwMTJiMWEyODczXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "From a nuclear lake to a haunted forest, New Zealand filmmaker and journalist David Farrier ('Tickled') visits unusual -- and often macabre -- tourism spots around the world."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "ReMastered: Devil at the Crossroads",
@@ -278,8 +260,8 @@
       "year": "2019",
       "imdb_rating": "7.0",
       "imdb_id": "tt9046574",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ4MGU5MjQtZTNhZi00NDBlLTk4MjctNDEyM2FiMGFjYjU3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A look at the short, mysterious life of blues legend, Robert Johnson, who was said to have made a deal with the Devil at a crossroads in rural Mississippi."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Disappearance of Madeleine McCann",
@@ -287,8 +269,8 @@
       "year": "2019",
       "imdb_rating": "6.6",
       "imdb_id": "tt9879074",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTk3NzEyZGQtY2FkMy00OGNmLTljZmEtNjJmOGRlMGJiN2FhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "\"The Disappearance of Madeleine McCann\" takes a detailed look at the disappearance of three-year-old Madeleine McCann, who vanished from the seaside resort of Praia de Luz in Portugal, while on holiday with her family."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Salt Fat Acid Heat",
@@ -296,8 +278,8 @@
       "year": "2018",
       "imdb_rating": "7.6",
       "imdb_id": "tt8772088",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAwODYzNjYxMDVeQTJeQWpwZ15BbWU4MDQ1MzQ2NDYz._V1_SX300.jpg",
-      "Plot": "Docuseries, based on the award-winning book, explores the essence of cooking and the vital ingredients at the heart of a great dish."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Devil Next Door",
@@ -305,8 +287,8 @@
       "year": "2019",
       "imdb_rating": "7.5",
       "imdb_id": "tt11165002",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzIwNTU4YTgtYjgwMi00M2NmLTllMDktOTIxYjM4YmIyZTg5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A Cleveland grandfather is brought to trial in Israel, accused of being the infamous German death camp guard known as Ivan the Terrible."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Diagnosis",
@@ -314,8 +296,8 @@
       "year": "2019",
       "imdb_rating": "7.7",
       "imdb_id": "tt8201618",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BN2Y2NzEzY2QtOTgwOS00OGU2LTgyZTctZDZmY2I1ZGNmY2I1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Medical docuseries focusing on patients with unique illnesses and their journeys to find a diagnosis and cure."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Lenox Hill",
@@ -323,8 +305,8 @@
       "year": "2020",
       "imdb_rating": "8.6",
       "imdb_id": "tt12190580",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzJlMzRmNzMtMjYzZi00NTY1LWFhMTYtMDQyYWVlMDJhZWJlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An intimate look at the lives of four doctors - two brain surgeons, an emergency room physician, and a Chief Resident OBGYN - as they navigate the highs and lows of working at the renowned Lenox Hill Hospital in New York City."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "I AM A KILLER",
@@ -332,8 +314,8 @@
       "year": "2025",
       "imdb_rating": "7.3",
       "imdb_id": "tt8300324",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BN2ViMTdkOTUtYTk4Zi00MWFiLWFhNzktNWIzODI4MWNmNTZhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows incarcerated killers, who tell the story of how they ended up there."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Biggie: I Got a Story to Tell",
@@ -341,8 +323,8 @@
       "year": "2021",
       "imdb_rating": "6.8",
       "imdb_id": "tt14058484",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmYyYzIzZTktYzBhOC00ZWNiLWE4MzAtNTlmOGIzNzE3ODBhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This documentary features rare footage filmed by Christopher Wallace's best friend, Damion \"D-Roc\" Butler, and interviews with his closest friends and family, revealing a side of Biggie Smalls that the world never knew."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Last Dance",
@@ -350,8 +332,8 @@
       "year": "2020",
       "imdb_rating": "9.0",
       "imdb_id": "tt8420184",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQyYmQ1N2UtYjFkNS00NzgyLTk5YTUtYjExMDdjOTA3MGU2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Led by Michael Jordan, the 1990s Chicago Bulls establish themselves as one of the most notable dynasties in sports history."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Formula 1: Drive to Survive",
@@ -359,8 +341,8 @@
       "year": "2025",
       "imdb_rating": "8.5",
       "imdb_id": "tt8289930",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTkyYzhiYzctZGRiOC00ODM1LTg0MDQtYzVmMzcyNTI5MDEwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Docuseries following the FIA Formula One World Championship across multiple seasons."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Trump: An American Dream",
@@ -368,17 +350,8 @@
       "year": "2018",
       "imdb_rating": "7.2",
       "imdb_id": "tt7596008",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjlmNzg4MmItMTYzMS00YzcwLTk5ZmUtNDhhZjAyZmNhYTczXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A British documentary series exploring the extraordinary journey of Donald Trump through five decades."
-    },
-    {
-      "title": "A Secret Love",
-      "netflix_url": "https://www.netflix.com/title/80209024",
-      "year": "2020",
-      "imdb_rating": "7.8",
-      "imdb_id": "tt3260524",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q3ZWU2N2YtMThkZi00YWJmLTg5MzUtN2IxZDg0OGU5MDI3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Falling in love in 1947, two women -- Pat Henschel and pro baseball player Terry Donahue -- begin a 65-year journey of love and overcoming prejudice."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Life on Our Planet",
@@ -386,8 +359,8 @@
       "year": "2023",
       "imdb_rating": "8.1",
       "imdb_id": "tt23181388",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTlmZjg1ZDctNjkwMi00NzU2LWFlYWMtZjdkMzMxYjViYmNhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The incredible story of life's epic, four-billion-year journey on Earth comes alive in this series from Steven Spielberg and the team behind \"Our Planet.\""
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Innocence Files",
@@ -395,8 +368,8 @@
       "year": "2020",
       "imdb_rating": "7.9",
       "imdb_id": "tt11958922",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGZlMTM1M2UtM2MxOC00Nzc2LThkMGUtODkzOTdhYzMyNzE0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Cases of wrongful conviction that the Innocence Project and organizations within the Innocence Network have worked to highlight and overturn."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "100 Humans",
@@ -404,17 +377,8 @@
       "year": "2020",
       "imdb_rating": "5.8",
       "imdb_id": "tt11823088",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q2Zjc3NmUtNWEyNS00OGIzLTk3YzQtYTQ5OTI2NTFhNjkyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-      "Plot": "A social experiment where 100 individuals will be a part of interactive experiments exploring sex, happiness, torture and all the other aspects of being human."
-    },
-    {
-      "title": "David Attenborough: A Life on Our Planet",
-      "netflix_url": "https://www.netflix.com/title/80216393",
-      "year": "2020",
-      "imdb_rating": "8.9",
-      "imdb_id": "tt11989890",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGU4YzhhMTAtNjg1MC00NzY2LTg0NGQtOWJmNGQwNzgyOGE0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In this documentary David Attenborough, the celebrated naturalist, reflects upon both the defining moments of his lifetime and the devastating changes he has seen. The film provides a snapshot of global nature loss in a single lif..."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Missing: Dead or Alive?",
@@ -422,8 +386,8 @@
       "year": "2025",
       "imdb_rating": "5.8",
       "imdb_id": "tt27612322",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BN2RmMmU5ZGYtZTM5YS00YWQzLWJjNzgtY2EzYjI3YmUwMjU1XkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_SX300.jpg",
-      "Plot": "Follow officers from a South Carolina sheriff's department as they urgently search for individuals who've disappeared under troubling circumstances."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Fear City: New York vs The Mafia",
@@ -431,8 +395,8 @@
       "year": "2020",
       "imdb_rating": "7.1",
       "imdb_id": "tt12588372",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ5OGM3ZDgtNGUxNS00OTQ0LWFkOTMtN2U1ZDQ2MzYyMDYyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Five Mafia families ruled New York with a bloody fist in the 1970s and '80s, until a group of federal agents tried the unthinkable: taking them down."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Night on Earth",
@@ -440,8 +404,8 @@
       "year": "2020",
       "imdb_rating": "8.1",
       "imdb_id": "tt11497922",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmFlMWRmYmMtMGVmZi00ZmFmLTljMWQtMjdkMGYxN2RiZDBmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This nature series' new technology lifts night's veil to reveal the hidden lives of the world's creatures, from lions on the hunt to bats on wings."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Trials of Gabriel Fernandez",
@@ -449,8 +413,8 @@
       "year": "2020",
       "imdb_rating": "8.1",
       "imdb_id": "tt11822998",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjhjZjg0NzAtZjI2Ny00NmVkLWFiNzUtZjQ1YTE3Y2E1ZjhjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Filmmaker Brian Knappenberger investigates the tragic death of an 8-year-old California boy who endured horrific abuse by his mother and her boyfriend, along with the fractured and complex systems that failed to protect him."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "FIFA Uncovered",
@@ -458,8 +422,8 @@
       "year": "2022",
       "imdb_rating": "7.4",
       "imdb_id": "tt22872838",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmE1OWZlZjktOGZjOC00OWYwLWIxZmYtNTA1MzljMjU5YjI4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "From power struggles to global politics, an exploration of FIFA reveals the organization's checkered history and what it takes to host a World Cup."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Jeffrey Epstein: Filthy Rich",
@@ -467,8 +431,8 @@
       "year": "2020",
       "imdb_rating": "7.1",
       "imdb_id": "tt12312250",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWZkZTczZmItZThmNy00MjRjLTgwZGQtZmE0YThhNjFkYmE3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Survivors reveal the manipulation, abuse and emotional scars suffered at the hands of Jeffrey Epstein and Ghislaine Maxwell. Their stories expose a sex trafficking ring of powerful enablers leading up to his 2019 arrest."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Conversations with a Killer: The Ted Bundy Tapes",
@@ -476,8 +440,8 @@
       "year": "2019",
       "imdb_rating": "7.7",
       "imdb_id": "tt9425132",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmUxYjgzMmUtMzc4ZS00OWExLTlkMjEtMTRiZDczOWZkMjhkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A look inside the mind of serial killer Ted Bundy, featuring interviews with him on death row."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "How to Change Your Mind",
@@ -485,8 +449,8 @@
       "year": "2022",
       "imdb_rating": "7.9",
       "imdb_id": "tt21062540",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGEyZDJhNjMtNzJmYS00ODM0LWI0MGUtZTY2ZDk1ZDQ5ODdiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "It showcases what psychedelics teaches people about consciousness, dying, addiction, depression and transcendence."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Down to Earth with Zac Efron",
@@ -494,8 +458,8 @@
       "year": "2022",
       "imdb_rating": "8.0",
       "imdb_id": "tt12585152",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODg1YzdmYTUtNThmOC00YmI1LTkxYjktNTJlZjIwNThhY2FmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In this travel show, actor Zac Efron journeys around the world with wellness expert Darin Olien in search of healthy, sustainable ways to live."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Age of Samurai: Battle for Japan",
@@ -503,8 +467,8 @@
       "year": "2021",
       "imdb_rating": "7.4",
       "imdb_id": "tt10551256",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTIyOGYxMjktZjliZC00NTc3LTkzNDYtYjk0MWFiMjBlNzgxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An exploration of the warring kingdoms of feudal Japan when several powerful warlords fought to become absolute ruler."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Colin in Black & White",
@@ -512,8 +476,8 @@
       "year": "2021",
       "imdb_rating": "6.2",
       "imdb_id": "tt12624928",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODdmNGE1ZDEtYWFmZi00NWVjLWI4YWItMzUyNzg3YjYxYzg0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This drama series from Colin Kaepernick and Ava DuVernay explores Kaepernick's high-school years and the experiences that led him to become an activist."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Street Food: Asia",
@@ -521,8 +485,8 @@
       "year": "2019",
       "imdb_rating": "7.8",
       "imdb_id": "tt10050778",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZmFmYWVmNWEtYzU1MS00NDU5LWJhYWItZjQ4NmFiMWNhMzljXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Exploring the rich culture of street food in some of the world's most colorful cities."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Greatest Events of WWII in Colour",
@@ -530,8 +494,8 @@
       "year": "2019",
       "imdb_rating": "8.6",
       "imdb_id": "tt9103932",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2NmYjgzZTItNzllZC00YWFiLWEzOTAtNWMyNzhhMDdjOWQ2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A series of colorized archive footage of important events during World War II."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Bad Boy Billionaires: India",
@@ -539,8 +503,8 @@
       "year": "2025",
       "imdb_rating": "7.9",
       "imdb_id": "tt12923630",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjUzMGI5MmEtY2RmYy00ZGI5LWI0YjktNmJlMWI1ZDMyOTU3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This investigative docuseries explores the greed, fraud and corruption that built up - and ultimately brought down - India's most infamous tycoons."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Rise of Empires: Ottoman",
@@ -548,8 +512,8 @@
       "year": "2022",
       "imdb_rating": "8.0",
       "imdb_id": "tt9244578",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2MyYWZiNTItNjI4Yi00ZDYyLTlmOGEtOTQ5MGFmMmNlMzk4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Cocaine Cowboys: The Kings of Miami",
@@ -557,8 +521,8 @@
       "year": "2021",
       "imdb_rating": "7.1",
       "imdb_id": "tt15049206",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjEwNDBkNTEtMzhiNi00NjU1LTlmM2UtNzVhNDJhMTc1NzdlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Two childhood friends go from high school dropouts to the most powerful drug kingpins in Miami in this true story of a crime saga that spanned decades."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Surviving Death",
@@ -566,8 +530,8 @@
       "year": "2021",
       "imdb_rating": "6.2",
       "imdb_id": "tt13649692",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjc4Yjc1YTUtMjY3NS00YTE0LWE5MjEtZjI3YzRhNDU5YzYyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Explores questions that have been contemplated throughout time: What does it mean to die, and is death the end of our existence? Weaving together innovative new research with firsthand accounts from those who’ve been close to death."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Surgeon's Cut",
@@ -575,8 +539,8 @@
       "year": "2020",
       "imdb_rating": "8.4",
       "imdb_id": "tt13487106",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDUyODMyMmQtZGNlNy00ODg2LWJiMGMtM2I5OTUwZGIyNTgwXkEyXkFqcGdeQXVyMjIwNTI1MTM@._V1_SX300.jpg",
-      "Plot": "The Surgeon's Cut profiles four ground-breaking surgeons from around the world, each with a visionary approach to their craft."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Monsters Inside: The 24 Faces of Billy Milligan",
@@ -584,8 +548,8 @@
       "year": "2021",
       "imdb_rating": "6.3",
       "imdb_id": "tt15287836",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDY4MjQ0MWUtZWVlMi00OTM2LThkOTgtNTkwYzZkN2I4ZDExXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In the late 1970s, an accused serial rapist claims multiple personalities control his behavior, setting off a legal odyssey that captivates America."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "World's Most Wanted",
@@ -593,8 +557,8 @@
       "year": "2020",
       "imdb_rating": "7.1",
       "imdb_id": "tt12753698",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BM2NlNDE3MjEtYWRiMi00Y2Q2LTk3ZDQtY2Q1ZTk3MmRhMWE5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Heinous criminals have avoided capture despite massive rewards and global investigations. This docuseries profiles five of the world's most wanted."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Top Secret UFO Projects: Declassified",
@@ -602,8 +566,8 @@
       "year": "2021",
       "imdb_rating": "5.6",
       "imdb_id": "tt14992232",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjhlNzJmYzAtNDQyYy00YjJkLWI3NDEtMDIwOGI4YmU5OTM3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Though claims of extraterrestrial encounters have long been dismissed, many believe the existence of UFOs is not just likely, but a certainty."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Unsolved Mysteries",
@@ -611,8 +575,8 @@
       "year": "2024",
       "imdb_rating": "7.3",
       "imdb_id": "tt9642938",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BM2Q0MTY0MWItY2E2Mi00YzM0LWIyYjktODVmMjRmZTI0YjVkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Immersive, character-driven stories are rooted in the experiences of ordinary people who have lived the unthinkable. Families, detectives and journalists hope viewers hold the clues to solving these mysteries."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Pandemic: How to Prevent an Outbreak",
@@ -620,8 +584,8 @@
       "year": "2020",
       "imdb_rating": "6.4",
       "imdb_id": "tt11497904",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzk5MzFjOTctNmFiYy00ZDA0LTljNDQtMjU3NjkyMzA0Y2RmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In this docuseries, meet the heroes on the front lines of the battle against influenza and learn about their efforts to stop the next global outbreak."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Untold: The Rise and Fall of AND1",
@@ -629,8 +593,8 @@
       "year": "2022",
       "imdb_rating": "6.8",
       "imdb_id": "tt21388560",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWY4ODJiNGMtYzRlOC00ZmZkLTlhN2EtNjMzOTBkZmYwZjY5XkEyXkFqcGdeQXVyMjEyODE0NTc@._V1_SX300.jpg",
-      "Plot": "Inspired by New York City streetball, influential brand AND1 turned local legends on the court into international icons. So why did it come to an end?"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Free Solo",
@@ -638,8 +602,8 @@
       "year": "2018",
       "imdb_rating": "8.1",
       "imdb_id": "tt7775622",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2YTAxMzMtNzA2Mi00NTcyLTg4NzUtODIxYzFiYzdiNWNlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Alex Honnold faces the biggest challenge of his career, climbing El Capitan in Yosemite National Park. He pursues it Free Solo, which means climbing without a rope and alone."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Chef Show",
@@ -647,8 +611,8 @@
       "year": "2020",
       "imdb_rating": "8.2",
       "imdb_id": "tt10359446",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmU2ZmFhN2YtNGVmNS00YmEzLWI1OTYtY2RhZDM0MTM3NDZkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Writer, director, and food enthusiast Jon Favreau and chef Roy Choi explore food in and out of the kitchen with accomplished chefs and celebrity friends."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Miss Americana",
@@ -656,8 +620,8 @@
       "year": "2020",
       "imdb_rating": "7.4",
       "imdb_id": "tt11388580",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYWY3ODNlZjEtZWU4Zi00YzBhLWE3YWMtMmMyMzZkZmYxOTMyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A look at iconic pop artist Taylor Swift during a transformational time in her life as she embraces her role as a singer/songwriter and harnesses the full power of her voice."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Don't F**k with Cats: Hunting an Internet Killer",
@@ -665,8 +629,8 @@
       "year": "2019",
       "imdb_rating": "8.0",
       "imdb_id": "tt11318602",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmJhMjdhMmYtNTI0NS00OGIzLWIzZGItZTQ4NzI4ZWU0ZjYyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A group of online justice seekers track down a guy who posted a video of himself killing kittens."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Worst Roommate Ever",
@@ -674,8 +638,8 @@
       "year": "2024",
       "imdb_rating": "7.1",
       "imdb_id": "tt8323702",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU5YTdkZjYtZTdiYy00Y2JhLWIwMzEtNTE2Zjk5NTMyMTc4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When Alex Miller let Jed Creek rent her room via Craigslist, she had no idea that he was a notorious serial squatter, and that he would use his knowledge of tenancy laws to slowly kick her out of her own home."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Halftime",
@@ -683,17 +647,8 @@
       "year": "2022",
       "imdb_rating": "6.5",
       "imdb_id": "tt19637852",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjVlM2Q1MzItZTNiMS00YWI3LTk3NDctNGVjZTM3NzIyNWYwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Global superstar Jennifer Lopez reflects on her multifaceted career and the pressure of life in the spotlight in this intimate documentary."
-    },
-    {
-      "title": "Athlete A",
-      "netflix_url": "https://www.netflix.com/title/81034185",
-      "year": "2020",
-      "imdb_rating": "7.6",
-      "imdb_id": "tt11905462",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODg3MjFlOGMtMjI0Yi00ZWM1LTk4YzUtMzMwYzExMzE5YmMwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follow the Indianapolis Star reporters that broke the story about USA Gymnastics doctor Larry Nassar's abuse and hear from gymnasts like Maggie Nichols."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "High on the Hog: How African American Cuisine Transformed America",
@@ -701,8 +656,8 @@
       "year": "2023",
       "imdb_rating": "7.7",
       "imdb_id": "tt14540468",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTkxZmY4MmEtZDBiYy00NmQxLWJmNzQtNDE0ZjYxZTIyYzQzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Black food is American food. Chef and writer Stephen Satterfield traces the delicious, moving throughlines from Africa to Texas in this docuseries."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Lost Pirate Kingdom",
@@ -710,8 +665,8 @@
       "year": "2021",
       "imdb_rating": "6.6",
       "imdb_id": "tt14057360",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZGFjZDQ1ZGItYTEyOC00OGRiLWJiMDgtN2ExNTdjOTMwZjViXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The real-life pirates of the Caribbean violently plunder, stealing and form a surprisingly egalitarian republic in this documentary series."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "FYRE: The Greatest Party That Never Happened",
@@ -737,8 +692,8 @@
       "year": "2019",
       "imdb_rating": "6.7",
       "imdb_id": "tt10681670",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjVmZjdlZGItYWViNi00MTRlLTk0MGQtMzUwMWJlMjg5NTYxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Chang accompanied by a different celebrity guest exploring a single city, its culture and its cuisine. As the pair travels through each city, they will also uncover new and surprising things about themselves."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Cheer",
@@ -746,8 +701,8 @@
       "year": "2022",
       "imdb_rating": "7.0",
       "imdb_id": "tt22789182",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYWMwZDliNGYtMWYzZS00N2Q5LTllNGMtY2I1NzBlNGI5OGFmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Do Hae-Yi is a student at Yonhee University. Because her family is poor, she places a priority on making money over school. Hae-Yi joins cheering squad Theia. She only joins the club for money but finds her joy there."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Taco Chronicles",
@@ -755,8 +710,8 @@
       "year": "2022",
       "imdb_rating": "7.8",
       "imdb_id": "tt10242848",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjcxOTJkYjctNzY5Zi00YmMwLTg1ZjctZDFkZjJjM2I2OGMwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A journey through the colorful and varied world of Tacos."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Last Chance U: Basketball",
@@ -764,8 +719,8 @@
       "year": "2022",
       "imdb_rating": "8.3",
       "imdb_id": "tt13087512",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BN2YxN2M4NDEtMzU0OS00NDE3LWE5ZDgtMDAxYmYzMTRlYWIwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Explore an honest and gritty look inside the world of community college basketball."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Sons of Sam: A Descent into Darkness",
@@ -773,8 +728,8 @@
       "year": "2021",
       "imdb_rating": "7.0",
       "imdb_id": "tt13156316",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzViZGRmMjYtNDAwMC00MzgxLTliZmMtYmI3Y2Q1NTdjOTMyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The Son of Sam case grew into a lifelong obsession for journalist Maury Terry, who became convinced that the murders were linked to a satanic cult."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Killer Inside: The Mind of Aaron Hernandez",
@@ -782,8 +737,8 @@
       "year": "2020",
       "imdb_rating": "7.3",
       "imdb_id": "tt11475228",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgxNTlmNGEtYzFkNy00YmJmLThmMjQtNWM3ODZiODkyNTdiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A three-part documentary series examining what led to the murderous fall and shocking death of former NFL superstar Aaron Hernandez."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Secrets of the Saqqara Tomb",
@@ -791,8 +746,8 @@
       "year": "2020",
       "imdb_rating": "7.2",
       "imdb_id": "tt13150630",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzliODQ3ZjMtYjM3YS00Y2NmLWE3NjktMDlhMjk4OWFkZjVjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After unearthing a tomb that had been untouched for 4,400 years, Egyptian archaeologists attempt to decipher the history of the astonishing find."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Our Great National Parks",
@@ -800,8 +755,8 @@
       "year": "2022",
       "imdb_rating": "8.1",
       "imdb_id": "tt18750552",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY1NGJhN2MtNDY3Zi00YTkzLTgzZjMtMTVjOWE1ODIxZjIyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A five-part documentary series about the world's most breathtaking national parks and the wildlife that live there."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "I AM A STALKER",
@@ -809,8 +764,8 @@
       "year": "2022",
       "imdb_rating": "6.4",
       "imdb_id": "tt15553888",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTk5NmM0N2MtNTk5NS00ODkzLWE3YmQtY2NjZTA4OWMyYmNiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Convicted stalkers tell the programme, in their own chilling words, how love turned into a deadly obsession in face first, captivating in-depth interviews."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Being Eddie",
@@ -818,8 +773,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt35627915",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTI4YzdlODEtZWVhZi00ZGE0LWI2MjUtN2I5NjlmYjNiYmI1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows a comprehensive look at Eddie Murphy's life and career."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Tiger King",
@@ -827,8 +782,8 @@
       "year": "2021",
       "imdb_rating": "6.2",
       "imdb_id": "tt16307970",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzU2ZTA4MzktMmEzNi00MGQxLWIzZjQtMjBmZWQwNWZkMzBhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "It unpacks the truth about Doc Antle, private zoo operator. Witnesses come forward to share their stories of abuse and intimidation that set him at the top of the food chain."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Becoming",
@@ -836,8 +791,8 @@
       "year": "2020",
       "imdb_rating": "7.0",
       "imdb_id": "tt12221748",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODg0NjU1MTYtMWJiYy00ODY5LWI2ZmEtOTMxYzMyYzRlNTc2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Join former first lady Michelle Obama in an intimate documentary looking at her life, hopes and connection with others during her 2019 book tour for 'Becoming.'"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "American Murder: The Family Next Door",
@@ -845,15 +800,6 @@
       "year": "2020",
       "imdb_rating": "7.2",
       "imdb_id": "tt12987894",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDM3OTlhM2EtNjQ3Ni00MmM1LTgzZDgtMGYxNGM4NjdmNDgxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In 2018, 34-year-old Shanann Watts and her two young daughters disappear in Colorado. With the heartbreaking details emerging, the family's story made headlines around the world."
-    },
-    {
-      "title": "Operation Varsity Blues: The College Admissions Scandal",
-      "netflix_url": "https://www.netflix.com/title/81130691",
-      "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null,
       "Poster": null,
       "Plot": null
     },
@@ -867,22 +813,13 @@
       "Plot": null
     },
     {
-      "title": "WHAM!",
-      "netflix_url": "https://www.netflix.com/title/81137188",
-      "year": "2023",
-      "imdb_rating": "7.5",
-      "imdb_id": "tt27726927",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOWIzMTFiNWMtMzZmOC00YWJlLTgwOGItMTcwMzFkNDhmMTAxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Through archival interviews and footage, George Michael and Andrew Ridgeley relive the arc of their Wham career, from '70s best buds to '80s pop icons."
-    },
-    {
       "title": "Our Living World",
       "netflix_url": "https://www.netflix.com/title/81137426",
       "year": "2024",
       "imdb_rating": "7.6",
       "imdb_id": "tt23181418",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDhjOTkxMDYtNzM0OC00MzM0LWFmZmUtM2ZmMWFkMGI0YWM0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "All across its thin green-blue veneer, the Earth pulses with life. Building on astonishing scientific revelations and featuring stunning footage of the planet's incredible natural networks."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Human: The World Within",
@@ -890,8 +827,8 @@
       "year": "2021",
       "imdb_rating": "6.8",
       "imdb_id": "tt14574154",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDkwZjk1NjYtODBiNy00Y2E5LTgzOWItMTY0YWNhOTdiZTc3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Diverse personal stories from around the world reveal how lives, passions and goals are facilitated by the human body's various complex systems; narrator Jad Abumrad."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Our Oceans",
@@ -899,8 +836,8 @@
       "year": "2024",
       "imdb_rating": "8.0",
       "imdb_id": "tt23181400",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTM3ODcyMmEtMjg1OS00NmFhLWJiZDEtYTZmMTA4NjY2N2Q0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The planet's life-blood, oceans, hide countless mysteries - from balmy Indian waters and fiery Atlantic depths to the Ring of Fire-encircled Pacific and frigid Southern and Arctic seas."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Animal",
@@ -908,8 +845,8 @@
       "year": "2022",
       "imdb_rating": "N/A",
       "imdb_id": "tt32659597",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmNlMDIyNzEtMjMxMy00M2EyLTlkMDQtYjM4MmUzZjM4YTljXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A young boy is forced by his father to kill a horse. As night falls, in shock, the lights flicker and the television displays disturbing images, the boy is drawn to a mysterious light. In a supernatural encounter, his reality fade..."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Tour de France: Unchained",
@@ -917,8 +854,8 @@
       "year": "2025",
       "imdb_rating": "8.1",
       "imdb_id": "tt19296314",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA0MWFkNDYtMjY5MS00Y2JmLThlZDQtODgxNjYwY2MzMmUzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Documentary on the journey of eight teams taking part in the world's most challenging Tour de France bike race."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "American Conspiracy: The Octopus Murders",
@@ -926,8 +863,8 @@
       "year": "2024",
       "imdb_rating": "6.7",
       "imdb_id": "tt31030101",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjBkYzM3MDUtZGI2NS00ZGFkLWFmNDUtZDEzMGRiNThmYzIzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows journalist Danny Casolaro's mysterious death while probing an alleged conspiracy called \"The Octopus\" linking spy software theft, unsolved murders and major 20th-century scandals."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Wild Babies",
@@ -935,8 +872,8 @@
       "year": "2022",
       "imdb_rating": "7.7",
       "imdb_id": "tt19398016",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmQyMjQxNDQtZTU1NC00MzE5LWFlYjEtY2VhNGUxZmFmOGRiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follow the adventures of baby lions, elephants, penguins, pangolins and more as they learn to navigate the highs lows of life in the wild."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Conversations with a Killer: The Jeffrey Dahmer Tapes",
@@ -944,8 +881,8 @@
       "year": "2022",
       "imdb_rating": "7.3",
       "imdb_id": "tt21946032",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTIzN2E3ZTEtNTRmNi00M2ViLThmMzktY2E2NjAwMzU0OTJlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Serial killer Jeffrey Dahmer confesses to his gruesome crimes in unguarded interviews, offering an unsettling view into a disturbed mind."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Life After Death with Tyler Henry",
@@ -953,8 +890,8 @@
       "year": "2022",
       "imdb_rating": "6.2",
       "imdb_id": "tt18217272",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGJkYzBjOTYtMDY4Zi00OWNiLWE2N2MtOWMyM2U4M2E1ZDdlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After years of being Hollywood's go-to medium, Tyler heads out across the country to offer readings to as many of the people on his waiting list as he can, bringing them the hope, healing and closure they are seeking."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Meltdown: Three Mile Island",
@@ -962,8 +899,8 @@
       "year": "2022",
       "imdb_rating": "6.8",
       "imdb_id": "tt19757508",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ZhMDhkN2UtMzI1Ni00NDMxLTgwMTAtZmUxMTNhY2UzYmYwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Insiders recount the events, controversies and lingering effects of the accident at the Three Mile Island nuclear power plant in Pennsylvania."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Ancient Apocalypse",
@@ -971,8 +908,8 @@
       "year": "2024",
       "imdb_rating": "7.2",
       "imdb_id": "tt22807484",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTBmODY2ZGEtMjRmOC00MDE3LWI0ZTMtYWE4NWEyNzc4Mzk4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "What if everything we know about prehistory is wrong? Journalist Graham Hancock visits archaeological sites around the world investigating if a civilization far more advanced than we ever believed possible existed thousands of yea..."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Girl in the Picture",
@@ -980,8 +917,8 @@
       "year": "2022",
       "imdb_rating": "7.3",
       "imdb_id": "tt21059520",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjcyMjhkNmQtNzM5OS00NGE3LWE0OTktMDBiZDIzNzA1MzUxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A young mother's mysterious death and her son's subsequent kidnapping blow open a decades-long mystery about the woman's true identity and the murderous federal fugitive at the center of it all."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Anthrax Attacks",
@@ -989,8 +926,8 @@
       "year": "2022",
       "imdb_rating": "6.3",
       "imdb_id": "tt21746178",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGYwOGViMGYtMDY2OC00ZTUxLWJiZmQtOWQxMzA0MGJmOGVjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Days after 9/11, letters containing fatal anthrax spores spark panic and tragedy in the US. This documentary follows the subsequent FBI investigation."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Live to 100: Secrets of the Blue Zones",
@@ -998,8 +935,8 @@
       "year": "2023",
       "imdb_rating": "7.8",
       "imdb_id": "tt28523129",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODhkYTczMjAtMGNiYy00NWIxLTg1NzEtNmY5YmYxNzU1NjkzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Travel around the world with author Dan Buettner to discover five unique communities where people live extraordinarily long and vibrant lives."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Beckham",
@@ -1007,8 +944,8 @@
       "year": "2023",
       "imdb_rating": "8.1",
       "imdb_id": "tt14524712",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZmNmZTU5ZTUtZTc0NS00ZWJlLWFlMzUtMDRmZDgzMDhjNmM0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "With never-before-seen footage, this docuseries follows David Beckham's meteoric rise from humble beginnings to global football stardom."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Queen Cleopatra",
@@ -1016,8 +953,8 @@
       "year": "2023",
       "imdb_rating": "1.2",
       "imdb_id": "tt27528139",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjJiY2I0NDQtYjZmYy00ODYwLThmZDMtNmE4NmZhNDIwNGU1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Netflix docudrama about Queen Cleopatra of Egypt of the Ptolemaic lineage from Macedonia, Greece, that ruled for 21 years, between the years 51 BC and 30 BC, ending with her suicide."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "McGREGOR FOREVER",
@@ -1025,8 +962,8 @@
       "year": "2023",
       "imdb_rating": "7.0",
       "imdb_id": "tt27599123",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGY0MDA5YWMtMTk3OC00ZDZjLWI4YzctMTU1YTNjY2E3MzQ4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Conor McGregor's brutal strikes and trash-talking swagger made him the UFC's biggest draw. This rousing docuseries follows his dynamic career."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Our Universe",
@@ -1034,8 +971,8 @@
       "year": "2022",
       "imdb_rating": "7.6",
       "imdb_id": "tt23181168",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwZTUwYzItZTQwNi00NjVlLTg2ODYtOTg0YmMyMzk3ZDBlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows different aspects of the natural world, from an expansive look into the origin of the Universe, to life on planet Earth and how its oceans function. Narrated by Morgan Freeman"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Street Food: Latin America",
@@ -1043,8 +980,8 @@
       "year": "2020",
       "imdb_rating": "7.7",
       "imdb_id": "tt12742136",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWI2MjdjNmYtMzUxZS00YzBmLWE3MmQtYmFhMGZlOWQ5MzdjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The newest installment will travel to six countries in Latin America and explore the vibrant street food culture of Oaxaca, Mexico; Salvador, Brazil; Buenos Aires, Argentina; Lima, Peru; Bogota, Colombia; and La Paz, Bolivia."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Street Food: USA",
@@ -1052,8 +989,8 @@
       "year": "2022",
       "imdb_rating": "6.8",
       "imdb_id": "tt21195488",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWMzMmU3NjItNmY4Yy00NDgzLTg4MjQtZWU1N2I3MjdlMmM2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Get a taste of the most beloved bites on American streets and, along the way, discover the heart, soul and wildly diverse real people behind the food."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Take Your Pills: Xanax",
@@ -1061,17 +998,8 @@
       "year": "2022",
       "imdb_rating": "6.1",
       "imdb_id": "tt23556804",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDc2YzJmMjktYjAwMy00NTJjLTllZGYtZjU5ZjNhMDUxNWMxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A cure for some and a curse for others, widely prescribed anti-anxiety medication is examined by patients and experts in this revealing documentary."
-    },
-    {
-      "title": "The Social Dilemma",
-      "netflix_url": "https://www.netflix.com/title/81254224",
-      "year": "2020",
-      "imdb_rating": "7.6",
-      "imdb_id": "tt11464826",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGQyY2E1M2EtZTkzNy00YjYyLWFjMGQtNTI1OGE4Yjc4MTZiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Explores the dangerous human impact of social networking; tech experts sound the alarm on their own creations."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Tinder Swindler",
@@ -1079,8 +1007,8 @@
       "year": "2022",
       "imdb_rating": "7.1",
       "imdb_id": "tt14992922",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ5YzM2YzQtNGY0ZS00ZjUyLThmN2YtYzlmNTEzMmQ0YzgyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Posing as a wealthy, jet-setting diamond mogul, he wooed women online, then conned them out of millions of dollars. Now some victims plan for payback."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Catching Killers",
@@ -1088,8 +1016,8 @@
       "year": "2023",
       "imdb_rating": "N/A",
       "imdb_id": "tt29484936",
-      "Poster": "N/A",
-      "Plot": "N/A"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Love on the Spectrum: Australia",
@@ -1106,8 +1034,8 @@
       "year": "2022",
       "imdb_rating": "7.4",
       "imdb_id": "tt11893274",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTQzZjhjMGYtOTAyZi00NmI3LTllMGQtYTg3NTIzMWM1YTI4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Examining the months since the tragedies, which caused global panic in March 2019 after two new aircrafts crashed within five months, killing 346 people."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Coronavirus, Explained",
@@ -1115,8 +1043,8 @@
       "year": "2020",
       "imdb_rating": "7.5",
       "imdb_id": "tt12189310",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmY3NjVlMDItMjM2MC00NDdlLWE2MjgtODgyMjZiOTg0ZDc4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In 2020, the world changed. This topical series examines the coronavirus pandemic, the efforts to combat it and ways to manage its mental health toll."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Pirate Gold of Adak Island",
@@ -1124,8 +1052,8 @@
       "year": "2022",
       "imdb_rating": "4.8",
       "imdb_id": "tt14849626",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTc4Yjk2NWQtNThlNy00ZTk2LTlhMzktYWIyYWZjNDNlYTlkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In 1892 a pirate buried gold on Adak Island worth over $300,000,000. He died before he could return. Now, a team of skilled treasure hunters seeks to unearth the gold, but the island is riddled with live munitions."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Trainwreck: Woodstock '99",
@@ -1133,26 +1061,8 @@
       "year": "2022",
       "imdb_rating": "7.4",
       "imdb_id": "tt21217912",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg5MzEzNGQtM2QwZi00MTlkLTk1NWUtNDRjMzY3YTEyMzRhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Woodstock 1969 promised peace and music, but its '99 revival delivered days of rage, riots and real harm. Why did it go so horribly wrong?"
-    },
-    {
-      "title": "Headspace Guide to Meditation",
-      "netflix_url": "https://www.netflix.com/title/81280926",
-      "year": "2021",
-      "imdb_rating": "8.4",
-      "imdb_id": "tt13617024",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWMwMWQ0MTgtMTg0My00N2M1LTgzZmQtYmE0Mjk0ZjNjMjQxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Over the course of eight animated episodes, Andy Puddicombe—former Buddhist monk and co-founder of the globally beloved Headspace meditation app—takes viewers through the benefits and science behind meditation."
-    },
-    {
-      "title": "Victim/Suspect",
-      "netflix_url": "https://www.netflix.com/title/81288561",
-      "year": "2023",
-      "imdb_rating": "6.9",
-      "imdb_id": "tt24079788",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTBmN2Y1OWQtZTVlYi00ZDc3LWFlMDMtNTZhYWU0NTE3NWQ0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Young women tell the police they've been sexually assaulted, but instead of finding justice, they're charged with the crime of making a false report, arrested, and even imprisoned by the system they believed would protect them."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Keep Sweet: Pray and Obey",
@@ -1160,8 +1070,8 @@
       "year": "2022",
       "imdb_rating": "7.3",
       "imdb_id": "tt20560404",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjU4YTc1YWUtNGE0ZS00NzE4LWEwNjMtMDY2MTViMWI0Yzc4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Examines the rise of Warren Jeffs in the Fundamentalist Church of Jesus Christ of Latter-Day Saints and his shocking criminal case."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Chef's Table: BBQ",
@@ -1169,8 +1079,8 @@
       "year": "2020",
       "imdb_rating": "7.7",
       "imdb_id": "tt12917170",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGEzMTAyNjUtZDYxMC00NmZkLTk0M2MtYjdkM2Y1YmJmZjkzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The critically-acclaimed series returns for its latest iteration, delving into the smoky, juicy world of barbecue. Featured chefs and pitmasters include Tootsie Tomantez, Lennox Hastie, Rodney Scott, and Rosalia Chay Chuc."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Chef's Table: Pizza",
@@ -1178,8 +1088,8 @@
       "year": "2022",
       "imdb_rating": "7.2",
       "imdb_id": "tt21839470",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc1OTRhZTktY2Q4MC00MjhmLWFkMGEtMDMyODg2N2Q1MGI3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Features chefs from all over the world whose creativity elevates an ordinary dish like pizza to an art form, with their unique flavors, inspiring backgrounds, and passion for creating the perfect slice."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Conversations with a Killer: The John Wayne Gacy Tapes",
@@ -1187,8 +1097,8 @@
       "year": "2022",
       "imdb_rating": "7.1",
       "imdb_id": "tt18970124",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWJlMDUxMjgtYjVlZC00MjdhLTkzNGEtM2NmZjVlMmFkYzg1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Never-before-heard audio from the interrogation of serial killer John Wayne Gacy threads through this chilling look at his 1970s murder spree."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Paik's Spirit",
@@ -1196,8 +1106,8 @@
       "year": "2021",
       "imdb_rating": "6.9",
       "imdb_id": "tt15381696",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDFhM2QzOWMtYmM5MS00ZTU0LWI4M2YtYTA0ZTliMjhkYjA5XkEyXkFqcGdeQXVyMjMxNTAxNDk@._V1_SX300.jpg",
-      "Plot": "Drinks keep the conversation flowing as culinary star Paik Jong-won and celebrity guests talk life, food and booze over intoxicating meals."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Sins of Our Mother",
@@ -1205,8 +1115,8 @@
       "year": "2022",
       "imdb_rating": "7.0",
       "imdb_id": "tt21867596",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTE1MTgxZDktYTNkYy00NDdkLThjYzYtOTA0MGQ3ODMyYmU0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When Lori Vallow's kids vanished, the search for them unearthed a trail of suspicious deaths, a new husband who shared her doomsday views - and murder."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "World War II: From the Frontlines",
@@ -1214,8 +1124,8 @@
       "year": "2023",
       "imdb_rating": "8.2",
       "imdb_id": "tt28756878",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjUzMTQ4ZmYtZjg1OS00NmE3LWE2MmUtZTE1ZWEwMzhiZWRhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Through vividly enhanced archival footage and voices from all sides of the conflict, this docuseries brings WWII to life like never before."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "MH370: The Plane That Disappeared",
@@ -1223,8 +1133,8 @@
       "year": "2023",
       "imdb_rating": "6.1",
       "imdb_id": "tt26739535",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjg1NTY4ZDgtNDQyOS00NWMwLWFjMGMtNTRjNGU4ZjZkYzgxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "March 8th, 2014, Malaysia Airlines Flight 370 disappeared from radar. 239 people went missing, a global investigation into this greatest mystery Despite reports, countless theories, and searches for evidence, nothing. What Are We ..."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Chimp Empire",
@@ -1232,17 +1142,8 @@
       "year": "2023",
       "imdb_rating": "8.2",
       "imdb_id": "tt27205918",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODAzMzg1NjYtM2JhNi00MzMyLTk0YTYtMGIzYmY0ZDJjMTc1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A vast community of chimpanzees thrives in a forest in Uganda, navigating complex social politics, family dynamics and dangerous territory disputes."
-    },
-    {
-      "title": "The Elephant Whisperers",
-      "netflix_url": "https://www.netflix.com/title/81312835",
-      "year": "2022",
-      "imdb_rating": "7.5",
-      "imdb_id": "tt23628262",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOWU5NTNmOTQtMjllZi00NmQzLWIwZWItMTlhMTY0MDk2ODM1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Bomman and Bellie, a couple in South India, devote their lives to caring for an orphaned baby elephant named Raghu, forging a family like no other that tests the barrier between the human and the animal world."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Turning Point: 9/11 and the War on Terror",
@@ -1250,8 +1151,8 @@
       "year": "2021",
       "imdb_rating": "7.9",
       "imdb_id": "tt15260794",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZWVmNjAxOTQtYWJkOC00NDA0LWE4MmItNzY3YzAzMTU2YTIxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This unflinching series documents the 9/11 terrorist attacks, from Al Qaeda's roots in the 1980s to America's forceful response, both at home and abroad."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Predators",
@@ -1259,17 +1160,8 @@
       "year": "2023",
       "imdb_rating": "N/A",
       "imdb_id": "tt28811357",
-      "Poster": "N/A",
-      "Plot": "N/A"
-    },
-    {
-      "title": "Stamped from the Beginning",
-      "netflix_url": "https://www.netflix.com/title/81321341",
-      "year": "2023",
-      "imdb_rating": "6.7",
-      "imdb_id": "tt13871094",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BN2UyNjBjOGUtYzIwYy00NjdkLWIyNmUtYWM2NTE3NThhNTA1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A hybrid documentary/scripted feature based on Dr. Kendi's National Book Award-winning \"Stamped from the Beginning: The Definitive History of Racist Ideas\"."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Alexander: The Making of a God",
@@ -1277,8 +1169,8 @@
       "year": "2024",
       "imdb_rating": "5.5",
       "imdb_id": "tt27494999",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTliMDI0MTQtYWU0Yi00ODY5LWE5NjAtNzVmYjdlZjdiYjY5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Alexander was King of the ancient Greek city state Macedon and widely considered to be one of history's greatest and most successful military commanders. By the age of 30 he had created one of the largest empires in history."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Killer Sally",
@@ -1286,8 +1178,8 @@
       "year": "2022",
       "imdb_rating": "6.7",
       "imdb_id": "tt22646714",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzc5NmE5ZGQtMDIzNS00OGU5LWI3NzYtNGQ2YmNkNjMyYzMxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Interviews with friends, family and Sally McNeil herself chart a bodybuilding couple's rocky marriage and its shocking end in a Valentine's Day murder."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Heavenly Bites: Mexico",
@@ -1295,8 +1187,8 @@
       "year": "2022",
       "imdb_rating": "6.3",
       "imdb_id": "tt16539880",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRiOTU5NmYtNGU4MC00MzRhLTlkOTEtYTI0NmY3MmU5Y2JjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Welcome to a food extravaganza, a visual poem to Mexico's foodie ingenuity and the quirky and delicious flavors that are worth the stomach aches."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Love on the Spectrum",
@@ -1304,8 +1196,8 @@
       "year": "2025",
       "imdb_rating": "8.6",
       "imdb_id": "tt11904786",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmYwMjE1NDgtMzI2NC00YjU1LWE5OGEtNTIwYWUxZmY4NTEyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A documentary series following young adults on the autism spectrum as they explore the unpredictable world of love, dating and relationships."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Island of the Sea Wolves",
@@ -1313,8 +1205,8 @@
       "year": "2022",
       "imdb_rating": "7.8",
       "imdb_id": "tt22180926",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3ZGZmNDEtYTYwNS00ZmZlLTkxN2EtMTRiMmIwNmJiMTgyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Where the Pacific meets the wilderness of Canada lies a mysterious island. But peer a little deeper and we find something even more remarkable: a community full of charismatic animal residents, waiting to show you around."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Testament: The Story of Moses",
@@ -1322,17 +1214,8 @@
       "year": "2024",
       "imdb_rating": "6.3",
       "imdb_id": "tt31589872",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWY3MDk5YTYtZGI1YS00ZDg1LWE2ZWMtN2Q1YWJiZTk1NjE5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Explore the life of Moses, his journey from outcast and murderer to prophet and liberator of the Hebrews from Egyptian oppression."
-    },
-    {
-      "title": "Take Care of Maya",
-      "netflix_url": "https://www.netflix.com/title/81349305",
-      "year": "2023",
-      "imdb_rating": "7.7",
-      "imdb_id": "tt27542448",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODI2ZWI3YjAtMzgxMy00NmFhLTk3Y2UtZWFmNTIzOWJjNzRlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "As a medical team tries to understand 10-year-old Maya Kowalski's rare illness, they begin to question her parents. Suddenly, Maya is in state custody, and her family is desperate to bring their daughter home."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Emergency: NYC",
@@ -1340,8 +1223,8 @@
       "year": "2023",
       "imdb_rating": "8.2",
       "imdb_id": "tt26940348",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmJlNTIwYWUtODg5NC00NjhkLTg0ODgtOGJjOGIxZTliMTFkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This gripping docuseries follows New York City's frontline medical professionals as they balance the intensity of their work with their personal lives."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Surviving Paradise: A Family Tale",
@@ -1349,8 +1232,8 @@
       "year": "2022",
       "imdb_rating": "7.5",
       "imdb_id": "tt18059108",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDhlMzkyMmEtYmU2YS00YjBlLWI4M2UtODUzY2Q2NTdkNWJjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "As the Kalahari Desert faces a worsening dry season, prides, packs and herds of all kinds must rely on the power of family to survive."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Most Hated Man on the Internet",
@@ -1358,17 +1241,8 @@
       "year": "2022",
       "imdb_rating": "6.8",
       "imdb_id": "tt21098728",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmYzZTFjNmItYWU2OC00NTI0LTljMDItMjg5MWZhYTA0OWFlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows the story of a woman who stood up to Hunter Moore, a self-proclaimed \"professional life ruiner,\" after photos of her daughter being naked were posted online."
-    },
-    {
-      "title": "Stutz",
-      "netflix_url": "https://www.netflix.com/title/81387962",
-      "year": "2022",
-      "imdb_rating": "7.8",
-      "imdb_id": "tt21819228",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjZiMjQ4YzYtMWNhZi00NzBmLWE1YzEtMzQxZTRlMWZjNGU3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follow Hill and his therapist as he has candid discussions of mental health and the progressively worsening anxiety attacks related to movie promotion that have turned his dream job into a nightmare."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Waco: American Apocalypse",
@@ -1376,8 +1250,8 @@
       "year": "2023",
       "imdb_rating": "7.0",
       "imdb_id": "tt26687196",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQ2YWNmN2ItOTZkMy00MzU3LThlYmEtNGI5NjFmNDhiZDZjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "It showcases what happened in 1993 in Waco, Texas when cult leader David Koresh faced off against the federal government in a 51-day siege."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Aftershock: Everest and the Nepal Earthquake",
@@ -1385,8 +1259,8 @@
       "year": "2022",
       "imdb_rating": "7.3",
       "imdb_id": "tt22010560",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDUyNWUxZjEtZTgyYS00MDc4LWI4MTAtMzJlMGI5MmYwMGE3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Survivors' firsthand accounts and actual footage fuel this emotional docuseries about the deadly 2015 earthquake that shook Nepal."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Volcano: Rescue from Whakaari",
@@ -1394,8 +1268,8 @@
       "year": "2022",
       "imdb_rating": "7.4",
       "imdb_id": "tt21439528",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTFlNjU3YzctODIxOS00MTEzLWI5Y2MtMTQyMzQ0YTkzZWNiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Portrays human bravery and resilience after a tragic volcano disaster in New Zealand."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "How to Get Rich",
@@ -1403,8 +1277,8 @@
       "year": "2023",
       "imdb_rating": "6.3",
       "imdb_id": "tt27206017",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmFjMDNmNzUtNTRhMS00YWE5LThiZDktZGY3MmVhOTM0Njk1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Money holds power over us - but it doesn't have to. Finance expert Ramit Sethi works with people across the US to help them achieve their richest lives."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Hack Your Health: The Secrets of Your Gut",
@@ -1412,8 +1286,8 @@
       "year": "2024",
       "imdb_rating": "6.6",
       "imdb_id": "tt31316096",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BN2RkMzM2OGItYjkxNi00NWVkLTk4Y2ItOGQ1NTIxMjE2NjFmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An informative yet lighthearted documentary exploring the intricacies of the digestive system and its pivotal role in maintaining overall health and well-being."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Harry & Meghan",
@@ -1421,8 +1295,8 @@
       "year": "2022",
       "imdb_rating": "5.1",
       "imdb_id": "tt23900194",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE4YjY4NWEtMTJlMC00MjczLWE1ZmEtYmE0YTI4ZjViNWQ1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Explores the span of the couple's relationship, from the early days of their courtship to the challenges and controversies that prompted them to step back from the royal family."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Apollo 13: Survival",
@@ -1430,8 +1304,8 @@
       "year": "2024",
       "imdb_rating": "7.4",
       "imdb_id": "tt31852716",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWM4NDVkNTgtZjk0YS00NDc3LTljODQtMzQyNTg2MDI1ZjliXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In April 1970, NASA faced the greatest crisis in its history; three astronauts halfway to the moon on a spacecraft that had suffered a catastrophic explosion."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Pepsi, Where's My Jet?",
@@ -1439,17 +1313,8 @@
       "year": "2022",
       "imdb_rating": "7.0",
       "imdb_id": "tt23022276",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjM4MTM4N2ItZDhhZi00MWViLTlkODItYjkzYTlmOWEyY2EzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When a 20-year-old attempts to win a fighter jet in a Pepsi sweepstakes, he sets the stage for a David versus Goliath court battle for the history books."
-    },
-    {
-      "title": "Sly",
-      "netflix_url": "https://www.netflix.com/title/81450717",
-      "year": "2023",
-      "imdb_rating": "7.0",
-      "imdb_id": "tt28254460",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmIxOGVhMDctNzliNi00OTEyLTkxNzQtMTlkODZhNTM5ZTkxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The nearly fifty year prolific career of Sylvester Stallone, who has entertained millions, is seen in retrospective in an intimate look of the actor, writer, director-producer, paralleling with his inspirational life story."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Redeem Team",
@@ -1457,8 +1322,8 @@
       "year": "2022",
       "imdb_rating": "7.4",
       "imdb_id": "tt21837726",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTc0YWUwNWItYzA4OC00Mzk5LTk3ZDQtOGYxM2M5NmE4YWViXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows the story of the 2008 U.S. Olympic Men's Basketball team and how \"The Redeem Team\" set a new standard for American basketball."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Mysteries of the Terracotta Warriors",
@@ -1466,17 +1331,8 @@
       "year": "2024",
       "imdb_rating": "6.7",
       "imdb_id": "tt32451344",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDhkZjYwMjktMWFjMy00MGE2LTg2ODgtN2JlZDVhZmJlYWE3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Fifty years after the Terracotta Warriors' discovery, this documentary unearths new secrets from China's first emperor's mausoleum and its 8,000 pottery soldier guards."
-    },
-    {
-      "title": "Poisoned: The Dirty Truth About Your Food",
-      "netflix_url": "https://www.netflix.com/title/81460481",
-      "year": "2023",
-      "imdb_rating": "6.8",
-      "imdb_id": "tt27548083",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2FhZGI4MTMtYTFkNy00ZWU2LTkzM2QtM2YzM2M3YWJjNTBjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A call to action for the officials who have the power to mitigate the danger caused by foodborne pathogens that kill thousands of people in the U.S. every year."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Return of the King: The Fall and Rise of Elvis Presley",
@@ -1484,8 +1340,8 @@
       "year": "2024",
       "imdb_rating": "7.6",
       "imdb_id": "tt34139335",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRiNWU0MjYtYzk0OS00ZTExLTkyZGYtZDUxNDM4ZjJjNmQ4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "He had one chance to show the world he was still the King of Rock 'n' Roll. Discover the story behind Elvis Presley's triumphant '68 comeback special."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Living with Leopards",
@@ -1493,8 +1349,8 @@
       "year": "2024",
       "imdb_rating": "7.4",
       "imdb_id": "tt32138821",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTlmMDYzMmUtNDk3MC00MWMyLThiZjAtOGM4YjZmYTFlM2M5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A nature documentary that follows two leopard cubs as they make the journey from infancy into adulthood."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "14 Peaks: Nothing Is Impossible",
@@ -1511,8 +1367,8 @@
       "year": "2023",
       "imdb_rating": "7.3",
       "imdb_id": "tt23732458",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWNlMGRjZTYtNGNhNi00Nzc1LTg0ZWItNTQ4MGVhMWM1ZTc1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "It follows the rise and fall of the American financier and ponzi schemer: Madoff."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Bad Vegan: Fame. Fraud. Fugitives.",
@@ -1520,8 +1376,8 @@
       "year": "2022",
       "imdb_rating": "5.9",
       "imdb_id": "tt18260538",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDk3MDZhOWQtZGIzYS00MThlLWI2YzYtM2EzNzgyM2Q3YmJkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After marrying a mysterious man who claimed he could make her dog immortal, a celebrated vegan restaurateur finds her life veering off the rails."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Korean Cold Noodle Rhapsody",
@@ -1529,8 +1385,8 @@
       "year": "2021",
       "imdb_rating": "N/A",
       "imdb_id": "tt15772846",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOWM4YWJhZjMtNWEwMS00ZmY4LWJiOGEtNzgxYzFlYmFiZDI4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Refreshing and flavorful, naengmyeon is Korea's coolest summertime staple. A journey through its history beings, from how it's cooked to how it's loved."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Hanwoo Rhapsody",
@@ -1538,8 +1394,8 @@
       "year": "2021",
       "imdb_rating": "N/A",
       "imdb_id": "tt16977638",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDEyYzg0NGUtOGEwYS00MDUzLTg1NzEtNGZkNzRjNGRhOWI4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This program explains the Korean love of beef, and the many cuts of meat, and includes the never ending way it is prepared and cooked."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Unknown: The Lost Pyramid",
@@ -1547,8 +1403,8 @@
       "year": "2023",
       "imdb_rating": "6.6",
       "imdb_id": "tt27837387",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmRiNTMyNjAtMzc4MC00ZWUyLWJjNTYtODEyYWQ0NzkyNzQxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In the sands of Saqqara, two of the world's most famous Egyptologists, Dr. Zahi Hawass and his protege and rival, Dr. Mostafa Waziri race with their teams against the clock to see who will make the biggest discovery."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Unknown: Cosmic Time Machine",
@@ -1556,8 +1412,8 @@
       "year": "2023",
       "imdb_rating": "7.2",
       "imdb_id": "tt27837488",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWI0YzZlZjEtMGI3ZC00ZTk5LThlNjItNWQyMzI3OTRiNTU1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows a team of engineers and scientists in an ambitious mission to launch the James Webb Space Telescope and take the next giant leap in the understanding of the universe."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Unknown: Cave of Bones",
@@ -1565,8 +1421,8 @@
       "year": "2023",
       "imdb_rating": "6.7",
       "imdb_id": "tt27837467",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTcxNmY5OTYtNDE4OS00YjhlLTk2ZTItNjhkYzdjNzU3ZGQ4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows Paleo anthropologist Lee Berger in South Africa, as he and his team try to prove that the world's oldest graveyard they found, is not human. A small brained, ape-like creature could have practiced complex burial rituals."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Spy Ops",
@@ -1574,8 +1430,8 @@
       "year": "2023",
       "imdb_rating": "6.3",
       "imdb_id": "tt28637385",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDFjNGY3ZjAtNjk4Yy00ZDhhLTg0ZDItNTIwYTgyYzIxZGNhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Intelligence operatives from MI6 to the CIA share insider stories of spy craft, Cold War campaigns, and coups carried out by covert agents."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Einstein and the Bomb",
@@ -1583,8 +1439,8 @@
       "year": "2024",
       "imdb_rating": "6.2",
       "imdb_id": "tt28756876",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODc2MDhlZDctZTNlZS00NTAyLTg4MDUtMmFkZTg2YjQzMjg4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "What happened after Einstein fled Nazi Germany? Using archival footage and his own words, this docudrama dives into the mind of a tortured genius."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Unlocked: A Jail Experiment",
@@ -1592,8 +1448,8 @@
       "year": "2026",
       "imdb_rating": "7.1",
       "imdb_id": "tt31722999",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmJjMmRmZTAtNzRjOC00NTAwLTkyY2YtZjY4Y2Y1Y2RiZGNlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "At an Arkansas detention facility, a sheriff implements a radical social experiment to grant men who are incarcerated more agency."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Scouts Honor: The Secret Files of the Boy Scouts of America",
@@ -1610,8 +1466,8 @@
       "year": "2024",
       "imdb_rating": "7.2",
       "imdb_id": "tt16227044",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDZkNzgxMWItZGU4NS00MjY3LThlZTQtYWMzZTMwYTBkNjZhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The film covers the breadth of her extraordinary life through intimate interviews with Stewart herself, who opened up her personal archives to share never-before-seen photos, letters, and diary entries."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Eloá the Hostage: Live on TV",
@@ -1628,8 +1484,8 @@
       "year": "2025",
       "imdb_rating": "6.9",
       "imdb_id": "tt30269513",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODliYTVjNTctZDNmYy00NDExLThjZjItNDhiODJmNmYwZmIxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows the FBI's capture of Owen Hanson, a former USC football player who became drug kingpin."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Full Swing",
@@ -1637,8 +1493,8 @@
       "year": "2025",
       "imdb_rating": "8.0",
       "imdb_id": "tt17050700",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2NjMDMwODUtOGI1MC00Y2I0LThkYjMtMjBlNTU5YTc0NDk5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows behind the scenes of what it takes to compete and win at the highest levels in men's professional golf, following the PGA players through their wins and losses."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "WWII in Color: Road to Victory",
@@ -1646,8 +1502,8 @@
       "year": "2021",
       "imdb_rating": "8.2",
       "imdb_id": "tt16477402",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDhhYWFjMzAtNTI2ZS00ZGNlLTgxZTAtMWJjOWQ1OTQyODQxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Gripping historical footage and expert commentary give detailed insights into the leading figures and decisive turning points of WWII."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Capturing the Killer Nurse",
@@ -1655,8 +1511,8 @@
       "year": "2022",
       "imdb_rating": "6.4",
       "imdb_id": "tt22010586",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzNhZGQ4MmYtMWVkMS00MWY5LThjMzgtYTBjNDY3YTJiNzUxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This documentary reveals how investigators proved ICU nurse Charles Cullen was killing patients — and how close he came to getting away with murder."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Secrets of the Neanderthals",
@@ -1664,8 +1520,8 @@
       "year": "2024",
       "imdb_rating": "6.4",
       "imdb_id": "tt32065103",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmJlNGM3YWMtOWQ1YS00NGExLTk0ODgtNzYzMDRiN2NmMmQ0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A unique excavation unravels the complex and creative nature of Neanderthals, shattering preconceptions through the lens of a landmark discovery - the best-preserved Neanderthal skeleton found in over 25 years."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Murdaugh Murders: A Southern Scandal",
@@ -1673,8 +1529,8 @@
       "year": "2023",
       "imdb_rating": "6.8",
       "imdb_id": "tt26340238",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjJmNWMxZjYtOTIxNS00N2UyLTgyZDQtYTk5NDEzODRmYjVhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Shocking tragedies shatter a tight-knit South Carolina community and expose the horrifying secrets of its most powerful family."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Crime Scene: The Texas Killing Fields",
@@ -1682,8 +1538,8 @@
       "year": "2022",
       "imdb_rating": "6.6",
       "imdb_id": "tt23553310",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmE1YjNhYTMtYmI2Mi00NjU1LWJiMzAtZmRmOGIwZmZjMGQ2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An overgrown field and a stretch of highway connect a series of grisly murders spanning several decades as grieving families search for answers."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Hitler and the Nazis: Evil on Trial",
@@ -1691,8 +1547,8 @@
       "year": "2024",
       "imdb_rating": "7.7",
       "imdb_id": "tt32331294",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjMzNWJlY2YtNzdkMS00Yjc2LTg4YjMtNjk4MDNhMWVjODQwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Chronicles Hitler's ascent to power, his regime's use of propaganda, censorship, and anti-Semitic policies, as well as the eventual downfall of the Nazi leadership."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Homicide",
@@ -1700,8 +1556,8 @@
       "year": "2024",
       "imdb_rating": "7.3",
       "imdb_id": "tt31556143",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGRiMGMyNmQtZjk5NS00ZmU4LWJhNTctMjhiZjI5Y2E5YzBmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Documentary series focusing on detectives and prosecutors as they revisit their most challenging homicide cases in the cities of New York and Los Angeles, California."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "True Haunting",
@@ -1709,8 +1565,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt9783444",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOWI5ODY2NzUtNGVkZi00MWZhLWEwNzgtNjcxMjk0NDlkNTFlXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_SX300.jpg",
-      "Plot": "The terrifying story of the first televised exorcism on NBC in 1971. The NBC news segment was a success, the exorcism was not. Instead, it made things worse for the Becker family who lived there. Much worse."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Secret World of Sound with David Attenborough",
@@ -1718,8 +1574,8 @@
       "year": "2024",
       "imdb_rating": "8.0",
       "imdb_id": "tt31186319",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGZiMTMwZmYtNjQyYi00NjM2LTliYjEtMTExMWUwMzdkOTA1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Advanced audio tech reveals never-before-heard animal behaviors: caiman chirping in eggs, lions and hyenas nocturnal skirmishes, puzzling fish humming, avian mimicry precision."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Wyatt Earp and The Cowboy War",
@@ -1727,8 +1583,8 @@
       "year": "2024",
       "imdb_rating": "7.7",
       "imdb_id": "tt33038128",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGM1OWU1NjMtYmM0NC00ZjM2LTgxNWMtZjhmODM3NzM5M2JkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The legendary feud between Wyatt Earp and Ike Clanton unfolds through vivid reenactments in this gritty docudrama about the gunfight that defined an era."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "A Tragedy Foretold: Flight 3054",
@@ -1736,8 +1592,8 @@
       "year": "2025",
       "imdb_rating": "6.4",
       "imdb_id": "tt36351172",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGE3ODFlNzQtZjM2YS00NWUwLThkYzQtNTg3NjRkZGJjYTcxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The 2007 Congonhas Airport crash in São Paulo killed 199 people and transformed Brazilian aviation. The accident's consequences continue to influence air travel safety in Brazil."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Race For The Crown",
@@ -1745,8 +1601,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt36414438",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BM2EwMjYwMzYtYjlkMy00ZjIyLWFkZGYtZTZlNGZjNDNkM2ZiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Race For The Crown"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Untold: Shooting Guards",
@@ -1763,8 +1619,8 @@
       "year": "2024",
       "imdb_rating": "6.1",
       "imdb_id": "tt31747163",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWEyOWI4ODItOGNjOS00YjI0LTljZTItOWM4N2Y1NDQxNzY1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When Jennifer Pan calls 911 to report that her parents have been shot, she becomes the primary focus of a captivating criminal case."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Pop Star Academy: KATSEYE",
@@ -1772,8 +1628,8 @@
       "year": "2024",
       "imdb_rating": "6.6",
       "imdb_id": "tt28810495",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMGVkZWYxOTctOTFjOS00OTZhLWJiNDEtNTVhOWQ3MGM2MTAzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Twenty aspiring pop stars undergo a K-pop training program in this docuseries about the creation of HYBE x Geffen's first global girl group, KATSEYE."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "A Deadly American Marriage",
@@ -1781,8 +1637,8 @@
       "year": "2025",
       "imdb_rating": "6.6",
       "imdb_id": "tt36592065",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMThlZmQxMWYtMzI1NS00OTQ5LTk0NjEtY2VmZjM2MTgzZWYyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A disturbing 911 call and horrific crime scene raise questions about Jason Corbett's death. His family shares memories and hidden realities beneath their perfect-looking life."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Pamela, a love story",
@@ -1790,8 +1646,8 @@
       "year": "2023",
       "imdb_rating": "7.2",
       "imdb_id": "tt18376122",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BN2M5YjJjYmItZTg1ZC00MTM3LThmOGQtZjlmMTYyMmNjY2FhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows the life of pop culture icon Pamela Anderson, including never-before-seen archival footage and personal journals."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Files of the Unexplained",
@@ -1799,8 +1655,8 @@
       "year": "2024",
       "imdb_rating": "5.4",
       "imdb_id": "tt31638758",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjYwOGE1OWMtMDJjMS00YTg2LWJhZjktOTdmYzdhY2VhMzg0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Perplexing phenomena are meticulously explored in this investigative docuseries, which uncovers the truth behind eerie encounters, bizarre disappearances, and haunting events."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "How to Become a Mob Boss",
@@ -1808,8 +1664,8 @@
       "year": "2023",
       "imdb_rating": "6.7",
       "imdb_id": "tt29541632",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjhlZDQ0MTAtMDU5NC00OTg4LTg5NTAtYmNiM2Q4N2FlZDA2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Peter Dinklage narrates through this satirical guide that delves into the rise and fall of history's most famous mob bosses, from Al Capone to Pablo Escobar, and their tactics for success."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Ashley Madison: Sex, Lies & Scandal",
@@ -1817,8 +1673,8 @@
       "year": "2024",
       "imdb_rating": "6.2",
       "imdb_id": "tt32307741",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTZlMWVjNjQtMjliYS00MDI5LTg4ZmItZWQ4NzIwODgyZDE1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When Ashley Madison, a dating site for people seeking adulterous affairs, is hacked, millions of users' intimate data is exposed, wrecking marriages and destroying lives."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Bad Surgeon: Love Under the Knife",
@@ -1826,8 +1682,8 @@
       "year": "2023",
       "imdb_rating": "7.2",
       "imdb_id": "tt28197236",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTE5N2YyOTktNWVlNi00ZjY5LTkwMGQtNTc5ZDhiMDhmNzBlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Dr. Paolo Macchiarini is world famous for his revolutionary stem cell-infused windpipe transplants. There's just one problem: His patients keep dying."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "A Nation of Broth",
@@ -1835,8 +1691,8 @@
       "year": "2022",
       "imdb_rating": "7.6",
       "imdb_id": "tt21443848",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWE4NzJhMDMtMTVmNi00OTIyLWFkODItZTdiMDc1MTA4MGY3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A documentary series about the importance of broth in Korean cuisine. A warm bowl of broth is essential after a long day to Koreans, as a meal without broth is unimaginable."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "What's Next? The Future with Bill Gates",
@@ -1853,8 +1709,8 @@
       "year": "2024",
       "imdb_rating": "7.6",
       "imdb_id": "tt34379135",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmJlNmU2MDItY2JhOS00MWUyLTg3YjMtNDYxZDUyNzUwYzVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Churchill's pivotal leadership role during WWII, his wartime strategy, and the life events that shaped him as a paramount figure of the era, told through his own words."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Attack on Pearl Harbor: Minute by Minute",
@@ -1862,8 +1718,8 @@
       "year": "2022",
       "imdb_rating": "7.5",
       "imdb_id": "tt16348586",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmVhODlhNzAtMGY4MC00YjFkLWFhMDktOGJmNWQ5YzJkMzA1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Ahead of the 80th Anniversary of the deadly Japanese aerial attack on Pearl Harbor, this documentary provides a detailed account of events - from planning to the aftermath."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Lover, Stalker, Killer",
@@ -1871,8 +1727,8 @@
       "year": "2024",
       "imdb_rating": "7.0",
       "imdb_id": "tt30852970",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMGZmOTU4MWEtMzRkYi00NzYyLWJmMGQtZjFmZDllMTEyY2JjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In this twisting documentary, a mechanic tries online dating for the first time and meets a woman who takes romantic obsession to a deadly extreme."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Turning Point: The Bomb and the Cold War",
@@ -1880,8 +1736,8 @@
       "year": "2024",
       "imdb_rating": "8.4",
       "imdb_id": "tt26227818",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTdhYmM5MTctYzA5ZC00YjNjLTkyZDAtYTljOGZmZjczMmQyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The series chronicles the creation of the atomic bomb and the spread of nuclear arms over the following decades. It continues past the dissolution of the Soviet Union to Vladimir Putin's ascent and the Russian invasion of Ukraine."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Cocaine Air: Smugglers at 30,000 Ft.",
@@ -1889,8 +1745,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt36593582",
-      "Poster": "N/A",
-      "Plot": "N/A"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Escaping Twin Flames",
@@ -1898,8 +1754,8 @@
       "year": "2023",
       "imdb_rating": "6.7",
       "imdb_id": "tt29388212",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYWZkMmMyYzEtMTA3NC00NDRjLTgwNzItM2U4MjE1YWY0NWIwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Explores the story of Jeff and Shaleia Divine, the leaders of Twin Flames Universe, who sell online classes that guarantee harmonious union with your destined partner, a controversial online community that preys on people looking ..."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "American Nightmare",
@@ -1907,8 +1763,8 @@
       "year": "2024",
       "imdb_rating": "7.5",
       "imdb_id": "tt22797582",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzZmZGU4YjYtZjE5Ni00MDZjLTllN2MtNjhhMDkxMDRiNWFlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After a harrowing home invasion and kidnapping in 2015, a couple is accused of staging the ordeal when the woman reappears in this true-crime docuseries."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Accidental Twins",
@@ -1916,8 +1772,8 @@
       "year": "2024",
       "imdb_rating": "7.2",
       "imdb_id": "tt32441275",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjBiNWNmYWQtMTgxNS00MGZmLTk3ZTktMTg5MzViOGNlMTJjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Two sets of identical twins switched at birth in Colombia explore their complex history and new identities in this captivating documentary."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Get Gotti",
@@ -1925,17 +1781,8 @@
       "year": "2023",
       "imdb_rating": "7.0",
       "imdb_id": "tt29333646",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDc3NmY5Y2MtYmUyZC00YTg1LTk5MTktMzNjOTJjNGNmZjliXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Told from both sides of the law this documentary series from the makers of \"Fear City\" follows the FBI's battle to bring down infamous mob boss John Gotti."
-    },
-    {
-      "title": "The Deepest Breath",
-      "netflix_url": "https://www.netflix.com/title/81630917",
-      "year": "2023",
-      "imdb_rating": "7.7",
-      "imdb_id": "tt24132732",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmY2YmUwZDMtNjRmNi00ODJhLTllZjYtYzk4ZDg3MTE4ZjA4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A champion and expert safety diver seemed destined for one another. Despite different paths taken, they meet at the pinnacle of the free-diving world, experiencing the thrilling rewards and inescapable risks of chasing dreams thro..."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Shark Whisperer",
@@ -1943,8 +1790,8 @@
       "year": "2025",
       "imdb_rating": "6.9",
       "imdb_id": "tt32307524",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjBjYmQ5ZmYtZjEwNC00ZjVmLWFiNzgtYmE4YWQzNjBkODU1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Marine conservationist and social media activist Ocean Ramsey fearlessly swims with sharks in this documentary about her risky mission to protect them."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Bill Russell: Legend",
@@ -1952,8 +1799,8 @@
       "year": "2023",
       "imdb_rating": "7.8",
       "imdb_id": "tt18271440",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzE0OTNkNzctZTlhNC00NGQ3LTljMzgtYzBlODIxODhlMTc4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Features interviews and personal archives from the life and career of NBA legend Bill Russell."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "DEPP V HEARD",
@@ -1961,8 +1808,8 @@
       "year": "2023",
       "imdb_rating": "5.2",
       "imdb_id": "tt27541298",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmEyYjJkNTAtNmE0Yy00YzMxLTlhYjUtZTA3N2QwYmUwMzYzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Showing both testimonies side-by-side for the first time, this series explores the trial that set Hollywood ablaze and the online fallout that ensued."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The-Cook-A-Long",
@@ -1988,8 +1835,8 @@
       "year": "2025",
       "imdb_rating": "7.5",
       "imdb_id": "tt35295747",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BM2FkNzljMGMtYmVmYS00YjFkLWE2OGYtYzIzMDNjYzc3ZjQxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Following John Elway from Stanford through 16 seasons with Denver Broncos, featuring The Drive, Super Bowl losses and victories, capturing key moments of the Hall of Fame QB's legendary career."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Carman Family Deaths",
@@ -1997,8 +1844,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt31137117",
-      "Poster": "N/A",
-      "Plot": "A fishing trip ends in tragedy when Linda Carman vanishes at sea leaving her son Nathan adrift for days. His rescue stirs up questions about his grandfather's murder and ignites a battle over inheritance that leads to shocking rev..."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Later Daters",
@@ -2006,8 +1853,8 @@
       "year": "2024",
       "imdb_rating": "N/A",
       "imdb_id": "tt34599590",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDIxNDY3ZDItMmVmMS00YzlhLWI4OWEtNDQwYmE0ZjY4ZmJkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Six older adults embark on a journey to find love, guided by their children and a dating expert, as they explore the complexities of modern dating etiquette and rules, all while seeking meaningful connections in their golden years."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Worst Ex Ever",
@@ -2015,8 +1862,8 @@
       "year": "2024",
       "imdb_rating": "7.2",
       "imdb_id": "tt32932523",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU4NDg3NDEtODhjZC00ODk3LThmNzAtNTUwNjVmMThlZjI5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Shocking tales of betrayal, violence, and deceit through testimonials, bodycam footage, and reenactments. Exposes the disturbing realities of monstrous past relationships, tapping into the universal fear of not truly knowing one's..."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Vini Jr.",
@@ -2024,8 +1871,8 @@
       "year": "2025",
       "imdb_rating": "4.0",
       "imdb_id": "tt34682248",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODc3ZDE0NzktYjhhMy00NDMxLWJiNTktODU5MGVhZGNiZTdiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Vini Jr. has it all: talent, resilience and boldness. Follow his dancing, unpredictable feet on his inspiring journey to becoming a global soccer star."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Fit for TV: The Reality of the Biggest Loser",
@@ -2033,8 +1880,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt37666468",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzliMGVkNTEtODdjNC00ZDQyLTgyZDUtNzM3ODk5ZDkxMWUzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Takes an inside look at the making of the hit reality TV competition, exploring the good, the bad, and the complicated."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Aileen: Queen of the Serial Killers",
@@ -2051,8 +1898,8 @@
       "year": "2025",
       "imdb_rating": "7.1",
       "imdb_id": "tt35628532",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTI3MTRkNmQtYjM2YS00NWY2LThlY2MtNTAyNWU2NmQ0YWMxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The inside look at the U.S. Air Force's Thunderbirds flight squadron."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Katrina: Come Hell and High Water",
@@ -2060,8 +1907,8 @@
       "year": "2025",
       "imdb_rating": "7.4",
       "imdb_id": "tt35629490",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGNmZjJkN2QtOGM2NC00MzE5LWI4ZmYtYTg1MGMyYWY4ZmM5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The revisit of the hurricane that caused 1,392 fatalities and more than $100 billion in damages in 2005."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "My Father, the BTK Killer",
@@ -2078,8 +1925,8 @@
       "year": "2024",
       "imdb_rating": "7.2",
       "imdb_id": "tt33480540",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzNjMDRmZjQtYzVkOS00NmZiLWI0MzItMzM4MzlmNTYzMDVkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A shocking new series that points to Arthur Leigh Allen as the Zodiac killer. At the heart of the revelations is an unlikely family whose increasingly chilling relationship with Allen promises to connect him to the infamous Zodiac..."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Grenfell: Uncovered",
@@ -2087,8 +1934,8 @@
       "year": "2025",
       "imdb_rating": "7.4",
       "imdb_id": "tt37024060",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzI3OWQzZjEtYmFiZC00MGM1LTlmYTctMjFjMmVhYjYyMzVjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Reveals decisions by officials and companies before the 2017 Grenfell Tower fire that made it preventable. Survivors, families, and firefighters share their accounts of the tragedy that took 72 lives."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Love Con Revenge",
@@ -2096,8 +1943,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt37694034",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWZiZjE0ZDQtY2MxNy00MmUyLWEzYjEtYzk0ZDVkYzJjMmE5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Victims of romance scams try to reclaim their lives with help from \"The Tinder Swindler\" target Cecilie Fjellhøy and private investigator Brianne Joseph."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders",
@@ -2105,8 +1952,8 @@
       "year": "2025",
       "imdb_rating": "7.0",
       "imdb_id": "tt32146518",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjhkZWJjY2ItN2MwOS00ODk2LTg1ZDUtOGIzZDBjYjQwZDIwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows the 2023-24 Dallas Cowboys Cheerleaders squad: their auditions, training camp, and finally the ending of the Cowboys season, which predictably ended in the NFC Wild Card Round."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "SPRINT",
@@ -2114,8 +1961,8 @@
       "year": "2024",
       "imdb_rating": "7.4",
       "imdb_id": "tt28669701",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDhlOWE0ODYtOTIwMy00ZGQ1LTk3YTctNjMwYTA5NGVmZDk3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follow athletes from all around the world and dive inside the minds of those top athletes who practice to become the world's fastest person. It provides an insider's perspective on the high stakes and mental toughness of sprinters."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "A Nation of Banchan",
@@ -2132,8 +1979,8 @@
       "year": "2023",
       "imdb_rating": "N/A",
       "imdb_id": "tt29521736",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjcwZWU1ZmYtODE1Ny00MTA2LWEwZTctOWFiZGZhMDVkZjJiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Britain and The Blitz",
@@ -2141,8 +1988,8 @@
       "year": "2025",
       "imdb_rating": "6.8",
       "imdb_id": "tt36462227",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZWMwZGJlZjYtYjFkMi00ZjBlLWFlOWYtNDA0NzBkMzI3ODIxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This approach brings history to life through vividly restored archival footage and firsthand accounts of WWII Britain during the Blitz."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Kaulitz & Kaulitz",
@@ -2150,8 +1997,8 @@
       "year": "2025",
       "imdb_rating": "6.9",
       "imdb_id": "tt31806050",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BM2Y0MTc2MDAtNmM0Mi00YWU2LWJkMGYtMTlkZmM5ZmVlODdlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Twin brothers and superstars Tom and Bill Kaulitz offer a glimpse into their private lives in LA and Germany in this funny and intimate reality series."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "50 Seconds: The Fernando Báez Sosa Case",
@@ -2168,8 +2015,8 @@
       "year": "2024",
       "imdb_rating": "N/A",
       "imdb_id": "tt34682889",
-      "Poster": "N/A",
-      "Plot": "N/A"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "American Manhunt: Osama bin Laden",
@@ -2177,8 +2024,8 @@
       "year": "2025",
       "imdb_rating": "7.7",
       "imdb_id": "tt35630036",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2FmZjA5MTYtYjUyYi00MGUxLTg5YjctNWQxNTFlNGZmMjBkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows an in-depth look at how the world mobilized to hunt down Osama bin Laden after his orchestrations of the September 11th, 2001 attacks on the United States."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "American Manhunt: O.J. Simpson",
@@ -2186,8 +2033,8 @@
       "year": "2025",
       "imdb_rating": "7.5",
       "imdb_id": "tt35456246",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTcxODY0ODMtZDhmNy00NTZhLWJlOTEtYmI3YjI5YTM0YWQ5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Revisits the infamous 1990s murder case and trial that captivated America. With new interviews and insights, it explores the chase, courtroom drama, and cultural impact, offering a fresh look at this pivotal moment in US history."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Simone Biles Rising",
@@ -2195,8 +2042,8 @@
       "year": "2024",
       "imdb_rating": "7.3",
       "imdb_id": "tt32376945",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BM2YyMzNiNmItM2M4Yy00ZmNkLThjNzEtZTVmZTc4NzcxNDA1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Simone Biles, the gymnastics superstar, withdrew from the 2020 Tokyo Olympics due to mental health concerns. After a hiatus, she embarked on a journey to rebuild her skills and mental fortitude, preparing for her triumphant return."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Dining With The Kapoors",
@@ -2204,8 +2051,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt35665487",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjczNWU2NDEtMGM0Yy00N2FhLTkxZWItY2E3NTdmYjQyOTJmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Journey into Bollywood's beloved Kapoor family, where cinema heritage meets culinary passion. Through intimate stories and shared memories, discover how food, film, and family traditions shaped generations of this legendary dynasty."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Cold Case: Who Killed JonBenét Ramsey",
@@ -2213,8 +2060,8 @@
       "year": "2024",
       "imdb_rating": "7.0",
       "imdb_id": "tt34169767",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzhiMWY1NTEtYzRhYi00YTFlLTlkMjktMjUzOTVmYjM2YzdmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Nearly 30 years since her murder, a three-part Netflix series revisits the death of JonBenét Ramsey, the child beauty queen killed in her Colorado home, featuring interviews with key figures including her father."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Garnachas: Glorious Street Food!",
@@ -2222,8 +2069,8 @@
       "year": "2025",
       "imdb_rating": "5.9",
       "imdb_id": "tt36150990",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzdmZGM0MTUtNWNiYS00NTk5LThmZWItOWFjMTFiOTU4MTY0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A flavorful exploration of Mexico's street food scene, where the beloved garnacha takes center stage, sparks debates and unites fans with every bite."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Fred and Rose West: A British Horror Story",
@@ -2249,8 +2096,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt35677750",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTA1ZDA1NzAtZmU1Yy00YWE4LWE2ODUtNzI3ODk3MzljNWM4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "All the Sharks",
@@ -2258,8 +2105,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt37333650",
-      "Poster": "N/A",
-      "Plot": "Four shark expert teams compete globally to track down the world's most elusive shark species."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Chef's Table: Noodles",
@@ -2267,8 +2114,8 @@
       "year": "2024",
       "imdb_rating": "7.5",
       "imdb_id": "tt33323674",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ3Y2NiZjItOTlhOS00ZTdiLThkMGEtMThiNDEyOGFjMjBjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Four masterful chefs explore noodles' rich, diverse world, delving into traditional and innovative techniques. Immerse yourself in the delectable journey."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Chef's Table: Legends",
@@ -2276,8 +2123,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt33332486",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ0MjViMTgtMTNkOS00YWViLWFjZGItMjg2ODk1YWU2YzY3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Celebrating a decade of culinary excellence, spotlights iconic chefs whose groundbreaking work and global influence revolutionized modern gastronomy and inspired countless others."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Titan: The OceanGate Submersible Disaster",
@@ -2294,8 +2141,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt37970537",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOWYwYTc1YjUtZjBmNi00NjViLWFkNGMtNzViYTgyZjQ4MzU5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Lost Children",
@@ -2303,8 +2150,8 @@
       "year": "2024",
       "imdb_rating": "7.0",
       "imdb_id": "tt34058121",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjcxZjFhMWItN2Y2MC00MmZhLWExNzEtOTBiNmYyODgyYWRkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Four Indigenous children stranded in Colombian Amazon after plane crash. Guided by ancestral knowledge, they survive while awaiting rescue operation amid the jungle's challenges."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Twister: Caught in the Storm",
@@ -2312,8 +2159,8 @@
       "year": "2025",
       "imdb_rating": "6.8",
       "imdb_id": "tt35882698",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzBiYzhlZDEtZjU5Ny00ZDY4LWJjZTEtNGM4ZmQ2ODE2NTBkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "It is graduation day in Joplin, Missouri. As the Class of 2011 collect their diplomas, their hometown is hit by a rare EF-5 tornado. Believing it could be the end of the world, a group of teenagers find themselves in the eye of th..."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Mountain Queen: The Summits of Lhakpa Sherpa",
@@ -2321,8 +2168,8 @@
       "year": "2024",
       "imdb_rating": "7.6",
       "imdb_id": "tt28448182",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZWY0MTgyYjktMmQ1Ny00NzZkLWFlMTAtNmNiYjEwMGI1ZmU1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A single mother working as a dishwasher who has another life as record-breaking mountain climber."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Greatest Night in Pop",
@@ -2330,8 +2177,8 @@
       "year": "2024",
       "imdb_rating": "7.9",
       "imdb_id": "tt30796448",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDhiMmU0YzEtNzE0Mi00OTRmLWEyMjAtZWRhNzJlZmRiM2U2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "On January 28th 1985, dozens of the era's most popular musicians gathered in Los Angeles to record a charity single for African famine relief. Setting egos aside, they collaborated on a song that would make history."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Starting 5",
@@ -2339,8 +2186,8 @@
       "year": "2025",
       "imdb_rating": "7.2",
       "imdb_id": "tt33294894",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjVjYjEyMDQtZmRlZC00ODEwLTk3NDItYjkxYjFiODYzMzM4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Five NBA superstars' journeys during the 2023-24 season. Their on-court battles, injury struggles, and efforts to balance family life and cementing their legacies."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Comeback: 2004 Boston Red Sox",
@@ -2348,8 +2195,8 @@
       "year": "2024",
       "imdb_rating": "N/A",
       "imdb_id": "tt33356012",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjJjZGUyY2QtNWUwOS00ZDZjLTg4Y2EtOWZiNTgwNDZiZTJhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Chronicles the Red Sox's journey to their first World Series title in 86 years via interviews with star players and personnel."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "America's Team: The Gambler and His Cowboys",
@@ -2357,8 +2204,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt32376299",
-      "Poster": "N/A",
-      "Plot": "Team owner Jerry Jones' journey transforming the Cowboys. Leading players/coaches to 3 NFL titles in '90s, becoming innovative sports leader with world's most valuable franchise."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Bad Influence: The Dark Side of Kidfluencing",
@@ -2366,8 +2213,8 @@
       "year": "2025",
       "imdb_rating": "6.5",
       "imdb_id": "tt36151929",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODNmNzUzNjEtMzE5ZC00M2JmLWI3YzQtZDBiMzlmMTA0NDAxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A revealing look into YouTube star Piper Rockelle's world, her relationship with her manager-mother Tiffany Smith, and the untold stories of past collaborators who were part of her content-creating team."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Gone Girls: The Long Island Serial Killer",
@@ -2375,8 +2222,8 @@
       "year": "2025",
       "imdb_rating": "7.1",
       "imdb_id": "tt35629774",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTEyMDkxYTMtNmI0MS00N2ZjLTlkMTktNDA5NzY1YTVmZGVkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A look back at the women who disappeared from New York City and Long Island before the 2010 discovery of female remains found in the Gilgo Beach area of Long Island, which lead authorities to believe the deaths were all connected."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Hitmakers",
@@ -2384,8 +2231,8 @@
       "year": "2025",
       "imdb_rating": "6.3",
       "imdb_id": "tt37438632",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzFlMzZkZTItZTQ0NS00YmRlLWEwMjMtNmU2NzdiMzk1ZGQ0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Talented songwriters collaborate to create hit songs for major music stars."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Critical: Between Life and Death",
@@ -2393,8 +2240,8 @@
       "year": "2025",
       "imdb_rating": "8.2",
       "imdb_id": "tt33047063",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZWRhYmRmM2QtOTcyOC00ZThmLTk3ZDQtOGZkOTBkOTUzOTA5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "From critical emergencies to the operating room, this documentary series follows London's trauma centres as they treat the most severely injured."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Together: Treble Winners",
@@ -2402,8 +2249,8 @@
       "year": "2024",
       "imdb_rating": "7.4",
       "imdb_id": "tt31579076",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOWFlN2U5YjctMzg1YS00OWU4LWJhOGUtYTVlOWM0NjgwMzZmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows the chronicling of Manchester City's 2022-2023 season, following the team through preseason, new player arrivals, and their journey to a historic treble."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "American Murder: Gabby Petito",
@@ -2411,8 +2258,8 @@
       "year": "2025",
       "imdb_rating": "7.1",
       "imdb_id": "tt35590630",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGE3MTcwNjMtNWI5Yi00ZTgzLTk0NGMtOGE5ODAxMzkyYjFhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A young couple's cross-country van journey, documented on social media, ends in tragedy when domestic violence shatters their seemingly perfect life. Their story sparks a nationwide investigation and raises questions about family ..."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Receiver",
@@ -2420,8 +2267,8 @@
       "year": "2024",
       "imdb_rating": "7.8",
       "imdb_id": "tt32608335",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q0MjQ1N2YtNzA3Ni00ZTY0LTkyZTAtOTgyZTI0MjJkMjkxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows five of the NFL's top wide receivers in the spotlight through the 2023-2024 season."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Surviving Black Hawk Down",
@@ -2429,8 +2276,8 @@
       "year": "2025",
       "imdb_rating": "7.4",
       "imdb_id": "tt35435624",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwNWUwMzktYjRiMS00MDFlLTg5N2UtNGM1ZGZlNzc0ZmYzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Documents the real 1993 Battle of Mogadishu through firsthand accounts from U.S. soldiers and Somali civilians, detailing the mission to capture warlord Aidid and the downing of two helicopters."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "I Love Filipino",
@@ -2438,8 +2285,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt37275950",
-      "Poster": "N/A",
-      "Plot": "N/A"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Court of Gold",
@@ -2447,8 +2294,8 @@
       "year": "2025",
       "imdb_rating": "7.7",
       "imdb_id": "tt32376394",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWM2NGFhY2UtMzE1Ny00ZGU5LWEzODgtNmE3ZmZlYjQ4NTFkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Get an inside look at the top men's basketball teams as they compete for gold and glory at the 2024 Olympic Games in Paris. See the world's best players in action, chasing the ultimate victory."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Amy Bradley Is Missing",
@@ -2456,8 +2303,8 @@
       "year": "2025",
       "imdb_rating": "6.8",
       "imdb_id": "tt37439438",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQ2N2MwM2YtOWI0ZC00NDYwLWJiYWItMWQxOWM1ZDA5YmU1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "March 24, 1998, Amy Lynn Bradley, 23, is enjoying a family cruise vacation when Amy suddenly vanishes without a trace. This twist-filled 3-part documentary mystery explores the theories, and a family's desperate search for the truth."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Trainwreck: The Astroworld Tragedy",
@@ -2465,8 +2312,8 @@
       "year": "2025",
       "imdb_rating": "6.7",
       "imdb_id": "tt36856278",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDZiYjc2M2MtY2Q2NC00ZWFjLTgyYzUtZjZiMjhmNjVjZDc3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Through firsthand accounts from survivors, medics and event workers, the documentary explores the 2021 Astroworld festival disaster and its consequences."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Simon Cowell: The Next Act",
@@ -2474,8 +2321,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt37610565",
-      "Poster": "N/A",
-      "Plot": "N/A"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Untold: The Fall of Favre",
@@ -2510,8 +2357,8 @@
       "year": "2024",
       "imdb_rating": "N/A",
       "imdb_id": "tt32563380",
-      "Poster": "N/A",
-      "Plot": "N/A"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Victoria Beckham",
@@ -2519,8 +2366,8 @@
       "year": "2025",
       "imdb_rating": "6.4",
       "imdb_id": "tt33241853",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODJjMDNiNWMtZjQ1MC00MGEyLWFjNjUtNGQ0MzdjYzMxN2RiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows Spice Girl's journey to fashion designer and mother of four, including her preparation for Paris Fashion Week show."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "MARINES",
@@ -2528,8 +2375,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt37738466",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTg1ZTM1NGUtMjNmMC00ZDQxLWJmZDktNWYzYjVlM2U3OWNhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Feature-length documentary that tells the story of the United States Marine Corps (USMC) during their stay in Wairarapa during World War 2. The USMC's 3rd Defense Battalion were stationed at Solway Showgrounds in 1943."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Trainwreck: Storm Area 51",
@@ -2537,8 +2384,8 @@
       "year": "2025",
       "imdb_rating": "5.6",
       "imdb_id": "tt36856570",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDUwN2I2ZDItZjhlMy00MmE2LWI2MGMtM2U4ZmZkMGM4OWUyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A viral Facebook event to storm Area 51 draws millions of signups, prompting military warnings. As memes spread about Naruto-running past bullets, UFO hunters and internet personalities converge for what could be a desert party or..."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Turning Point: The Vietnam War",
@@ -2546,8 +2393,8 @@
       "year": "2025",
       "imdb_rating": "7.8",
       "imdb_id": "tt36242714",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjBlYWNjOWYtOWI4OS00NjNiLWExYzUtM2ZmODA2ZDBlZWFlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The Vietnam War's profound effects on American identity, causing social division and eroding government trust. More than military defeat, it transformed US politics and culture."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Aaron Rodgers: Enigma",
@@ -2555,8 +2402,8 @@
       "year": "2024",
       "imdb_rating": "N/A",
       "imdb_id": "tt33350486",
-      "Poster": "N/A",
-      "Plot": "Follows NFL quarterback Aaron Rodgers' comeback with the New York Jets and his life off the field, including his advocacy for ayahuasca, a psychedelic brew."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Untold: Sign Stealer",
@@ -2564,8 +2411,8 @@
       "year": "2024",
       "imdb_rating": "N/A",
       "imdb_id": "tt33043064",
-      "Poster": "N/A",
-      "Plot": "In this sports documentary, Connor Stalions addresses the allegations surrounding the Michigan football sign-stealing scandal for the first time."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Don't Die: The Man Who Wants to Live Forever",
@@ -2573,8 +2420,8 @@
       "year": "2025",
       "imdb_rating": "6.1",
       "imdb_id": "tt34977130",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmJmMDU2YWYtZWFhNC00MGNmLWE0YTgtM2M2MWRlODE2ODhjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Explores a man's quest for immortality and the lengths he goes to defy aging."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Nightmares of Nature",
@@ -2582,8 +2429,8 @@
       "year": "2025",
       "imdb_rating": "7.4",
       "imdb_id": "tt0121950",
-      "Poster": "N/A",
-      "Plot": "N/A"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Mob War: Philadelphia vs. The Mafia",
@@ -2600,8 +2447,8 @@
       "year": "2025",
       "imdb_rating": "6.0",
       "imdb_id": "tt36856455",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDIwNTMzMjEtNmRkNy00ODNlLWE5MjEtYzlmMzM1ODA0MTBlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A luxury cruise turns disastrous when an engine fire cuts power to the entire ship. 4,000 passengers face failing systems, sewage leaks, and food shortages, sparking passenger unrest and media coverage of \"The Poop Cruise.\""
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Masaka Kids, A Rhythm Within",
@@ -2609,8 +2456,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt37440137",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmIzN2JkMDktMTRhOC00OTMyLWFkNWItNmQ1NjE3NjMwZTZjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The story behind the Uganda-based YouTube dance sensations who have endured devastating personal loss from famine and war, and use the power of dance and song to overcome hardship."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Murder in Monaco",
@@ -2627,8 +2474,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt35631328",
-      "Poster": "N/A",
-      "Plot": "The New Yorker's centennial reveals behind-the-scenes access to editors, writers, and archives of this culturally vital magazine, one of print's last survivors."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "timelesz project -AUDITION-",
@@ -2636,8 +2483,8 @@
       "year": "2024",
       "imdb_rating": "N/A",
       "imdb_id": "tt36159349",
-      "Poster": "N/A",
-      "Plot": "N/A"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Sean Combs: The Reckoning",
@@ -2645,8 +2492,8 @@
       "year": "2025",
       "imdb_rating": "7.5",
       "imdb_id": "tt33473000",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYWUzNGQ0MDItNmJkMy00NWRlLWFmYzktZTM5YTZkY2JlMGE2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A revealing look at Sean Combs' journey from music mogul to controversial figure, featuring footage and insider accounts that expose both his groundbreaking success with Bad Boy Entertainment and the troubling shadows behind his e..."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Karol G: Tomorrow was Beautiful",
@@ -2654,8 +2501,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt36617085",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTQyZjBkMGQtNTQ2NS00MTQyLWFiMzktOTc2ZjUwNjA2ZTlmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Evil Influencer: The Jodi Hildebrandt Story",
@@ -2694,22 +2541,13 @@
       "Plot": null
     },
     {
-      "title": "Piece by Piece",
-      "netflix_url": "https://www.netflix.com/title/82006733",
-      "year": "2024",
-      "imdb_rating": "6.9",
-      "imdb_id": "tt31064841",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjUxMjE2YWQtY2YwMS00MTdkLTg0ZWQtMTQ0NzExY2U4NGZkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A vibrant journey through the life of Pharrell Williams, told through the lens of LEGO animation."
-    },
-    {
       "title": "The Perfect Neighbor",
       "netflix_url": "https://www.netflix.com/title/82018736",
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt34962891",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZmYxZjA5YmItMjJkYi00NzllLWJjMzgtZjFjZjBlZGQwMmRkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A minor disagreement between neighbors in Florida takes a lethal turn, with police body camera footage and interviews probing the aftermath of the state's controversial \"stand your ground\" laws."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Becoming Led Zeppelin",
@@ -2717,8 +2555,8 @@
       "year": "2025",
       "imdb_rating": "7.5",
       "imdb_id": "tt10365912",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTBhMzliNzYtMjQwMy00MjdhLWIyOGYtYzdiY2FlNjk3YTkzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The film traces the journeys of the four members of the Stairway To Heaven rockers through the music scene of the 1960s and their meeting in the summer of 1968, culminating in 1970."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "aka Charlie Sheen",
@@ -2726,8 +2564,8 @@
       "year": "2025",
       "imdb_rating": "7.6",
       "imdb_id": "tt37898320",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjk0N2YyZGEtZDU2NS00MjY5LWJiNGEtNzdhZjUyMzc4ZWFmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After 7 years sober, Charlie Sheen candidly discusses his rise to fame and public downfall, joined by family and friends who share untold stories of his journey through stardom, struggles, and redemption."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Selena y Los Dinos: A Family’s Legacy",
@@ -2744,8 +2582,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt37749208",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg0ODlmODctYmRiOC00YjMwLThjZTUtOTBiNjAxNGI5NDllXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The White House Effect",
@@ -2753,8 +2591,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt33085010",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODdiZTFkNTItYmNhOC00NDcwLTgyZTUtZDljZWVlN2VjYjIwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Explores the dramatic origin story of the climate crisis and how a political battle in the George H.W. Bush administration changed the course of history."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "In Waves and War",
@@ -2762,8 +2600,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt33108207",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYWM0N2Y3MGItYzRhMy00ZWRjLTg1NmMtMTJkMDBmZTNmM2RkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Highly decorated Navy SEAL Marcus Capone struggles with PTSD after returning from Afghanistan. His wife finds hope in psychedelic therapy. They embark on providing access to this treatment for other veterans battling mental health..."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Sunday Best: The Untold Story of Ed Sullivan",
@@ -2771,8 +2609,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt7264336",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjliZjMxM2UtMjRlZC00NGNkLTk5YWYtNjQ2Zjk0ODQ5OTU1XkEyXkFqcGdeQXVyMTA5OTYxNTk4._V1_SX300.jpg",
-      "Plot": "Examines the groundbreaking career of pioneering television host Ed Sullivan, focusing on his platforming of Black musicians during the civil rights era."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "All the Empty Rooms",
@@ -2780,8 +2618,8 @@
       "year": "2025",
       "imdb_rating": "9.2",
       "imdb_id": "tt37798645",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDExYmE3ZDgtMDhmYy00OTQ1LWI5OTktMzJkOTIwNzc0MDBkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows correspondent Steve Hartman and photographer Lou Bopp as they embark on a seven-year-long project to document the empty bedrooms of children killed in school shootings."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "The Stringer: The Man Who Took The Photo",
@@ -2789,8 +2627,8 @@
       "year": "2025",
       "imdb_rating": "7.4",
       "imdb_id": "tt35307143",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTIxZjQ0OWUtOTg5YS00NTZiLWJmZmQtZWFlMzYwNGIxYTg5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A two-year investigation uncovers a scandal behind the making of one of the most-recognized photographs of the 20th century. Five decades of secrets are unraveled in the search for justice for a man known only as \"the stringer.\""
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Titans: The Rise of Wall Street",
@@ -2798,8 +2636,8 @@
       "year": "2022",
       "imdb_rating": "8.0",
       "imdb_id": "tt18278410",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQ2NWRlYmItZjY3ZS00Njg5LWJkYmEtMDA5ZGNjMzY2Y2NlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Money made America a global empire and for the last 150 years America's riches have been controlled by the titans of Wall Street."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Frankenstein: The Anatomy Lesson",
@@ -2834,8 +2672,8 @@
       "year": "2025",
       "imdb_rating": "7.5",
       "imdb_id": "tt37660887",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjc0MTQ3YTctZjRlZC00NTdjLWFmYzYtZGY5OGMwYWJlMWYyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Seymour Hersh has been at the front lines of political journalism in the United States. Hersh's breakthrough reportage has brought to the public's attention many of the most damning constitutional wrongdoings and cover-ups."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Wick Is Pain",
@@ -2843,8 +2681,8 @@
       "year": "2025",
       "imdb_rating": "7.6",
       "imdb_id": "tt36751759",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZGU0MzZkODAtNmRjZC00NDg3LWJmNDgtMDcxMjk4MTA4OWFjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The never-before-seen footage and story behind the John Wick (2014) phenomenon, from independent film to billion-dollar franchise."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Scotty James: Pipe Dream",
@@ -2861,8 +2699,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt36590288",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDdmNzBmNDgtYTAzMi00NzQ0LWJhZGYtNmFmOTQ0Y2EyYzg0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Concert film weaves Depeche Mode's 2023 Mexico City performances with segments examining music, mortality, and Mexican death traditions."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Rebbeca",
@@ -2870,8 +2708,8 @@
       "year": "2025",
       "imdb_rating": "N/A",
       "imdb_id": "tt36590342",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjNkNGMyN2MtZTcyMC00MDMwLTk5NWMtYmI0NTI3OWE5NWYwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Pop star Becky G explores her heritage while creating her first Mexican regional album, reflecting on her complex background and history."
+      "Poster": null,
+      "Plot": null
     },
     {
       "title": "Starto Countdown 2025→2026",

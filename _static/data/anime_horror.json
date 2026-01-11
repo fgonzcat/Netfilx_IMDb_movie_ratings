@@ -1,0 +1,168 @@
+{
+  "genre": "anime_horror",
+  "genre_url": "https://www.netflix.com/browse/genre/10695",
+  "movies": [
+    {
+      "title": "DEATH NOTE",
+      "netflix_url": "https://www.netflix.com/title/70204970",
+      "year": "2006",
+      "imdb_rating": "8.9",
+      "imdb_id": "tt0877057",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgyZDhmMTEtZDFhNi00MTc4LTg3NjUtYWJlNGE5Mzk2NzMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it."
+    },
+    {
+      "title": "Vampire Knight",
+      "netflix_url": "https://www.netflix.com/title/70309457",
+      "year": "2008",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1209393",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWU0ZjMxOTItNmRhYy00NjRlLTllMjgtYTdhYzBlMTgzYzY5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Yuki Cross, a student at the Cross Academy, acts as guardian to the school's vampire population."
+    },
+    {
+      "title": "Castlevania",
+      "netflix_url": "https://www.netflix.com/title/80095241",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15562720",
+      "Poster": "N/A",
+      "Plot": "Castlevania, the Machinima, is based on the popular video game franchise from Konami. Tracking the adventures of vampire hunter; Richter Belmont and his dreaded battle with the Lord of Darkness, Dracula."
+    },
+    {
+      "title": "Mononoke",
+      "netflix_url": "https://www.netflix.com/title/80169676",
+      "year": "2007",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt1992935",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjBjMjIwZGItZjgwMS00MjIyLWJiNjctNzM4YWVkNDlhODFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A mysterious man called the Medicine Seller travels along feudal Japan, uncovering and slaying evil spirits called \"Mononoke\"."
+    },
+    {
+      "title": "Devilman Crybaby",
+      "netflix_url": "https://www.netflix.com/title/80174974",
+      "year": "2018",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt6660498",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjRjOGI4M2YtMGQ4NC00OTk3LTg4MWItYjBjYzNiOGI0Y2ZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "With demons reawakened and humanity in turmoil, a sensitive demon-boy is led into a brutal, degenerate war against evil by his mysterious friend."
+    },
+    {
+      "title": "RESIDENT EVIL: Infinite Darkness",
+      "netflix_url": "https://www.netflix.com/title/80987064",
+      "year": "2021",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt13173144",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjAzYjZlMTgtMzFiNy00YzdmLWE0NTEtYTE4Zjg3NjMzYjBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Federal agent Leon S. Kennedy teams up with TerraSave staff member Claire Redfield to investigate a zombie outbreak. Based on the popular video game series of the same name by Capcom."
+    },
+    {
+      "title": "Trese",
+      "netflix_url": "https://www.netflix.com/title/81012541",
+      "year": "2021",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt9310336",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODU2ZjEwMjUtMTZiOS00NmFiLTkwOTMtOWUxMjAxZTlmMGFmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set in Manila where the mythical creatures of Philippine folklore live in hiding amongst humans, Alexandra Trese finds herself going head to head with a criminal underworld comprised of malevolent supernatural beings."
+    },
+    {
+      "title": "The Grimm Variations",
+      "netflix_url": "https://www.netflix.com/title/81050090",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt14872196",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmU3NGQxMzQtMTkyYy00YThjLTljOTAtZGQ2YTY3OTg2OTE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Inspired by the classic Brothers Grimm stories, this anthology features six fairy tales with a dark twist, exposing the shadowy side of human desire."
+    },
+    {
+      "title": "Kabaneri of the Iron Fortress: The Battle of Unato",
+      "netflix_url": "https://www.netflix.com/title/81095103",
+      "year": "2019",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt10253816",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzAxY2Y5YWMtNzg2NS00MWQyLTg4YmEtNDcyMzdkZGJiNzkxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The film chronicles the attempt of the team to take back Unato castle."
+    },
+    {
+      "title": "Junji Ito Maniac: Japanese Tales of the Macabre",
+      "netflix_url": "https://www.netflix.com/title/81295011",
+      "year": "2023",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt21856734",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTZhMDZhNmItZTQwNS00NDZlLTgzYTEtNTkxY2EzZDIzZDg3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "From the mind of horror manga maestro Junji Ito comes a spine-tingling selection of some of his most bizarre, disturbing and terrifying tales."
+    },
+    {
+      "title": "Akuma Kun",
+      "netflix_url": "https://www.netflix.com/title/81400498",
+      "year": "2023",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt16270188",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWM2MGNkZmYtOGQxYS00MDM5LWFhMDEtMzBlZjgzMGMyNjEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A boy trying create a society where humanity realizes it's true potential and lives happily, with the help of some unlikely allies."
+    },
+    {
+      "title": "Castlevania: Nocturne",
+      "netflix_url": "https://www.netflix.com/title/81436901",
+      "year": "2025",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt14833612",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODJhZDcxMWItNmI3MC00NGZhLWI2YmMtYjc2ZDFkYjRiYTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "During the French Revolution, vampire hunter prodigy Richter Belmont fights to uphold his family's legacy and prevent the rise of a ruthless, power-hungry vampire."
+    },
+    {
+      "title": "Mononoke The Movie: The Phantom in the Rain",
+      "netflix_url": "https://www.netflix.com/title/81580574",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    },
+    {
+      "title": "Mononoke The Movie: Chapter II - The Ashes of Rage",
+      "netflix_url": "https://www.netflix.com/title/81580575",
+      "year": "2025",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt35301440",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY1Y2E5OWUtYjA0Ni00YmQ0LWFlNWItODhjMTM2ZDk5ZmFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Medicine Seller reappears when a harem in Edo confronts family conflicts and jealousy, sparking the emergence of a violent spirit."
+    },
+    {
+      "title": "Zom 100: Bucket List of the Dead",
+      "netflix_url": "https://www.netflix.com/title/81680101",
+      "year": "2023",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt25811262",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzhkNDM2OGUtOGUzZC00NjAzLThmODktOGE4ZjgxZjA3OWQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A worker in a foreign finance company is bullied and worked around the clock, before a zombie outbreak finally makes him feel alive."
+    },
+    {
+      "title": "DAN DA DAN",
+      "netflix_url": "https://www.netflix.com/title/81736884",
+      "year": "2025",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt36440312",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODY1NzNkYmQtN2I4My00NzdlLWExOTgtNmJhMGFmY2VkYThiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Momo and Okarun set out on their latest adventure, traveling to a hot springs town home rented by Jiji, Momo's childhood friend and former crush, with the goal to solve the mystery surrounding his family."
+    },
+    {
+      "title": "The Summer Hikaru Died",
+      "netflix_url": "https://www.netflix.com/title/81948057",
+      "year": "2025",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt33028568",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDkxYzM3MTYtZmFjMy00MDIxLTllNDctODQxZDNkZDQzNTAxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Hikaru vanishes, replaced by an entity with his appearance, voice, and memories. The mysterious being maintains Hikaru's persona, making distinguishing it from the real Hikaru challenging as they continue their daily routines."
+    },
+    {
+      "title": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
+      "netflix_url": "https://www.netflix.com/title/82047155",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "Poster": null,
+      "Plot": null
+    }
+  ]
+}
