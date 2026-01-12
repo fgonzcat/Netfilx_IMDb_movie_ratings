@@ -260,12 +260,17 @@ jq -r '
 ' "$CACHE_JSON_FILE" > "$TMP_TSV"
 
 
-#cat "$CACHE_JSON_FILE" | jq -r '.movies[]   | select(.imdb_rating == null or .imdb_id == null or .Poster == null or .Plot == null)   | [.title, .year, .netflix_url] '
+jq -r '.movies[]   | select(.imdb_rating == null or .imdb_id == null or .Poster == null or .Plot == null)  ' "$CACHE_JSON_FILE" 
 
 # Reading the TMP_TSV: a json file only with missing IMDb rating
 while IFS=$'\t' read -r title year url; do
   (
-    echo "Processing OMDb: $title ($year)" >&2
+    echo "Processing OMDb: $title ($year)"   >&2
+    
+    # HANDLE EXCEPTIONS MANUALLY
+    if [[ "$title" == *Warmest*Color* ]]; then 
+     title=$(echo $title | sed -e 's/Color/Colour/g')
+    fi 
 
     safe_title=$(printf '%s' "$title" \
       | perl -CS -MUnicode::Normalize -pe '$_=NFD($_); s/\pM//g' \

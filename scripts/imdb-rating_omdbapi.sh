@@ -54,6 +54,8 @@ while IFS= read -r movie; do
    echo "$movie $year $URL"
    omdb_url=$(echo "http://www.omdbapi.com/?t=$(printf '%s' "$movie_safe" | sed 's/ /%20/g')&y=$year&apikey=$APIKEY")
    echo "curl -s \"$omdb_url\" "
+   json=`curl -s "$omdb_url"`
+   echo $json | jq -r
   fi
   omdb_url=$(echo "http://www.omdbapi.com/?t=$(printf '%s' "$movie_safe" | sed 's/ /%20/g')&y=$year&apikey=$APIKEY")
   json=$(curl -s "$omdb_url") 
