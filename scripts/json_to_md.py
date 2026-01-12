@@ -4,6 +4,9 @@ import sys
 from pathlib import Path
 import re
 import requests
+from datetime import date
+last_updated = date.today().isoformat()  # e.g., '2026-01-11'
+
 
 def fetch_netflix_title(list_url):
     html = requests.get(list_url, timeout=10).text
@@ -112,4 +115,5 @@ You don’t have to manually check IMDb for each movie — the ranking is fully 
 ```{{tip}}
 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
 ```
+\n---\n*Page last updated on: {last_updated}*\n
 """)
