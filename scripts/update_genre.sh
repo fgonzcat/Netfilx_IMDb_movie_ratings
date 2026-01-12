@@ -109,8 +109,13 @@ raw_json=$(wget --no-check-certificate -q -O - "$GENRE_URL" | tr '<>' '\n\n' | g
 NEW_MOVIES=$(echo "$raw_json" | jq -c '.itemListElement[] | {title: .item.name, netflix_url: .item.url}')
 
 # Wrap as JSON object
+# Only fields we know from Netflix: title + netflix_url
+# Year, imdb_rating, imdb_id are set to null as placeholders
+# Poster and Plot are not set at all here — they stay out
 NEW_MOVIES_ARRAY=$(echo "$raw_json"     | jq -c '.itemListElement[] | {title: .item.name, netflix_url: .item.url}'     | jq -s '.')   # <- slurp: turns multiple JSON objects into an array
-NEW_JSON=$(jq -n --argjson arr "$NEW_MOVIES_ARRAY" --arg genre "$GENRE_NAME" --arg url "$GENRE_URL" '{genre: $genre, genre_url: $url, movies: [$arr[] | .year=null | .imdb_rating=null | .imdb_id=null | .Poster=null | .Plot=null ]}')
+#NEW_JSON=$(jq -n --argjson arr "$NEW_MOVIES_ARRAY" --arg genre "$GENRE_NAME" --arg url "$GENRE_URL" '{genre: $genre, genre_url: $url, movies: [$arr[] | .year=null | .imdb_rating=null | .imdb_id=null | .Poster=null | .Plot=null ]}')
+NEW_JSON=$(jq -n --argjson arr "$NEW_MOVIES_ARRAY" --arg genre "$GENRE_NAME" --arg url "$GENRE_URL"  '{genre: $genre, genre_url: $url, movies: [$arr[] | .year=null | .imdb_rating=null | .imdb_id=null]}')
+
 
 # Eliminate duplicates
 NEW_JSON=$(echo "$NEW_JSON" | jq -r '.movies |= unique_by(.netflix_url)')
@@ -129,9 +134,6 @@ fi
 
 
 
-
-
-
 ##########################################
 # Step 2: merge with existing cache (if any)
 ##########################################
@@ -141,11 +143,20 @@ if [[ -f "$CACHE_JSON_FILE" ]]; then
     jq --slurpfile new <(echo "$NEW_JSON") '
       $new[0].movies as $newarr |
       .movies as $old |
+    
+      # merge by netflix_url
       ($newarr + $old
          | group_by(.netflix_url)
          | map(
-             .[0] + (.[1:][] | {year, imdb_rating, imdb_id})
-           )
+             # base is first old movie if exists, otherwise new movie
+             (map(select(.year != null or .imdb_rating != null or .imdb_id != null))[0] // .[0])
+             as $base |
+    
+             # merge all other entries, keeping any fields not already in base
+             reduce .[] as $item ($base;
+               . + ($item | del(.title, .netflix_url)) # merge all fields except title/url
+             )
+         )
       ) as $merged |
       {genre: $new[0].genre, genre_url: $new[0].genre_url, movies: $merged}
     ' "$CACHE_JSON_FILE" > "${CACHE_JSON_FILE}.tmp"
@@ -153,6 +164,7 @@ if [[ -f "$CACHE_JSON_FILE" ]]; then
 else
     echo "$NEW_JSON" > "$CACHE_JSON_FILE"
 fi
+
 
 
 ##########################################
@@ -222,6 +234,7 @@ wait
 echo "... years fetched in $CACHE_JSON_FILE"
 
 
+
 ##########################################
 # Step 4: OMDb search. Fill missing IMDb ratings and IDs
 ##########################################
@@ -245,6 +258,9 @@ jq -r '
   | [.title, .year, .netflix_url]
   | @tsv
 ' "$CACHE_JSON_FILE" > "$TMP_TSV"
+
+
+#cat "$CACHE_JSON_FILE" | jq -r '.movies[]   | select(.imdb_rating == null or .imdb_id == null or .Poster == null or .Plot == null)   | [.title, .year, .netflix_url] '
 
 # Reading the TMP_TSV: a json file only with missing IMDb rating
 while IFS=$'\t' read -r title year url; do
