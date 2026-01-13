@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#############################
+#  This code basically runs
+#  ./scripts/update-genre i for each i in genre
+############################
+
 INTERACTIVE=0
 
 while [[ $# -gt 0 ]]; do
@@ -18,7 +23,7 @@ export INTERACTIVE   # <-- now child scripts can see it
 
 
 
-genres=$(awk '/Movie categories/{bool=1}  /file/ && bool==1{print $NF} ' website_jupyter_book/_toc.yml)
+genres=$(awk '/Movie Categories/{bool=1}  /file/ && bool==1{print $NF} ' website_jupyter_book/_toc.yml)
 
 for g in $genres
 do
@@ -27,5 +32,8 @@ do
 
  echo -e "\n\033[34m==>\033[0m \033[1mGENRE: \033[0m \033[36m $g \033[0m"
  echo "./scripts/update_genre.sh $g  $netflix_url"
- ./scripts/update_genre.sh $g  $netflix_url
+ ./scripts/update_genre.sh $g  $netflix_url   || {
+    echo "Stopping automatic update: OMDb limit or fatal error." >&2
+    exit 1
+  }
 done

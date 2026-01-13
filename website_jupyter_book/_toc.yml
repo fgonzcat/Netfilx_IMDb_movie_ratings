@@ -62,3 +62,7 @@ parts:
       - file: anime_fantasy
       - file: anime_horror
       - file: anime_scifi
+
+  - caption: Best of the Best
+    chapters:
+      - file: best 

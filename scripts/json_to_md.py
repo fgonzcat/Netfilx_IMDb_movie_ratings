@@ -35,13 +35,15 @@ with open(json_file) as f:
 
 genre_file_name = data.get("genre", "Unknown Genre") #.capitalize()
 genre_url = data.get("genre_url", "")
-title = fetch_netflix_title(genre_url)
+title="" 
+if genre_url is not None: title = fetch_netflix_title(genre_url)
 if not title:  title = genre_file_name.replace("_", " ").title()
 title = title.replace('Dramas','Drama')
 title = title.replace('Watch','')
 title = title.replace('Best','')
 title = title.replace('Essential Horror Flicks','Horror Movies')
 
+if 'best.json' in sys.argv[1]: title = "Best of the best"
 
 # Sort movies by IMDb rating (descending), missing ratings go last
 def sort_key(movie):
