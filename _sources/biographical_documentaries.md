@@ -154,20 +154,31 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/3652" target="_blan
 | N/A |  | 2010 | <details> <summary><strong style="color:#1f6feb;">*30 for 30: The Two Escobars*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/70137756" target="_blank">Netflix_link</a> |
 | N/A |  | 2011 | <details> <summary><strong style="color:#1f6feb;">*30 for 30: The Fab Five*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/70178627" target="_blank">Netflix_link</a> |
 | N/A |  | 2014 | <details> <summary><strong style="color:#1f6feb;">*30 for 30: Rand University*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/80020312" target="_blank">Netflix_link</a> |
+| N/A |  | 2015 | <details> <summary><strong style="color:#1f6feb;">*30 for 30: I Hate Christian Laettner*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/80020315" target="_blank">Netflix_link</a> |
+| N/A |  | 2017 | <details> <summary><strong style="color:#1f6feb;">*Kingdom of Us*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/80158844" target="_blank">Netflix_link</a> |
+| N/A |  | 2017 | <details> <summary><strong style="color:#1f6feb;">*Joshua: Teenager vs. Superpower*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/80169348" target="_blank">Netflix_link</a> |
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*ReMastered: Tricky Dick & The Man in Black*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/80191051" target="_blank">Netflix_link</a> |
 | N/A |  | 2017 | <details> <summary><strong style="color:#1f6feb;">*Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/80209608" target="_blank">Netflix_link</a> |
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Ladies First*</strong></summary>  <div class="movie-plot">None</div> </details> | <a href="https://www.imdb.com/title/tt9386158/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/80219143" target="_blank">Netflix_link</a> |
 | N/A |  | 2019 | <details> <summary><strong style="color:#1f6feb;">*Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/80221016" target="_blank">Netflix_link</a> |
 | N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Camarón Revolution*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/80233223" target="_blank">Netflix_link</a> |
+| N/A |  | 2020 | <details> <summary><strong style="color:#1f6feb;">*Dick Johnson Is Dead*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/80234465" target="_blank">Netflix_link</a> |
+| N/A |  | 2018 | <details> <summary><strong style="color:#1f6feb;">*Shirkers*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/80241061" target="_blank">Netflix_link</a> |
 | N/A |  | 2020 | <details> <summary><strong style="color:#1f6feb;">*Guillermo Vilas: Settling the Score*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81037873" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Dig Deeper: The Disappearance of Birgit Meier*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81040563" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Pelé*</strong></summary>  <div class="movie-plot">None</div> </details> | <a href="https://www.imdb.com/title/tt19382188/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81074673" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Being Eddie*</strong></summary>  <div class="movie-plot">None</div> </details> | <a href="https://www.imdb.com/title/tt35627915/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81094163" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*The Least Expected Day: Inside the Movistar Team 2019*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81130094" target="_blank">Netflix_link</a> |
+| N/A |  | 2020 | <details> <summary><strong style="color:#1f6feb;">*John Was Trying to Contact Aliens*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81252991" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*The Billionaire, The Butler, and the Boyfriend*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81306326" target="_blank">Netflix_link</a> |
+| N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Angèle*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81313522" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Heroes: Silence and Rock & Roll*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81393720" target="_blank">Netflix_link</a> |
+| N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*The Joys and Sorrows of Young Yuguo*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81474598" target="_blank">Netflix_link</a> |
+| N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Call Me Kate*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81475700" target="_blank">Netflix_link</a> |
+| N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Black Sunshine Baby*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81478987" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Big Mäck: Gangsters and Gold*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81495571" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Cocaine Air: Smugglers at 30,000 Ft.*</strong></summary>  <div class="movie-plot">None</div> </details> | <a href="https://www.imdb.com/title/tt36593582/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81614967" target="_blank">Netflix_link</a> |
+| N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Sweetie*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81629752" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Rafa Márquez: El Capitán*</strong></summary>  <div class="movie-plot">None</div> </details> | <a href="https://www.imdb.com/title/tt32441255/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81640975" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*If I Were Luísa Sonza*</strong></summary>  <div class="movie-plot">None</div> </details> | <a href="https://www.imdb.com/title/tt28995977/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81645036" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*It's OK*</strong></summary>  <div class="movie-plot">None</div> </details> | <a href="https://www.imdb.com/title/tt28280697/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81661226" target="_blank">Netflix_link</a> |
@@ -175,9 +186,12 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/3652" target="_blan
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Aileen: Queen of the Serial Killers*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81673047" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Virgilio*</strong></summary>  <div class="movie-plot">None</div> </details> | <a href="https://www.imdb.com/title/tt26340586/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81692185" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*Paparazzi King*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81707342" target="_blank">Netflix_link</a> |
+| N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Amazing Antoine*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81709732" target="_blank">Netflix_link</a> |
+| N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Garbo: Where Did You Go?*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81715821" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Conversations with Ruth de Souza*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81730289" target="_blank">Netflix_link</a> |
 | N/A |  | 2020 | <details> <summary><strong style="color:#1f6feb;">*30 for 30: Lance*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81753677" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*TLC Forever*</strong></summary>  <div class="movie-plot">None</div> </details> | <a href="https://www.imdb.com/title/tt13220796/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81759221" target="_blank">Netflix_link</a> |
+| N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Harta Tahta Raisa*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81788277" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*The Roshans*</strong></summary>  <div class="movie-plot">None</div> </details> | <a href="https://www.imdb.com/title/tt31189484/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81922315" target="_blank">Netflix_link</a> |
 | N/A |  | 2017 | <details> <summary><strong style="color:#1f6feb;">*One Hundred Years with Juan Rulfo*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81942953" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Songs From the Hole*</strong></summary>  <div class="movie-plot">None</div> </details> | <a href="https://www.imdb.com/title/tt30835190/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81992626" target="_blank">Netflix_link</a> |
@@ -187,41 +201,43 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/3652" target="_blan
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Sangre del Toro*</strong></summary>  <div class="movie-plot">None</div> </details> | <a href="https://www.imdb.com/title/tt36909787/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/82122396" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Scotty James: Pipe Dream*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82184420" target="_blank">Netflix_link</a> |
 
+ 
+ ---
+ 
+ ### 🔧 How this list was generated
+ 
+ Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
+ 
+ 1. **Select a Netflix genre**
+  For example: [https://www.netflix.com/browse/genre/3652](https://www.netflix.com/browse/genre/3652)
+ 
+ 2. **Run the main script**
+    ```bash
+    ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/3652
+    ```
+ 
+ 3. **What the script does**
+    - Scrapes all available movie titles from the Netflix genre page
+    - Retrieves IMDb ratings using the OMDb API
+    - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
+ 
+ 4. Optional: Get all Netflix genre URLs
+    ```bash
+    ./imdb-rating.sh --categories
+    ```
+    or browse [this directory of Netflix codes](https://www.netflix-codes.com).
+ 
+ ### Why this matters?
+ 
+ You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
+ 
+ ```{tip}
+ 💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
+ ```
+ 
 
+ 
 ---
+*Page last updated on: 2026-01-13*
 
-### 🔧 How this list was generated
-
-Each movie list on this site is produced **automatically** using the scripts in this repository. Here’s the workflow:
-
-1. **Select a Netflix genre**
- For example: [https://www.netflix.com/browse/genre/3652](https://www.netflix.com/browse/genre/3652)
-
-2. **Run the main script**
-   ```bash
-   ./rate_them_all_IMDb.sh https://www.netflix.com/browse/genre/3652
-   ```
-
-3. **What the script does**
-   - Scrapes all available movie titles from the Netflix genre page
-   - Retrieves IMDb ratings using the OMDb API
-   - Generates a ranked list with IMDb ratings and direct links to Netflix and IMDb
-
-4. Optional: Get all Netflix genre URLs
-   ```bash
-   ./imdb-rating.sh --categories
-   ```
-   or browse [this directory of Netflix codes](https://www.netflix-codes.com).
-
-### Why this matters?
-
-You don’t have to manually check IMDb for each movie — the ranking is fully reproducible and can be updated whenever you want.
-
-```{tip}
-💡 You can run the script for any genre URL, not just the one listed above, to generate your own custom lists.
-```
-
----
-*Page last updated on: 2026-01-12*
-
-
+ 
