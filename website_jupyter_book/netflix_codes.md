@@ -7,9 +7,8 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
    ./imdb-rating.sh --categories
    ```
 
+## Action & Adventure
 | Genre | Link |
-|-------|------|
-| *Action & Adventure* | |
 |-------|------|
 | Action & Adventure  | https://www.netflix.com/browse/genre/1365 |
 | Action Comedies  | https://www.netflix.com/browse/genre/43040 |
@@ -24,10 +23,13 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Military Action & Adventure  | https://www.netflix.com/browse/genre/2125 |
 | Spy Action & Adventure  | https://www.netflix.com/browse/genre/10702 |
 | Westerns  | https://www.netflix.com/browse/genre/7700 |
-|  |  |
+
+
+## Animation
+| Genre | Link |
+|-------|------|
 | Animation  | https://www.netflix.com/browse/genre/4698 |
 | Adult Animation  | https://www.netflix.com/browse/genre/11881 |
-|  |  |
 | Anime  | https://www.netflix.com/browse/genre/7424 |
 | Anime Action  | https://www.netflix.com/browse/genre/2653 |
 | Anime Comedies  | https://www.netflix.com/browse/genre/9302 |
@@ -37,7 +39,11 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Anime Horror  | https://www.netflix.com/browse/genre/10695 |
 | Anime Sci-Fi  | https://www.netflix.com/browse/genre/2729 |
 | Anime Series  | https://www.netflix.com/browse/genre/6721 |
-|  |  |
+
+
+## Children & Family Films
+| Genre | Link |
+|-------|------|
 | Children & Family Films  | https://www.netflix.com/browse/genre/783 |
 | Animal Tales  | https://www.netflix.com/browse/genre/5507 |
 | Disney  | https://www.netflix.com/browse/genre/67673 |
@@ -52,7 +58,10 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Movies for Ages 8-10  | https://www.netflix.com/browse/genre/561 |
 | Movies for Ages 11-12  | https://www.netflix.com/browse/genre/6962 |
 | TV Cartoons  | https://www.netflix.com/browse/genre/11177 |
-|  |  |
+
+## Classics
+| Genre | Link |
+|-------|------|
 | Classics  | https://www.netflix.com/browse/genre/31574 |
 | Classic Comedies  | https://www.netflix.com/browse/genre/31694 |
 | Classic Dramas  | https://www.netflix.com/browse/genre/29809 |
@@ -64,7 +73,10 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Epics  | https://www.netflix.com/browse/genre/52858 |
 | Film Noir  | https://www.netflix.com/browse/genre/7687 |
 | Silent Movies  | https://www.netflix.com/browse/genre/53310 |
-|  |  |
+
+## Comedy
+| Genre | Link |
+|-------|------|
 | Comedy  | https://www.netflix.com/browse/genre/6548 |
 | Dark Comedies  | https://www.netflix.com/browse/genre/869 |
 | Foreign Comedies  | https://www.netflix.com/browse/genre/4426 |
@@ -78,7 +90,11 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Sports Comedies  | https://www.netflix.com/browse/genre/5286 |
 | Stand-Up Comedy  | https://www.netflix.com/browse/genre/11559 |
 | Teen Comedies  | https://www.netflix.com/browse/genre/3519 |
-|  |  |
+
+
+## Documentaries
+| Genre | Link |
+|-------|------|
 | Documentaries  | https://www.netflix.com/browse/genre/6839 |
 | Biographical Documentaries  | https://www.netflix.com/browse/genre/3652 |
 | Crime Documentaries  | https://www.netflix.com/browse/genre/9875 |
@@ -92,7 +108,10 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Social & Cultural Documentaries  | https://www.netflix.com/browse/genre/3675 |
 | Sports Documentaries  | https://www.netflix.com/browse/genre/180 |
 | Travel & Adventure Documentaries  | https://www.netflix.com/browse/genre/1159 |
-|  |  |
+
+## Drama
+| Genre | Link |
+|-------|------|
 | Drama  | https://www.netflix.com/browse/genre/5763 |
 | Biographical Dramas  | https://www.netflix.com/browse/genre/3179 |
 | Classic Dramas  | https://www.netflix.com/browse/genre/29809 |
@@ -112,7 +131,11 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Sports Dramas  | https://www.netflix.com/browse/genre/7243 |
 | Tearjerkers  | https://www.netflix.com/browse/genre/6384 |
 | Teen Dramas  | https://www.netflix.com/browse/genre/9299 |
-|  |  |
+
+
+## Horror
+| Genre | Link |
+|-------|------|
 | Horror  | https://www.netflix.com/browse/genre/8711 |
 | B-Horror Movies  | https://www.netflix.com/browse/genre/8195 |
 | Creature Features  | https://www.netflix.com/browse/genre/6895 |
@@ -130,7 +153,11 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Vampire Horror Movies  | https://www.netflix.com/browse/genre/75804 |
 | Werewolf Horror Movies  | https://www.netflix.com/browse/genre/75930 |
 | Zombie Horror Movies  | https://www.netflix.com/browse/genre/75405 |
-|  |  |
+
+
+## Music
+| Genre | Link |
+|-------|------|
 | Music  | https://www.netflix.com/browse/genre/1701 |
 | Classic Musicals  | https://www.netflix.com/browse/genre/32392 |
 | Country & Western/Folk  | https://www.netflix.com/browse/genre/1105 |
@@ -144,7 +171,10 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Stage Musicals  | https://www.netflix.com/browse/genre/55774 |
 | Urban & Dance Concerts  | https://www.netflix.com/browse/genre/9472 |
 | World Music Concerts  | https://www.netflix.com/browse/genre/2856 |
-|  |  |
+
+## Romance
+| Genre | Link |
+|-------|------|
 | Romance  | https://www.netflix.com/browse/genre/8883 |
 | Classic Romantic Movies  | https://www.netflix.com/browse/genre/31273 |
 | Quirky Romance  | https://www.netflix.com/browse/genre/36103 |
@@ -154,7 +184,11 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Romantic Foreign Movies  | https://www.netflix.com/browse/genre/7153 |
 | Romantic Independent Movies  | https://www.netflix.com/browse/genre/9916 |
 | Steamy Romantic Movies  | https://www.netflix.com/browse/genre/35800 |
-|  |  |
+
+
+## Sci-Fi
+| Genre | Link |
+|-------|------|
 | Sci-Fi & Fantasy  | https://www.netflix.com/browse/genre/1492 |
 | Action Sci-Fi & Fantasy  | https://www.netflix.com/browse/genre/1568 |
 | Alien Sci-Fi  | https://www.netflix.com/browse/genre/3327 |
@@ -166,7 +200,10 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Sci-Fi Dramas  | https://www.netflix.com/browse/genre/3916 |
 | Sci-Fi Horror Movies  | https://www.netflix.com/browse/genre/1694 |
 | Sci-Fi Thrillers  | https://www.netflix.com/browse/genre/11014 |
-|  |  |
+
+## Sports
+| Genre | Link |
+|-------|------|
 | Sports  | https://www.netflix.com/browse/genre/4370 |
 | Baseball Movies  | https://www.netflix.com/browse/genre/12339 |
 | Basketball Movies  | https://www.netflix.com/browse/genre/12762 |
@@ -180,7 +217,10 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Sports Documentaries  | https://www.netflix.com/browse/genre/180 |
 | Sports Dramas  | https://www.netflix.com/browse/genre/7243 |
 | Sports & Fitness  | https://www.netflix.com/browse/genre/9327 |
-|  |  |
+
+## Thrillers
+| Genre | Link |
+|-------|------|
 | Thrillers  | https://www.netflix.com/browse/genre/8933 |
 | Action Thrillers  | https://www.netflix.com/browse/genre/43048 |
 | Classic Thrillers  | https://www.netflix.com/browse/genre/46588 |
@@ -195,7 +235,10 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Spy Thrillers  | https://www.netflix.com/browse/genre/9147 |
 | Steamy Thrillers  | https://www.netflix.com/browse/genre/972 |
 | Supernatural Thrillers  | https://www.netflix.com/browse/genre/11140 |
-|  |  |
+
+## TV Shows
+| Genre | Link |
+|-------|------|
 | TV Shows  | https://www.netflix.com/browse/genre/83 |
 | British TV Shows  | https://www.netflix.com/browse/genre/52117 |
 | Classic TV Shows  | https://www.netflix.com/browse/genre/46553 |
@@ -216,12 +259,18 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | TV Horror  | https://www.netflix.com/browse/genre/83059 |
 | TV Mysteries  | https://www.netflix.com/browse/genre/4366 |
 | TV Sci-Fi & Fantasy  | https://www.netflix.com/browse/genre/1372 |
-|  |  |
+
+## Faith & Spirituality
+| Genre | Link |
+|-------|------|
 | Faith & Spirituality  | https://www.netflix.com/browse/genre/26835 |
 | Faith & Spirituality Movies  | https://www.netflix.com/browse/genre/52804 |
 | Spiritual Documentaries  | https://www.netflix.com/browse/genre/2760 |
 | Kids Faith & Spirituality  | https://www.netflix.com/browse/genre/751423 |
-|  |  |
+
+## Foreign Movies
+| Genre | Link |
+|-------|------|
 | Foreign  | https://www.netflix.com/browse/genre/7462 |
 | African Movies  | https://www.netflix.com/browse/genre/3761 |
 | Arabic Movies  | https://www.netflix.com/browse/genre/107456 |
@@ -261,14 +310,20 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Scandinavian Movies  | https://www.netflix.com/browse/genre/9292 |
 | Southeast Asian Movies  | https://www.netflix.com/browse/genre/9196 |
 | Spanish Movies  | https://www.netflix.com/browse/genre/58741 |
-|  |  |
+
+## Cult
+| Genre | Link |
+|-------|------|
 | Cult Movies  | https://www.netflix.com/browse/genre/7627 |
 | B-Horror Movies  | https://www.netflix.com/browse/genre/8195 |
 | Campy Movies  | https://www.netflix.com/browse/genre/1252 |
 | Cult Comedies  | https://www.netflix.com/browse/genre/9434 |
 | Cult Horror Movies  | https://www.netflix.com/browse/genre/10944 |
 | Cult Sci-Fi & Fantasy  | https://www.netflix.com/browse/genre/4734 |
-|  |  |
+
+## LGBTQ
+| Genre | Link |
+|-------|------|
 | Gay & Lesbian Movies  | https://www.netflix.com/browse/genre/5977 |
 | Foreign Gay & Lesbian Movies  | https://www.netflix.com/browse/genre/8243 |
 | Gay & Lesbian Comedies  | https://www.netflix.com/browse/genre/7120 |
@@ -276,7 +331,10 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Gay & Lesbian Dramas  | https://www.netflix.com/browse/genre/500 |
 | Gay & Lesbian TV Shows  | https://www.netflix.com/browse/genre/65263 |
 | Romantic Gay & Lesbian Movies  | https://www.netflix.com/browse/genre/3329 |
-|  |  |
+
+## Independent
+| Genre | Link |
+|-------|------|
 | Independent Movies  | https://www.netflix.com/browse/genre/7077 |
 | Experimental Movies  | https://www.netflix.com/browse/genre/11079 |
 | Independent Action & Adventure  | https://www.netflix.com/browse/genre/11804 |
@@ -284,7 +342,11 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Independent Dramas  | https://www.netflix.com/browse/genre/384 |
 | Independent Thrillers  | https://www.netflix.com/browse/genre/3269 |
 | Romantic Independent Movies  | https://www.netflix.com/browse/genre/9916 |
-|  |  |
+
+
+## Other categories
+| Genre | Link |
+|-------|------|
 | Recently Added  | https://www.netflix.com/browse/genre/1592210 |
 | Short-Ass Movie  | https://www.netflix.com/browse/genre/81603903 |
 | 90-Minute Movies  | https://www.netflix.com/browse/genre/81466194 |
