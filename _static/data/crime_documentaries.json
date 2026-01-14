@@ -18,7 +18,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Making a Murderer",
@@ -81,7 +82,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Keepers",
@@ -232,7 +234,8 @@
       "netflix_url": "https://www.netflix.com/title/80196160",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Nisman: The Prosecutor, the President, and the Spy",
@@ -332,6 +335,15 @@
       "Plot": "Follow officers from a South Carolina sheriff's department as they urgently search for individuals who've disappeared under troubling circumstances."
     },
     {
+      "title": "Killer Ratings",
+      "netflix_url": "https://www.netflix.com/title/80217946",
+      "year": "2019",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt10243692",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWU1YzA0NDktN2YyYS00OGY1LTkzMTQtN2Y2Y2I2MWM3MjIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The true-life story of Brazilian TV host Wallace Souza, who was accused of literally killing for ratings, and using his crime TV show to cover up the grizzly truth."
+    },
+    {
       "title": "Fear City: New York vs The Mafia",
       "netflix_url": "https://www.netflix.com/title/80218338",
       "year": "2020",
@@ -339,6 +351,15 @@
       "imdb_id": "tt12588372",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ5OGM3ZDgtNGUxNS00OTQ0LWFkOTMtN2U1ZDQ2MzYyMDYyXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Five Mafia families ruled New York with a bloody fist in the 1970s and '80s, until a group of federal agents tried the unthinkable: taking them down."
+    },
+    {
+      "title": "Myth & Mogul: John DeLorean",
+      "netflix_url": "https://www.netflix.com/title/80219915",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt14968268",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTQzMWY4ZDYtNDZhMC00NzVhLThlMGMtNzJiMzU1Y2IyNjY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the automotive world, John DeLorean rose from engineer to executive to icon. But under the hood of his self-created legend lies darkness and deceit."
     },
     {
       "title": "The Trials of Gabriel Fernandez",
@@ -608,7 +629,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Athlete A",
@@ -626,7 +648,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Elize Matsunaga: Once Upon a Crime",
@@ -719,6 +742,15 @@
       "Plot": "Follows a serial killer who came to light as a psychopath to the Korean public in 2004."
     },
     {
+      "title": "Sophie: A Murder in West Cork",
+      "netflix_url": "https://www.netflix.com/title/81094755",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt14681732",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmYyOTBiY2EtYWUxYS00OWI2LWI3ODctYmJmMTc4YWYxYTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The documentary follows the investigation of Sophie Toscan Du Plantier, a French film and TV producer who was killed while at her isolated holiday cottage in West Cork, Ireland, in 1996."
+    },
+    {
       "title": "House of Secrets: The Burari Deaths",
       "netflix_url": "https://www.netflix.com/title/81095095",
       "year": "2021",
@@ -735,6 +767,15 @@
       "imdb_id": "tt15085784",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmVlN2JhMTQtZDUxYi00ODZjLTkyODYtMjQ5ZGFkZmMzZjU4XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Serial killer Dennis Nilsen narrates his life and horrific crimes via a series of chilling audiotapes recorded from his jail cell."
+    },
+    {
+      "title": "John of God: The Crimes of a Spiritual Healer",
+      "netflix_url": "https://www.netflix.com/title/81103570",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt15233856",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmY5MmQwYTctNjZlMC00MzNhLTk0NDUtMTVhZTBkOTRiYTE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Idolized medium João Teixeira de Faria rises to international fame before horrifying abuse is revealed by survivors, prosecutors and the press."
     },
     {
       "title": "The Hunt for Veerappan",
@@ -807,6 +848,15 @@
       "imdb_id": "tt14078186",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTc0ZGFhYjctNTc5Zi00NTNiLWI3YTgtZmMwYzcxZTQxYjRjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "This docuseries examines the story of Belgian politician Bernard Wesphael, who was accused of murdering his wife, Véronique Pirotton, in 2013. She had been found dead in a hotel room in Ostend."
+    },
+    {
+      "title": "The Indrani Mukerjea Story: Buried Truth",
+      "netflix_url": "https://www.netflix.com/title/81150989",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt31069611",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjA5YWZhZjEtMmU5Ny00Nzg2LWFhNTUtMzIyMjZhYmFhMDNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "With new revelations and access, this docuseries investigates the disappearance of 25-year-old Sheena Bora. It reveals the shocking aftermath."
     },
     {
       "title": "American Conspiracy: The Octopus Murders",
@@ -888,6 +938,15 @@
       "imdb_id": "tt19704638",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTAxYjJkMDAtODQ1Mi00N2U3LTg3NDgtMzViMmE3NTU3NmY2XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "After a woman's at-home DNA test reveals multiple half-siblings, she discovers a shocking scheme involving donor sperm and a popular fertility doctor."
+    },
+    {
+      "title": "I AM A KILLER: RELEASED",
+      "netflix_url": "https://www.netflix.com/title/81227743",
+      "year": "2020",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt12662374",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ0ZWY2MWItODQ2Zi00NWQxLThmMDctYTkzODMyYjY4MmMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Three-part docuseries following Dale Wayne Sigler, a murderer, as he is released from prison after 30 years behind bars."
     },
     {
       "title": "Bank Robbers: The Last Great Heist",
@@ -980,13 +1039,23 @@
       "Plot": "When Lori Vallow's kids vanished, the search for them unearthed a trail of suspicious deaths, a new husband who shared her doomsday views - and murder."
     },
     {
+      "title": "Where is Marta?",
+      "netflix_url": "https://www.netflix.com/title/81306172",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt15796898",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2NjA0MGUtODMxMy00N2Y0LTkzYTktYmIzZmVkOGI4MzllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Teenager Marta del Castillo's disappearance made headlines in Spain. Family, friends, police and more weigh in on a case that is still unresolved."
+    },
+    {
       "title": "The Billionaire, The Butler, and the Boyfriend",
       "netflix_url": "https://www.netflix.com/title/81306326",
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Monique Olivier: Accessory to Evil",
@@ -1025,6 +1094,15 @@
       "Plot": "Interviews with friends, family and Sally McNeil herself chart a bodybuilding couple's rocky marriage and its shocking end in a Valentine's Day murder."
     },
     {
+      "title": "State of Alabama vs. Brittany Smith",
+      "netflix_url": "https://www.netflix.com/title/81346376",
+      "year": "2022",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt22771372",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGJhZWJjNzEtMzllMS00ZjNkLTgyZDgtZDZiOTQxYzM3M2RkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tells the harrowing story of a woman trying to use Alabama's Stand Your Ground law after killing a man she says brutally attacked her."
+    },
+    {
       "title": "The Real Bling Ring: Hollywood Heist",
       "netflix_url": "https://www.netflix.com/title/81349491",
       "year": "2022",
@@ -1050,6 +1128,15 @@
       "imdb_id": "tt31358077",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjkzZjAxYTEtMThmYi00ZWNiLWI5ZDktMmE0NmI5ZGEyNWUyXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A tragic affair of child abuse and judicial disaster, this docuseries revisits the Outreau case, one of the biggest scandals in French history."
+    },
+    {
+      "title": "The Great Robbery of Brazil's Central Bank",
+      "netflix_url": "https://www.netflix.com/title/81374470",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt18274172",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjg1YzM2ZjYtMWRmNC00YTYyLWJmZmUtOWYyZjgyOGU4YmEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 2005, thieves tunnel into a Fortaleza, Brazil, bank vault and steal over 160 million reais. This docuseries explores that spectacular, historical heist."
     },
     {
       "title": "Ghislaine Maxwell: Filthy Rich",
@@ -1083,7 +1170,8 @@
       "netflix_url": "https://www.netflix.com/title/81399651",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Darkness within La Luz del Mundo",
@@ -1102,6 +1190,15 @@
       "imdb_id": "tt14091172",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTU0N2M3MTYtYTNhOS00MjE0LWI4MWQtODk2MWM1MGMyMzc0XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "The story of the first sexual harassment case in Spain was a scandal. Nevenka Fernández, its protagonist, discusses it in this documentary."
+    },
+    {
+      "title": "Crime Scene: The Times Square Killer",
+      "netflix_url": "https://www.netflix.com/title/81405883",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt16027926",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQyNDEwYjItZmUzMy00M2RjLWE3NDQtMTU3NWI1ZDRjZmQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1970s NYC, the \"Torso Killer\" preys on women to fulfill his grotesque fantasies while eluding police. A docuseries dive into crime's darkest places."
     },
     {
       "title": "Fortune Seller: A TV Scam",
@@ -1138,6 +1235,15 @@
       "imdb_id": "tt28466971",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjYwZWUxOTgtODMwMS00OGU1LTlkZmYtNTQ4MDg2OGEyMjJmXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "New insights from various parties come to light that raise questions about Jens Söring's conviction of the 1985 murders of his then-girlfriend's parents."
+    },
+    {
+      "title": "The Motive",
+      "netflix_url": "https://www.netflix.com/title/81449754",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt5451244",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzk4OGNkODItMGVmZC00YWUxLWJlYTktNWE4OTdiZTljZThmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man obsessed with the idea of writing \"high literature\" starts to cause conflicts around him to write about it."
     },
     {
       "title": "I Am Vanessa Guillen",
@@ -1191,7 +1297,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Eloá the Hostage: Live on TV",
@@ -1243,7 +1350,17 @@
       "netflix_url": "https://www.netflix.com/title/81495571",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "When Missing Turns to Murder",
+      "netflix_url": "https://www.netflix.com/title/81497521",
+      "year": "2023",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt11165808",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2M0NTYyNmEtOTBiMy00MzUwLWJjNWMtNmVmYzUxMmI4Y2Q2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "British true crime documentary series using powerful and emotional testimony from families and friends when a missing persons enquiry turns into a murder investigation."
     },
     {
       "title": "My Lover My Killer",
@@ -1291,6 +1408,15 @@
       "Plot": "This documentary reveals how investigators proved ICU nurse Charles Cullen was killing patients — and how close he came to getting away with murder."
     },
     {
+      "title": "Caught in the Web: The Murders Behind Zona Divas",
+      "netflix_url": "https://www.netflix.com/title/81517594",
+      "year": "2024",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt33246792",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODg3ODdlNjQtZjMyNi00NzljLTg4YjEtYjk5OWM0NjcwOWRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In Mexico City's seedy underworld, impoverished women get trapped in an online escort ring, oblivious to the tragic femicides awaiting them."
+    },
+    {
       "title": "From Rock Star to Killer",
       "netflix_url": "https://www.netflix.com/title/81517758",
       "year": "2025",
@@ -1298,6 +1424,15 @@
       "imdb_id": "tt36241713",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODBkNDllYTItMDgzNS00NjA3LTlmNzctZDMwNWI0ZGFhODNhXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In 2003, rock singer Bertrand Cantat killed his partner, actress Marie Trintignant. This documentary reviews the case that divided a nation."
+    },
+    {
+      "title": "The Yara Gambirasio Case: Beyond Reasonable Doubt",
+      "netflix_url": "https://www.netflix.com/title/81519400",
+      "year": "2024",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt32843606",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzI1ODhkM2QtODc1OC00OTg3LWEyNWMtODhjYjg0OTE0NDRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This docuseries digs into the disappearance of 13-year-old Yara and the disconcerting investigation that shattered the peace of a small Italian town."
     },
     {
       "title": "Murdaugh Murders: A Southern Scandal",
@@ -1414,7 +1549,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "American Murder: Laci Peterson",
@@ -1561,6 +1697,15 @@
       "Plot": "The lives of three women are forever changed when a prolific stalker infiltrates their social-media accounts. And they're only a fraction of his many victims."
     },
     {
+      "title": "Nelma Kodama: The Queen of Dirty Money",
+      "netflix_url": "https://www.netflix.com/title/81641767",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32441206",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTcwNzVjMTctZmU1My00NzgxLWFmMWUtZjZkYzFiMTljYTFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After leaving prison, money changer Nelma Kodama tells how she got involved in one of the biggest corruption scandals in Brazil."
+    },
+    {
       "title": "An Invisible Victim: The Eliza Samudio Case",
       "netflix_url": "https://www.netflix.com/title/81645273",
       "year": "2024",
@@ -1585,7 +1730,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Carman Family Deaths",
@@ -1630,7 +1776,17 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Rosa Peral's Tapes",
+      "netflix_url": "https://www.netflix.com/title/81674394",
+      "year": "2023",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt28687398",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDg1N2M3ZDEtZWZkMy00ODExLTlmOGMtOWY1MWVlNjczMTg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This true-crime documentary film features Rosa Peral's first interview from prison since she was convicted of murdering her partner aided by an ex-lover."
     },
     {
       "title": "My Father, the BTK Killer",
@@ -1675,7 +1831,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "American Manhunt: O.J. Simpson",
@@ -1685,6 +1842,15 @@
       "imdb_id": "tt35456246",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTcxODY0ODMtZDhmNy00NTZhLWJlOTEtYmI3YjI5YTM0YWQ5XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Revisits the infamous 1990s murder case and trial that captivated America. With new interviews and insights, it explores the chase, courtroom drama, and cultural impact, offering a fresh look at this pivotal moment in US history."
+    },
+    {
+      "title": "The Diamond Heist",
+      "netflix_url": "https://www.netflix.com/title/81701502",
+      "year": "2025",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt31806040",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGQ3YzVjNWQtOGFhZS00OTcxLTlhZWQtNTczYTkxMzA5MWYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 2000, a group of London criminals plan an audacious heist: ram-raid the Millennium Dome, steal diamond and escape by boat on the Thames, but the police are surveilling them."
     },
     {
       "title": "Oklahoma City Bombing: American Terror",
@@ -1711,7 +1877,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Paparazzi King",
@@ -1720,7 +1887,17 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Cooking Up Murder: Uncovering the Story of César Román",
+      "netflix_url": "https://www.netflix.com/title/81711038",
+      "year": "2024",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt32097426",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODhiNTgxMzMtYzk0NS00NDFjLTkwYzAtMGExNjRmYWVjYjc4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A documentary series that looks at the murder case against chef César Román."
     },
     {
       "title": "Beauty and the Bester",
@@ -1826,7 +2003,8 @@
       "netflix_url": "https://www.netflix.com/title/81753675",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Cold Case: The Tylenol Murders",
@@ -1853,7 +2031,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Trainwreck: The Cult of American Apparel",
@@ -1889,7 +2068,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Tell Them You Love Me",
@@ -1934,7 +2114,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Perfect Neighbor",

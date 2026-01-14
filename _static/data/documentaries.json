@@ -3,6 +3,15 @@
   "genre_url": "https://www.netflix.com/browse/genre/6839",
   "movies": [
     {
+      "title": "Sergio",
+      "netflix_url": "https://www.netflix.com/title/70112740",
+      "year": "2009",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt1333656",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDllNGU4MTgtODI0Yy00OWJjLTlhOGYtMGYxMjliNTkwMmViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A look at the life and work of United Nations High Commissioner for Human Rights, Sergio Vieira de Mello, and the rescue operation when he was trapped and injured by a bomb explosion at UN headquarters in Baghdad."
+    },
+    {
       "title": "Ancient Aliens",
       "netflix_url": "https://www.netflix.com/title/70178604",
       "year": "2023",
@@ -16,7 +25,35 @@
       "netflix_url": "https://www.netflix.com/title/70178627",
       "year": "2011",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "The Short Game",
+      "netflix_url": "https://www.netflix.com/title/70290567",
+      "year": "2013",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt2466830",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1NDYxNTU0Nl5BMl5BanBnXkFtZTcwNDg0MDMyOQ@@._V1_SX300.jpg",
+      "Plot": "The best 7-year-old golfers from around the world descend on the world-famous Pinehurst Golf course in North Carolina to determine the next world champion and who might become golf's next phenomenon. Most of these young prodigies ..."
+    },
+    {
+      "title": "What Happened, Miss Simone?",
+      "netflix_url": "https://www.netflix.com/title/70308063",
+      "year": "2015",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt4284010",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGNmNTdiM2YtMDkyZC00OGFhLTgwNTktMDczODFjM2Y0MDVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A documentary about the life and legend Nina Simone, an American singer, pianist, and civil rights activist labeled the \"High Priestess of Soul.\""
+    },
+    {
+      "title": "Mission Blue",
+      "netflix_url": "https://www.netflix.com/title/70308278",
+      "year": "2014",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt2004304",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTExNzg4MDU2OTleQTJeQWpwZ15BbWU4MDk0MTY5MjIx._V1_SX300.jpg",
+      "Plot": "Feature documentary about legendary oceanographer, marine biologist, environmentalist, and National Geographic Explorer-in-Residence Sylvia Earle and her campaign to create a global network of protected marine sanctuaries."
     },
     {
       "title": "Making a Murderer",
@@ -62,6 +99,15 @@
       "imdb_id": "tt5347906",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWYzYWRjOWItNTljOC00MTk0LTk0NWEtMGU1N2JjZmFjY2UyXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "As he tries his hand at baking, brewing and braising, acclaimed food writer Michael Pollan explores how cooking transforms food and shapes our world."
+    },
+    {
+      "title": "Team Foxcatcher",
+      "netflix_url": "https://www.netflix.com/title/80044093",
+      "year": "2016",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt5598216",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjE1NzcyNjYtNjFjMi00NDYwLWFjOWItZTRhNDkxMDU0NTc0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Documentary filmmaker Jon Greenhalgh examines the life of Dave Schultz, a professional wrestler who was part of 'Team Foxcatcher', funded by multi-millionaire John du Pont."
     },
     {
       "title": "Our Planet",
@@ -127,6 +173,24 @@
       "Plot": "Intense look inside the world of junior college football, chronicling the stories of players and coaches in the classroom and on the field."
     },
     {
+      "title": "Daughters of Destiny",
+      "netflix_url": "https://www.netflix.com/title/80092926",
+      "year": "2017",
+      "imdb_rating": "8.6",
+      "imdb_id": "tt1877895",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODYxZTdiZGQtOGRiNi00YTkwLTg1MjItMDhiNmI2NGIwMzEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Oscar-winning filmmaker Vanessa Roth follows a group of rural India's most disadvantaged children over the course of seven years."
+    },
+    {
+      "title": "Secrets of Great British Castles",
+      "netflix_url": "https://www.netflix.com/title/80095866",
+      "year": "2016",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt5181284",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGNiNTJiZTItOThlOC00NjkyLTkwZDYtODM4ZDhkZDQ1MmJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Historian Dan Jones explores the millennium of history behind six of Great Britain's most famous castles: Warwick, Dover, Caernarfon, the Tower of London, Carrickfergus, and Stirling."
+    },
+    {
       "title": "Roman Empire",
       "netflix_url": "https://www.netflix.com/title/80096545",
       "year": "2019",
@@ -154,6 +218,15 @@
       "Plot": "Trace the rise of contemporary artist Cai Guo-Qiang from childhood in Mao's China to global art world superstar, and join his quest to realize his lifelong obsession: Sky Ladder."
     },
     {
+      "title": "Extremis",
+      "netflix_url": "https://www.netflix.com/title/80106307",
+      "year": "2016",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt5538078",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM5OTc3NzMyOF5BMl5BanBnXkFtZTgwMzU1MDU5OTE@._V1_SX300.jpg",
+      "Plot": "Witness the wrenching emotions that accompany end-of-life decisions as doctors, patients and families in a hospital ICU face harrowing choices."
+    },
+    {
       "title": "Hitler - A Career",
       "netflix_url": "https://www.netflix.com/title/80106791",
       "year": "1977",
@@ -172,6 +245,24 @@
       "Plot": "Imagine being in jail. Now imagine living in a foreign country. Scary? Paul Connelly takes you inside these jails. He shows what living conditions are for the inmates, as well as the guards. You'll never look at prison the same."
     },
     {
+      "title": "Joan Didion: The Center Will Not Hold",
+      "netflix_url": "https://www.netflix.com/title/80117454",
+      "year": "2017",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt7253506",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWUzYmZmNDAtOGU2OC00YjkxLWIwN2ItNTI1YWEzNTE1MGJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Literary icon Joan Didion reflects on her remarkable career and personal struggles in this intimate documentary directed by her nephew, Griffin Dunne."
+    },
+    {
+      "title": "The Great Hack",
+      "netflix_url": "https://www.netflix.com/title/80117542",
+      "year": "2019",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt4736550",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDhmODFlMTQtYzU0YS00YTg4LWEyMTctZmRkZWYxMzgxMDFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Cambridge Analytica scandal is examined through the roles of several affected persons."
+    },
+    {
       "title": "Take Your Pills",
       "netflix_url": "https://www.netflix.com/title/80117831",
       "year": "2018",
@@ -179,6 +270,15 @@
       "imdb_id": "tt7983844",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2FjMjBlN2UtMDY1Zi00Y2E0LWJiZDktNzY3MTUwMmNlYjJhXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Every era gets the drug it deserves. In America today, where competition is ceaseless from school to the workforce and everyone wants a performance edge, Adderall and other prescription stimulants are the defining drugs of this ge..."
+    },
+    {
+      "title": "Babies",
+      "netflix_url": "https://www.netflix.com/title/80117833",
+      "year": "2020",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt11744632",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzBlZmFiOTYtZWMwNC00OGViLTg4MDItYjU0NTgxMmM1MTYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A look at how infants learn and discover during their first year of life."
     },
     {
       "title": "Dirty Money",
@@ -343,6 +443,24 @@
       "Plot": "From fangs to claws to venomous stings, they all wield deadly weapons. But which creature will be crowned the fiercest of all?"
     },
     {
+      "title": "Icarus",
+      "netflix_url": "https://www.netflix.com/title/80168079",
+      "year": "2017",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt6333060",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGE4M2MxOWUtYmY2ZC00ZWYxLWIxZTAtNTNjYTZmYmUyOGY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Bryan sets out to uncover the truth about doping in sports, a chance meeting with a Russian scientist transforms his story from a personal experiment into a geopolitical thriller."
+    },
+    {
+      "title": "Chasing Coral",
+      "netflix_url": "https://www.netflix.com/title/80168188",
+      "year": "2017",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt6333054",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjNjZDdlMGQtYTUxZi00OWZmLWJkYzItM2ZkOWM0Y2ZhZDQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Coral reefs around the world are vanishing at an unprecedented rate. A team of divers, photographers and scientists set out on a thrilling ocean adventure to discover why and to reveal the underwater mystery to the world."
+    },
+    {
       "title": "Medal of Honor",
       "netflix_url": "https://www.netflix.com/title/80169786",
       "year": "2018",
@@ -359,6 +477,15 @@
       "imdb_id": "tt7907916",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDY3MTc3NDM3NF5BMl5BanBnXkFtZTgwMjk0NjI5NDM@._V1_SX300.jpg",
       "Plot": "Chef David Chang travels around the world tasting food from different cultures."
+    },
+    {
+      "title": "The Black Godfather",
+      "netflix_url": "https://www.netflix.com/title/80173387",
+      "year": "2019",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt10289996",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzdhOWNkMzEtYjRmYS00ZjdjLWE3MDctMzNjMmRmOGVkODJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows the life of Clarence Avant, the ultimate, uncensored mentor and behind-the-scenes rainmaker in music, film, TV and politics."
     },
     {
       "title": "Bobby Kennedy for President",
@@ -469,6 +596,15 @@
       "Plot": "A look at the short, mysterious life of blues legend, Robert Johnson, who was said to have made a deal with the Devil at a crossroads in rural Mississippi."
     },
     {
+      "title": "Heroin(e)",
+      "netflix_url": "https://www.netflix.com/title/80192445",
+      "year": "2017",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt7389366",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTZlZDBmMDMtZTJhZi00YTA1LTk0OTAtYTQ4NDRhZWExZjI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Three women fight to break the cycle one life at a time."
+    },
+    {
       "title": "The Disappearance of Madeleine McCann",
       "netflix_url": "https://www.netflix.com/title/80194956",
       "year": "2019",
@@ -478,11 +614,21 @@
       "Plot": "\"The Disappearance of Madeleine McCann\" takes a detailed look at the disappearance of three-year-old Madeleine McCann, who vanished from the seaside resort of Praia de Luz in Portugal, while on holiday with her family."
     },
     {
+      "title": "Gaga: Five Foot Two",
+      "netflix_url": "https://www.netflix.com/title/80196586",
+      "year": "2017",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt7291268",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzNzAxNTM0MV5BMl5BanBnXkFtZTgwODE1NzMzMzI@._V1_SX300.jpg",
+      "Plot": "This documentary goes behind the scenes with pop provocateur Lady Gaga as she releases a bold new album and prepares for her Super Bowl halftime show."
+    },
+    {
       "title": "Nisman: The Prosecutor, the President, and the Spy",
       "netflix_url": "https://www.netflix.com/title/80197991",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Salt Fat Acid Heat",
@@ -602,6 +748,15 @@
       "Plot": "A series that documents behind the scenes of some of the largest events in the world."
     },
     {
+      "title": "A Secret Love",
+      "netflix_url": "https://www.netflix.com/title/80209024",
+      "year": "2020",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt3260524",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q3ZWU2N2YtMThkZi00YWJmLTg5MzUtN2IxZDg0OGU5MDI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Falling in love in 1947, two women -- Pat Henschel and pro baseball player Terry Donahue -- begin a 65-year journey of love and overcoming prejudice."
+    },
+    {
       "title": "Living Undocumented",
       "netflix_url": "https://www.netflix.com/title/80209609",
       "year": "2019",
@@ -609,6 +764,15 @@
       "imdb_id": "tt10977486",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjdkOTdhZWMtNjg4Ny00NmI4LWI0ZTgtN2M4NTE5ZjM1ZGI4XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A look at the lives of undocumented immigrants living in the United States."
+    },
+    {
+      "title": "End Game",
+      "netflix_url": "https://www.netflix.com/title/80210691",
+      "year": "2018",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt7879350",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ0ZGI1YjYtYmFmMS00YWI3LTljYzEtZThiOWJhMjg2MzRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Filmed and edited in intimate vérité style, this movie follows visionary medical practitioners who are working on the cutting edge of life and death and are dedicated to changing our thinking about both."
     },
     {
       "title": "First Team: Juventus",
@@ -728,6 +892,15 @@
       "Plot": "This nature series' new technology lifts night's veil to reveal the hidden lives of the world's creatures, from lions on the hunt to bats on wings."
     },
     {
+      "title": "Myth & Mogul: John DeLorean",
+      "netflix_url": "https://www.netflix.com/title/80219915",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt14968268",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTQzMWY4ZDYtNDZhMC00NzVhLThlMGMtNzJiMzU1Y2IyNjY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the automotive world, John DeLorean rose from engineer to executive to icon. But under the hood of his self-created legend lies darkness and deceit."
+    },
+    {
       "title": "The Trials of Gabriel Fernandez",
       "netflix_url": "https://www.netflix.com/title/80220207",
       "year": "2020",
@@ -735,6 +908,14 @@
       "imdb_id": "tt11822998",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjhjZjg0NzAtZjI2Ny00NmVkLWFiNzUtZjQ1YTE3Y2E1ZjhjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Filmmaker Brian Knappenberger investigates the tragic death of an 8-year-old California boy who endured horrific abuse by his mother and her boyfriend, along with the fractured and complex systems that failed to protect him."
+    },
+    {
+      "title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+      "netflix_url": "https://www.netflix.com/title/80221016",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "FIFA Uncovered",
@@ -807,6 +988,15 @@
       "imdb_id": "tt12585152",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODg1YzdmYTUtNThmOC00YmI1LTkxYjktNTJlZjIwNThhY2FmXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In this travel show, actor Zac Efron journeys around the world with wellness expert Darin Olien in search of healthy, sustainable ways to live."
+    },
+    {
+      "title": "How to Fix a Drug Scandal",
+      "netflix_url": "https://www.netflix.com/title/80233339",
+      "year": "2020",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt11958942",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ0ZjE5ZDItNjE4MS00ZDVjLTk0YjEtZjNiZDYzNTA4MzhmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two Massachusetts drug-testing laboratory technicians are caught tampering with and falsifying drug evidence, and prosecutors are reluctant to disclose the full extent of their criminal behavior."
     },
     {
       "title": "The Staircase",
@@ -899,6 +1089,15 @@
       "Plot": "Ottoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries."
     },
     {
+      "title": "The Movies That Made Us",
+      "netflix_url": "https://www.netflix.com/title/80990849",
+      "year": "2021",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt10681222",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzVhNTdmNGMtNzQ0My00MmE1LTllNTEtOGEwNmFiNzY0NDFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Unwrap the real stories behind these iconic blockbusters, thanks to insider interviews and behind-the-scenes peeks."
+    },
+    {
       "title": "1994",
       "netflix_url": "https://www.netflix.com/title/80991872",
       "year": "2019",
@@ -924,6 +1123,15 @@
       "imdb_id": "tt15049206",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjEwNDBkNTEtMzhiNi00NjU1LTlmM2UtNzVhNDJhMTc1NzdlXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Two childhood friends go from high school dropouts to the most powerful drug kingpins in Miami in this true story of a crime saga that spanned decades."
+    },
+    {
+      "title": "Ladies First: A Story of Women in Hip-Hop",
+      "netflix_url": "https://www.netflix.com/title/80997174",
+      "year": "2023",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt28491199",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0MjNiZjMtNWY0NS00NGNlLThjYjEtNTBiNzQ3MDJhOGU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Recreates the role that the unstoppable women of hip-hop have played across the 50 years of this groundbreaking genre, putting them where they belong: at the heart of the present day."
     },
     {
       "title": "Surviving Death",
@@ -1032,6 +1240,15 @@
       "imdb_id": "tt12753698",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2NlNDE3MjEtYWRiMi00Y2Q2LTk3ZDQtY2Q1ZTk3MmRhMWE5XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Heinous criminals have avoided capture despite massive rewards and global investigations. This docuseries profiles five of the world's most wanted."
+    },
+    {
+      "title": "HOMECOMING: A film by Beyoncé",
+      "netflix_url": "https://www.netflix.com/title/81013626",
+      "year": "2019",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt10147546",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDEzODFjZDUtYjFhMy00OTdiLThiMzctYzg5Yjc4ZTVkMmQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This intimate, in-depth look at Beyoncé's celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement."
     },
     {
       "title": "Spycraft",
@@ -1220,7 +1437,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Life in Color with David Attenborough",
@@ -1304,6 +1522,15 @@
       "Plot": "WWE experienced record-breaking highs and crushing lows under Vince McMahon's leadership and the mogul's controversial reign."
     },
     {
+      "title": "This Is Pop",
+      "netflix_url": "https://www.netflix.com/title/81050786",
+      "year": "2021",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt14155414",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0Mzk1NWEtNGYzMy00YTExLTkzMTctNjYwOGZiY2Y1YTI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Uncover the real stories behind your favorite pop songs as this docuseries charts the impact of the festival scene, Auto-Tune, boy bands and more."
+    },
+    {
       "title": "The Sons of Sam: A Descent into Darkness",
       "netflix_url": "https://www.netflix.com/title/81059887",
       "year": "2021",
@@ -1329,6 +1556,42 @@
       "imdb_id": "tt13150630",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzliODQ3ZjMtYjM3YS00Y2NmLWE3NjktMDlhMjk4OWFkZjVjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "After unearthing a tomb that had been untouched for 4,400 years, Egyptian archaeologists attempt to decipher the history of the astonishing find."
+    },
+    {
+      "title": "Murder to Mercy: The Cyntoia Brown Story",
+      "netflix_url": "https://www.netflix.com/title/81074065",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt9050898",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTcxM2ZkN2MtYzc4Ni00NGJlLWJjNmEtZWY4MmNlNzhiMGFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After 16-year-old Cyntoia Brown is sentenced to life in prison, questions about her past, physiology and the law itself call her guilt into question."
+    },
+    {
+      "title": "Pretend It’s a City",
+      "netflix_url": "https://www.netflix.com/title/81078137",
+      "year": "2021",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt13660958",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODg4MzZhODctNzEzMi00Njk4LWJhYWMtNzlkNmI4ZGZlMzA4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Wander the New York City streets and fascinating mind of wry writer, humorist and raconteur Fran Lebowitz as she sits down with Martin Scorsese."
+    },
+    {
+      "title": "Absurd Planet",
+      "netflix_url": "https://www.netflix.com/title/81082225",
+      "year": "2020",
+      "imdb_rating": "4.0",
+      "imdb_id": "tt12027008",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmI3MTc5YmEtOGI3My00YmJmLWJkZDEtNTlmMDNlNjRiNDQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A funny science series that offers an inside look into the lives of the planet's most intriguing animals, with narration provided by a cast of quirky animal creatures, as well as Mother Nature herself."
+    },
+    {
+      "title": "Hold Your Breath: The Ice Dive",
+      "netflix_url": "https://www.netflix.com/title/81082317",
+      "year": "2022",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt19373274",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzYxNDcyZjUtNjk1My00Njk1LWIxYWUtMDc3NWMxNmVhOTlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow free diver Johanna Nordblad in this documentary as she attempts to break the world record for distance traveled under ice with one breath."
     },
     {
       "title": "Our Great National Parks",
@@ -1367,6 +1630,15 @@
       "Plot": "Follows a comprehensive look at Eddie Murphy's life and career."
     },
     {
+      "title": "The Puppet Master: Hunting the Ultimate Conman",
+      "netflix_url": "https://www.netflix.com/title/81097362",
+      "year": "2022",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt15479704",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWRhYTRkYWItZjFjYS00NWE2LWE1YTctMTc3M2M2MjcwNDQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this harrowing docuseries, a cruel conman masquerading as a British spy manipulates and steals from his victims, leaving ruined families in his wake."
+    },
+    {
       "title": "Tiger King",
       "netflix_url": "https://www.netflix.com/title/81115994",
       "year": "2021",
@@ -1374,6 +1646,15 @@
       "imdb_id": "tt16307970",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzU2ZTA4MzktMmEzNi00MGQxLWIzZjQtMjBmZWQwNWZkMzBhXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "It unpacks the truth about Doc Antle, private zoo operator. Witnesses come forward to share their stories of abuse and intimidation that set him at the top of the food chain."
+    },
+    {
+      "title": "History 101",
+      "netflix_url": "https://www.netflix.com/title/81116168",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt11958648",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDIwOWU3OGYtYTIwMy00YzMxLTk3ZTgtMzc5NjY0ODIwMjlhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It is a new type of history show for a new type of audience: Big History delivered in an unadulterated hit of premium archive and jaw-dropping infographics."
     },
     {
       "title": "Vatican Girl: The Disappearance of Emanuela Orlandi",
@@ -1398,7 +1679,8 @@
       "netflix_url": "https://www.netflix.com/title/81130094",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "American Murder: The Family Next Door",
@@ -1423,7 +1705,8 @@
       "netflix_url": "https://www.netflix.com/title/81130691",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "You Are What You Eat: A Twin Experiment",
@@ -1543,6 +1826,15 @@
       "Plot": "Serial killer Jeffrey Dahmer confesses to his gruesome crimes in unguarded interviews, offering an unsettling view into a disturbed mind."
     },
     {
+      "title": "Britney Vs Spears",
+      "netflix_url": "https://www.netflix.com/title/81177110",
+      "year": "2021",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt15469820",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTNjZGMwOTgtMTVhYS00MzUyLTg2OTItODUwZTQ2N2FjYTY5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Journalist Jenny Eliscu and filmmaker Erin Lee Carr investigate Britney Spears' fight for freedom by way of exclusive interviews and confidential evidence."
+    },
+    {
       "title": "My Heroes Were Cowboys",
       "netflix_url": "https://www.netflix.com/title/81183637",
       "year": "2021",
@@ -1604,6 +1896,15 @@
       "imdb_id": "tt21746178",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOGYwOGViMGYtMDY2OC00ZTUxLWJiZmQtOWQxMzA0MGJmOGVjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Days after 9/11, letters containing fatal anthrax spores spark panic and tragedy in the US. This documentary follows the subsequent FBI investigation."
+    },
+    {
+      "title": "Penguin Town",
+      "netflix_url": "https://www.netflix.com/title/81214135",
+      "year": "2021",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt14677850",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTc3Njk2ZTctNzQxOC00MWEzLWJiNzQtMzdiY2VlZWRmNDhmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a picturesque South African town, an eclectic group of endangered penguins flock together to find mates, raise families and mix with the locals."
     },
     {
       "title": "Live to 100: Secrets of the Blue Zones",
@@ -1678,6 +1979,15 @@
       "Plot": "Get a taste of the most beloved bites on American streets and, along the way, discover the heart, soul and wildly diverse real people behind the food."
     },
     {
+      "title": "Jailbirds New Orleans",
+      "netflix_url": "https://www.netflix.com/title/81250179",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt15320436",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTI0OGJjMGItZjNmMC00NWQ5LTk5M2QtNjIwZmI3ZGE1OWYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Feuds, flirtations and toilet talk go down among the incarcerated women at the Orleans Justice Center in New Orleans on this gritty reality series."
+    },
+    {
       "title": "Take Your Pills: Xanax",
       "netflix_url": "https://www.netflix.com/title/81251342",
       "year": "2022",
@@ -1748,6 +2058,15 @@
       "imdb_id": "tt14849626",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTc4Yjk2NWQtNThlNy00ZTk2LTlhMzktYWIyYWZjNDNlYTlkXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In 1892 a pirate buried gold on Adak Island worth over $300,000,000. He died before he could return. Now, a team of skilled treasure hunters seeks to unearth the gold, but the island is riddled with live munitions."
+    },
+    {
+      "title": "Puff: Wonders of the Reef",
+      "netflix_url": "https://www.netflix.com/title/81276049",
+      "year": "2021",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt15753666",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWE4ODhjNzEtMThiMy00OTFjLTkyMDktMzAwNWY3MmFiZGEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A baby pufferfish travels through a wondrous microworld full of fantastical creatures as he searches for a home on the Great Barrier Reef."
     },
     {
       "title": "Trainwreck: Woodstock '99",
@@ -1858,6 +2177,15 @@
       "Plot": "The right to vote is at the foundation of America's democracy. But not every vote is created equal. How does the system work, and can it be fixed?"
     },
     {
+      "title": "A Love Song for Latasha",
+      "netflix_url": "https://www.netflix.com/title/81304985",
+      "year": "2020",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt8993180",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWJhZGM0MDktMjk4MC00YWJiLTlmNTgtMGE0NzA0Mjg5YzlkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The injustice surrounding the shooting death of 15-year-old Latasha Harlins at a South Central Los Angeles store became a flashpoint for the city’s 1992 civil uprising."
+    },
+    {
       "title": "Untold: Swamp Kings",
       "netflix_url": "https://www.netflix.com/title/81305970",
       "year": "2023",
@@ -1871,7 +2199,8 @@
       "netflix_url": "https://www.netflix.com/title/81306326",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "MH370: The Plane That Disappeared",
@@ -1899,6 +2228,15 @@
       "imdb_id": "tt14019016",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTcwNmY4ODUtM2U3NC00MDQzLWE3OGEtNDYxYTBhMTJjZmI3XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "When celebrities Olli Schulz and Fynn Kliemann decided to buy and repurpose the old houseboat in which the German musician Gunter Gabriel lived up to his death, they didn't know for how much they signed up for."
+    },
+    {
+      "title": "Secret Lives of Orangutans",
+      "netflix_url": "https://www.netflix.com/title/81312307",
+      "year": "2024",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt33038092",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2U4MDIzY2MtMGMxZS00YzRlLTk4ZmQtMTM4ZmJkNmJiNzdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow a multi-generational orangutan family through their treetop triumphs and travails in this immersive documentary narrated by David Attenborough."
     },
     {
       "title": "The Elephant Whisperers",
@@ -1944,6 +2282,15 @@
       "imdb_id": "tt27713897",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTJiYmU3MzctMGMzYi00MzU0LTllOWYtNGZkMmZmNmM4ZTlmXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Follows the life of Arnold Schwarzenegger, from his days of lifting weights to his successes in Hollywood, his time serving as governor of California, and both the joys and volatility of his family life."
+    },
+    {
+      "title": "The Hidden Lives of Pets",
+      "netflix_url": "https://www.netflix.com/title/81318943",
+      "year": "2022",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt20560384",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjUyZWJmYzUtZmQyOS00NDZkLTgxNTYtY2NkYzM3ZWEwODU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bow wows and purr-fect pets. Meet amazing creatures from around the world and dig into the latest science on our animal friends' senses and skills."
     },
     {
       "title": "Predators",
@@ -2036,6 +2383,15 @@
       "Plot": "Explore the life of Moses, his journey from outcast and murderer to prophet and liberator of the Hebrews from Egyptian oppression."
     },
     {
+      "title": "Trust No One: The Hunt for the Crypto King",
+      "netflix_url": "https://www.netflix.com/title/81349029",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt15479902",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTVkOGExNmMtMzk0MS00YTg2LTliMjQtYjgyN2EzMmE1OTRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of investors turned sleuths as they try to unlock the suspicious death of cryptocurrency multimillionaire Gerry Cotten and the missing $250 million they believe he stole from them."
+    },
+    {
       "title": "Take Care of Maya",
       "netflix_url": "https://www.netflix.com/title/81349305",
       "year": "2023",
@@ -2079,6 +2435,15 @@
       "imdb_id": "tt18059108",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDhlMzkyMmEtYmU2YS00YjBlLWI4M2UtODUzY2Q2NTdkNWJjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "As the Kalahari Desert faces a worsening dry season, prides, packs and herds of all kinds must rely on the power of family to survive."
+    },
+    {
+      "title": "Audrey",
+      "netflix_url": "https://www.netflix.com/title/81354558",
+      "year": "2020",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt10731386",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTlmYjRiY2MtMWUzZi00MGExLWJjMTQtMWZiNjRjMzJiNDAxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Filmmaker Helena Coan examines the remarkable life and career of actress, fashion icon and humanitarian Audrey Hepburn."
     },
     {
       "title": "Ghislaine Maxwell: Filthy Rich",
@@ -2153,6 +2518,14 @@
       "Plot": "In this gut-wrenching documentary, survivors share their stories of how they were abused by three generations of La Luz del Mundo church leaders."
     },
     {
+      "title": "Skandal! Bringing Down Wirecard",
+      "netflix_url": "https://www.netflix.com/title/81404807",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Nevenka: Breaking the Silence",
       "netflix_url": "https://www.netflix.com/title/81405211",
       "year": "2021",
@@ -2160,6 +2533,15 @@
       "imdb_id": "tt14091172",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTU0N2M3MTYtYTNhOS00MjE0LWI4MWQtODk2MWM1MGMyMzc0XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "The story of the first sexual harassment case in Spain was a scandal. Nevenka Fernández, its protagonist, discusses it in this documentary."
+    },
+    {
+      "title": "Crime Scene: The Times Square Killer",
+      "netflix_url": "https://www.netflix.com/title/81405883",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt16027926",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQyNDEwYjItZmUzMy00M2RjLWE3NDQtMTU3NWI1ZDRjZmQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1970s NYC, the \"Torso Killer\" preys on women to fulfill his grotesque fantasies while eluding police. A docuseries dive into crime's darkest places."
     },
     {
       "title": "The Volcano: Rescue from Whakaari",
@@ -2178,6 +2560,24 @@
       "imdb_id": "tt27206017",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmFjMDNmNzUtNTRhMS00YWE5LThiZDktZGY3MmVhOTM0Njk1XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Money holds power over us - but it doesn't have to. Finance expert Ramit Sethi works with people across the US to help them achieve their richest lives."
+    },
+    {
+      "title": "Rita Moreno: Just a Girl Who Decided to Go for It",
+      "netflix_url": "https://www.netflix.com/title/81410843",
+      "year": "2021",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt10741846",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgwNDkyYzEtMWQ2Ni00OWNiLTk0ZGMtZmYyNTJlMWVjOTM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A look at the life and work of Rita Moreno from her humble beginnings in Puerto Rico to her success on Broadway and in Hollywood."
+    },
+    {
+      "title": "Fortune Seller: A TV Scam",
+      "netflix_url": "https://www.netflix.com/title/81417724",
+      "year": "2022",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt21340378",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWFhODkxN2ItOGEyNC00MTNlLTg1MTYtNDg5N2E1YmIzZDI0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow controversial slimming cream sellers turned con artists Wanna Marchi and Stefania Nobile, from their TV success to their scam and jail time."
     },
     {
       "title": "jeen-yuhs: A Kanye Trilogy",
@@ -2216,6 +2616,15 @@
       "Plot": "Follow six people competing in the 2022 Invictus Games, a global event founded by Prince Harry that helps wounded service members heal through sports."
     },
     {
+      "title": "Big Vape: The Rise and Fall of Juul",
+      "netflix_url": "https://www.netflix.com/title/81444184",
+      "year": "2023",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt14081634",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWU1M2I4ZTUtNDJmYy00NTM1LTgxNjYtNTllOGY0Y2IzMzMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this docuseries, a scrappy electronic cigarette startup becomes a multibillion-dollar company until an epidemic causes its success to go up in smoke."
+    },
+    {
       "title": "Apollo 13: Survival",
       "netflix_url": "https://www.netflix.com/title/81444292",
       "year": "2024",
@@ -2241,6 +2650,15 @@
       "imdb_id": "tt2401814",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzU0YzRhNTQtMzNmYi00MDEwLTlhNDktZWZiYWIwNWRmZGY4XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "THE LONELIEST WHALE is a cinematic quest to find the \"52 Hertz Whale,\" which scientists believe has spent its entire life in solitude, calling out at a frequency that is different from any other whale. As a group of scientists mou..."
+    },
+    {
+      "title": "Gladbeck: The Hostage Crisis",
+      "netflix_url": "https://www.netflix.com/title/81446276",
+      "year": "2022",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt20420316",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTY5NWVlZWMtMWVlYy00NTQyLWFlYWEtYTlkMmUwZTAxMzE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In August 1988, two armed bank robbers keep German and Dutch police at bay for 54 hours during a hostage-taking drama that ends badly."
     },
     {
       "title": "Pepsi, Where's My Jet?",
@@ -2423,6 +2841,15 @@
       "Plot": "What happened after Einstein fled Nazi Germany? Using archival footage and his own words, this docudrama dives into the mind of a tortured genius."
     },
     {
+      "title": "Call Me Kate",
+      "netflix_url": "https://www.netflix.com/title/81475700",
+      "year": "2022",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt13093834",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQzYjkwN2YtMDg1NS00NmZkLTk0OTctNGIyN2NiMDlhYmJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A feature documentary which captures Katharine Hepburn's spirit and determination, exploring her story using her own words, through a combination of hours of previously hidden and intimate audio tapes, video and photographic archive."
+    },
+    {
       "title": "Dirty Pop: The Boy Band Scam",
       "netflix_url": "https://www.netflix.com/title/81476403",
       "year": "2024",
@@ -2447,7 +2874,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Martha",
@@ -2493,6 +2921,24 @@
       "imdb_id": "tt16477402",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDhhYWFjMzAtNTI2ZS00ZGNlLTgxZTAtMWJjOWQ1OTQyODQxXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Gripping historical footage and expert commentary give detailed insights into the leading figures and decisive turning points of WWII."
+    },
+    {
+      "title": "When Missing Turns to Murder",
+      "netflix_url": "https://www.netflix.com/title/81497521",
+      "year": "2023",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt11165808",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2M0NTYyNmEtOTBiMy00MzUwLWJjNWMtNmVmYzUxMmI4Y2Q2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "British true crime documentary series using powerful and emotional testimony from families and friends when a missing persons enquiry turns into a murder investigation."
+    },
+    {
+      "title": "My Lover My Killer",
+      "netflix_url": "https://www.netflix.com/title/81497580",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt14722418",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ZiMGI3MDQtOGFhMi00NTMxLTgxNjMtYTViYWM2ZmRlNzc2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "British true crime documentary series telling the real life stories of those who paid the ultimate price for offending an obsessive lover."
     },
     {
       "title": "The Menendez Brothers",
@@ -2583,6 +3029,15 @@
       "Plot": "The terrifying story of the first televised exorcism on NBC in 1971. The NBC news segment was a success, the exorcism was not. Instead, it made things worse for the Becker family who lived there. Much worse."
     },
     {
+      "title": "Break Point",
+      "netflix_url": "https://www.netflix.com/title/81569920",
+      "year": "2024",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt17048442",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmQ5ODVhMWItNWY0OS00Mzc4LWIyZjMtYWRiZDMwOGFjOWVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows men's and women's pro tennis players throughout four Grand Slam tournaments."
+    },
+    {
       "title": "Secret World of Sound with David Attenborough",
       "netflix_url": "https://www.netflix.com/title/81571854",
       "year": "2024",
@@ -2646,6 +3101,14 @@
       "Plot": "Follows the tragedy in which terrorists detonated a bomb at the Boston Marathon's finish line; they carried out the attack by placing two homemade pressure-cooker bombs that resulted in three fatalities and numerous injuries."
     },
     {
+      "title": "Untold: Hope Solo vs. U.S. Soccer",
+      "netflix_url": "https://www.netflix.com/title/81582387",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Untold: The Murder of Air McNair",
       "netflix_url": "https://www.netflix.com/title/81582388",
       "year": "2024",
@@ -2661,7 +3124,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "American Murder: Laci Peterson",
@@ -2709,6 +3173,15 @@
       "Plot": "Follows the life of pop culture icon Pamela Anderson, including never-before-seen archival footage and personal journals."
     },
     {
+      "title": "Sweet Bobby: My Catfish Nightmare",
+      "netflix_url": "https://www.netflix.com/title/81591286",
+      "year": "2024",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt33484071",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTg1NmM3OTAtNGI2My00MWZlLTkxMDQtZjA2ZWQ4OWI4OTdjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman's online courtship takes an unsettling turn when her romantic interest harbors a dark secret and sinister motives, leading to a harrowing ordeal."
+    },
+    {
       "title": "Wrestlers",
       "netflix_url": "https://www.netflix.com/title/81592264",
       "year": "2023",
@@ -2718,6 +3191,15 @@
       "Plot": "The Ohio Valley Wrestling in Louisville, Kentucky, use to be a glorious grad school for young wrestlers with hopes of a shot at a career in professional wrestling, yet things aren't like they used to be."
     },
     {
+      "title": "Oprah + Viola: A Netflix Special Event",
+      "netflix_url": "https://www.netflix.com/title/81592429",
+      "year": "2022",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt19404044",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmNmM2ZkZjEtOWQ3ZS00YTk3LTlkNzQtMmM3MzMyOTY1NDcxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this special event, Oprah Winfrey sits down with actor Viola Davis for an interview about her memoir, \"Finding Me.\""
+    },
+    {
       "title": "Files of the Unexplained",
       "netflix_url": "https://www.netflix.com/title/81593881",
       "year": "2024",
@@ -2725,6 +3207,15 @@
       "imdb_id": "tt31638758",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjYwOGE1OWMtMDJjMS00YTg2LWJhZjktOTdmYzdhY2VhMzg0XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Perplexing phenomena are meticulously explored in this investigative docuseries, which uncovers the truth behind eerie encounters, bizarre disappearances, and haunting events."
+    },
+    {
+      "title": "Who Killed Jill Dando?",
+      "netflix_url": "https://www.netflix.com/title/81594933",
+      "year": "2023",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt26445771",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGJlOTExYTQtYTI5Yi00ZDVjLWE3YzgtMDRmY2E3NzEwNTI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Revisit the shocking 1999 murder of beloved TV presenter Jill Dando, which continues to mystify experts and the public, in this in-depth documentary."
     },
     {
       "title": "How to Become a Mob Boss",
@@ -2745,6 +3236,15 @@
       "Plot": "Look inside the cult leader's playbook for achieving unconditional love, endless devotion and the power to control people's minds, bodies and souls."
     },
     {
+      "title": "Down for Love",
+      "netflix_url": "https://www.netflix.com/title/81599745",
+      "year": "2023",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt28365137",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDE2YjRlOWMtMjFlMy00NGQzLWJiYmEtYzkwNGRhNmEwYTUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A heartwarming quest for love, this feel-good reality show follows several people with Down syndrome as they navigate the trials and triumphs of dating."
+    },
+    {
       "title": "Ashley Madison: Sex, Lies & Scandal",
       "netflix_url": "https://www.netflix.com/title/81602884",
       "year": "2024",
@@ -2752,6 +3252,15 @@
       "imdb_id": "tt32307741",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTZlMWVjNjQtMjliYS00MDI5LTg4ZmItZWQ4NzIwODgyZDE1XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "When Ashley Madison, a dating site for people seeking adulterous affairs, is hacked, millions of users' intimate data is exposed, wrecking marriages and destroying lives."
+    },
+    {
+      "title": "High: Confessions of an Ibiza Drug Mule",
+      "netflix_url": "https://www.netflix.com/title/81603422",
+      "year": "2021",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt14988916",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTcyZTVmMmUtMGI5MS00MDZkLThlY2ItNDRmNTUwZTY1ZTU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of Michaella McCollum who was arrested whilst drug smuggling in Peru in 2013."
     },
     {
       "title": "Bad Surgeon: Love Under the Knife",
@@ -2778,7 +3287,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Churchill at War",
@@ -2806,6 +3316,15 @@
       "imdb_id": "tt30852970",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGZmOTU4MWEtMzRkYi00NzYyLWJmMGQtZjFmZDllMTEyY2JjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In this twisting documentary, a mechanic tries online dating for the first time and meets a woman who takes romantic obsession to a deadly extreme."
+    },
+    {
+      "title": "The UnXplained",
+      "netflix_url": "https://www.netflix.com/title/81612571",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31961684",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNThmMmRiN2QtYWYxMS00ODU5LWFkNDMtMjZmNTYxNTY5YzFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "These special compilation episodes of \"The UnXplained\" explore the world's most fascinating, strange and inexplicable mysteries."
     },
     {
       "title": "Turning Point: The Bomb and the Cold War",
@@ -2862,6 +3381,24 @@
       "Plot": "Told from both sides of the law this documentary series from the makers of \"Fear City\" follows the FBI's battle to bring down infamous mob boss John Gotti."
     },
     {
+      "title": "The Deepest Breath",
+      "netflix_url": "https://www.netflix.com/title/81630917",
+      "year": "2023",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt24132732",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmY2YmUwZDMtNjRmNi00ODJhLTllZjYtYzk4ZDg3MTE4ZjA4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A champion and expert safety diver seemed destined for one another. Despite different paths taken, they meet at the pinnacle of the free-diving world, experiencing the thrilling rewards and inescapable risks of chasing dreams thro..."
+    },
+    {
+      "title": "Cyberbunker: The Criminal Underworld",
+      "netflix_url": "https://www.netflix.com/title/81632983",
+      "year": "2023",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt29472617",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGE0MDRmNGQtZDNhNy00ZDA1LTlmMjQtODA2ZTJjMjE0MmZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of hackers powered the darkest corners of the internet from a Cold War-era bunker in a quiet German tourist town."
+    },
+    {
       "title": "Gold & Greed: The Hunt for Fenn's Treasure",
       "netflix_url": "https://www.netflix.com/title/81636832",
       "year": "2025",
@@ -2869,6 +3406,24 @@
       "imdb_id": "tt15789898",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjQzNTc2NmItMGI3ZC00ZmU0LTgyN2UtMTZhYmM2YzM3NzhmXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Follows the story of Forrest Fenn, an art collector, who buried a $2 million treasure in 2010 filled with rare gold coins in an unknown location with 24 cryptic verses offering the only hint to its whereabouts."
+    },
+    {
+      "title": "Dancing for the Devil: The 7M TikTok Cult",
+      "netflix_url": "https://www.netflix.com/title/81638162",
+      "year": "2024",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt32307218",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2JkYjQ5YzQtYWUxZS00NjdjLTliNTItMDQyZDA1ZTQ4NWI5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "TikTok dancers join a management firm tied to a church, uncovering disturbing truths about the founders' sinister agenda."
+    },
+    {
+      "title": "Robbie Williams",
+      "netflix_url": "https://www.netflix.com/title/81638710",
+      "year": "2023",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt28210840",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDU3N2U5ZWItZDg5ZC00ZTAzLTgxYzQtODQ5OTRmOTEzZGE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After 25 years of his record-breaking solo career, Robbie looks back on his younger self and reflects on a lifetime spent in the spotlight."
     },
     {
       "title": "Shark Whisperer",
@@ -2922,7 +3477,17 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "The Man with 1000 Kids",
+      "netflix_url": "https://www.netflix.com/title/81653509",
+      "year": "2024",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt27712032",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjEwNDUzZjctYTM5Ni00NGI0LWFmOWUtMDAyZDQ0MTdmY2I5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Jonathan Meijer a Dutch YouTuber who is accused of fathering more than 500 children and defrauded people across the globe."
     },
     {
       "title": "LALIGA: All Access",
@@ -2943,13 +3508,23 @@
       "Plot": "When Vicky White, a highly respected corrections officer, aids the escape of a violent felon nearly twenty years her junior, it reveals an unexpected love story amidst the ensuing high-profile manhunt and media frenzy."
     },
     {
+      "title": "The Light We Carry: Michelle Obama and Oprah Winfrey",
+      "netflix_url": "https://www.netflix.com/title/81657245",
+      "year": "2023",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt27442442",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWNmN2I3ZGEtMDE4OC00NDdmLWIyOTEtYjlmNGU5NzRhN2E0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Michelle Obama delves into the challenges and life lessons that shaped her second bestselling book in an illuminating conversation with Oprah Winfrey."
+    },
+    {
       "title": "Start Up, Fall Down: From Billionaire to Convict",
       "netflix_url": "https://www.netflix.com/title/81659325",
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Elway",
@@ -3031,6 +3606,13 @@
       "Plot": "A woman claims to have been abducted from her bedroom in Manhattan. This docuseries explores whether it was an elaborate hoax - or proof of alien life."
     },
     {
+      "title": "Ordinary Men: The \"Forgotten Holocaust\"",
+      "netflix_url": "https://www.netflix.com/title/81672035",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Aileen: Queen of the Serial Killers",
       "netflix_url": "https://www.netflix.com/title/81673047",
       "year": "2025",
@@ -3049,6 +3631,15 @@
       "Plot": "The inside look at the U.S. Air Force's Thunderbirds flight squadron."
     },
     {
+      "title": "Investigation Alien",
+      "netflix_url": "https://www.netflix.com/title/81674441",
+      "year": "2024",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt33840297",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTU5MGM0ZTMtNjI3OS00NTA4LWE0YjYtMGIzZjJmY2Q1ODQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Renowned investigative journalist George Knapp reveals the findings of his 30-year quest investigating UFOs and brings forward never before seen evidence."
+    },
+    {
       "title": "Katrina: Come Hell and High Water",
       "netflix_url": "https://www.netflix.com/title/81676595",
       "year": "2025",
@@ -3064,7 +3655,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Captains of the World",
@@ -3101,6 +3693,14 @@
       "imdb_id": "tt37024060",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzI3OWQzZjEtYmFiZC00MGM1LTlmYTctMjFjMmVhYjYyMzVjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Reveals decisions by officials and companies before the 2017 Grenfell Tower fire that made it preventable. Survivors, families, and firefighters share their accounts of the tragedy that took 72 lives."
+    },
+    {
+      "title": "Ilary Blasi: The One and Only",
+      "netflix_url": "https://www.netflix.com/title/81683799",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "One Last Adventure: The Making of Stranger Things 5",
@@ -3152,7 +3752,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "A Nation of Kimchi",
@@ -3162,6 +3763,14 @@
       "imdb_id": "tt29521736",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjcwZWU1ZmYtODE1Ny00MTA2LWEwZTctOWFiZGZhMDVkZjJiXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "N/A"
+    },
+    {
+      "title": "Babo: The Haftbefehl Story",
+      "netflix_url": "https://www.netflix.com/title/81687374",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Britain and The Blitz",
@@ -3200,13 +3809,23 @@
       "Plot": "A teen girl and her boyfriend face persistent harassment from an unknown caller. Police investigating the months of torment discover a revelation that upends their initial assumptions."
     },
     {
+      "title": "Under Pressure: The U.S. Women's World Cup Team",
+      "netflix_url": "https://www.netflix.com/title/81697366",
+      "year": "2023",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt28423464",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1M2ZjMmYtNmVlMC00NzhiLWJlZGMtYTEzNDNjMDk5NmU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow the US Women's National Team to get a behind-the-scenes look. The strain, the elation, the excitement, and the struggles that these athletes go through as they pursue their third consecutive World Cup victory."
+    },
+    {
       "title": "50 Seconds: The Fernando Báez Sosa Case",
       "netflix_url": "https://www.netflix.com/title/81699731",
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "UniverXO Dabiz",
@@ -3254,6 +3873,15 @@
       "Plot": "Simone Biles, the gymnastics superstar, withdrew from the 2020 Tokyo Olympics due to mental health concerns. After a hiatus, she embarked on a journey to rebuild her skills and mental fortitude, preparing for her triumphant return."
     },
     {
+      "title": "The Diamond Heist",
+      "netflix_url": "https://www.netflix.com/title/81701502",
+      "year": "2025",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt31806040",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGQ3YzVjNWQtOGFhZS00OTcxLTlhZWQtNTczYTkxMzA5MWYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 2000, a group of London criminals plan an audacious heist: ram-raid the Millennium Dome, steal diamond and escape by boat on the Thames, but the police are surveilling them."
+    },
+    {
       "title": "Dining With The Kapoors",
       "netflix_url": "https://www.netflix.com/title/81702885",
       "year": "2025",
@@ -3296,7 +3924,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Paparazzi King",
@@ -3308,6 +3937,15 @@
       "Plot": null
     },
     {
+      "title": "Con Mum",
+      "netflix_url": "https://www.netflix.com/title/81708174",
+      "year": "2025",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt35955855",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDE2YTIwNTktM2IwNi00ZWFlLWE0NTEtYTVhYjdjNWMzNjViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A chef's world turns chaotic when a globetrotting socialite appears, claiming to be his mother. The documentary uncovers their story."
+    },
+    {
       "title": "Off Road",
       "netflix_url": "https://www.netflix.com/title/81710508",
       "year": "2025",
@@ -3315,6 +3953,14 @@
       "imdb_id": "tt35677750",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTA1ZDA1NzAtZmU1Yy00YWE4LWE2ODUtNzI3ODk3MzljNWM4XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "N/A"
+    },
+    {
+      "title": "Miss Italia Mustn’t Die",
+      "netflix_url": "https://www.netflix.com/title/81711030",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "All the Sharks",
@@ -3371,6 +4017,15 @@
       "Plot": "Four Indigenous children stranded in Colombian Amazon after plane crash. Guided by ancestral knowledge, they survive while awaiting rescue operation amid the jungle's challenges."
     },
     {
+      "title": "Attack on London: Hunting The 7/7 Bombers",
+      "netflix_url": "https://www.netflix.com/title/81715711",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37182077",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjVhZTlkYTgtNWExYy00OWZhLWI0ZGMtZWVjNDZlM2EyOWQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A"
+    },
+    {
       "title": "The Twister: Caught in the Storm",
       "netflix_url": "https://www.netflix.com/title/81715724",
       "year": "2025",
@@ -3378,6 +4033,15 @@
       "imdb_id": "tt35882698",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzBiYzhlZDEtZjU5Ny00ZDY4LWJjZTEtNGM4ZmQ2ODE2NTBkXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "It is graduation day in Joplin, Missouri. As the Class of 2011 collect their diplomas, their hometown is hit by a rare EF-5 tornado. Believing it could be the end of the world, a group of teenagers find themselves in the eye of th..."
+    },
+    {
+      "title": "Garbo: Where Did You Go?",
+      "netflix_url": "https://www.netflix.com/title/81715821",
+      "year": "2024",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt31042115",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmQyNzQxMjMtYTQ4Mi00ODBjLWFkY2YtODlmN2M4OWVmYTIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An urgent, timely and compelling portrait of Hollywood icon Greta Garbo, whose fame, isolation and loneliness still captures us."
     },
     {
       "title": "Mountain Queen: The Summits of Lhakpa Sherpa",
@@ -3396,6 +4060,15 @@
       "imdb_id": "tt30796448",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDhiMmU0YzEtNzE0Mi00OTRmLWEyMjAtZWRhNzJlZmRiM2U2XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "On January 28th 1985, dozens of the era's most popular musicians gathered in Los Angeles to record a charity single for African famine relief. Setting egos aside, they collaborated on a song that would make history."
+    },
+    {
+      "title": "Jack Whitehall: Fatherhood with My Father",
+      "netflix_url": "https://www.netflix.com/title/81720621",
+      "year": "2024",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt28756879",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2JjNTFiOTMtYjlkMC00NjFiLWIzNTAtMjc2ZDQ4NWUyMzdlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow Jack and his father Michael on a path of discovery and adventure ahead of Jack's impending fatherhood."
     },
     {
       "title": "Starting 5",
@@ -3591,7 +4264,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Who Killed the Montreal Expos?",
@@ -3600,7 +4274,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Jjajangmyeon Rhapsody",
@@ -3609,7 +4284,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Korean Fried Chicken Rhapsody",
@@ -3666,6 +4342,22 @@
       "Plot": "Explore the murder case of Nora Dalmasso that occurred in 2006 in Argentina, which remains unsolved after 18 years."
     },
     {
+      "title": "30 for 30: Celtics/Lakers: The Best of Enemies",
+      "netflix_url": "https://www.netflix.com/title/81753676",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Carlos Alcaraz: My Way",
+      "netflix_url": "https://www.netflix.com/title/81755629",
+      "year": "2025",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt31724374",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjZhZThjYWMtMzViNC00Y2EwLWE3Y2QtOWI3YzcxMWJmYTQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow the tennis prodigy Carlos Alcaraz both on and off the court during his 2024 season. The series will get closer than ever before to one of the best athletes in the world, who is revolutionizing the world of tennis."
+    },
+    {
       "title": "Turning Point: The Vietnam War",
       "netflix_url": "https://www.netflix.com/title/81756795",
       "year": "2025",
@@ -3702,6 +4394,15 @@
       "Plot": "Explores a man's quest for immortality and the lengths he goes to defy aging."
     },
     {
+      "title": "Sue Bird: In the Clutch",
+      "netflix_url": "https://www.netflix.com/title/81758143",
+      "year": "2024",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt17042382",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTJmODhmMzMtZjMzMy00ZGNiLTk2YjAtNzA0YTM1ODQ0NzQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows the life of WNBA star Sue Bird, capturing the final chapter of her 19-year career in basketball."
+    },
+    {
       "title": "Skywalkers: A Love Story",
       "netflix_url": "https://www.netflix.com/title/81758544",
       "year": "2024",
@@ -3709,6 +4410,15 @@
       "imdb_id": "tt30319830",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNGU4Y2QxYTQtMWJhYy00OTNmLTgwZWUtZWYzYTQzMDQ2N2JmXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A daring couple travels worldwide to climb the 118-story megatall skyscraper, Merdeka 118, in Kuala Lumpur, Malaysia, attempting a bold acrobatic stunt on the spire to salvage both their career and relationship."
+    },
+    {
+      "title": "TLC Forever",
+      "netflix_url": "https://www.netflix.com/title/81759221",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt13220796",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDg0MTk1NTAtMzQ3OS00ZTA2LTkzNmUtMGYyYzA5ZTc2Y2Q5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow the iconic group that influenced an entire generation and survived against all odds, showing personal stories about their world fame."
     },
     {
       "title": "Will & Harper",
@@ -3729,6 +4439,15 @@
       "Plot": "Four young girls prepare for a special Daddy Daughter Dance with their incarcerated fathers, as part of a unique fatherhood program in a Washington, D.C., jail."
     },
     {
+      "title": "Mon Laferte, te amo",
+      "netflix_url": "https://www.netflix.com/title/81761916",
+      "year": "2024",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt32090526",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzRlNTVlMjgtYmJmZC00NDBmLWE5NzUtMWVjNmRmMzgwM2JlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this intimate documentary, artist and singer Mon Laferte recounts her life as she navigates a global tour, motherhood and her deepest wounds."
+    },
+    {
       "title": "Nightmares of Nature",
       "netflix_url": "https://www.netflix.com/title/81763401",
       "year": "2025",
@@ -3744,7 +4463,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Trainwreck: Poop Cruise",
@@ -3780,7 +4500,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Into the Fire: The Lost Daughter",
@@ -3882,6 +4603,15 @@
       "Plot": null
     },
     {
+      "title": "Makayla's Voice: A Letter to the World",
+      "netflix_url": "https://www.netflix.com/title/81926434",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31048311",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzAxZTEyNzUtM2QzZC00MDkxLWIwMWItODEzMDljZmM1Y2QxXkEyXkFqcGdeQXVyMTI1MTM2NTg0._V1_SX300.jpg",
+      "Plot": "In the heartwarming short documentary, \"Makayla's Voice: A Letter to the World\", we are introduced to a remarkable young girl whose spirit and determination defy all expectations. Makayla, a black teenage girl, has spent her life ..."
+    },
+    {
       "title": "WWE: Unreal",
       "netflix_url": "https://www.netflix.com/title/81928921",
       "year": "2025",
@@ -3897,7 +4627,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Way We Wore",
@@ -3934,6 +4665,24 @@
       "Plot": null
     },
     {
+      "title": "The Search For Instagram's Worst Con Artist",
+      "netflix_url": "https://www.netflix.com/title/81987249",
+      "year": "2023",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt30817586",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjdkN2NiOGItOWNhNy00NmI4LTk2NmItNmYzYWZiYjA3OWZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The inside story of Belle Gibson, a 21-year-old social media influencer who conned followers out of millions of dollars by claiming she had cured terminal cancer with an extreme healthy-eating diet."
+    },
+    {
+      "title": "A Queen’s Runway",
+      "netflix_url": "https://www.netflix.com/title/82010178",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt30868885",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWUyYjMyOTctMGE3OS00YTg2LWJkZmYtOTNmZDFmNTc4NTcyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Documentary about the life and stories of the Miss Universe Philippines contestants."
+    },
+    {
       "title": "The Perfect Neighbor",
       "netflix_url": "https://www.netflix.com/title/82018736",
       "year": "2025",
@@ -3956,7 +4705,8 @@
       "netflix_url": "https://www.netflix.com/title/82021191",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "aka Charlie Sheen",
@@ -3974,7 +4724,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "1 in 7641",
@@ -4091,7 +4842,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "K for Kimbap",
@@ -4100,7 +4852,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Cover-Up",
@@ -4127,7 +4880,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Depeche Mode: M",

@@ -860,7 +860,8 @@
       "netflix_url": "https://www.netflix.com/title/81418159",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Restless",
@@ -1148,7 +1149,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Kaapa",
@@ -1169,13 +1171,23 @@
       "Plot": "A brutal act sends an irresponsible small-time criminal on a mission of revenge."
     },
     {
+      "title": "The Ghost",
+      "netflix_url": "https://www.netflix.com/title/81614454",
+      "year": "2022",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt15309632",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTI1YjNhZGMtYjg0MC00YTU5LTkyMjctNGQwMGViNzYyOTljXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An ex-Interpol officer wreaks havoc and sends shock waves across the global underworld but goes missing in action, only to remerge years later, for his beloved family."
+    },
+    {
       "title": "Inside Furioza",
       "netflix_url": "https://www.netflix.com/title/81623506",
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Shadow Strays",
@@ -1220,7 +1232,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "VidaaMuyarchi",
@@ -1230,6 +1243,15 @@
       "imdb_id": "tt18926098",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjYxMDE2OTAtNmQ5Yi00ZTcwLTgwOGQtZThmOTdhMzFhMjRiXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A married couple's trip takes an unsettling turn when the wife goes missing, prompting the husband's frantic search while an unknown villain creates obstacles."
+    },
+    {
+      "title": "Thunivu",
+      "netflix_url": "https://www.netflix.com/title/81644302",
+      "year": "2023",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt15163652",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDAzY2RhNmItMDY0MS00OTE4LTg4MGUtOTU2ZGE4NjdjMThkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A mysterious mastermind - Daredevil and his team forms a plan and commits bank heist to find the corporate looted people's money."
     },
     {
       "title": "Stealing Raden Saleh",
@@ -1247,7 +1269,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Hard Days",
@@ -1281,7 +1304,8 @@
       "netflix_url": "https://www.netflix.com/title/81672761",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Den of Thieves 2: Pantera",
@@ -1308,7 +1332,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Savi",
@@ -1416,7 +1441,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Wrath of Becky",
@@ -1524,7 +1550,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Ice Road: Vengeance",

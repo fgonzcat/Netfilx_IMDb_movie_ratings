@@ -333,7 +333,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Detective Conan",
@@ -525,6 +526,15 @@
       "Plot": "A mysterious man called the Medicine Seller travels along feudal Japan, uncovering and slaying evil spirits called \"Mononoke\"."
     },
     {
+      "title": "Children of the Whales",
+      "netflix_url": "https://www.netflix.com/title/80174917",
+      "year": "2017",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt7484994",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzcwZTBjYzYtZWM1Mi00ODFlLTllMzgtNDFkZjVjOWVkNTVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "As a magic weilder, young archivist Chakuro knows his life will be short, but everything changes when a mysterious girl from the outside arrives on his island."
+    },
+    {
       "title": "ID-0",
       "netflix_url": "https://www.netflix.com/title/80174918",
       "year": "2017",
@@ -534,11 +544,21 @@
       "Plot": "In the midst of a field exercise operating I-Machines, Alliance Academy student Maya Mikuri is thrown into an entirely different kind of adventure."
     },
     {
+      "title": "Devilman Crybaby",
+      "netflix_url": "https://www.netflix.com/title/80174974",
+      "year": "2018",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt6660498",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjRjOGI4M2YtMGQ4NC00OTk3LTg4MWItYjBjYzNiOGI0Y2ZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "With demons reawakened and humanity in turmoil, a sensitive demon-boy is led into a brutal, degenerate war against evil by his mysterious friend."
+    },
+    {
       "title": "SWORDGAI The Animation",
       "netflix_url": "https://www.netflix.com/title/80175350",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Kakegurui",
@@ -577,6 +597,15 @@
       "Plot": "Humanity's desperate battle to reclaim the Earth from Godzilla continues. The key to defeating the King of the Monsters may be Mechagodzilla, a robotic weapon thought to have been lost nearly 20,000 years ago."
     },
     {
+      "title": "Fate/Apocrypha",
+      "netflix_url": "https://www.netflix.com/title/80180849",
+      "year": "2017",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt6424454",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDdiYTZjYjktYTZmZi00M2FkLWE4MjQtYTE3ZTg3ZWQwN2RiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In an alternate universe, the Holy Grail War was won by the Yggdamillenia family. Now two factions with 7 Master-Servant pairs each and 1 extra Servant as the Ruler are fighting to win the Greater Holy Grail."
+    },
+    {
       "title": "Violet Evergarden",
       "netflix_url": "https://www.netflix.com/title/80182123",
       "year": "2018",
@@ -593,6 +622,15 @@
       "imdb_id": "tt9348718",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjdlOWNlNDktOGM5NS00MjYzLTg4Y2ItZjlkZTdhODY1Mzg2XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "In the immediate future, a giant meteorite has collided with earth. All living organisms, including mankind, have been wiped off the face of the planet."
+    },
+    {
+      "title": "Fate/EXTRA Last Encore",
+      "netflix_url": "https://www.netflix.com/title/80185145",
+      "year": "2018",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt7940468",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmJjOTE1ZjYtMzZiMy00ZGQzLWFjMGEtY2E3MjVlYjFlODMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Hakuno awakens in a virtual realm with amnesia, forced into a deadly conflict for the mythical Holy Grail that can grant any wish. Aided by an enigmatic \"Servant,\" he must battle friends and foes alike to unravel the truth of his ..."
     },
     {
       "title": "LOST SONG",
@@ -676,6 +714,15 @@
       "Plot": "A children's animation on a seemingly typical girl who turns into a ferocious dinosaur when she is angry."
     },
     {
+      "title": "Seis Manos",
+      "netflix_url": "https://www.netflix.com/title/80217066",
+      "year": "2019",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt10106108",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzBjOGJhNzQtOGUxMC00OWI5LTk3NzMtNmI4NzAwNzRhNDdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Orphans raised by a martial arts master are plunged into a mystery involving demonic powers, drug cartels, ancient rituals and blood sacrifice."
+    },
+    {
       "title": "LAST HOPE",
       "netflix_url": "https://www.netflix.com/title/80221272",
       "year": "2018",
@@ -709,7 +756,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Godzilla Singular Point",
@@ -745,7 +793,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Forest of Piano",
@@ -784,6 +833,15 @@
       "Plot": "Amnesiac Caiman seeks to undo his lizard head curse by killing the sorcerer responsible, with his friend Nikaido's help. In the Hole, that's a threat."
     },
     {
+      "title": "CAROLE & TUESDAY",
+      "netflix_url": "https://www.netflix.com/title/80992137",
+      "year": "2019",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt8107988",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWNjMzVjODUtMjE1Ny00YTVmLTgyMDctOGQwM2I5YjRiYThjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two girls, from different backgrounds but sharing a love for music, meet and change history with their united musical talent."
+    },
+    {
       "title": "KENGAN ASHURA",
       "netflix_url": "https://www.netflix.com/title/80992228",
       "year": "2024",
@@ -800,6 +858,15 @@
       "imdb_id": "tt10545250",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmJhMTUyNTgtNTE4Ny00ODNlLTk4NWEtZmY1YTk1MGVhOGVmXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A human girl secretly raised by robots starts to uncover the dark secrets behind her lush, utopian world where humanity has all but vanished."
+    },
+    {
+      "title": "Dragon's Dogma",
+      "netflix_url": "https://www.netflix.com/title/80992784",
+      "year": "2020",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt10011298",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjJlYTllODktMzExZC00ZjIxLWFkNjQtMTFmY2Q2NTE5M2U4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ethan sets out to vanquish the Dragon that took his heart, but with every demon he battles, he loses more of his humanity."
     },
     {
       "title": "revisions",
@@ -889,7 +956,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "One Piece Film: Strong World",
@@ -952,7 +1020,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Tekken: Bloodline",
@@ -988,7 +1057,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Aggretsuko: We Wish You a Metal Christmas",
@@ -1267,7 +1337,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Ranma1/2",
@@ -1276,7 +1347,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Sonic X",
@@ -1429,7 +1501,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Baki Hanma",
@@ -1591,7 +1664,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Pokémon Ultimate Journeys: The Series",
@@ -1600,7 +1674,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Junji Ito Maniac: Japanese Tales of the Macabre",
@@ -1652,7 +1727,8 @@
       "netflix_url": "https://www.netflix.com/title/81313289",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Case Closed: The Culprit Hanzawa",
@@ -1758,7 +1834,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Transformers: War for Cybertron: Earthrise",
@@ -1767,7 +1844,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Transformers: War for Cybertron: Kingdom",
@@ -2001,7 +2079,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Pokémon: The Arceus Chronicles",
@@ -2062,7 +2141,8 @@
       "netflix_url": "https://www.netflix.com/title/81679587",
       "year": "2014",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "One Piece Adventure of Nebulandia",
@@ -2078,7 +2158,8 @@
       "netflix_url": "https://www.netflix.com/title/81679589",
       "year": "2017",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "One Piece Episode of Skypiea",
@@ -2168,7 +2249,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Apothecary Diaries",
@@ -2231,7 +2313,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Anpanman: Apple Boy And Everyone's Hope",
@@ -2276,7 +2359,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Monsters 103 Mercies Dragon Damnation",
@@ -2393,7 +2477,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "One Piece Fan Letter",
@@ -2420,7 +2505,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Tougen Anki",
@@ -2438,7 +2524,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "WITCH WATCH",
@@ -2483,7 +2570,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Pokémon Horizons: Season 3: Rising Hope",
@@ -2492,7 +2580,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     }
   ]
 }

@@ -183,6 +183,15 @@
       "Plot": "The first lady of Mexico is a woman of conviction and ideals. But when she loses faith in her husband, she'll need all her strength to uncover the truth."
     },
     {
+      "title": "Toro",
+      "netflix_url": "https://www.netflix.com/title/80093107",
+      "year": "2016",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt4213806",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzRmYTAxNmQtNjgwMy00ODAwLWIzZjItZThjNzYzMjIwMWI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A former con man must be back to his old habits to save his older brother and niece from his ex boss and mentor."
+    },
+    {
       "title": "Cable Girls",
       "netflix_url": "https://www.netflix.com/title/80100929",
       "year": "2019",
@@ -1111,6 +1120,15 @@
       "Plot": "Documentary series on the circumstances surrounding the death of María Marta García Belsunce, one of the most controversial criminal cases in Argentina."
     },
     {
+      "title": "How to Get Over a Breakup",
+      "netflix_url": "https://www.netflix.com/title/81020005",
+      "year": "2018",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt8435268",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjhiODA1NzItNDUzYy00NWZmLWJlZTctZTU4NTg1MTE1NzVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A heartbroken ad copywriter living in Lima, Peru, is inspired to write a blog about life as a single woman and is surprised by her website's success."
+    },
+    {
       "title": "Nobody Knows I'm Here",
       "netflix_url": "https://www.netflix.com/title/81020106",
       "year": "2020",
@@ -1377,6 +1395,15 @@
       "imdb_id": "tt13118012",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWNmMGFhMjItYzVhMS00Njc3LTgwMDUtMTZjN2RiNWNmYzMxXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Alex, an advertising creative, wants to be a dad at any cost, but his wife is a lawyer on top of her career and being a mother isn't part of her plans. An unexpected guest will challenge their love."
+    },
+    {
+      "title": "The Minions of Midas",
+      "netflix_url": "https://www.netflix.com/title/81051782",
+      "year": "2020",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt10147520",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjUxOGE4Y2MtY2Y5Zi00OWRlLWJkOTAtOGI0ZjBhYzgyNGI0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Los Favoritos de Midas is based on the 1901 short story by Jack London. The six-part series follows Victor, a rich businessman, who is blackmailed in a strange way by a mysterious organization."
     },
     {
       "title": "The Last Runway",
@@ -1953,6 +1980,15 @@
       "Plot": "A tragically separated couple must find each other in another life to break a spell on their town, but the arrival of two tourists threaten their chance."
     },
     {
+      "title": "Tell Me When",
+      "netflix_url": "https://www.netflix.com/title/81266221",
+      "year": "2021",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt10648198",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWVmZjYwNzktMGExZi00MzBhLTg4YTYtOTVkMmI3ZjQxMjAxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After his grandpa's passing, Mexican-American Will decides to go ahead with the plans he'd made to help him discover his roots in Mexico."
+    },
+    {
       "title": "Live is Life",
       "netflix_url": "https://www.netflix.com/title/81266614",
       "year": "2022",
@@ -2385,6 +2421,15 @@
       "Plot": null
     },
     {
+      "title": "Love Never Lies",
+      "netflix_url": "https://www.netflix.com/title/81394999",
+      "year": "2021",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt14540924",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzE2NDlmMDAtYjNlMS00OThkLTk3OTUtZDMzNWU2ODBiZjFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Six couples are subjected to an Eye Detect lie detector test in a reality show where lies cost money, and trust come with a juicy cash prize."
+    },
+    {
       "title": "High Heat",
       "netflix_url": "https://www.netflix.com/title/81397422",
       "year": "2022",
@@ -2570,6 +2615,15 @@
       "imdb_id": "tt16969906",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWZjN2ExZDYtYmZjOS00Y2RjLTllNGMtMjkwYjdiZGUwMTRiXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "After turning 40, César is invited to a culinary contest in Cancún, but a bitter discovery threatens to destroy his family as well as his chances to win the competition."
+    },
+    {
+      "title": "I Am Georgina",
+      "netflix_url": "https://www.netflix.com/title/81423622",
+      "year": "2024",
+      "imdb_rating": "4.0",
+      "imdb_id": "tt15494864",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBkNmVkM2QtM2FjOC00ZmMxLWE4NGQtYzVhMTc2ZTE5ZGYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Join Georgina Rodríguez - mom, influencer, businesswoman and Cristiano Ronaldo's partner - in this emotional and in-depth portrait of her daily life."
     },
     {
       "title": "Chromosome 21",
@@ -2802,6 +2856,13 @@
       "Plot": "Which of the seven participating teams will be the Piñata Heroes? Their piñatas must be colorful and creative, and impress the picky judges: a group of kids."
     },
     {
+      "title": "The Patients of Dr. García",
+      "netflix_url": "https://www.netflix.com/title/81481539",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Tin & Tina",
       "netflix_url": "https://www.netflix.com/title/81483306",
       "year": "2023",
@@ -2886,6 +2947,15 @@
       "imdb_id": "tt29195231",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDcwNTRiMDktNTBhMi00MGI5LTlhMTItMTQ1NjZkZGU4YTM2XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Thirsty for revenge, a big-time social media influencer infiltrates the lives of four women to discover which of them is the mother who abandoned her at birth and uncover why she was left alone."
+    },
+    {
+      "title": "I Don't Expect Anyone to Believe Me",
+      "netflix_url": "https://www.netflix.com/title/81509813",
+      "year": "2023",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt21738294",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI2YzRlYWQtMjI2MS00ZTkyLWI3YTEtZDNiYTMxMzM0OGQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young man who wants to be a writer travels to Barcelona to study literature. In the Spanish city he is involved in a criminal business."
     },
     {
       "title": "The Lady of Silence: The Mataviejitas Murders",
@@ -3190,6 +3260,15 @@
       "imdb_id": "tt33054529",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWU2YTcxMWUtYTNmMy00N2Y5LTk4NDEtODRiNTk2NTdkN2YzXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "After their father's death, estranged sisters stumble upon his hidden fortune, forcing them to decide whether to keep the money or do the right thing."
+    },
+    {
+      "title": "The Last Night at Tremore Beach",
+      "netflix_url": "https://www.netflix.com/title/81610976",
+      "year": "2024",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt27349314",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWFlNmNhM2QtODJlNS00OWQ0LWI2NDItZTYxZjRkZTU1ZjAxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Composer Peter Harper, reeling from divorce, retreats to an isolated Irish beach house hoping to find inspiration. The secluded Tremore Beach cottage seems perfect until a raging storm hits on a fateful night, upending his plans."
     },
     {
       "title": "Deep Fake Love",
@@ -3633,6 +3712,15 @@
       "Plot": null
     },
     {
+      "title": "Delirium",
+      "netflix_url": "https://www.netflix.com/title/81704578",
+      "year": "2025",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt37388093",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmY1NWQ0NGEtYjFlMi00M2JmLTlmZWUtMGJkY2U0MzVmMDU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When his wife Augustina falls into delirium, a professor delves into her dark past to piece together her story and uncover the cause of her madness. Coming to Netflix July 18th."
+    },
+    {
       "title": "Garnachas: Glorious Street Food!",
       "netflix_url": "https://www.netflix.com/title/81706965",
       "year": "2025",
@@ -3874,6 +3962,15 @@
       "imdb_id": null,
       "Poster": null,
       "Plot": null
+    },
+    {
+      "title": "Maledictions",
+      "netflix_url": "https://www.netflix.com/title/81749717",
+      "year": "2025",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt33292950",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmU2MmYyM2YtODFlNC00NWJlLTkxMzItYmNhODY2YWVmMGM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In northern Argentina, a governor's daughter is kidnapped during a crucial lithium mining vote. As the captor's motives unfold, a 13-year-old conspiracy emerges, exposing dark truths about power and family ties."
     },
     {
       "title": "The Follies",

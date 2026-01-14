@@ -144,7 +144,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "True Memoirs of an International Assassin",
@@ -333,7 +334,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Rise of the Teenage Mutant Ninja Turtles: The Movie",
@@ -369,7 +371,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Red Notice",
@@ -612,7 +615,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Astérix & Obélix: The Middle Kingdom",
@@ -775,6 +779,14 @@
       "imdb_id": "tt23557940",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNGY2ZDFiNmItMGRkOC00MTVjLWE1ODgtZDI0MmIxZDIzYjlkXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A flower seller's son ends up in a tussle with a ruthless rowdy in Dindigul, forcing him to become a policeman and fight the odds."
+    },
+    {
+      "title": "DSP (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81508718",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Kuttey",
@@ -981,7 +993,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Bogeyman",
@@ -1089,7 +1102,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Mathu Vadalara 2",
@@ -1116,7 +1130,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "KPop Demon Hunters Lyric Videos",
@@ -1125,7 +1140,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     }
   ]
 }
