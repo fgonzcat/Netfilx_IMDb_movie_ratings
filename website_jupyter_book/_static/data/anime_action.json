@@ -135,7 +135,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Puella Magi Madoka Magica",
@@ -207,7 +208,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Seven Deadly Sins",
@@ -381,13 +383,23 @@
       "Plot": "Luffy and his pirates can't wait to board the glittering Sin City ship known as Gran Tesoro, but they soon find themselves in way over their heads."
     },
     {
+      "title": "Devilman Crybaby",
+      "netflix_url": "https://www.netflix.com/title/80174974",
+      "year": "2018",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt6660498",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjRjOGI4M2YtMGQ4NC00OTk3LTg4MWItYjBjYzNiOGI0Y2ZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "With demons reawakened and humanity in turmoil, a sensitive demon-boy is led into a brutal, degenerate war against evil by his mysterious friend."
+    },
+    {
       "title": "SWORDGAI The Animation",
       "netflix_url": "https://www.netflix.com/title/80175350",
       "year": "2018",
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "JoJo's Bizarre Adventure",
@@ -693,7 +705,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Tekken: Bloodline",
@@ -711,7 +724,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Sol Levante",
@@ -721,6 +735,15 @@
       "imdb_id": "tt12079068",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2ExYjA0MjEtYjgyYS00YTA0LWI2NWQtNDE2MjFlZmRkOWY2XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A young warrior leaves in search of the sacred place which is said to grant wishes. Better not to stir the wrath of the ancient guardian spirits."
+    },
+    {
+      "title": "Ultramarine Magmell",
+      "netflix_url": "https://www.netflix.com/title/81019771",
+      "year": "2019",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt9826314",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTdiOTFkM2ItYzg5Mi00MmZlLWFjMjQtZjY2N2EwOWY2NmI5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Unknown creatures. Deadly pitfalls. With so many reckless adventures out to make fortune, someone's got to rescue them."
     },
     {
       "title": "Cells at Work!",
@@ -831,6 +854,15 @@
       "Plot": "Tanjiro undergoes rigorous training with the Stone Hashira, Himejima, in his quest to become a Hashira. Meanwhile, Muzan continues to search for Nezuko and Ubuyashiki."
     },
     {
+      "title": "Kabaneri of the Iron Fortress: The Battle of Unato",
+      "netflix_url": "https://www.netflix.com/title/81095103",
+      "year": "2019",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt10253816",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzAxY2Y5YWMtNzg2NS00MWQyLTg4YmEtNDcyMzdkZGJiNzkxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The film chronicles the attempt of the team to take back Unato castle."
+    },
+    {
       "title": "Tokyo Override",
       "netflix_url": "https://www.netflix.com/title/81153111",
       "year": "2024",
@@ -873,7 +905,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Sonic X",
@@ -1071,7 +1104,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Transformers: War for Cybertron: Earthrise",
@@ -1080,7 +1114,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Transformers: War for Cybertron: Kingdom",
@@ -1215,7 +1250,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "One Piece Adventure of Nebulandia",
@@ -1233,7 +1269,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "One Piece Episode of Skypiea",
@@ -1323,7 +1360,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Anpanman: Apple Boy And Everyone's Hope",
@@ -1368,7 +1406,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Monsters 103 Mercies Dragon Damnation",

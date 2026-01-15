@@ -259,20 +259,31 @@ jq -r '
   | @tsv
 ' "$CACHE_JSON_FILE" > "$TMP_TSV"
 
-tmp_json=$(jq -r '.movies[]   | select(.imdb_rating == null or .imdb_id == null or .Poster == null or .Plot == null)  ' "$CACHE_JSON_FILE"  )
-#echo $tmp_json | jq
+tmp_json=$(jq -r '.movies[]   | select((.imdb_rating == null or .imdb_id == null or .Poster == null or .Plot == null)  and (.SkipTitle // false | not))' "$CACHE_JSON_FILE"  )
 N=$(echo $tmp_json | jq -r ' .title ' | wc -l)
 printf "\033[33m--> Performing %d calls to OMDb...\033[0m\n" "$N"
 
 # Reading the TMP_TSV: a json file only with missing IMDb rating
 while IFS=$'\t' read -r title year url; do
   (
-    echo "Processing OMDb: $title ($year)"   >&2
-    
     # HANDLE EXCEPTIONS MANUALLY
     if [[ "$title" == *Warmest*Color* ]]; then 
      title=$(echo $title | sed -e 's/Color/Colour/g')
+    elif [[ "$title" == *Monster* && $year == "2024" ]]; then 
+      echo "Skipping OMDb for manual exception: $title ($year)" >&2
+      exit 0   # terminate this worker cleanly
     fi 
+
+    # Skip based on previous failure (SkipTitle)
+    if [[ -f "$TMP_OUT" ]]; then
+      skip=$(jq -r --arg u "$url" '.movies[] | select(.netflix_url==$u) | .SkipTitle // false' "$CACHE_JSON_FILE")
+      if [[ "$skip" == "true" ]]; then
+        echo "⏭️  Skipping $title because it previously failed" >&2
+        exit 0
+      fi
+    fi
+
+    echo "Processing OMDb: $title ($year)"   >&2
 
     safe_title=$(printf '%s' "$title" \
       | perl -CS -MUnicode::Normalize -pe '$_=NFD($_); s/\pM//g' \
@@ -306,6 +317,15 @@ while IFS=$'\t' read -r title year url; do
       # Did it work?
       if [[ -z "$imdbid" ]]; then
         echo "⚠️  OMDb lookup FAILED after retry: $title   $omdbError  :  $title  'http://www.omdbapi.com/?t=$safe_title&apikey=$APIKEY' " >&2
+        # Safely mark SkipTitle=true
+        tmpfile=$(mktemp)
+        if jq --arg u "$url" '.movies |= map(if .netflix_url==$u then . + {"SkipTitle": true} else . end)' \
+            "$CACHE_JSON_FILE" > "$tmpfile"; then
+            mv "$tmpfile" "$CACHE_JSON_FILE"
+        else
+            echo "❌  Failed to mark SkipTitle for $title — original JSON preserved" >&2
+            rm -f "$tmpfile"
+        fi
       fi
 
     else
@@ -329,6 +349,7 @@ wait
 # CHECK WHETHER YOU EXCEEDED THE MAX NUMBER OF DAILY REQUESTS
 if [[ -f "$TMP_OUT.limit" ]]; then
   echo "❌ OMDb rate limit was hit. Aborting without modifying cache." >&2
+  echo "❌ $CACHE_JSON_FILE was not updated.                         " >&2
   rm -f "$TMP_TSV" "$TMP_OUT" "$TMP_OUT.limit"
   exit 1
 fi

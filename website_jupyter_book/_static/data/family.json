@@ -198,7 +198,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "A Holiday Engagement",
@@ -297,7 +298,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Becoming Santa",
@@ -559,6 +561,13 @@
       "imdb_id": "tt9228950",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDY0NmIwZDMtMjA1OC00M2I3LWJhYjktNjM5OGFkMGUzMWZhXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Aspiring junior lifeguards compete against snobby local kids for bragging rights and the ultimate tower at Malibu Beach, California."
+    },
+    {
+      "title": "Angela's Christmas",
+      "netflix_url": "https://www.netflix.com/title/80230507",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "We Have a Ghost",
@@ -844,7 +853,8 @@
       "netflix_url": "https://www.netflix.com/title/81001413",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Nightbooks",
@@ -973,6 +983,13 @@
       "Plot": "A medieval English knight is magically transported to present-day America where he falls for a high school science teacher who is disillusioned by love."
     },
     {
+      "title": "Scrooge: A Christmas Carol",
+      "netflix_url": "https://www.netflix.com/title/81028225",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "A Boy Called Christmas",
       "netflix_url": "https://www.netflix.com/title/81029733",
       "year": "2021",
@@ -1015,7 +1032,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "True Spirit",
@@ -1070,6 +1088,13 @@
       "imdb_id": "tt11278476",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMmY1MDcxN2UtYTI1YS00YjQzLWFiNWQtYmY4ZTE3NWFlOWNkXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Chasing his dream to join an elite K-9 unit, a state trooper partners with a fellow underdog: clever but naughty shelter pup Ruby."
+    },
+    {
+      "title": "Toolsidas Junior",
+      "netflix_url": "https://www.netflix.com/title/81107547",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Thelma the Unicorn",
@@ -1150,7 +1175,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Dragon Quest Your Story",
@@ -1312,7 +1338,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Secret Magic Control Agency",
@@ -1414,6 +1441,13 @@
       "Plot": "Follows two childhood friends who drift into a mysterious sea with an entire housing complex."
     },
     {
+      "title": "Dasvi",
+      "netflix_url": "https://www.netflix.com/title/81332225",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Ivy + Bean",
       "netflix_url": "https://www.netflix.com/title/81338302",
       "year": "2022",
@@ -1447,7 +1481,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Dog Gone Trouble",
@@ -1456,7 +1491,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Penguin Bloom",
@@ -1501,7 +1537,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Dr. Seuss's The Sneetches",
@@ -1648,6 +1685,13 @@
       "Plot": "An Irish boy named Keegan and a Spanish girl named Moya journey into the mythical world of the Megaloceros Giganteus who teach them to appreciate Riverdance as a celebration of life."
     },
     {
+      "title": "Elf Pets: Santa’s St. Bernards Save Christmas",
+      "netflix_url": "https://www.netflix.com/title/81488496",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "An Elf's Story: The Elf on the Shelf",
       "netflix_url": "https://www.netflix.com/title/81488519",
       "year": "2011",
@@ -1756,9 +1800,30 @@
       "Plot": "Eleven-year-old Margaret moves from the city to the suburbs and starts to contemplate everything about life, friendship and adolescence. She relies on her mother, Barbara, who offers loving support, and her grandmother, Sylvia."
     },
     {
+      "title": "The Claus Family 3",
+      "netflix_url": "https://www.netflix.com/title/81591334",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Cemara's Family 2",
+      "netflix_url": "https://www.netflix.com/title/81597193",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "My Little Pony: A New Generation: Sing-Along",
       "netflix_url": "https://www.netflix.com/title/81597959",
       "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Habaddi",
+      "netflix_url": "https://www.netflix.com/title/81602979",
+      "year": "2019",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -1781,6 +1846,13 @@
       "Plot": "Inside of his book, adventurous Harold can make anything come to life simply by drawing it. After he grows up and draws himself off the book's pages and into the physical world, Harold finds he has a lot to learn about real life."
     },
     {
+      "title": "My Father is a Playboy",
+      "netflix_url": "https://www.netflix.com/title/81623689",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Dongeng Sang Kancil",
       "netflix_url": "https://www.netflix.com/title/81644368",
       "year": "2025",
@@ -1797,6 +1869,13 @@
       "imdb_id": "tt20215534",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOGIzYjc5ZDgtNzVmZC00ZDBkLWJkZWEtNWNiMzQ5Nzk2OTlhXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "13-year-old Corrine deals with her parents' recent divorce while everyone else is already adapted to their new roles as a blended family, challenging herself to train a rambunctious puppy as she discovers her new purpose."
+    },
+    {
+      "title": "Abboud at Home",
+      "netflix_url": "https://www.netflix.com/title/81660255",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Bad Guys: A Very Bad Holiday",
@@ -1934,6 +2013,13 @@
       "Plot": "Paddington returns to Peru to visit his beloved Aunt Lucy, who now resides at the Home for Retired Bears. With the Brown family in tow, a thrilling adventure ensues when a mystery plunges them into an unexpected journey."
     },
     {
+      "title": "Maximum Penalty 2",
+      "netflix_url": "https://www.netflix.com/title/81778837",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Cells At Work!",
       "netflix_url": "https://www.netflix.com/title/81779207",
       "year": "2024",
@@ -2003,7 +2089,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Same Time, Next Christmas",
@@ -2102,7 +2189,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "My Favorite Christmas Tree",

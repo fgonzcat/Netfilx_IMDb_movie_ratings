@@ -466,7 +466,8 @@
       "netflix_url": "https://www.netflix.com/title/70293105",
       "year": "2012",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Amazing Spider-Man 2",
@@ -667,6 +668,15 @@
       "Plot": "Uwais plays a young man who washes ashore, an amnesiac with a serious head injury whose past comes back to haunt him shortly after being nursed back to health by a young doctor. Violence ensues. Sweet, sweet violence."
     },
     {
+      "title": "Wheelman",
+      "netflix_url": "https://www.netflix.com/title/80113669",
+      "year": "2017",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt5723286",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjA0MzE1N15BMl5BanBnXkFtZTgwNjAzNzQ0MzI@._V1_SX300.jpg",
+      "Plot": "A getaway driver for a bank robbery realizes he has been double crossed and races to find out who betrayed him."
+    },
+    {
       "title": "Train to Busan",
       "netflix_url": "https://www.netflix.com/title/80117824",
       "year": "2016",
@@ -701,6 +711,15 @@
       "imdb_id": "tt1800302",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX300.jpg",
       "Plot": "Kenny Wells, a prospector desperate for a lucky break, teams up with a similarly eager geologist and sets off on a journey to find gold in the uncharted jungle of Indonesia."
+    },
+    {
+      "title": "The Killer",
+      "netflix_url": "https://www.netflix.com/title/80127990",
+      "year": "2017",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt5379294",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzYxNjFkMTYtMDU0Ni00MDM4LTlmNzYtNmE4YjMxNzkxODRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A Brazilian western about Cabeleira, a feared killer living in the countryside of Pernambuco State in the 40's."
     },
     {
       "title": "The Cloverfield Paradox",
@@ -860,7 +879,8 @@
       "netflix_url": "https://www.netflix.com/title/80204117",
       "year": "2015",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Project Power",
@@ -926,6 +946,15 @@
       "Plot": "Twelve-year-old Kareem Manning hires a criminal to scare his mom's new boyfriend -police officer James Coffee - but it backfires, forcing Coffee and Kareem to team up in order to save themselves from Detroit's most ruthless drug k..."
     },
     {
+      "title": "Black Crab",
+      "netflix_url": "https://www.netflix.com/title/80220426",
+      "year": "2022",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt6708668",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTFlNjI5NGQtYjY4ZC00N2RmLWJmMzgtYmRiNGZmYzViNmY0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a post-apocalyptic world, six soldiers on a covert mission must transport a mysterious package across a frozen archipelago."
+    },
+    {
       "title": "Point Blank",
       "netflix_url": "https://www.netflix.com/title/80221677",
       "year": "2019",
@@ -960,6 +989,15 @@
       "imdb_id": "tt8936646",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDBhMmI3OWYtZTA2Ny00Y2RjLTliMWQtYWY5MGIwN2RlZGFjXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Tyler Rake, a fearless black market mercenary, embarks on the most deadly extraction of his career when he's enlisted to rescue the kidnapped son of an imprisoned international crime lord."
+    },
+    {
+      "title": "Maria",
+      "netflix_url": "https://www.netflix.com/title/80236341",
+      "year": "2019",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt7594584",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDRlMmM3YmEtYmE3ZC00NDIyLWFkMzMtZjAzNWQxMGYzMTNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A Filipino female assassin quits and fakes her death. Her old boss finds out after she's gotten a family. He tries to kill them. She responds."
     },
     {
       "title": "Extinction",
@@ -1229,7 +1267,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Overhaul",
@@ -1497,7 +1536,8 @@
       "netflix_url": "https://www.netflix.com/title/81244367",
       "year": "2012",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Troll",
@@ -1648,7 +1688,8 @@
       "netflix_url": "https://www.netflix.com/title/81313227",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Rurouni Kenshin: The Beginning",
@@ -1707,7 +1748,8 @@
       "netflix_url": "https://www.netflix.com/title/81337210",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Heart Shot",
@@ -1768,7 +1810,8 @@
       "netflix_url": "https://www.netflix.com/title/81387252",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Interceptor",
@@ -2023,6 +2066,15 @@
       "Plot": "When a peaceful settlement on the edge of a distant moon finds itself threatened by a tyrannical ruling force, a stranger living among its villagers becomes their best hope for survival."
     },
     {
+      "title": "Zom 100: Bucket List of the Dead",
+      "netflix_url": "https://www.netflix.com/title/81464329",
+      "year": "2023",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt25811262",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzhkNDM2OGUtOGUzZC00NjAzLThmODktOGE4ZjgxZjA3OWQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A worker in a foreign finance company is bullied and worked around the clock, before a zombie outbreak finally makes him feel alive."
+    },
+    {
       "title": "14 Peaks: Nothing Is Impossible",
       "netflix_url": "https://www.netflix.com/title/81464765",
       "year": "2021",
@@ -2056,7 +2108,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Yaksha: Ruthless Operations",
@@ -2117,7 +2170,8 @@
       "netflix_url": "https://www.netflix.com/title/81493411",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Ambulance",
@@ -2439,7 +2493,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Shadow Strays",
@@ -2590,7 +2645,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Kingdom",
@@ -2608,7 +2664,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Venom: The Last Dance",
@@ -2665,6 +2722,15 @@
       "Plot": "Follows a police officer who must retrieve an eyewitness and escort her after a cartel shooting leaves several DEA agents dead, but then he must decide who to trust when they discover that the attack was executed by American forces."
     },
     {
+      "title": "River Wild",
+      "netflix_url": "https://www.netflix.com/title/81697914",
+      "year": "2023",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt21291992",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjExM2MxNjctMWZiZS00NTYxLWJlNGUtYTJkYWMxMjMxNjVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows a pair of siblings who love but distrust each other as they embark on a white-water rafting trip with a small group. One of their friends from childhood turns out to be more dangerous than he appears."
+    },
+    {
       "title": "The Black Book",
       "netflix_url": "https://www.netflix.com/title/81698992",
       "year": "2023",
@@ -2714,7 +2780,8 @@
       "netflix_url": "https://www.netflix.com/title/81704690",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "GTMAX",
@@ -2766,7 +2833,8 @@
       "netflix_url": "https://www.netflix.com/title/81726031",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Golden Kamuy",
@@ -2872,7 +2940,8 @@
       "netflix_url": "https://www.netflix.com/title/81746591",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Land of Bad",
@@ -2933,7 +3002,8 @@
       "netflix_url": "https://www.netflix.com/title/81767637",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Mission: Cross",
@@ -3025,6 +3095,15 @@
       "Plot": "Bad girls falsely accused of eve-teasing and misbehaving to a good man, the honorable Dr. Vyom fights for his good name against a society that rewards the dishonest and punishes the noble."
     },
     {
+      "title": "War 2",
+      "netflix_url": "https://www.netflix.com/title/81937035",
+      "year": "2025",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt27425164",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2U0MGFkNzctOGI5OC00MzhhLWExYTctZjE5YjY3MzcwYjMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Working as a mercenary, Kabir accepts a high-risk mission for a criminal network. But soon, his task pits him against his unflinching former ally."
+    },
+    {
       "title": "A Time For Bravery",
       "netflix_url": "https://www.netflix.com/title/81937233",
       "year": "2025",
@@ -3065,6 +3144,14 @@
       "netflix_url": "https://www.netflix.com/title/81949635",
       "year": "2024",
       "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Bleeding Tiger: Internal Affairs",
+      "netflix_url": "https://www.netflix.com/title/81949636",
+      "year": "2024",
+      "imdb_rating": null,
       "imdb_id": null
     },
     {
@@ -3074,7 +3161,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Gunslingers",
@@ -3099,7 +3187,8 @@
       "netflix_url": "https://www.netflix.com/title/82006666",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Sniper: The Last Stand",
@@ -3165,6 +3254,15 @@
       "Plot": "After kung fu prodigy Li Fong relocates to New York City, he attracts unwanted attention from a local karate champion and embarks on a journey to enter the ultimate karate competition with the help of Mr. Han and Daniel LaRusso."
     },
     {
+      "title": "Mahavatar Narsimha",
+      "netflix_url": "https://www.netflix.com/title/82131939",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34365591",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRkODNhYzYtZGRhNi00MTg4LWI5MmYtN2MyZTQ5MjE2YzMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The demon Hiranyakashyap seeks revenge on Vishnu and declares himself a god. His son Prahlad remains devoted to Vishnu. Vishnu manifests as Narsimha to defeat the demon and restore balance."
+    },
+    {
       "title": "A Line of Fire",
       "netflix_url": "https://www.netflix.com/title/82132947",
       "year": "2025",
@@ -3214,7 +3312,8 @@
       "netflix_url": "https://www.netflix.com/title/82630592",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Baahubali The Epic",

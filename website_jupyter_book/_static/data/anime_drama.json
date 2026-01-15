@@ -138,6 +138,14 @@
       "Plot": "After causing the near extinction of mankind seven years ago, genius scientist Leon Lau must now fight the ecological disaster he unwittingly created."
     },
     {
+      "title": "Flavors of Youth: International Version",
+      "netflix_url": "https://www.netflix.com/title/80234491",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "From Me to You: Kimi ni Todoke",
       "netflix_url": "https://www.netflix.com/title/80236253",
       "year": "2024",
@@ -153,7 +161,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Forest of Piano",
@@ -163,6 +172,15 @@
       "imdb_id": "tt8043492",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjgxY2IzZGUtYzY1Yi00YmIxLWFjZjMtYjEwM2QwY2FkNzc3XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Two different people - the son of a prostitute, and the son of a professional musician - develop a bond of friendship through their love of playing the piano."
+    },
+    {
+      "title": "Kuroko's Basketball: Last Game",
+      "netflix_url": "https://www.netflix.com/title/80991755",
+      "year": "2017",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt6728390",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWM5M2NkNDctZmZmYy00ZmM2LWEzNDEtZWUzMjM5ZmFhOTFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Generation of Miracles, including Kagami and Kuroko, form Team Vorpal Swords to challenge Team Jabberwock to a revenge match after the latter disparaged all Japanese basketballers as monkeys."
     },
     {
       "title": "CAROLE & TUESDAY",
@@ -369,7 +387,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "My Melody & Kuromi",
@@ -426,6 +445,15 @@
       "Plot": "The series depicts an active day of incidents and meetings that take place when Rilakkuma, Korilakkuma, Kiiroitori, and Kaoru go play in an amusement park that is about to close."
     },
     {
+      "title": "Bubble",
+      "netflix_url": "https://www.netflix.com/title/81345945",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt16360006",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWNkMzk0M2QtMTUyZi00OTE2LTkxZmMtYTYxNmYyN2IyMzg5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After bubbles that broke the laws of gravity rained down upon the world. Cut off from the outside world, Tokyo has become a playground for a group of young people who have lost their families."
+    },
+    {
       "title": "Words Bubble Up Like Soda Pop",
       "netflix_url": "https://www.netflix.com/title/81400497",
       "year": "2021",
@@ -442,6 +470,33 @@
       "imdb_id": "tt0434706",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzU2MWQ5NGQtYmNlMC00ZjJkLWJmODItZDM5MDM3YmUyMWJkXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Tenma, a brilliant neurosurgeon with a promising future, risks his career to save the life of a critically wounded young boy. The boy, now a charismatic young man, reappears 9 years later in the midst of a string of unusual serial..."
+    },
+    {
+      "title": "Her Blue Sky",
+      "netflix_url": "https://www.netflix.com/title/81427482",
+      "year": "2019",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10981202",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjJkODJhOGUtZGE4NS00OTE4LTg0NDMtMGM5YWYwM2EyZjAwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Second-year high school student Aoi Aioi is an aspiring musician. Her older sister Akane's ex-boyfriend Shinnosuke Kanomura is a struggling guitarist. Aoi and Akane's parents passed away in an accident 13 years ago, and Akane gave..."
+    },
+    {
+      "title": "Adam by Eve: A live in Animation",
+      "netflix_url": "https://www.netflix.com/title/81450005",
+      "year": "2022",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt18274178",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTMyYmNmZjctMDkxYy00ZDU0LWFjMzktYWI4YjYxNDY1ODZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Anime, live action and music by cutting-edge artist Eve - all weave together into this dreamlike sonic experience inspired by the story of Adam and Eve."
+    },
+    {
+      "title": "maboroshi",
+      "netflix_url": "https://www.netflix.com/title/81450803",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt14935892",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTk5NWVhM2QtMDhlOS00NGJhLTgwNDAtMWUwMjY4MjZjMmE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Following an explosion at a factory that mysteriously freezes a town in time, two students encounter a mysterious feral child, spurring an impulse of love fueled by the frustration of their daily lives that begins to upend their w..."
     },
     {
       "title": "Ōoku: The Inner Chambers",
@@ -487,6 +542,15 @@
       "imdb_id": "tt31788773",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNmUyNjE1YjUtZGJlNC00YTcyLTgzZWQtOGUxNjJhM2VmODY0XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A high school student's life takes an unexpected turn when he meets an oni (demon) girl on a quest in the human world."
+    },
+    {
+      "title": "Violet Evergarden: Recollections",
+      "netflix_url": "https://www.netflix.com/title/81630362",
+      "year": "2021",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt25041020",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOThmNzJiOTktNjNhNi00M2RjLTkzZTEtMjFlZjhkYzNjNjNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An emotionally scarred former child soldier becomes a letter writer in this condensed recap of the moving, gorgeously animated award-winning series."
     },
     {
       "title": "Blue Box",
@@ -576,7 +640,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     }
   ]
 }

@@ -612,7 +612,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Agneepath (2012)",
@@ -702,7 +703,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Sky High",
@@ -720,7 +722,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Amigos",
@@ -912,6 +915,13 @@
       "Plot": "A flower seller's son ends up in a tussle with a ruthless rowdy in Dindigul, forcing him to become a policeman and fight the odds."
     },
     {
+      "title": "DSP (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81508718",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Kuttey",
       "netflix_url": "https://www.netflix.com/title/81508740",
       "year": "2023",
@@ -1098,7 +1108,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Violence Action",
@@ -1116,7 +1127,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Shadow Strays",
@@ -1152,7 +1164,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Revolver Rita",
@@ -1242,7 +1255,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Kingdom",
@@ -1413,7 +1427,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "K.O.",
@@ -1497,13 +1512,23 @@
       "Plot": "Raised by a criminal father, Paari leaves behind his adoptive family to build a quiet life with his love, Rukmini. But his violent past won't let him go."
     },
     {
+      "title": "Good Bad Ugly",
+      "netflix_url": "https://www.netflix.com/title/81902062",
+      "year": "2025",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt27540217",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTViMDEwZjgtMjEzZS00YWQ1LWI0ODctMWIzNTE4Y2Y5Y2Y2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A fearless don tries to change his ruthless ways and violent past to live peacefully with his family. However, his dark past continues to haunt him. He faces it head-on and overcomes it."
+    },
+    {
       "title": "They Call Him OG",
       "netflix_url": "https://www.netflix.com/title/81902063",
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Thug Life",
@@ -1521,7 +1546,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Mathu Vadalara 2",
@@ -1539,7 +1565,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Bleeding Tiger: Internal Affairs",
@@ -1548,7 +1575,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Bleeding Tiger: Resolution",
@@ -1557,14 +1585,16 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Soul's Peak",
       "netflix_url": "https://www.netflix.com/title/81987104",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Pushpa 2: The Rule (Reloaded Version)",
@@ -1573,7 +1603,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "GATAO: Like Father Like Son",
@@ -1591,7 +1622,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Stone Cold Fox",
@@ -1618,7 +1650,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "The Ride",

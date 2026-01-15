@@ -453,6 +453,14 @@
       "Plot": "After hearing a young boy's cry for help, a sister and brother venture into a vast field of tall grass in Oklahoma but soon discover there may be no way out...and that something evil lurks within."
     },
     {
+      "title": "Errementari: The Blacksmith and the Devil",
+      "netflix_url": "https://www.netflix.com/title/80239565",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Animas",
       "netflix_url": "https://www.netflix.com/title/80239629",
       "year": "2018",
@@ -642,6 +650,15 @@
       "Plot": "Kak Limah is discovered dead by villager. Since then, her ghost has been spotted around Kampung Pisang, making the villagers feel restless. Enter Encik Solihin, who tries to help by shooing her ghost away from the village. Husin, ..."
     },
     {
+      "title": "Suzzanna: Buried Alive",
+      "netflix_url": "https://www.netflix.com/title/81062674",
+      "year": "2018",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt9044128",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY5OTMxN2YtY2E4OS00NjZmLTkxNmYtY2MwMWQwZWRlZWQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a pregnant woman is murdered, her spirit seeks revenge against her increasingly terrified killers, who are determined to finish her off for good."
+    },
+    {
       "title": "Aurora",
       "netflix_url": "https://www.netflix.com/title/81066244",
       "year": "2018",
@@ -700,14 +717,16 @@
       "netflix_url": "https://www.netflix.com/title/81151877",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Game Over (Telugu Version)",
       "netflix_url": "https://www.netflix.com/title/81151878",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Game Over (Hindi Version)",
@@ -716,7 +735,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Aaviri",
@@ -950,7 +970,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Fear Street Part 2: 1978",
@@ -959,7 +980,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Fear Street Part 3: 1666",
@@ -968,7 +990,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Viking Wolf",
@@ -1166,21 +1189,24 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Boomika (Malayalam)",
       "netflix_url": "https://www.netflix.com/title/81496131",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Boomika (Telugu)",
       "netflix_url": "https://www.netflix.com/title/81496132",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Girl Who Got Away",
@@ -1216,7 +1242,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Fear Street: Prom Queen",
@@ -1252,7 +1279,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Mononoke The Movie: Chapter II - The Ashes of Rage",
@@ -1340,7 +1368,8 @@
       "netflix_url": "https://www.netflix.com/title/81632774",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Shaitaan",
@@ -1385,7 +1414,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Run Rabbit Run",
@@ -1422,15 +1452,6 @@
       "imdb_id": "tt28252817",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDA2YmJkMWMtZjQ5OC00ZjZjLThjOGYtM2VlZWY2NGRlNjcwXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "A film producer and a film director find themselves going for the unexpected to fulfill their dreams."
-    },
-    {
-      "title": "Monster",
-      "netflix_url": "https://www.netflix.com/title/81678617",
-      "year": "2024",
-      "imdb_rating": "9.9",
-      "imdb_id": "tt37897393",
-      "Poster": "N/A",
-      "Plot": "Set in the late Ming Dynasty, the story follows three enclosed-ground hunters who are close friends: Qi Feng, Yang Shiyi, and Yun Xiaotian. They assist the people along the upper reaches of the Yellow River"
     },
     {
       "title": "Guna Guna Istri Muda",
@@ -1518,14 +1539,16 @@
       "netflix_url": "https://www.netflix.com/title/81711449",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Asvins (Malayalam)",
       "netflix_url": "https://www.netflix.com/title/81711450",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Suzzanna: Kliwon Friday Night",
@@ -1559,14 +1582,16 @@
       "netflix_url": "https://www.netflix.com/title/81730153",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Origin: Madam Koi-Koi - Chapter 2: The Spirit of Vengeance",
       "netflix_url": "https://www.netflix.com/title/81730154",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Trinil",
@@ -1663,7 +1688,8 @@
       "netflix_url": "https://www.netflix.com/title/81754785",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Wanita Ahli Neraka",
@@ -1816,7 +1842,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Sumala",
@@ -1843,7 +1870,8 @@
       "imdb_rating": null,
       "imdb_id": null,
       "Poster": null,
-      "Plot": null
+      "Plot": null,
+      "SkipTitle": true
     },
     {
       "title": "Untold",
@@ -1859,7 +1887,8 @@
       "netflix_url": "https://www.netflix.com/title/82018121",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Heart Eyes",
