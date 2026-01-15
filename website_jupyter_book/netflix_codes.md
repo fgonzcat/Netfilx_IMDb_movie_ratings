@@ -115,7 +115,7 @@ Below is a table of genres with direct links to Netflix, which you can obtain fr
 | Drama  | https://www.netflix.com/browse/genre/5763 |
 | Biographical Dramas  | https://www.netflix.com/browse/genre/3179 |
 | Classic Dramas  | https://www.netflix.com/browse/genre/29809 |
-| Courtroom Dramas  | https://www.netflix.com/browse/genre/528582748 |
+| Courtroom Dramas  | https://www.netflix.com/browse/genre/2748 |
 | Crime Dramas  | https://www.netflix.com/browse/genre/6889 |
 | Dramas Based on Books  | https://www.netflix.com/browse/genre/4961 |
 | Dramas Based on Real Life  | https://www.netflix.com/browse/genre/3653 |
