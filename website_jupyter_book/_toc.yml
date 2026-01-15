@@ -11,6 +11,10 @@ parts:
       - file: scripts 
       - file: netflix_codes
 
+  - caption: Best of the Best
+    chapters:
+      - file: best 
+
   - caption: Movie Categories on Netflix
     chapters:
       - file: anime
@@ -64,10 +68,4 @@ parts:
     chapters:
       - file: anime_series
       - file: TV_dramas 
-      - file: Korean_TV_Shows 
-
-
-
-  - caption: Best of the Best
-    chapters:
-      - file: best 
+      - file: Korean_TV_Shows
