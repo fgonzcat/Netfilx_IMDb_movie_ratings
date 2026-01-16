@@ -526,14 +526,19 @@ async function init() {
   actorSel.innerHTML = `<option value="">All</option>` +
     actors.map(a => `<option value="${a}">${a}</option>`).join('');
 
+
   // Populate Country options
   const countries = [...new Set(
-    movies
-      .filter(m => m.Country)
-      .map(m => m.Country.trim())
+    movies.flatMap(m =>
+      m.Country
+        ? m.Country.split(',').map(c => c.trim())
+        : []
+    )
   )].sort();
+  
   countrySel.innerHTML = `<option value="">All</option>` +
     countries.map(c => `<option value="${c}">${c}</option>`).join('');
+
 
   // Populate Languages
   const languages = [...new Set(
