@@ -2,6 +2,27 @@
 
 Choose your criteria and explore the full catalog.
 
+<style>
+  #controls label {
+    display: inline-block;
+    margin-right: 1em;
+  }
+  .card {
+    border: 1px solid #ccc;
+    padding: 0.5em;
+    margin: 0.5em;
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    text-align: center;
+  }
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+</style>
+
+
 <div id="controls">
   <label>Genre:
     <select id="genre"></select>
@@ -24,7 +45,7 @@ Choose your criteria and explore the full catalog.
 
 <script>
 async function init() {
-  const res = await fetch('_static/data/all_movies.json');
+  const res = await fetch('./_static/data/all_movies.json');
   const movies = await res.json();
 
   const genreSel = document.getElementById('genre');
