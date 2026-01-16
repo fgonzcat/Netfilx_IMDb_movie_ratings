@@ -9,7 +9,15 @@
       "imdb_rating": "6.7",
       "imdb_id": "tt1176726",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5NzIzMTk4NF5BMl5BanBnXkFtZTcwNDE4MTc3MQ@@._V1_SX300.jpg",
-      "Plot": "The sequel follows cocaine dealer Charles Crosby beginning in 1991 on the inner-city streets of Oakland, California. The story of Griselda Blanco is presented in greater depth."
+      "Plot": "The sequel follows cocaine dealer Charles Crosby beginning in 1991 on the inner-city streets of Oakland, California. The story of Griselda Blanco is presented in greater depth.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "Billy Corben",
+      "Writer": "N/A",
+      "Actors": "Nelson Andreu, Jorge Ayala, Griselda Blanco",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "30 for 30: The Two Escobars",
@@ -28,7 +36,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt0337902",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTM2ODQ2MzQ3MV5BMl5BanBnXkFtZTcwMzQxMDI3Mw@@._V1_SX300.jpg",
-      "Plot": "Documentary on Bayard Rustin, best-remembered as the organizer of the 1963 March on Washington."
+      "Plot": "Documentary on Bayard Rustin, best-remembered as the organizer of the 1963 March on Washington.",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Nancy D. Kates, Bennett Singer",
+      "Writer": "N/A",
+      "Actors": "Bayard Rustin, Dorothy Jackson, John Rodgers",
+      "Language": "English",
+      "Country": "N/A"
     },
     {
       "title": "30 for 30: The Fab Five",
@@ -47,7 +63,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt2376024",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzM0MDQyMzc3OF5BMl5BanBnXkFtZTcwNTA0NDcyOQ@@._V1_SX300.jpg",
-      "Plot": "Ever since Venus and Serena Williams started playing in tennis tournaments, they've provoked strong reactions - from awe and admiration to suspicion and resentment. They've been winning championships for over a decade, pushing the..."
+      "Plot": "Ever since Venus and Serena Williams started playing in tennis tournaments, they've provoked strong reactions - from awe and admiration to suspicion and resentment. They've been winning championships for over a decade, pushing the...",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Maiken Baird, Michelle Major",
+      "Writer": "N/A",
+      "Actors": "Raul Arevalo, Arthur Ashe, Victoria Azarenka",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Other Shore: The Diana Nyad Story",
@@ -56,7 +80,15 @@
       "imdb_rating": "7.7",
       "imdb_id": "tt2459100",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4NzAxNjM2NV5BMl5BanBnXkFtZTgwOTMwNzA0MDE@._V1_SX300.jpg",
-      "Plot": "Swimmer Diana Nyad comes out of a thirty year retirement to swim non-stop from Cuba to Florida. Nyad's adventure to life as she sets out to prove that will and determination are all you need to make the unimaginable possible."
+      "Plot": "Swimmer Diana Nyad comes out of a thirty year retirement to swim non-stop from Cuba to Florida. Nyad's adventure to life as she sets out to prove that will and determination are all you need to make the unimaginable possible.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary, Adventure, Biography",
+      "Director": "Timothy Wheeler",
+      "Writer": "N/A",
+      "Actors": "Diana Nyad, Johnny Carson, Candace Hogan",
+      "Language": "English",
+      "Country": "United States, Cuba, Mexico"
     },
     {
       "title": "Mitt",
@@ -65,7 +97,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt1757800",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDkwMzA0NzIzMV5BMl5BanBnXkFtZTgwMjY1ODY3MDE@._V1_SX300.jpg",
-      "Plot": "Mitt Romney and his family are followed through their U.S. Presidential campaigns for the Republic Party."
+      "Plot": "Mitt Romney and his family are followed through their U.S. Presidential campaigns for the Republic Party.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary, Biography, Family",
+      "Director": "Greg Whiteley",
+      "Writer": "Greg Whiteley",
+      "Actors": "Mitt Romney, Candy Crowley, Eric Draper",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "What Happened, Miss Simone?",
@@ -74,7 +114,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt4284010",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGNmNTdiM2YtMDkyZC00OGFhLTgwNTktMDczODFjM2Y0MDVjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A documentary about the life and legend Nina Simone, an American singer, pianist, and civil rights activist labeled the \"High Priestess of Soul.\""
+      "Plot": "A documentary about the life and legend Nina Simone, an American singer, pianist, and civil rights activist labeled the \"High Priestess of Soul.\"",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Liz Garbus",
+      "Writer": "N/A",
+      "Actors": "Nina Simone, Lisa Simone Kelly, Roger Nupie",
+      "Language": "English, French",
+      "Country": "United States"
     },
     {
       "title": "The Other One: The Long Strange Trip of Bob Weir",
@@ -83,7 +131,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt3692768",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWU4OGNlN2ItNmJiNy00MjU4LTkyMGQtZjc5MTRiMmQ4ZGU4XkEyXkFqcGdeQXVyMjExNjgyMTc@._V1_SX300.jpg",
-      "Plot": "A documentary that explores Bob Weirs life, through the Grateful Dead, Ratdog, and his childhood."
+      "Plot": "A documentary that explores Bob Weirs life, through the Grateful Dead, Ratdog, and his childhood.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Mike Fleiss",
+      "Writer": "N/A",
+      "Actors": "John Perry Barlow, Chuck Berry, Neal Cassady",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "30 for 30: Rand University",
@@ -110,7 +166,15 @@
       "imdb_rating": "7.4",
       "imdb_id": "tt3986532",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MTQ5NDU2OV5BMl5BanBnXkFtZTgwMzY4NzExNjE@._V1_SX300.jpg",
-      "Plot": "The personal Biography of Tig Notaro, a Stand-up comedian who was diagnosed with cancer."
+      "Plot": "The personal Biography of Tig Notaro, a Stand-up comedian who was diagnosed with cancer.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Kristina Goolsby, Ashley York",
+      "Writer": "Jennifer Arnold",
+      "Actors": "Stephanie Allynne, Zach Galifianakis, Sarah Silverman",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Hot Girls Wanted",
@@ -119,7 +183,15 @@
       "imdb_rating": "6.1",
       "imdb_id": "tt4382552",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDYxZmZhMmUtNTY3YS00YmQyLWI3ODctMWI2ZTEwMWRmYTJlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A documentary about young women who have been drawn into the sex trade - and how easy it is for a web-savvy generation to end up making porn."
+      "Plot": "A documentary about young women who have been drawn into the sex trade - and how easy it is for a web-savvy generation to end up making porn.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Jill Bauer, Ronna Gradus",
+      "Writer": "Brittany Huckabee",
+      "Actors": "Stella May, Riley Reynolds, Rachel Bernard",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Team Foxcatcher",
@@ -128,7 +200,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt5598216",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjE1NzcyNjYtNjFjMi00NDYwLWFjOWItZTRhNDkxMDU0NTc0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Documentary filmmaker Jon Greenhalgh examines the life of Dave Schultz, a professional wrestler who was part of 'Team Foxcatcher', funded by multi-millionaire John du Pont."
+      "Plot": "Documentary filmmaker Jon Greenhalgh examines the life of Dave Schultz, a professional wrestler who was part of 'Team Foxcatcher', funded by multi-millionaire John du Pont.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "Jon Greenhalgh",
+      "Writer": "N/A",
+      "Actors": "John du Pont, Dave Schultz, Mike Gostigian",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Amy",
@@ -137,7 +217,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt2870648",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MzE4MTE3OF5BMl5BanBnXkFtZTgwOTcyNDM3NTE@._V1_SX300.jpg",
-      "Plot": "Archival footage and personal testimonials present an intimate portrait of the life and career of British singer/songwriter Amy Winehouse."
+      "Plot": "Archival footage and personal testimonials present an intimate portrait of the life and career of British singer/songwriter Amy Winehouse.",
+      "Type": "movie",
+      "RunTime": "128 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Asif Kapadia",
+      "Writer": "N/A",
+      "Actors": "Amy Winehouse, Mitch Winehouse, Mark Ronson",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "30 for 30: Sole Man",
@@ -146,7 +234,15 @@
       "imdb_rating": "7.4",
       "imdb_id": "tt4450678",
       "Poster": "N/A",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "USA"
     },
     {
       "title": "My Beautiful Broken Brain",
@@ -155,7 +251,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt3815136",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTEzMDM3OTkxNzBeQTJeQWpwZ15BbWU4MDQ4MDg3NDQx._V1_SX300.jpg",
-      "Plot": "After suffering a stroke at age 34, a woman documents her struggles, setbacks and eventual breakthrough as she relearns to speak, read and write."
+      "Plot": "After suffering a stroke at age 34, a woman documents her struggles, setbacks and eventual breakthrough as she relearns to speak, read and write.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Sophie Robinson, Lotje Sodderland",
+      "Writer": "Sophie Robinson",
+      "Actors": "David Lynch, Sophie Robinson, Hente Sodderland",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Keith Richards: Under the Influence",
@@ -164,7 +268,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt4900018",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2MDE0ODg3MV5BMl5BanBnXkFtZTgwOTAxOTU3NjE@._V1_SX300.jpg",
-      "Plot": "A portrait of Keith Richards that takes us on a journey to discover the genesis of his sound as a songwriter, guitarist and performer."
+      "Plot": "A portrait of Keith Richards that takes us on a journey to discover the genesis of his sound as a songwriter, guitarist and performer.",
+      "Type": "movie",
+      "RunTime": "81 min",
+      "Genre": "Documentary, Music",
+      "Director": "Morgan Neville",
+      "Writer": "N/A",
+      "Actors": "Keith Richards, Anthony DeCurtis, Steve Jordan",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Daughters of Destiny",
@@ -173,7 +285,15 @@
       "imdb_rating": "8.6",
       "imdb_id": "tt1877895",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODYxZTdiZGQtOGRiNi00YTkwLTg1MjItMDhiNmI2NGIwMzEyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Oscar-winning filmmaker Vanessa Roth follows a group of rural India's most disadvantaged children over the course of seven years."
+      "Plot": "Oscar-winning filmmaker Vanessa Roth follows a group of rural India's most disadvantaged children over the course of seven years.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Documentary",
+      "Director": "Vanessa Roth",
+      "Writer": "Vanessa Roth",
+      "Actors": "Shilpa Anthony Raj, Abraham George, Mariam George",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Audrie & Daisy",
@@ -182,7 +302,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt5278460",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDkyMjU1NV5BMl5BanBnXkFtZTgwNjQwNDc4OTE@._V1_SX300.jpg",
-      "Plot": "A look at the effects that online bullying has on the lives of teenagers and their community."
+      "Plot": "A look at the effects that online bullying has on the lives of teenagers and their community.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Bonni Cohen, Jon Shenk",
+      "Writer": "N/A",
+      "Actors": "Robin Bourland, Daisy Coleman, Charles Coleman",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Quincy",
@@ -191,7 +319,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt7440432",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjFiYjM0OTctNzRlMy00ODcwLThiNWYtOTUwMjFlMWQxM2Q0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An intimate look into the life of icon Quincy Jones. A unique force in music and popular culture for 70 years, Jones has transcended racial and cultural boundaries; his story is inextricably woven into the fabric of America."
+      "Plot": "An intimate look into the life of icon Quincy Jones. A unique force in music and popular culture for 70 years, Jones has transcended racial and cultural boundaries; his story is inextricably woven into the fabric of America.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Alan Hicks, Rashida Jones",
+      "Writer": "Alan Hicks, Rashida Jones",
+      "Actors": "Quincy Jones, Rashida Jones, Kareem Abdul-Jabbar",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Hitler - A Career",
@@ -200,7 +336,15 @@
       "imdb_rating": "7.5",
       "imdb_id": "tt0191182",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjIxMmZkOTQtMWEzNC00OGZmLWJiOTUtMGVkNjkzNzA3Mjg5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This meticulously assembled film dissects the Third Reich with an analytical blade, charting Hitler's improbable rise, his mastery of crowd psychology and his consummate skill in exploiting others' weaknesses."
+      "Plot": "This meticulously assembled film dissects the Third Reich with an analytical blade, charting Hitler's improbable rise, his mastery of crowd psychology and his consummate skill in exploiting others' weaknesses.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Documentary, History",
+      "Director": "Joachim Fest, Christian Herrendoerfer",
+      "Writer": "Joachim Fest",
+      "Actors": "Gert Westphal, Stephen Murray, Artur Axmann",
+      "Language": "German",
+      "Country": "West Germany"
     },
     {
       "title": "Struggle: The Life and Lost Art of Szukalski",
@@ -209,7 +353,15 @@
       "imdb_rating": "7.9",
       "imdb_id": "tt9316022",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NjUxMDU2Ml5BMl5BanBnXkFtZTgwMDE2NTIwNzM@._V1_SX300.jpg",
-      "Plot": "This documentary chronicles the life of Polish-American artist Stanislav Szukalski (1893-1987) from his early years in Chicago, to his time in Poland and Los Angeles, and his artistic and political contributions to the world."
+      "Plot": "This documentary chronicles the life of Polish-American artist Stanislav Szukalski (1893-1987) from his early years in Chicago, to his time in Poland and Los Angeles, and his artistic and political contributions to the world.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Ireneusz Dobrowolski",
+      "Writer": "Stephen Cooper, Ireneusz Dobrowolski",
+      "Actors": "Stanislav Szukalski, Glenn Bray, Robert Williams",
+      "Language": "English",
+      "Country": "Poland, United States"
     },
     {
       "title": "Get Me Roger Stone",
@@ -218,7 +370,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt6714534",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjExNjAxOWQtYmU5ZS00OGM4LTg0ZWUtNTE1MjJiYjZiYmE0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A documentary exploring the life and career of notorious Republican dirty trickster and longtime Trump adviser, Roger Stone, who helped create the real estate mogul's political career."
+      "Plot": "A documentary exploring the life and career of notorious Republican dirty trickster and longtime Trump adviser, Roger Stone, who helped create the real estate mogul's political career.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Dylan Bank, Daniel DiMauro, Morgan Pehme",
+      "Writer": "Dylan Bank, Daniel DiMauro, Morgan Pehme",
+      "Actors": "Roger Stone, Donald Trump, Jane Mayer",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Joan Didion: The Center Will Not Hold",
@@ -227,7 +387,15 @@
       "imdb_rating": "7.5",
       "imdb_id": "tt7253506",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWUzYmZmNDAtOGU2OC00YjkxLWIwN2ItNTI1YWEzNTE1MGJiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Literary icon Joan Didion reflects on her remarkable career and personal struggles in this intimate documentary directed by her nephew, Griffin Dunne."
+      "Plot": "Literary icon Joan Didion reflects on her remarkable career and personal struggles in this intimate documentary directed by her nephew, Griffin Dunne.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Griffin Dunne",
+      "Writer": "N/A",
+      "Actors": "Joan Didion, Griffin Dunne, Anna Wintour",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Rapture",
@@ -236,7 +404,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt7981052",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTUxOWRkMDQtOTdhMS00ZWVhLTgzMjQtMjYwMzNlNTQ5OGVkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Featuring an impressive collection of artists who have found worldwide success, this documentary series showcases hip-hop's impact on global culture."
+      "Plot": "Featuring an impressive collection of artists who have found worldwide success, this documentary series showcases hip-hop's impact on global culture.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Joseph Simmons III, Logic, A Boogie wit da Hoodie",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Rachel Divide",
@@ -245,7 +421,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt8106570",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNmExMzkwMGMtYmQ3NC00OTUzLWFjOGMtZmZlMTRkM2Y3ODVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Rachel Dolezal becomes a social phenomenon when she passes herself off as an African American and becomes the head of her local N.A.A.C.P. chapter."
+      "Plot": "Rachel Dolezal becomes a social phenomenon when she passes herself off as an African American and becomes the head of her local N.A.A.C.P. chapter.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary",
+      "Director": "Laura Brownson",
+      "Writer": "Laura Brownson, Jeff Gilbert",
+      "Actors": "Rachel Dolezal, Franklin Dolezal, Izaiah Dolezal",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Kingdom of Us",
@@ -254,7 +438,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt7321274",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTAyNTYxMTEyMzVeQTJeQWpwZ15BbWU4MDIxNTI0NTMy._V1_SX300.jpg",
-      "Plot": "A father's suicide sends a family of eight on a journey through childhood memories and treacherous emotional waters in this poignant documentary."
+      "Plot": "A father's suicide sends a family of eight on a journey through childhood memories and treacherous emotional waters in this poignant documentary.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Documentary, Drama",
+      "Director": "Lucy Cohen",
+      "Writer": "N/A",
+      "Actors": "Jamie-Jodie Shanks, Kacie-Kimie Shanks, Lorie-Lanie Shanks",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Joshua: Teenager vs. Superpower",
@@ -263,7 +455,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt6333072",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzhmMmU3NjAtM2YyZi00ZWEyLWI3NGItMjRmOGVlYWI2NDBjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When the Chinese Communist Party backtracks on its promise of autonomy to Hong Kong, teenager Joshua Wong decides to save his city. Rallying thousands of kids to skip school and occupy the streets, Joshua becomes an unlikely leade..."
+      "Plot": "When the Chinese Communist Party backtracks on its promise of autonomy to Hong Kong, teenager Joshua Wong decides to save his city. Rallying thousands of kids to skip school and occupy the streets, Joshua becomes an unlikely leade...",
+      "Type": "movie",
+      "RunTime": "79 min",
+      "Genre": "Documentary",
+      "Director": "Joe Piscatella",
+      "Writer": "N/A",
+      "Actors": "Agnes Chow, Joshua 'Chi-Fung' Wong",
+      "Language": "English, Cantonese",
+      "Country": "United States"
     },
     {
       "title": "Bobby Kennedy for President",
@@ -272,7 +472,15 @@
       "imdb_rating": "8.1",
       "imdb_id": "tt8200004",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxNjQ2MTA1MF5BMl5BanBnXkFtZTgwOTQyODQxNTM@._V1_SX300.jpg",
-      "Plot": "This four-part documentary series weaves together rare and exclusive footage of attorney general, U.S. senator, and presidential candidate Robert F. Kennedy in the 1960s."
+      "Plot": "This four-part documentary series weaves together rare and exclusive footage of attorney general, U.S. senator, and presidential candidate Robert F. Kennedy in the 1960s.",
+      "Type": "series",
+      "RunTime": "245 min",
+      "Genre": "Documentary, Biography, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Paul Schrade, Peter Edelman, Harry Belafonte",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Day I Met El Chapo",
@@ -281,7 +489,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt7334894",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjE3NjMzNTc5M15BMl5BanBnXkFtZTgwOTM0Nzc4MzI@._V1_SX300.jpg",
-      "Plot": "Famed Mexican actress Kate del Castillo introduces a Hollywood star to a fugitive drug lord. What could go wrong? For her: a lot."
+      "Plot": "Famed Mexican actress Kate del Castillo introduces a Hollywood star to a fugitive drug lord. What could go wrong? For her: a lot.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Documentary, Biography",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kate del Castillo, Jessica Maldonado, Marianne Sauvage",
+      "Language": "Spanish, English",
+      "Country": "United States"
     },
     {
       "title": "Inside Bill's Brain: Decoding Bill Gates",
@@ -290,7 +506,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt10837476",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTUxM2NmZDMtNTNiNi00Yzg2LWJlMWEtMGU5Nzk3MDk4ODE2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A documentary that tells Bill Gates' life story as he pursues solutions to some of the world's most complex problems."
+      "Plot": "A documentary that tells Bill Gates' life story as he pursues solutions to some of the world's most complex problems.",
+      "Type": "series",
+      "RunTime": "52 min",
+      "Genre": "Documentary, Biography",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Bill Gates, Alex Bueermann, Davin Orness",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Time: The Kalief Browder Story",
@@ -299,7 +523,15 @@
       "imdb_rating": "8.4",
       "imdb_id": "tt6133034",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGRmNDI0OTgtZDQyNy00NmY1LWE5MzUtZGFiZjA5OWFjMTM3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After his arrest at age 16, Kalief Browder fought the system and prevailed, despite unthinkable circumstances. He became an American hero."
+      "Plot": "After his arrest at age 16, Kalief Browder fought the system and prevailed, despite unthinkable circumstances. He became an American hero.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography",
+      "Director": "N/A",
+      "Writer": "Jenner Furst, Julia Willoughby Nason, Nick Sandow",
+      "Actors": "Jay-Z, Kalief Browder, Venida Browder",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Death and Life of Marsha P. Johnson",
@@ -308,7 +540,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt5233558",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTMwYTQ0OWYtYzkwZi00MDVlLTg0ZTQtNjQ0MjBjZDVmNTNhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Victoria Cruz investigates the mysterious 1992 death of black gay rights activist and Stonewall veteran, Marsha P. Johnson. Using archival interviews with Johnson, and new interviews with Johnson's family, friends and fellow activ..."
+      "Plot": "Victoria Cruz investigates the mysterious 1992 death of black gay rights activist and Stonewall veteran, Marsha P. Johnson. Using archival interviews with Johnson, and new interviews with Johnson's family, friends and fellow activ...",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Documentary, Biography",
+      "Director": "David France",
+      "Writer": "David France, Mark Blane",
+      "Actors": "Kurt Wolfe, Sue Yacka, Catherine Shugrue Dos Santos",
+      "Language": "English",
+      "Country": "Greece, United States"
     },
     {
       "title": "ReMastered: The Two Killings of Sam Cooke",
@@ -317,7 +557,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt9046564",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmZmNzI3MWEtYmFiNS00NjIzLWI2ZmYtZDBlNTY4NDNjMTM3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An investigation into the circumstances and controversy surrounding Sam Cooke's murder."
+      "Plot": "An investigation into the circumstances and controversy surrounding Sam Cooke's murder.",
+      "Type": "movie",
+      "RunTime": "74 min",
+      "Genre": "Documentary, Music",
+      "Director": "Kelly Duane",
+      "Writer": "Jeff Zimbalist, Michael Zimbalist",
+      "Actors": "Sam Cooke, Quincy Jones, Smokey Robinson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "ReMastered: Massacre at the Stadium",
@@ -326,7 +574,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt9046562",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWU2M2M3ZjQtNmE5My00MTY4LTliMDItOWQwNDhjYjkzZmIwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This documentary questions who killed Victor Jara, Chilean musician and activist who died during the dictatorship in his country."
+      "Plot": "This documentary questions who killed Victor Jara, Chilean musician and activist who died during the dictatorship in his country.",
+      "Type": "movie",
+      "RunTime": "64 min",
+      "Genre": "Documentary, Drama",
+      "Director": "B.J. Perlmutt, Bent-Jorgen Perlmutt",
+      "Writer": "Catalina Ausin, John Meroney, Jeff Zimbalist",
+      "Actors": "Víctor Jara, Joan Jara, Pascale Bonnefoy",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "ReMastered: Devil at the Crossroads",
@@ -335,7 +591,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt9046574",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ4MGU5MjQtZTNhZi00NDBlLTk4MjctNDEyM2FiMGFjYjU3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A look at the short, mysterious life of blues legend, Robert Johnson, who was said to have made a deal with the Devil at a crossroads in rural Mississippi."
+      "Plot": "A look at the short, mysterious life of blues legend, Robert Johnson, who was said to have made a deal with the Devil at a crossroads in rural Mississippi.",
+      "Type": "movie",
+      "RunTime": "48 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Brian Oakes",
+      "Writer": "William Wheeler, Jeff Zimbalist, Michael Zimbalist",
+      "Actors": "Terry Harmonica Bean, Rory Block, Yvonne Chireau",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "ReMastered: Tricky Dick & The Man in Black",
@@ -354,7 +618,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt7291268",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzNzAxNTM0MV5BMl5BanBnXkFtZTgwODE1NzMzMzI@._V1_SX300.jpg",
-      "Plot": "This documentary goes behind the scenes with pop provocateur Lady Gaga as she releases a bold new album and prepares for her Super Bowl halftime show."
+      "Plot": "This documentary goes behind the scenes with pop provocateur Lady Gaga as she releases a bold new album and prepares for her Super Bowl halftime show.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary, Music",
+      "Director": "Chris Moukarbel",
+      "Writer": "N/A",
+      "Actors": "Sandra Amador, Michael Bearden, Tony Bennett",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Biggie: I Got a Story to Tell",
@@ -363,7 +635,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt14058484",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNmYyYzIzZTktYzBhOC00ZWNiLWE4MzAtNTlmOGIzNzE3ODBhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This documentary features rare footage filmed by Christopher Wallace's best friend, Damion \"D-Roc\" Butler, and interviews with his closest friends and family, revealing a side of Biggie Smalls that the world never knew."
+      "Plot": "This documentary features rare footage filmed by Christopher Wallace's best friend, Damion \"D-Roc\" Butler, and interviews with his closest friends and family, revealing a side of Biggie Smalls that the world never knew.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Emmett Malloy",
+      "Writer": "Sam Sweet",
+      "Actors": "The Notorious B.I.G., Damion Butler, Sean 'Diddy' Combs",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Trump: An American Dream",
@@ -372,7 +652,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt7596008",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjlmNzg4MmItMTYzMS00YzcwLTk5ZmUtNDhhZjAyZmNhYTczXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A British documentary series exploring the extraordinary journey of Donald Trump through five decades."
+      "Plot": "A British documentary series exploring the extraordinary journey of Donald Trump through five decades.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Colin Tierney, Nikki Haskell, Geraldo Rivera",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "A Secret Love",
@@ -381,7 +669,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt3260524",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q3ZWU2N2YtMThkZi00YWJmLTg5MzUtN2IxZDg0OGU5MDI3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Falling in love in 1947, two women -- Pat Henschel and pro baseball player Terry Donahue -- begin a 65-year journey of love and overcoming prejudice."
+      "Plot": "Falling in love in 1947, two women -- Pat Henschel and pro baseball player Terry Donahue -- begin a 65-year journey of love and overcoming prejudice.",
+      "Type": "movie",
+      "RunTime": "81 min",
+      "Genre": "Documentary, Biography, Drama",
+      "Director": "Chris Bolan",
+      "Writer": "Chris Bolan, Alexa L. Fogel, Brendan Mason",
+      "Actors": "Terry Donahue, Pat Henschel, Diana Bolan",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",
@@ -400,7 +696,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt6089564",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWJiMWVmZTItMmFlMy00N2M3LWJiODUtZWVhNzUyYzQ0ZGQ0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A profound and poetic encounter with cultural and spiritual icon Ram Dass, at his home on Maui toward the end of his life."
+      "Plot": "A profound and poetic encounter with cultural and spiritual icon Ram Dass, at his home on Maui toward the end of his life.",
+      "Type": "movie",
+      "RunTime": "31 min",
+      "Genre": "Documentary, Short",
+      "Director": "Derek Peck",
+      "Writer": "Derek Peck",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Last Czars",
@@ -409,7 +713,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt7949606",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTQwYWNlZTAtNGY0ZC00ZWQ5LWFiZmEtZDYwMjFjYmFmZDc1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A Chronicled look at the fall of the Romanov dynasty in Russia."
+      "Plot": "A Chronicled look at the fall of the Romanov dynasty in Russia.",
+      "Type": "series",
+      "RunTime": "45 min",
+      "Genre": "Documentary, Drama, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Robert Jack, Susanna Herbert, Ben Cartwright",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Alcàsser Murders",
@@ -418,7 +730,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt8033244",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGZhOGE5YWYtYzUxNy00OGM5LWI3YTgtOWEwNjQ2YTgxNDYyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "True crime documentary examining one of the most controversial crimes in Spanish history."
+      "Plot": "True crime documentary examining one of the most controversial crimes in Spanish history.",
+      "Type": "series",
+      "RunTime": "303 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Fernando García, Elías León Siminiani, Ramón Campos",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "David Attenborough: A Life on Our Planet",
@@ -427,7 +747,15 @@
       "imdb_rating": "8.9",
       "imdb_id": "tt11989890",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOGU4YzhhMTAtNjg1MC00NzY2LTg0NGQtOWJmNGQwNzgyOGE0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In this documentary David Attenborough, the celebrated naturalist, reflects upon both the defining moments of his lifetime and the devastating changes he has seen. The film provides a snapshot of global nature loss in a single lif..."
+      "Plot": "In this documentary David Attenborough, the celebrated naturalist, reflects upon both the defining moments of his lifetime and the devastating changes he has seen. The film provides a snapshot of global nature loss in a single lif...",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Alastair Fothergill, Jonathan Hughes, Keith Scholey",
+      "Writer": "N/A",
+      "Actors": "David Attenborough, Max Hughes",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Vai Anitta",
@@ -436,7 +764,15 @@
       "imdb_rating": "5.5",
       "imdb_id": "tt8961530",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjE0YjIxODctOTRmOS00ZDEyLTk5ZDQtYjBlODE5YzA2NDQ5XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX300.jpg",
-      "Plot": "Go behind the scenes with Brazilian superstar Anitta as the singer reveals how she's consolidating her international career."
+      "Plot": "Go behind the scenes with Brazilian superstar Anitta as the singer reveals how she's consolidating her international career.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Biography",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Anitta, Paulo Pimenta, Sam Shahidi",
+      "Language": "Portuguese, English, Spanish",
+      "Country": "Brazil"
     },
     {
       "title": "Who Killed Malcolm X?",
@@ -445,7 +781,15 @@
       "imdb_rating": "7.5",
       "imdb_id": "tt10948316",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTc0YjU0M2EtZjE1Ni00NTNjLTgyNGEtZTYxZjNjN2M1ZDdiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Activist Abdur-Rahman Muhammad begins his own investigation into the perplexing details surrounding the assassination of civil rights leader Malcolm X."
+      "Plot": "Activist Abdur-Rahman Muhammad begins his own investigation into the perplexing details surrounding the assassination of civil rights leader Malcolm X.",
+      "Type": "series",
+      "RunTime": "43 min",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Abdur-Rahman Muhammad, Muhammad A. Aziz, Zak A. Kondo",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Ladies First",
@@ -454,7 +798,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt9386158",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDE1ODVlM2MtNzIwMy00N2JhLWJmNDgtMmMxNzE5Mjk1YjA3XkEyXkFqcGdeQXVyNjUzOTczMDY@._V1_SX300.jpg",
-      "Plot": "Abby is finally ready to tell her old pal Nel that last summer was more than just a fling, but Nel shares her big news first leaving Abby to choose how best to love her friend."
+      "Plot": "Abby is finally ready to tell her old pal Nel that last summer was more than just a fling, but Nel shares her big news first leaving Abby to choose how best to love her friend.",
+      "Type": "movie",
+      "RunTime": "2 min",
+      "Genre": "Short",
+      "Director": "Maggie Scrantom",
+      "Writer": "Maggie Scrantom",
+      "Actors": "Maggie Scrantom",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
@@ -473,7 +825,15 @@
       "imdb_rating": "7.7",
       "imdb_id": "tt9425132",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmUxYjgzMmUtMzc4ZS00OWExLTlkMjEtMTRiZDczOWZkMjhkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A look inside the mind of serial killer Ted Bundy, featuring interviews with him on death row."
+      "Plot": "A look inside the mind of serial killer Ted Bundy, featuring interviews with him on death row.",
+      "Type": "series",
+      "RunTime": "236 min",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "N/A",
+      "Writer": "Joe Berlinger",
+      "Actors": "Stephen Michaud, Bob Keppel, Kathleen McChesney",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "A Life of Speed: The Juan Manuel Fangio Story",
@@ -482,7 +842,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt6668212",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTgyMTE4NDktYjc4OC00NmUzLTg1NWQtNzQ1ZjZiNGZiOTIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-      "Plot": "The life of five-time Formula One world champion Juan Manuel Fangio. The first official documentary."
+      "Plot": "The life of five-time Formula One world champion Juan Manuel Fangio. The first official documentary.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "Francisco Macri",
+      "Writer": "Luciano Origlio, Rodrigo H. Vila",
+      "Actors": "Jackie Stewart, Toto Wolff, Fernando Alonso",
+      "Language": "Spanish, English, Italian, German",
+      "Country": "Argentina"
     },
     {
       "title": "Camarón Revolution",
@@ -501,7 +869,15 @@
       "imdb_rating": "7.4",
       "imdb_id": "tt11394180",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTQyN2E1NDMtN2MyNy00YjI2LTliYTctZDU2OTA4YTQ1NTU5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A daughter helps her father prepare for the end of his life."
+      "Plot": "A daughter helps her father prepare for the end of his life.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Documentary, Biography, Drama",
+      "Director": "Kirsten Johnson",
+      "Writer": "Nels Bangerter, Kirsten Johnson",
+      "Actors": "Michael Hilow, Ana Hoffman, Dick Johnson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Zion",
@@ -510,7 +886,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt7820962",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTMxMWNjZmMtN2Y5Ny00M2QzLTg3NzUtZmQwMGQ2ZWUwNDdkXkEyXkFqcGdeQXVyODU5NTM0OTk@._V1_SX300.jpg",
-      "Plot": "A portrait of Zion Clark, a young wrestler who was born without legs and grew up in foster care."
+      "Plot": "A portrait of Zion Clark, a young wrestler who was born without legs and grew up in foster care.",
+      "Type": "movie",
+      "RunTime": "12 min",
+      "Genre": "Documentary, Short, Biography",
+      "Director": "Floyd Russ",
+      "Writer": "N/A",
+      "Actors": "Zion Clark, Gilbert Donahue, Kimberly Clark",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Shirkers",
@@ -519,7 +903,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt7472352",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWFkOGUwNjktNjQxNS00YTQ5LWE2NGQtN2QzODNiMWIyNzU1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A woman explores the events surrounding a film she and her friends began making with a mysterious stranger decades ago."
+      "Plot": "A woman explores the events surrounding a film she and her friends began making with a mysterious stranger decades ago.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary",
+      "Director": "Sandi Tan",
+      "Writer": "Sandi Tan",
+      "Actors": "Jasmine Kin Kia Ng, Philip Cheah, Sophia Siddique Harvey",
+      "Language": "English",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "Lorena, Light-Footed Woman",
@@ -528,7 +920,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt11162992",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzJiZjQzYTQtNWVkMi00MjJhLTgyNTktOTg1ZmU0NzU4ZTc2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A young woman of the Tarahumara, well-known for their extraordinary long distance running abilities, wins ultramarathons seemingly out of nowhere despite running in sandals."
+      "Plot": "A young woman of the Tarahumara, well-known for their extraordinary long distance running abilities, wins ultramarathons seemingly out of nowhere despite running in sandals.",
+      "Type": "movie",
+      "RunTime": "28 min",
+      "Genre": "Documentary, Short, Sport",
+      "Director": "Juan Carlos Rulfo",
+      "Writer": "N/A",
+      "Actors": "Lorena Ramirez, Mario Ramírez, Santiago Ramírez",
+      "Language": "Spanish, Tarahumara",
+      "Country": "Mexico"
     },
     {
       "title": "Patria",
@@ -537,7 +937,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt9647980",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDIzYzViZDQtMGQxMi00NjYwLThkMmYtNmU3MmYxMTY5ZDUxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Paco Ignacio Taibo II brings his book trilogy to life, highlighting Mexico's history in 1854-1867, a period he considers foundational to the country."
+      "Plot": "Paco Ignacio Taibo II brings his book trilogy to life, highlighting Mexico's history in 1854-1867, a period he considers foundational to the country.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Documentary, History",
+      "Director": "Matías Gueilburt",
+      "Writer": "Nicolás Gueilburt",
+      "Actors": "Paco Ignacio Taibo II",
+      "Language": "Spanish",
+      "Country": "Argentina"
     },
     {
       "title": "1994",
@@ -546,7 +954,15 @@
       "imdb_rating": "7.5",
       "imdb_id": "tt8736278",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNmY5NDQ5NmUtMjcxOS00ZDYxLTliZWQtZDM0ZDZhZWRhNDE1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Italian drama based in the turbulent political landscape of 1990s Italy."
+      "Plot": "Italian drama based in the turbulent political landscape of 1990s Italy.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "Alessandro Fabbri, Ludovica Rampoldi, Stefano Sardo",
+      "Actors": "Stefano Accorsi, Guido Caprino, Miriam Leone",
+      "Language": "Italian",
+      "Country": "Italy, Germany"
     },
     {
       "title": "Ladies First: A Story of Women in Hip-Hop",
@@ -555,7 +971,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt28491199",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0MjNiZjMtNWY0NS00NGNlLThjYjEtNTBiNzQ3MDJhOGU2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Recreates the role that the unstoppable women of hip-hop have played across the 50 years of this groundbreaking genre, putting them where they belong: at the heart of the present day."
+      "Plot": "Recreates the role that the unstoppable women of hip-hop have played across the 50 years of this groundbreaking genre, putting them where they belong: at the heart of the present day.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Cardi B, Megan Thee Stallion, Lil' Kim",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Legend of Cocaine Island",
@@ -564,7 +988,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt8106596",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWI3NmQ5ZDgtNGRmNi00MTEwLWIxZDctZjhmZDA3NTUyYWE5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A desperate man goes on a buried treasure hunt for $2 million worth of cocaine."
+      "Plot": "A desperate man goes on a buried treasure hunt for $2 million worth of cocaine.",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Documentary",
+      "Director": "Theo Love",
+      "Writer": "N/A",
+      "Actors": "Bo Butterworth, Bri Bryant, Edward Craig",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Unabomber - In His Own Words",
@@ -573,7 +1005,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt11833494",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDIzNjcyYzEtY2E1Yy00MzU5LTg2ZGUtZDlhNmYzMGYxMTk5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The beginning of the Unabomber's campaign of terror from 1978 to 1985; a look into his childhood to discover what might have turned the young mathematical genius with few friends, Ted Kaczynski, into a sociopathic terrorist."
+      "Plot": "The beginning of the Unabomber's campaign of terror from 1978 to 1985; a look into his childhood to discover what might have turned the young mathematical genius with few friends, Ted Kaczynski, into a sociopathic terrorist.",
+      "Type": "series",
+      "RunTime": "175 min",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Joel Moss, Kevin Fagan, David Kaczynski",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "Neymar: The Perfect Chaos",
@@ -582,7 +1022,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt16428640",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGRhNTYwYTgtZDViYi00NDk0LWIzMTctMmRhYjQwZGRkZDkwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Beloved worldwide but also a lightning rod for critics, Neymar shares the highs and lows of his personal life and brilliant football career."
+      "Plot": "Beloved worldwide but also a lightning rod for critics, Neymar shares the highs and lows of his personal life and brilliant football career.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Neymar Jr., Dani Alves, Thiago Silva",
+      "Language": "Portuguese, English",
+      "Country": "United States, Brazil"
     },
     {
       "title": "BREAK IT ALL: The History of Rock in Latin America",
@@ -591,7 +1039,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt13570366",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNGFlMTllYjYtN2MzZS00N2M0LTlmYTktZmM2Yzg3YmNhNWRlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Soda Stereo, Café Tacvba, Aterciopelados and others feature in this 50-year history of Latin American rock through dictatorships, disasters and dissent."
+      "Plot": "Soda Stereo, Café Tacvba, Aterciopelados and others feature in this 50-year history of Latin American rock through dictatorships, disasters and dissent.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Gustavo Santaolalla, Rubén Albarrán, Javier Batiz",
+      "Language": "Spanish",
+      "Country": "N/A"
     },
     {
       "title": "Kevin Hart: Don’t F**k This Up",
@@ -600,7 +1056,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt11313054",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTdlOGNkZTMtZmU3OC00NzVmLTg0YWYtYTNlYzRkNDIwZDdlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Comedian Kevin Hart reflects on the events from the past year that have shaped his life."
+      "Plot": "Comedian Kevin Hart reflects on the events from the past year that have shaped his life.",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Documentary, Biography",
+      "Director": "N/A",
+      "Writer": "Kevin Hart",
+      "Actors": "Kevin Hart, Joe Rogan, Dave Becky",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Circus of Books",
@@ -609,7 +1073,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt8727582",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ4MTZhNjMtZjE2My00ZjA5LTg5NjctYWQ1YjA4N2UxMTkwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In 1976, Karen and Barry Mason had fallen on hard times and were looking for a way to support their young family when they answered an ad in the Los Angeles Times. Larry Flynt was seeking distributors for Hustler Magazine. What wa..."
+      "Plot": "In 1976, Karen and Barry Mason had fallen on hard times and were looking for a way to support their young family when they answered an ad in the Los Angeles Times. Larry Flynt was seeking distributors for Hustler Magazine. What wa...",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Documentary, Biography, History",
+      "Director": "Rachel Mason",
+      "Writer": "Rachel Mason, Kathryn Robson",
+      "Actors": "Karen Mason, Barry Mason, Micah Mason",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "HOMECOMING: A film by Beyoncé",
@@ -618,7 +1090,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt10147546",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDEzODFjZDUtYjFhMy00OTdiLThiMzctYzg5Yjc4ZTVkMmQ3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This intimate, in-depth look at Beyoncé's celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement."
+      "Plot": "This intimate, in-depth look at Beyoncé's celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Documentary, Music",
+      "Director": "Beyoncé, Ed Burke",
+      "Writer": "Beyoncé",
+      "Actors": "Beyoncé, Jay-Z, Kelly Rowland",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Anelka: Misunderstood",
@@ -627,7 +1107,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt12724622",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmM1N2Y5NmMtOGY4Zi00YjVmLTk2ZGYtNjRhYmMwM2EzZTE1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Bad boy of the French football, arrogant, precocious, misunderstood, scorer, unclassifiable, genius, unmanageable. Despite a having a career of almost 20 years at the highest level, Nicolas Anelka is still hard to define."
+      "Plot": "Bad boy of the French football, arrogant, precocious, misunderstood, scorer, unclassifiable, genius, unmanageable. Despite a having a career of almost 20 years at the highest level, Nicolas Anelka is still hard to define.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Franck Nataf",
+      "Writer": "N/A",
+      "Actors": "Nicolas Anelka, Roman Abramovich, Fabrice Abriel",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Stay on Board: The Leo Baker Story",
@@ -636,7 +1124,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt21100124",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWQyODBiNTEtYWE3MS00Zjg4LWIzNTgtOTg1N2VkMjkzYzIzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows celebrated competitive skating icon Leo Baker as they try to make space for themselves in the gendered world of pro sports and build a more inclusive skate culture, which leads them to doing the punkest thing imaginable."
+      "Plot": "Follows celebrated competitive skating icon Leo Baker as they try to make space for themselves in the gendered world of pro sports and build a more inclusive skate culture, which leads them to doing the punkest thing imaginable.",
+      "Type": "movie",
+      "RunTime": "72 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Nicola Marsh, Giovanni Reda",
+      "Writer": "N/A",
+      "Actors": "Leo Baker, Melissa Bueno-Woerner, Alexis Sablone",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Andy Warhol Diaries",
@@ -645,7 +1141,15 @@
       "imdb_rating": "7.7",
       "imdb_id": "tt18082212",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGY5ODlkNTgtNTU2YS00NDhlLThkZGYtNGRhNWM3ZGRlNzdmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After he's shot in 1968, Andy Warhol begins documenting his life and feelings. Those diaries, and this docuseries, take a peek behind his persona."
+      "Plot": "After he's shot in 1968, Andy Warhol begins documenting his life and feelings. Those diaries, and this docuseries, take a peek behind his persona.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Bill Irwin, Jeffrey Deitch, Jessica Beck",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Miss Americana",
@@ -654,7 +1158,15 @@
       "imdb_rating": "7.4",
       "imdb_id": "tt11388580",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWY3ODNlZjEtZWU4Zi00YzBhLWE3YWMtMmMyMzZkZmYxOTMyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A look at iconic pop artist Taylor Swift during a transformational time in her life as she embraces her role as a singer/songwriter and harnesses the full power of her voice."
+      "Plot": "A look at iconic pop artist Taylor Swift during a transformational time in her life as she embraces her role as a singer/songwriter and harnesses the full power of her voice.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Documentary, Biography, Drama",
+      "Director": "Lana Wilson",
+      "Writer": "N/A",
+      "Actors": "Taylor Swift, Andrea Swift, Scott Swift",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "GIMS: On the Record",
@@ -663,7 +1175,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt12982218",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGI5YzI4NWUtMGZkNC00NmM5LWE3MTctZGU5ZTg2N2EwZGVkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Go backstage with beloved rap superstar Gims in the year leading up to his major 2019 Stade de France performance in this up-close documentary."
+      "Plot": "Go backstage with beloved rap superstar Gims in the year leading up to his major 2019 Stade de France performance in this up-close documentary.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Documentary, Music",
+      "Director": "Florent Bodin",
+      "Writer": "N/A",
+      "Actors": "Chaz Hodges, Lorene Chesley, Maître Gims",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Los Tigres del Norte at Folsom Prison",
@@ -672,7 +1192,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt10857582",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjlhNzI2MmMtNGQ3Yi00ZTViLTg4YTUtODU3YWMwNTM1YWM3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The band Los Tigres del Norte visit both the male and female inmates of Folsom Prison. Inmates share their stories and how the music of Los Tigres del Norte speaks to them."
+      "Plot": "The band Los Tigres del Norte visit both the male and female inmates of Folsom Prison. Inmates share their stories and how the music of Los Tigres del Norte speaks to them.",
+      "Type": "movie",
+      "RunTime": "64 min",
+      "Genre": "Documentary, Music",
+      "Director": "Tom Donahue",
+      "Writer": "Zach Horowitz, Los Tigres del Norte",
+      "Actors": "Los Tigres del Norte",
+      "Language": "Spanish",
+      "Country": "United States"
     },
     {
       "title": "Blood Brothers: Malcolm X & Muhammad Ali",
@@ -681,7 +1209,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt15095938",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzQ1Y2YxYzctYzM3Yy00NTJiLTlkMWYtNmJjYTYwZjEwYWQwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "From a chance meeting to a tragic fallout, Malcolm X and Muhammad Ali's extraordinary bond cracks under the weight of distrust and shifting ideals."
+      "Plot": "From a chance meeting to a tragic fallout, Malcolm X and Muhammad Ali's extraordinary bond cracks under the weight of distrust and shifting ideals.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Documentary, Biography, History",
+      "Director": "Marcus A. Clarke",
+      "Writer": "Randy Roberts, Johnny Smith",
+      "Actors": "Ilyasah Shabazz, Rahman Ali, Cornel West",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Halftime",
@@ -690,7 +1226,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt19637852",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjVlM2Q1MzItZTNiMS00YWI3LTk3NDctNGVjZTM3NzIyNWYwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Global superstar Jennifer Lopez reflects on her multifaceted career and the pressure of life in the spotlight in this intimate documentary."
+      "Plot": "Global superstar Jennifer Lopez reflects on her multifaceted career and the pressure of life in the spotlight in this intimate documentary.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Amanda Micheli, Sam Wrench",
+      "Writer": "N/A",
+      "Actors": "Jennifer Lopez, Ben Affleck, Adam Blackstone",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Maradona in Mexico",
@@ -699,7 +1243,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt11168104",
       "Poster": "https://m.media-amazon.com/images/M/MV5BN2M3Y2ZlZDAtNTY2MC00Mzk0LWFmZjEtNDkyNjM5Y2YzMzIzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The Dorados, Culiacan's local team, are at the bottom of the rankings when Maradona arrives, looking for a fresh start. The experts predict disaster."
+      "Plot": "The Dorados, Culiacan's local team, are at the bottom of the rankings when Maradona arrives, looking for a fresh start. The experts predict disaster.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Diego Maradona, Mark Lewis, Dennis Kleinman",
+      "Language": "Spanish",
+      "Country": "Argentina, United States, Mexico"
     },
     {
       "title": "Parchís: the Documentary",
@@ -708,7 +1260,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt10511826",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWE1M2M0ZWYtNGI5Ni00ZWZkLTk3NmItOWEwNTI1ZmQxODk0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A documentary about the rise and fall of the Spanish children's music group, Parchis."
+      "Plot": "A documentary about the rise and fall of the Spanish children's music group, Parchis.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Documentary",
+      "Director": "Daniel Arasanz",
+      "Writer": "Daniel Arasanz, Jordi Meya, Richard Royuela",
+      "Actors": "Eva Mariol, Imma Cabecerans, Joaquín Oristrell",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Guillermo Vilas: Settling the Score",
@@ -737,7 +1297,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt9789272",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMmVhYzI5NjEtMDczYi00YzEyLTg1ZDQtMTJjNzA2ZjM2MzFjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This docuseries disputes the Mexican government's account of how and why 43 students from Ayotzinapa Rural Teachers' College vanished in Iguala in 2014."
+      "Plot": "This docuseries disputes the Mexican government's account of how and why 43 students from Ayotzinapa Rural Teachers' College vanished in Iguala in 2014.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Paco Ignacio Taibo II",
+      "Language": "Spanish",
+      "Country": "Argentina"
     },
     {
       "title": "Travis Scott: Look Mom I Can Fly",
@@ -746,7 +1314,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt10856726",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjFhZGI3YzktOThlMC00OTZlLWE5MWUtOTUxODMxZTQyNmQ3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "'Travis Scott: Look Mom I Can Fly' traces the Houston rapper's rise to super-stardom, focusing on the months surrounding ASTROWORLD."
+      "Plot": "'Travis Scott: Look Mom I Can Fly' traces the Houston rapper's rise to super-stardom, focusing on the months surrounding ASTROWORLD.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Documentary, Music",
+      "Director": "White Trash Tyler, Isaac Yowman",
+      "Writer": "N/A",
+      "Actors": "Kylie Jenner, Travis Scott, Stormi Webster",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Mr. McMahon",
@@ -755,7 +1331,15 @@
       "imdb_rating": "7.7",
       "imdb_id": "tt33301469",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWUzNzZmZmUtNGE4Ny00ZjJmLWEzMmItMjdlOTA0Y2YxM2UwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "WWE experienced record-breaking highs and crushing lows under Vince McMahon's leadership and the mogul's controversial reign."
+      "Plot": "WWE experienced record-breaking highs and crushing lows under Vince McMahon's leadership and the mogul's controversial reign.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Vince McMahon, Dave Meltzer, David Shoemaker",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Sons of Sam: A Descent into Darkness",
@@ -764,7 +1348,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt13156316",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzViZGRmMjYtNDAwMC00MzgxLTliZmMtYmI3Y2Q1NTdjOTMyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The Son of Sam case grew into a lifelong obsession for journalist Maury Terry, who became convinced that the murders were linked to a satanic cult."
+      "Plot": "The Son of Sam case grew into a lifelong obsession for journalist Maury Terry, who became convinced that the murders were linked to a satanic cult.",
+      "Type": "series",
+      "RunTime": "239 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Paul Giamatti, Phil Amicone, Charlie Ott",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Toni Morrison: The Pieces I Am",
@@ -773,7 +1365,15 @@
       "imdb_rating": "7.7",
       "imdb_id": "tt9358206",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDk4OTQ5MzAtNWY1YS00NjNlLTljNTgtMzFjYWIyNDA3NDY5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This artful and intimate meditation on the legendary storyteller examines her life, her works and the powerful themes she has confronted throughout her literary career."
+      "Plot": "This artful and intimate meditation on the legendary storyteller examines her life, her works and the powerful themes she has confronted throughout her literary career.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Documentary",
+      "Director": "Timothy Greenfield-Sanders",
+      "Writer": "N/A",
+      "Actors": "Toni Morrison, Hilton Als, Oprah Winfrey",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Pelé",
@@ -782,7 +1382,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt19382188",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjFmODQxYWItMGQ2YS00YzM0LWExMDItNTlmN2NiNTc2YjcxXkEyXkFqcGdeQXVyMjAyOTcwMjA@._V1_SX300.jpg",
-      "Plot": "The interaction between the inhabitants of the city and what is expressed in its walls."
+      "Plot": "The interaction between the inhabitants of the city and what is expressed in its walls.",
+      "Type": "movie",
+      "RunTime": "75 min",
+      "Genre": "Documentary",
+      "Director": "Marcos Pimentel",
+      "Writer": "Ivan Morales Jr., Marcos Pimentel",
+      "Actors": "N/A",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Pretend It’s a City",
@@ -791,7 +1399,15 @@
       "imdb_rating": "8.0",
       "imdb_id": "tt13660958",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODg4MzZhODctNzEzMi00Njk4LWJhYWMtNzlkNmI4ZGZlMzA4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Wander the New York City streets and fascinating mind of wry writer, humorist and raconteur Fran Lebowitz as she sits down with Martin Scorsese."
+      "Plot": "Wander the New York City streets and fascinating mind of wry writer, humorist and raconteur Fran Lebowitz as she sits down with Martin Scorsese.",
+      "Type": "series",
+      "RunTime": "203 min",
+      "Genre": "Documentary, Biography, Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Fran Lebowitz, Martin Scorsese, Michael Alexis Palmer",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Knock Down The House",
@@ -800,7 +1416,15 @@
       "imdb_rating": "7.4",
       "imdb_id": "tt9358052",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzZmZjhiMzItZDk5NC00Y2U3LTkzOGQtZjJjMWM2MmViZDBiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A look at the people involved with various political campaigns during the 2018 U.S. congressional election."
+      "Plot": "A look at the people involved with various political campaigns during the 2018 U.S. congressional election.",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Documentary",
+      "Director": "Rachel Lears",
+      "Writer": "Robin Blotnick, Rachel Lears",
+      "Actors": "Alexandria Ocasio-Cortez, Cori Bush, Joe Crowley",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Ghosts of Sugar Land",
@@ -809,7 +1433,15 @@
       "imdb_rating": "5.5",
       "imdb_id": "tt9671828",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2Y0ZGZkMzktYjY5NS00M2I0LWEzNDUtZWE4NmFhNmY2MDkzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-      "Plot": "A group of suburban Muslims attempt to reconcile the disappearance of a close friend and must learn to live with the consequences of his actions."
+      "Plot": "A group of suburban Muslims attempt to reconcile the disappearance of a close friend and must learn to live with the consequences of his actions.",
+      "Type": "movie",
+      "RunTime": "21 min",
+      "Genre": "Documentary, Short",
+      "Director": "Bassam Tariq",
+      "Writer": "Bassam Tariq, Thomas Niles",
+      "Actors": "Jennifer Julian, Kc Okoro",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Racionais MC's: From the Streets of São Paulo",
@@ -818,7 +1450,15 @@
       "imdb_rating": "8.2",
       "imdb_id": "tt22988228",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDA4YTBkOTgtYjA1NS00ZmM3LWJkNDgtM2ZlMGU4YzU3NTE1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Armed with music and a message, influential hip-hop group Racionais MC's turned their street poetry into a powerful movement in Brazil and beyond"
+      "Plot": "Armed with music and a message, influential hip-hop group Racionais MC's turned their street poetry into a powerful movement in Brazil and beyond",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Documentary, Music",
+      "Director": "Juliana Vicente",
+      "Writer": "Elton de Almeida",
+      "Actors": "Ice Blue, Mano Brown, Georgina Elizabeth Okon",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "The Speed Cubers",
@@ -827,7 +1467,15 @@
       "imdb_rating": "7.4",
       "imdb_id": "tt12038300",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWY4ZThlYTUtNjY0Mi00NmE5LTgwZTItM2ZiN2I4YzBiZGE1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Discover the special bond -- and uncommon competitive spirit -- shared by the world's Rubik's Cube-solving record breakers in this documentary."
+      "Plot": "Discover the special bond -- and uncommon competitive spirit -- shared by the world's Rubik's Cube-solving record breakers in this documentary.",
+      "Type": "movie",
+      "RunTime": "39 min",
+      "Genre": "Documentary, Short, Sport",
+      "Director": "Sue Kim",
+      "Writer": "Tanzir Islam Britto",
+      "Actors": "Max Park, Schwan Park, Philipp Weyer",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "El Pepe, a Supreme Life",
@@ -836,7 +1484,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt8900434",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjhhODk3YjEtOGRiZS00MGMzLTlmNjktZjI4MWI0NTg2NmY0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An examination of the life, times, and legacy of Uruguay's last president, José \"Pepe\" Mujica."
+      "Plot": "An examination of the life, times, and legacy of Uruguay's last president, José \"Pepe\" Mujica.",
+      "Type": "movie",
+      "RunTime": "74 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Emir Kusturica",
+      "Writer": "N/A",
+      "Actors": "Pepe Mujica",
+      "Language": "Spanish",
+      "Country": "Argentina, Uruguay, Serbia"
     },
     {
       "title": "Being Eddie",
@@ -845,7 +1501,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt35627915",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTI4YzdlODEtZWVhZi00ZGE0LWI2MjUtN2I5NjlmYjNiYmI1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows a comprehensive look at Eddie Murphy's life and career."
+      "Plot": "Follows a comprehensive look at Eddie Murphy's life and career.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Memories of a Murderer: The Nilsen Tapes",
@@ -854,7 +1518,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt15085784",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmVlN2JhMTQtZDUxYi00ODZjLTkyODYtMjQ5ZGFkZmMzZjU4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Serial killer Dennis Nilsen narrates his life and horrific crimes via a series of chilling audiotapes recorded from his jail cell."
+      "Plot": "Serial killer Dennis Nilsen narrates his life and horrific crimes via a series of chilling audiotapes recorded from his jail cell.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "Michael Harte",
+      "Writer": "N/A",
+      "Actors": "Douglas Bence, Bob Brenton, Mike Cattran",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "BLACKPINK: Light Up the Sky",
@@ -863,7 +1535,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt13058290",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjNhOGUxYTAtZDFhNC00ZjVmLWEyNmEtOWMxZjdjMjMyMjlmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Chart the meteoric rise of the South Korean girl group BLACKPINK in director Caroline Suh's documentary."
+      "Plot": "Chart the meteoric rise of the South Korean girl group BLACKPINK in director Caroline Suh's documentary.",
+      "Type": "movie",
+      "RunTime": "79 min",
+      "Genre": "Documentary, Music",
+      "Director": "Caroline Suh",
+      "Writer": "Leonard Kevin Moberg (story by)",
+      "Actors": "Reila Post, Blackpink, Kim Jisoo",
+      "Language": "Korean, English, Thai",
+      "Country": "United States, South Korea"
     },
     {
       "title": "Little Miss Sumo",
@@ -872,7 +1552,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt9195844",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzE3MjI5YTgtMDhiOS00MDQ0LWFkNjQtNjVjYjQ5MGQ3Mjg5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A female sumo wrestler fights against tradition and stigma to win her place in the ring."
+      "Plot": "A female sumo wrestler fights against tradition and stigma to win her place in the ring.",
+      "Type": "movie",
+      "RunTime": "19 min",
+      "Genre": "Documentary, Short, Biography",
+      "Director": "Matt Kay",
+      "Writer": "Matt Kay",
+      "Actors": "Hiyori Kon",
+      "Language": "Japanese, English",
+      "Country": "United Kingdom"
     },
     {
       "title": "The Hunt for Veerappan",
@@ -881,7 +1569,15 @@
       "imdb_rating": "7.9",
       "imdb_id": "tt28306965",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzE3ODMwN2EtNzVhYy00YTAwLWE3N2EtZTE1ZDUwODU4YWU1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A poacher who conquered the jungles of South India and became the subject of the biggest manhunt of India."
+      "Plot": "A poacher who conquered the jungles of South India and became the subject of the biggest manhunt of India.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "Kannada, English, Tamil",
+      "Country": "India"
     },
     {
       "title": "Becoming",
@@ -890,7 +1586,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt12221748",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODg0NjU1MTYtMWJiYy00ODY5LWI2ZmEtOTMxYzMyYzRlNTc2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Join former first lady Michelle Obama in an intimate documentary looking at her life, hopes and connection with others during her 2019 book tour for 'Becoming.'"
+      "Plot": "Join former first lady Michelle Obama in an intimate documentary looking at her life, hopes and connection with others during her 2019 book tour for 'Becoming.'",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Nadia Hallgren",
+      "Writer": "N/A",
+      "Actors": "Elizabeth Alexander, Adrian K. Collins, Valerie Jarrett",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Naomi Osaka",
@@ -899,7 +1603,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt11898920",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTkwODE0NjktNmFjNi00OWJhLTk2MzYtNTQ3ODFhZGJmMTBiXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_SX300.jpg",
-      "Plot": "Featuring unprecedented access to Osaka, the documentary follows her pivotal year, from the U.S. Open in August 2019 and on tour, as she plays in each of the Grand Slams and prepares for the 2020 Tokyo Olympics."
+      "Plot": "Featuring unprecedented access to Osaka, the documentary follows her pivotal year, from the U.S. Open in August 2019 and on tour, as she plays in each of the Grand Slams and prepares for the 2020 Tokyo Olympics.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Naomi Osaka, Leonard François, Tamaki Osaka",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Least Expected Day: Inside the Movistar Team 2019",
@@ -918,7 +1630,15 @@
       "imdb_rating": "7.5",
       "imdb_id": "tt27726927",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWIzMTFiNWMtMzZmOC00YWJlLTgwOGItMTcwMzFkNDhmMTAxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Through archival interviews and footage, George Michael and Andrew Ridgeley relive the arc of their Wham career, from '70s best buds to '80s pop icons."
+      "Plot": "Through archival interviews and footage, George Michael and Andrew Ridgeley relive the arc of their Wham career, from '70s best buds to '80s pop icons.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Chris Smith",
+      "Writer": "Clare Keogh",
+      "Actors": "Wham!, George Michael, Andrew Ridgeley",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Elena",
@@ -927,7 +1647,15 @@
       "imdb_rating": "7.5",
       "imdb_id": "tt2475154",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxNjk0Mjc5Nl5BMl5BanBnXkFtZTcwOTMzOTI5OA@@._V1_SX300.jpg",
-      "Plot": "Elena, a young Brazilian woman, travels to New York with the same dream as her mother, to become a movie actress. She leaves behind her childhood spent in hiding during the years of the military dictatorship. She also leaves Petra..."
+      "Plot": "Elena, a young Brazilian woman, travels to New York with the same dream as her mother, to become a movie actress. She leaves behind her childhood spent in hiding during the years of the military dictatorship. She also leaves Petra...",
+      "Type": "movie",
+      "RunTime": "80 min",
+      "Genre": "Documentary, Biography, Drama",
+      "Director": "Petra Costa",
+      "Writer": "Petra Costa, Carolina Ziskind",
+      "Actors": "Li An, Elena Andrade, Petra Costa",
+      "Language": "Portuguese, English",
+      "Country": "Brazil, United States"
     },
     {
       "title": "Conversations with a Killer: The Jeffrey Dahmer Tapes",
@@ -936,7 +1664,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt21946032",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTIzN2E3ZTEtNTRmNi00M2ViLThmMzktY2E2NjAwMzU0OTJlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Serial killer Jeffrey Dahmer confesses to his gruesome crimes in unguarded interviews, offering an unsettling view into a disturbed mind."
+      "Plot": "Serial killer Jeffrey Dahmer confesses to his gruesome crimes in unguarded interviews, offering an unsettling view into a disturbed mind.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Park Dietz, Wendy Patrickus, Anne E. Schwartz",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Never Stop Dreaming: The Life and Legacy of Shimon Peres",
@@ -945,7 +1681,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt8172146",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODlkYTg4OGItODBhNS00OGNiLWI4ZTctNmJjZjQwYzYyMjU2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A look back on the life of Nobel Peace Prize winner, Shimon Peres, who served as prime minister of Israel twice and negotiated the 1994 Israel-Jordan peace treaty."
+      "Plot": "A look back on the life of Nobel Peace Prize winner, Shimon Peres, who served as prime minister of Israel twice and negotiated the 1994 Israel-Jordan peace treaty.",
+      "Type": "movie",
+      "RunTime": "129 min",
+      "Genre": "Documentary",
+      "Director": "Richard Trank",
+      "Writer": "N/A",
+      "Actors": "George W. Bush, George Clooney, Barack Obama",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "My Heroes Were Cowboys",
@@ -954,7 +1698,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt15084326",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDMyNmFkMjItYzI3OC00OTQ1LWFhYzMtODIwZTA1MTFhOGYwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Robin Wiltshire, an immigrant inspired by the iconography of the Hollywood western, finds meaning and redemption through the art of horse training."
+      "Plot": "Robin Wiltshire, an immigrant inspired by the iconography of the Hollywood western, finds meaning and redemption through the art of horse training.",
+      "Type": "movie",
+      "RunTime": "22 min",
+      "Genre": "Documentary, Short",
+      "Director": "Tyler Greco",
+      "Writer": "N/A",
+      "Actors": "Kate Wiltshire, Patrick Wiltshire, Robin Wiltshire",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Mucho Mucho Amor: The Legend of Walter Mercado",
@@ -963,7 +1715,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt11378264",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q1NDlmNTItYzNjZC00NGFmLTgzNTUtNzE4NDUxNjQzOGIwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Every day for decades, Walter Mercado — the iconic, gender non-conforming astrologer — mesmerized 120 million Latino viewers with his extravagance and positivity."
+      "Plot": "Every day for decades, Walter Mercado — the iconic, gender non-conforming astrologer — mesmerized 120 million Latino viewers with his extravagance and positivity.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Cristina Costantini, Kareem Tabsch",
+      "Writer": "N/A",
+      "Actors": "Walter Mercado, Willy Acosta, Lin-Manuel Miranda",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Johnny Hallyday: Beyond Rock",
@@ -972,7 +1732,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt14465966",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODNhMGE2MDctMjdmNC00NDQ0LThhYmYtZjhiM2I3MDUwOTYwXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_SX300.jpg",
-      "Plot": "An intimate docuseries that explores the life and career of France's rock icon through archival film and interviews."
+      "Plot": "An intimate docuseries that explores the life and career of France's rock icon through archival film and interviews.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Shiny_Flakes: The Teenage Drug Lord",
@@ -981,7 +1749,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt15036416",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzJmZjRlODUtYmNmYy00MzRhLWFlZWMtZWJiNmRjNzliNTcyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Max S. reveals how he built a drug empire from his childhood bedroom in this story that inspired the series \"How to Sell Drugs Online (Fast).\""
+      "Plot": "Max S. reveals how he built a drug empire from his childhood bedroom in this story that inspired the series \"How to Sell Drugs Online (Fast).\"",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "Eva Müller, Michael Schmitt",
+      "Writer": "Eva Müller",
+      "Actors": "Maximilian Schmidt",
+      "Language": "German",
+      "Country": "Germany"
     },
     {
       "title": "Searching For Sheela",
@@ -990,7 +1766,15 @@
       "imdb_rating": "4.3",
       "imdb_id": "tt14167424",
       "Poster": "https://m.media-amazon.com/images/M/MV5BN2M4NTAyM2QtYmE4OS00NTEyLWE0NGQtNTU2Y2YyNDBiZDBlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Journalists and fans await Ma Anand Sheela as the infamous former Rajneesh commune's spokesperson returns to India after decades for an interview tour."
+      "Plot": "Journalists and fans await Ma Anand Sheela as the infamous former Rajneesh commune's spokesperson returns to India after decades for an interview tour.",
+      "Type": "movie",
+      "RunTime": "58 min",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "Shakun Batra",
+      "Writer": "Shakun Batra",
+      "Actors": "Ma Anand Sheela, Shoma Chaudhury, Anurag Chauhan",
+      "Language": "Hindi, English",
+      "Country": "India"
     },
     {
       "title": "Beckham",
@@ -999,7 +1783,15 @@
       "imdb_rating": "8.1",
       "imdb_id": "tt14524712",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmNmZTU5ZTUtZTc0NS00ZWJlLWFlMzUtMDRmZDgzMDhjNmM0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "With never-before-seen footage, this docuseries follows David Beckham's meteoric rise from humble beginnings to global football stardom."
+      "Plot": "With never-before-seen footage, this docuseries follows David Beckham's meteoric rise from humble beginnings to global football stardom.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Fisher Stevens, Manchester United F.C., Alex Ferguson",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Fugitive: The Curious Case of Carlos Ghosn",
@@ -1008,7 +1800,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt19113302",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTM0NjZmOTItNDAwNi00YzQ1LWIzMDktYjEyYWIwN2VmNDZmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "It chronicles the rise of Carlos Ghosn as well as the internal rivalries and tensions he sparked within Nissan-Renault and his dramatic arrest."
+      "Plot": "It chronicles the rise of Carlos Ghosn as well as the internal rivalries and tensions he sparked within Nissan-Renault and his dramatic arrest.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Documentary",
+      "Director": "Lucy Blakstad",
+      "Writer": "Lucy Blakstad, Cameron Mitchell",
+      "Actors": "Carlos Ghosn, Louis Schweitzer, Clément Lacombe",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "John Was Trying to Contact Aliens",
@@ -1017,7 +1817,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt11733790",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTNiNmQ4NjktMDEyOS00NmRiLTk2YjQtMzJiNjA5MDc2ZTllXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "John Shepherd spent 30 years trying to contact extraterrestrials by broadcasting music millions of miles into space. After giving up the search he makes a different connection here on Earth."
+      "Plot": "John Shepherd spent 30 years trying to contact extraterrestrials by broadcasting music millions of miles into space. After giving up the search he makes a different connection here on Earth.",
+      "Type": "movie",
+      "RunTime": "16 min",
+      "Genre": "Documentary, Short, Biography",
+      "Director": "Matthew Killip",
+      "Writer": "N/A",
+      "Actors": "John Shepherd, John Litrenta",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Broken Idol: The Undoing of Diomedes Díaz",
@@ -1026,7 +1834,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt18750180",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODAwYjE2NzYtNTNlYy00Njk0LTkxYzEtYzczMWFjMDEwMzBmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Chronicles Diomedes Díaz's rise as one of Colombia's most iconic singers, and his downfall after being accused of killing a fan."
+      "Plot": "Chronicles Diomedes Díaz's rise as one of Colombia's most iconic singers, and his downfall after being accused of killing a fan.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Jaime Barbosa, Jorge Duran",
+      "Writer": "N/A",
+      "Actors": "Diomedes Diaz, Jorge Oñate, Marciano Martínez",
+      "Language": "Spanish",
+      "Country": "Colombia"
     },
     {
       "title": "Conversations with a Killer: The John Wayne Gacy Tapes",
@@ -1035,7 +1851,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt18970124",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWJlMDUxMjgtYjVlZC00MjdhLTkzNGEtM2NmZjVlMmFkYzg1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Never-before-heard audio from the interrogation of serial killer John Wayne Gacy threads through this chilling look at his 1970s murder spree."
+      "Plot": "Never-before-heard audio from the interrogation of serial killer John Wayne Gacy threads through this chilling look at his 1970s murder spree.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Sam Amirante, Greg Bedoe, Rafael Tovar",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Anitta: Made In Honório",
@@ -1044,7 +1868,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt13486136",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmFlOTRkODAtMjUxZi00NzkzLThlZjEtODhhNGE4NThmNzYxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In this intimate documentary, Brazilian pop queen Anitta opens up about fame, family and her fierce work ethic, revealing the woman behind the hits."
+      "Plot": "In this intimate documentary, Brazilian pop queen Anitta opens up about fame, family and her fierce work ethic, revealing the woman behind the hits.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Anitta, Lauren McFall, Arielle Macedo",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "A Love Song for Latasha",
@@ -1053,7 +1885,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt8993180",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWJhZGM0MDktMjk4MC00YWJiLTlmNTgtMGE0NzA0Mjg5YzlkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The injustice surrounding the shooting death of 15-year-old Latasha Harlins at a South Central Los Angeles store became a flashpoint for the city’s 1992 civil uprising."
+      "Plot": "The injustice surrounding the shooting death of 15-year-old Latasha Harlins at a South Central Los Angeles store became a flashpoint for the city’s 1992 civil uprising.",
+      "Type": "movie",
+      "RunTime": "19 min",
+      "Genre": "Documentary, Short, Biography",
+      "Director": "Sophia Nahli Allison",
+      "Writer": "N/A",
+      "Actors": "Tybie O'Bard, Shinese Harlins, Zoe Flint",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Billionaire, The Butler, and the Boyfriend",
@@ -1072,7 +1912,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt15820298",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODEzODMzZjktZjdhZi00NzU0LTk3YmItMjMwNjhmZDRjZDg1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Belgian pop star Angèle reflects on her life and hopes as she finds balance amid the tears, joys and loneliness of fame. Told through her own words."
+      "Plot": "Belgian pop star Angèle reflects on her life and hopes as she finds balance amid the tears, joys and loneliness of fame. Told through her own words.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Sébastien Rensonnet, Brice Vdh",
+      "Writer": "N/A",
+      "Actors": "Angèle",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Civil: Ben Crump",
@@ -1081,7 +1929,15 @@
       "imdb_rating": "5.9",
       "imdb_id": "tt19859458",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzJmMWQ2OGYtZGFkZi00Mzc5LWJkMDAtMzQ1MjIyNmE3MDRlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Crump's mission to raise the value of Black life as the civil lawyer for the families of George Floyd, Breonna Taylor, Black farmers and banking while Black victims, Crump challenges America to come to terms with what it owes his ..."
+      "Plot": "Crump's mission to raise the value of Black life as the civil lawyer for the families of George Floyd, Breonna Taylor, Black farmers and banking while Black victims, Crump challenges America to come to terms with what it owes his ...",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Nadia Hallgren",
+      "Writer": "N/A",
+      "Actors": "John Boyd, Kara Boyd, Kougnum Brown",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Arnold",
@@ -1090,7 +1946,15 @@
       "imdb_rating": "8.0",
       "imdb_id": "tt27713897",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTJiYmU3MzctMGMzYi00MzU0LTllOWYtNGZkMmZmNmM4ZTlmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows the life of Arnold Schwarzenegger, from his days of lifting weights to his successes in Hollywood, his time serving as governor of California, and both the joys and volatility of his family life."
+      "Plot": "Follows the life of Arnold Schwarzenegger, from his days of lifting weights to his successes in Hollywood, his time serving as governor of California, and both the joys and volatility of his family life.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Arnold Schwarzenegger, James Cameron, Sylvester Stallone",
+      "Language": "English, German",
+      "Country": "United States"
     },
     {
       "title": "Running with the Devil: The Wild World of John McAfee",
@@ -1099,7 +1963,15 @@
       "imdb_rating": "5.9",
       "imdb_id": "tt21379574",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjY0YjQ0ZmMtNjAyZS00NzU3LWIyOTMtMjhlNjU1ZjQ2NGEzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Life and death of software pioneer John McAfee who developed the software: McAfee Antivirus."
+      "Plot": "Life and death of software pioneer John McAfee who developed the software: McAfee Antivirus.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Charlie Russell",
+      "Writer": "N/A",
+      "Actors": "John McAfee, Dean Barrow, Rocco Castoro",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Audrey",
@@ -1108,7 +1980,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt10731386",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTlmYjRiY2MtMWUzZi00MGExLWJjMTQtMWZiNjRjMzJiNDAxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Filmmaker Helena Coan examines the remarkable life and career of actress, fashion icon and humanitarian Audrey Hepburn."
+      "Plot": "Filmmaker Helena Coan examines the remarkable life and career of actress, fashion icon and humanitarian Audrey Hepburn.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary, Biography, History",
+      "Director": "Helena Coan",
+      "Writer": "Helena Coan",
+      "Actors": "Audrey Hepburn, Alessandra Ferri, Francesca Hayward",
+      "Language": "French, English",
+      "Country": "United Kingdom, United Arab Emirates"
     },
     {
       "title": "Ghislaine Maxwell: Filthy Rich",
@@ -1117,7 +1997,15 @@
       "imdb_rating": "6.1",
       "imdb_id": "tt22892896",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTFmZjA1ZGYtZmQ5Ni00OTZmLTgzMjctYjc5ZWNmNDdiNTZlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "From filmmakers of Jeffrey Epstein: Filthy Rich, this film goes beyond the headlines of the Ghislaine Maxwell case to tell the story of Epstein's mystery accomplice, illuminating how her class and privilege concealed her predatory..."
+      "Plot": "From filmmakers of Jeffrey Epstein: Filthy Rich, this film goes beyond the headlines of the Ghislaine Maxwell case to tell the story of Epstein's mystery accomplice, illuminating how her class and privilege concealed her predatory...",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Maiken Baird, Lisa Bryant",
+      "Writer": "N/A",
+      "Actors": "Ghislaine Maxwell, Jeffrey Epstein, Annie Farmer",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Anna Nicole Smith: You Don't Know Me",
@@ -1126,7 +2014,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt16951452",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDdmNDlkZGMtOGVkNS00MDg1LTgwNDgtZGU5YTAzNDhkNDQ3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The story of Anna Nicole Smith, featuring never-before-seen footage of the iconic Playboy and Guess? jeans model who blazed a trail through the '90s before her tragic death at age 39."
+      "Plot": "The story of Anna Nicole Smith, featuring never-before-seen footage of the iconic Playboy and Guess? jeans model who blazed a trail through the '90s before her tragic death at age 39.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Ursula Macfarlane",
+      "Writer": "N/A",
+      "Actors": "Anna Nicole Smith, RuPaul, Ozzy Osbourne",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Stutz",
@@ -1135,7 +2031,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt21819228",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjZiMjQ4YzYtMWNhZi00NzBmLWE1YzEtMzQxZTRlMWZjNGU3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follow Hill and his therapist as he has candid discussions of mental health and the progressively worsening anxiety attacks related to movie promotion that have turned his dream job into a nightmare."
+      "Plot": "Follow Hill and his therapist as he has candid discussions of mental health and the progressively worsening anxiety attacks related to movie promotion that have turned his dream job into a nightmare.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Documentary",
+      "Director": "Jonah Hill",
+      "Writer": "N/A",
+      "Actors": "Sharon Feldstein, Jonah Hill, Phil Stutz",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Heroes: Silence and Rock & Roll",
@@ -1154,7 +2058,15 @@
       "imdb_rating": "7.4",
       "imdb_id": "tt10322274",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjk4ZjczZTMtOGEwYi00ZGViLWI2MGMtNmZjOTI2MjE3NWNiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Through exclusive interviews and archival footage, this documentary traces an intimate portrait of seven-time Formula 1 champion Michael Schumacher."
+      "Plot": "Through exclusive interviews and archival footage, this documentary traces an intimate portrait of seven-time Formula 1 champion Michael Schumacher.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "Hanns-Bruno Kammertöns, Vanessa Nöcker, Michael Wech",
+      "Writer": "Hanns-Bruno Kammertöns, Vanessa Nöcker, Michael Wech",
+      "Actors": "Ross Brawn, Flavio Briatore, Luca Cordero di Montezemolo",
+      "Language": "German, English",
+      "Country": "Germany"
     },
     {
       "title": "Nevenka: Breaking the Silence",
@@ -1163,7 +2075,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt14091172",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTU0N2M3MTYtYTNhOS00MjE0LWI4MWQtODk2MWM1MGMyMzc0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The story of the first sexual harassment case in Spain was a scandal. Nevenka Fernández, its protagonist, discusses it in this documentary."
+      "Plot": "The story of the first sexual harassment case in Spain was a scandal. Nevenka Fernández, its protagonist, discusses it in this documentary.",
+      "Type": "series",
+      "RunTime": "114 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Nevenka Fernández",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Terim",
@@ -1172,7 +2092,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt14650054",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTE3NjcxODQtMjE2My00MjY3LWE4ZmUtNTFkMzc5OWU3YzI0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Legendary manager Fatih Terim recounts his football journey, from his playing days to coaching and leading several teams to championship glory."
+      "Plot": "Legendary manager Fatih Terim recounts his football journey, from his playing days to coaching and leading several teams to championship glory.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Fatih Terim, Frank Gerrish, Derek S. Orr",
+      "Language": "Turkish, English, Italian",
+      "Country": "Turkey"
     },
     {
       "title": "Harry & Meghan",
@@ -1181,7 +2109,15 @@
       "imdb_rating": "5.1",
       "imdb_id": "tt23900194",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzE4YjY4NWEtMTJlMC00MjczLWE1ZmEtYmE0YTI4ZjViNWQ1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Explores the span of the couple's relationship, from the early days of their courtship to the challenges and controversies that prompted them to step back from the royal family."
+      "Plot": "Explores the span of the couple's relationship, from the early days of their courtship to the challenges and controversies that prompted them to step back from the royal family.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Meghan Markle, Prince Harry, Doria Ragland",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Dreamlife of Georgie Stone",
@@ -1190,7 +2126,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt16426596",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDQzYmM5M2YtY2JiNS00MWY1LWFjOTEtMjY5ODI5MjcxOWZlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Sharing her journey from child to teen activist, Georgie Stone looks back at her life and historic fight for transgender rights in this documentary."
+      "Plot": "Sharing her journey from child to teen activist, Georgie Stone looks back at her life and historic fight for transgender rights in this documentary.",
+      "Type": "movie",
+      "RunTime": "27 min",
+      "Genre": "Documentary, Short, Biography",
+      "Director": "Maya Newell",
+      "Writer": "Georgie Stone",
+      "Actors": "Georgie Stone, Rebekah Robertson, Greg Stone",
+      "Language": "English",
+      "Country": "Australia"
     },
     {
       "title": "Sly",
@@ -1199,7 +2143,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt28254460",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMmIxOGVhMDctNzliNi00OTEyLTkxNzQtMTlkODZhNTM5ZTkxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The nearly fifty year prolific career of Sylvester Stallone, who has entertained millions, is seen in retrospective in an intimate look of the actor, writer, director-producer, paralleling with his inspirational life story."
+      "Plot": "The nearly fifty year prolific career of Sylvester Stallone, who has entertained millions, is seen in retrospective in an intimate look of the actor, writer, director-producer, paralleling with his inspirational life story.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Thom Zimny",
+      "Writer": "Aidin Sayar Sarie",
+      "Actors": "Sylvester Stallone, Frank Stallone, John Herzfeld",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "14 Peaks: Nothing Is Impossible",
@@ -1208,7 +2160,15 @@
       "imdb_rating": "7.7",
       "imdb_id": "tt14079374",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTczNTM1YjQtMTkzNy00ODkzLWE3MzEtMGJjOTIxODU3NmNlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Fearless Nepali mountaineer Nirmal Purja embarks on a seemingly impossible quest to summit all 14 of the world's 8,000-meter peaks in seven months."
+      "Plot": "Fearless Nepali mountaineer Nirmal Purja embarks on a seemingly impossible quest to summit all 14 of the world's 8,000-meter peaks in seven months.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Documentary, Adventure, Sport",
+      "Director": "Torquil Jones",
+      "Writer": "Gabriel Clarke, Gabriel Clarke, Torquil Jones",
+      "Actors": "Nirmal Purja, Suchi Purja, Klára Kolouchová",
+      "Language": "English, Nepali",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Bad Vegan: Fame. Fraud. Fugitives.",
@@ -1217,7 +2177,15 @@
       "imdb_rating": "5.9",
       "imdb_id": "tt18260538",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDk3MDZhOWQtZGIzYS00MThlLWI2YzYtM2EzNzgyM2Q3YmJkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After marrying a mysterious man who claimed he could make her dog immortal, a celebrated vegan restaurateur finds her life veering off the rails."
+      "Plot": "After marrying a mysterious man who claimed he could make her dog immortal, a celebrated vegan restaurateur finds her life veering off the rails.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Sarma Melngailis, Allen Salkin, Ilze Melngailis",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Einstein and the Bomb",
@@ -1226,7 +2194,15 @@
       "imdb_rating": "6.2",
       "imdb_id": "tt28756876",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODc2MDhlZDctZTNlZS00NTAyLTg4MDUtMmFkZTg2YjQzMjg4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "What happened after Einstein fled Nazi Germany? Using archival footage and his own words, this docudrama dives into the mind of a tortured genius."
+      "Plot": "What happened after Einstein fled Nazi Germany? Using archival footage and his own words, this docudrama dives into the mind of a tortured genius.",
+      "Type": "movie",
+      "RunTime": "76 min",
+      "Genre": "Documentary, History",
+      "Director": "Anthony Philipson",
+      "Writer": "Philip Ralph",
+      "Actors": "Aidan McArdle, Andrew Havill, Rachel Barry",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "The Joys and Sorrows of Young Yuguo",
@@ -1235,7 +2211,15 @@
       "imdb_rating": "7.7",
       "imdb_id": "tt21056372",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMmZhYWJmNGQtNDQ2OC00Njg0LTg4N2ItMDFiZDEyNjRiNWY1XkEyXkFqcGdeQXVyMjAwNzczNTU@._V1_SX300.jpg",
-      "Plot": "16-year-old Yuguo, who has a passion for Eastern European romantic poetry, makes a pilgrimage from his home in China to the foothills of Romania's Carpathian Mountains."
+      "Plot": "16-year-old Yuguo, who has a passion for Eastern European romantic poetry, makes a pilgrimage from his home in China to the foothills of Romania's Carpathian Mountains.",
+      "Type": "movie",
+      "RunTime": "28 min",
+      "Genre": "Documentary, Short",
+      "Director": "Ilinca Calugareanu",
+      "Writer": "Ilinca Calugareanu",
+      "Actors": "Haoming Chen",
+      "Language": "Romanian, Chinese, English",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "Call Me Kate",
@@ -1244,7 +2228,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt13093834",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDQzYjkwN2YtMDg1NS00NmZkLTk0OTctNGIyN2NiMDlhYmJiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A feature documentary which captures Katharine Hepburn's spirit and determination, exploring her story using her own words, through a combination of hours of previously hidden and intimate audio tapes, video and photographic archive."
+      "Plot": "A feature documentary which captures Katharine Hepburn's spirit and determination, exploring her story using her own words, through a combination of hours of previously hidden and intimate audio tapes, video and photographic archive.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Documentary",
+      "Director": "Lorna Tucker",
+      "Writer": "Lorna Tucker",
+      "Actors": "Katharine Hepburn, Bonnie Greer, Mundy Hepburn",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Black Sunshine Baby",
@@ -1253,7 +2245,15 @@
       "imdb_rating": "8.3",
       "imdb_id": "tt25399478",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDZlMzFjNDMtMDUzOS00YTc0LTkwMjgtZjBiYmE2ZjNhODgwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Family memories and personal art movingly portray author and motivational speaker Aisha Chaudhary's journey with an immune disorder and terminal illness."
+      "Plot": "Family memories and personal art movingly portray author and motivational speaker Aisha Chaudhary's journey with an immune disorder and terminal illness.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Nilesh Maniyar",
+      "Writer": "N/A",
+      "Actors": "Aisha Chaudhary, Aditi Chaudhary, Ishaan Chaudhary",
+      "Language": "English",
+      "Country": "India"
     },
     {
       "title": "LiSA Another Great Day",
@@ -1262,7 +2262,15 @@
       "imdb_rating": "7.4",
       "imdb_id": "tt19112110",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjRkOWQ0MTMtZDhkNy00Yjg4LWFiMDEtZWVjNGE1NzAxYzJiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "It follows the true face of LiSA, the popular Japanese singer well known for her numerous hit songs such as the theme song of \"Demon Slayer\"."
+      "Plot": "It follows the true face of LiSA, the popular Japanese singer well known for her numerous hit songs such as the theme song of \"Demon Slayer\".",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary, Music",
+      "Director": "Taketoshi Sado",
+      "Writer": "N/A",
+      "Actors": "LiSA",
+      "Language": "Japanese",
+      "Country": "United States, Japan"
     },
     {
       "title": "Yo Yo Honey Singh: Famous",
@@ -1271,7 +2279,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt27139868",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODg5MThiYjItNzY3Zi00Y2ZiLWFlNDAtMzZhMWQ4ZWJhOWI0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Dive deep into Yo Yo Honey Singh's sudden disappearance at the peak of his career."
+      "Plot": "Dive deep into Yo Yo Honey Singh's sudden disappearance at the peak of his career.",
+      "Type": "movie",
+      "RunTime": "80 min",
+      "Genre": "Documentary, Drama",
+      "Director": "Mozez Singh",
+      "Writer": "N/A",
+      "Actors": "Shah Rukh Khan, Salman Khan, Yo Yo Honey Singh",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Big Mäck: Gangsters and Gold",
@@ -1290,7 +2306,15 @@
       "imdb_rating": "5.9",
       "imdb_id": "tt23061466",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjc4YjFhM2EtY2IxMi00MzhmLWEwMWYtMGJiMThjODMyNzgzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A modern take on the British royal drama, offering a window into the lives of history's deadliest, sexiest and most iconic monarchs."
+      "Plot": "A modern take on the British royal drama, offering a window into the lives of history's deadliest, sexiest and most iconic monarchs.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Biography, Drama, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Amy James-Kelly, Max Parker, Adam Astill",
+      "Language": "English, Ukrainian",
+      "Country": "United Kingdom"
     },
     {
       "title": "Procession",
@@ -1299,7 +2323,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt14300912",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOGU4YTRkYjctZDFiZi00ZGI1LThhNzUtZjRiOGNlMDRmOWQ5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A group of survivors of sexual abuse by Catholic priests battle for justice."
+      "Plot": "A group of survivors of sexual abuse by Catholic priests battle for justice.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Documentary",
+      "Director": "Robert Greene",
+      "Writer": "Chris Boeckmann",
+      "Actors": "Joe Eldred, Mike Foreman, Ed Gavagan",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Jimmy Savile: A British Horror Story",
@@ -1308,7 +2340,15 @@
       "imdb_rating": "6.7",
       "imdb_id": "tt18970454",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTNhNTRjY2UtMjI1NS00MTM0LTk3ZDMtODVlYzZjZTA4ZWQ4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Jimmy Savile once ruled the airwaves with a quirky persona and good works. So how did this icon manage to hide his many alleged bad deeds for so long?"
+      "Plot": "Jimmy Savile once ruled the airwaves with a quirky persona and good works. So how did this icon manage to hide his many alleged bad deeds for so long?",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Roger Ordish, Mark Lawson, Meirion Jones",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Mark Cavendish: Never Enough",
@@ -1317,7 +2357,15 @@
       "imdb_rating": "7.4",
       "imdb_id": "tt28290216",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGIyMTZhN2QtM2QzYy00NzQwLWJiODMtMzc0NmNkMTkwY2NhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An intimate and captivating documentary follows pro cyclist Mark Cavendish's fast road to the top, tragic setback and incredible comeback."
+      "Plot": "An intimate and captivating documentary follows pro cyclist Mark Cavendish's fast road to the top, tragic setback and incredible comeback.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "Alex Kiehl",
+      "Writer": "N/A",
+      "Actors": "Mark Cavendish",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Untold: The Girlfriend Who Didn't Exist",
@@ -1326,7 +2374,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt21340300",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmY3ZTljZDMtOTM1Ny00MjRhLWI4NGEtYTFiNGU1MzA0OGZiXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_SX300.jpg",
-      "Plot": "From Notre Dame to the NFL, Manti Te'o's future in football showed promise--until a secret online relationship sent his life and career spiraling."
+      "Plot": "From Notre Dame to the NFL, Manti Te'o's future in football showed promise--until a secret online relationship sent his life and career spiraling.",
+      "Type": "series",
+      "RunTime": "124 min",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "Ryan Duffy, Tony Vainuku",
+      "Writer": "N/A",
+      "Actors": "Manti Te'o, Phil McGraw, Ansa Woo",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Captains",
@@ -1335,7 +2391,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt23019922",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODk2MWM5MzEtYWVmYi00NDgzLTgwYjItNDczODE4NzhjYzE5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "From heartbreak to triumph, this series follows six football captains and their teams as they vie for a qualifying spot in the 2022 FIFA World Cup."
+      "Plot": "From heartbreak to triumph, this series follows six football captains and their teams as they vie for a qualifying spot in the 2022 FIFA World Cup.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Pierre-Emerick Aubameyang, Luka Modric, Thiago Silva",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Pamela, a love story",
@@ -1344,7 +2408,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt18376122",
       "Poster": "https://m.media-amazon.com/images/M/MV5BN2M5YjJjYmItZTg1ZC00MTM3LThmOGQtZjlmMTYyMmNjY2FhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows the life of pop culture icon Pamela Anderson, including never-before-seen archival footage and personal journals."
+      "Plot": "Follows the life of pop culture icon Pamela Anderson, including never-before-seen archival footage and personal journals.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Ryan White",
+      "Writer": "N/A",
+      "Actors": "Pamela Anderson, Fran Drescher, Alexandra Paul",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Oprah + Viola: A Netflix Special Event",
@@ -1353,7 +2425,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt19404044",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmNmM2ZkZjEtOWQ3ZS00YTk3LTlkNzQtMmM3MzMyOTY1NDcxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In this special event, Oprah Winfrey sits down with actor Viola Davis for an interview about her memoir, \"Finding Me.\""
+      "Plot": "In this special event, Oprah Winfrey sits down with actor Viola Davis for an interview about her memoir, \"Finding Me.\"",
+      "Type": "movie",
+      "RunTime": "48 min",
+      "Genre": "Talk-Show",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Viola Davis, Oprah Winfrey",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Moonage Daydream",
@@ -1362,7 +2442,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt9883832",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjgyZGU2ODAtMzg2ZC00ZWMxLWJhZWItNjk2NjE4OTI2MjQyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A cinematic odyssey exploring David Bowie's creative and musical journey. From visionary filmmaker Brett Morgen, and sanctioned by the Bowie estate."
+      "Plot": "A cinematic odyssey exploring David Bowie's creative and musical journey. From visionary filmmaker Brett Morgen, and sanctioned by the Bowie estate.",
+      "Type": "movie",
+      "RunTime": "135 min",
+      "Genre": "Documentary, Biography, History",
+      "Director": "Brett Morgen",
+      "Writer": "Brett Morgen",
+      "Actors": "David Bowie, Trevor Bolder, Ken Fordham",
+      "Language": "English",
+      "Country": "United States, Germany"
     },
     {
       "title": "Nayanthara: Beyond the Fairy Tale",
@@ -1371,7 +2459,15 @@
       "imdb_rating": "3.8",
       "imdb_id": "tt22297698",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGFmNzE3ZmYtNjUwMi00NTU5LWIxMTMtMTUyM2ZjNTYyOGZmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The love story of South Indian superstar Nayanthara, who recently got married in a fairytale wedding to filmmaker Vignesh Shivan."
+      "Plot": "The love story of South Indian superstar Nayanthara, who recently got married in a fairytale wedding to filmmaker Vignesh Shivan.",
+      "Type": "movie",
+      "RunTime": "81 min",
+      "Genre": "Documentary",
+      "Director": "Amith Krishnan",
+      "Writer": "N/A",
+      "Actors": "Nagarjuna Akkineni, Sathyan Anthikad, Atlee",
+      "Language": "English",
+      "Country": "India"
     },
     {
       "title": "Cocaine Air: Smugglers at 30,000 Ft.",
@@ -1380,7 +2476,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt36593582",
       "Poster": "N/A",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Sweetie",
@@ -1389,7 +2493,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt21848444",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTcxNWM3MjgtNzUxYi00NWEzLWEzNGQtMzEyZWVmMTEyZTRjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Short",
+      "Director": "Christopher Armienti",
+      "Writer": "N/A",
+      "Actors": "Gabrielle Birchak, Aaron Anthony Harper",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Robbie Williams",
@@ -1398,7 +2510,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt28210840",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDU3N2U5ZWItZDg5ZC00ZTAzLTgxYzQtODQ5OTRmOTEzZGE5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After 25 years of his record-breaking solo career, Robbie looks back on his younger self and reflects on a lifetime spent in the spotlight."
+      "Plot": "After 25 years of his record-breaking solo career, Robbie looks back on his younger self and reflects on a lifetime spent in the spotlight.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Robbie Williams, Fil Eisler, Guy Chambers",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Higuita: The Way of the Scorpion",
@@ -1407,7 +2527,15 @@
       "imdb_rating": "6.7",
       "imdb_id": "tt29424591",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWI3ZjQwMTctZjZjZC00ZGIxLWI3NDUtNmQ2N2VkMzc5YzlmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "From humble beginnings to football legend, the team traces the rise of Colombian René Higuita, from his iconic career to his personal controversies as he grow into the identity of \"The Scorpion\"."
+      "Plot": "From humble beginnings to football legend, the team traces the rise of Colombian René Higuita, from his iconic career to his personal controversies as he grow into the identity of \"The Scorpion\".",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Luis Ara",
+      "Writer": "Luis Ara",
+      "Actors": "Jorge Campos, Rene Higuita, Francisco Maturana",
+      "Language": "Spanish",
+      "Country": "Colombia, Uruguay"
     },
     {
       "title": "Rafa Márquez: El Capitán",
@@ -1416,7 +2544,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt32441255",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmQwMDU4NDMtOTQwOC00N2JiLTgyMzQtNzQ3N2M4M2I2ZDA3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows Rafael Márquez's journey from his early years in Zamora, Michoacán, to his glory days with Barcelona and the Mexican national team, told through archival footage and interviews."
+      "Plot": "Follows Rafael Márquez's journey from his early years in Zamora, Michoacán, to his glory days with Barcelona and the Mexican national team, told through archival footage and interviews.",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Carlos Armella",
+      "Writer": "León Krauze",
+      "Actors": "Rafa Márquez",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "\"Sr.\"",
@@ -1425,7 +2561,15 @@
       "imdb_rating": "7.2",
       "imdb_id": "tt21816824",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmQwNWQ5NDctMjM0Ny00Mzk4LWIxN2ItMmUxNzYwZjlkNTQ1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follow the tender but appropriately irreverent account of the life and career of Robert Downey Sr., the fearless and visionary American director who set the standard for countercultural comedy in the 1960s and 1970s."
+      "Plot": "Follow the tender but appropriately irreverent account of the life and career of Robert Downey Sr., the fearless and visionary American director who set the standard for countercultural comedy in the 1960s and 1970s.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Chris Smith",
+      "Writer": "N/A",
+      "Actors": "Robert Downey Sr., Zaina Ali, Paul Thomas Anderson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "If I Were Luísa Sonza",
@@ -1434,7 +2578,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt28995977",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWZjNmI2MjEtM2UxYi00MDQ3LWJkMDktNGVjMWUwMTlkYWE2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Brazil's most polarizing pop singer opens up in this docuseries about her love life, career, controversies and the creation of a new album."
+      "Plot": "Brazil's most polarizing pop singer opens up in this docuseries about her love life, career, controversies and the creation of a new album.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Luísa Sonza, Lucas Pinho, Eliane Gerloff",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Elway",
@@ -1443,7 +2595,15 @@
       "imdb_rating": "7.5",
       "imdb_id": "tt35295747",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2FkNzljMGMtYmVmYS00YjFkLWE2OGYtYzIzMDNjYzc3ZjQxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Following John Elway from Stanford through 16 seasons with Denver Broncos, featuring The Drive, Super Bowl losses and victories, capturing key moments of the Hall of Fame QB's legendary career."
+      "Plot": "Following John Elway from Stanford through 16 seasons with Denver Broncos, featuring The Drive, Super Bowl losses and victories, capturing key moments of the Hall of Fame QB's legendary career.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Steve Anthopoulos, Jane Buchan, Janet Elway",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "It's OK",
@@ -1452,7 +2612,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt28280697",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmVjMDIyYTYtNzFkNC00MzcyLWJhYzQtYTZiZjc2YzE3ZmU4XkEyXkFqcGdeQXVyMTUxMzQ1MjIx._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "News",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "E.R. Fightmaster, Justin Tranter, Jaren Merrell",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Lewis Capaldi: How I'm Feeling Now",
@@ -1461,7 +2629,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt27078772",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTJmY2JmYTItYTZmMi00ZjViLTgyZmUtN2U5MTg0NTkyZTkyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This intimate, all-access documentary chronicles Lewis Capaldi's journey from a scrappy teen with a viral performance to a Grammy-nominated pop star."
+      "Plot": "This intimate, all-access documentary chronicles Lewis Capaldi's journey from a scrappy teen with a viral performance to a Grammy-nominated pop star.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Documentary, Music",
+      "Director": "Joe Pearlman",
+      "Writer": "N/A",
+      "Actors": "Amy Allen, Nick Atkinson, Tom Barnes",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Pedro",
@@ -1470,7 +2646,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt21387478",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2IwYWU5NDMtMmE3MC00ZGNkLTlhMjYtMmU5OWRiZWMxNDE3XkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "76 min",
+      "Genre": "Documentary",
+      "Director": "Liora Spilk Bialostozky",
+      "Writer": "Liora Spilk Bialostozky, Ricardo Poery",
+      "Actors": "N/A",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "Vini Jr.",
@@ -1479,7 +2663,15 @@
       "imdb_rating": "4.0",
       "imdb_id": "tt34682248",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODc3ZDE0NzktYjhhMy00NDMxLWJiNTktODU5MGVhZGNiZTdiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Vini Jr. has it all: talent, resilience and boldness. Follow his dancing, unpredictable feet on his inspiring journey to becoming a global soccer star."
+      "Plot": "Vini Jr. has it all: talent, resilience and boldness. Follow his dancing, unpredictable feet on his inspiring journey to becoming a global soccer star.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "Emílio Domingos, Andrucha Waddington",
+      "Writer": "Carolina Albuquerque, Emílio Domingos, Guilherme Ferraz",
+      "Actors": "Vinícius Júnior",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Aileen: Queen of the Serial Killers",
@@ -1498,7 +2690,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt31806050",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2Y0MTc2MDAtNmM0Mi00YWU2LWJkMGYtMTlkZmM5ZmVlODdlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Twin brothers and superstars Tom and Bill Kaulitz offer a glimpse into their private lives in LA and Germany in this funny and intimate reality series."
+      "Plot": "Twin brothers and superstars Tom and Bill Kaulitz offer a glimpse into their private lives in LA and Germany in this funny and intimate reality series.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Bill Kaulitz, Tom Kaulitz, Tyler Menjivar",
+      "Language": "German, English",
+      "Country": "Germany"
     },
     {
       "title": "Ángel Di María: Breaking Down the Wall",
@@ -1507,7 +2707,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt32809355",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTIzMjU0MjYtYTIyNC00YjZiLWI1MzktYjgwZTc2M2U1MDFhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "From his humble origins to becoming champion of the world, this documentary series recounts the life and career of the iconic Argentinian soccer player."
+      "Plot": "From his humble origins to becoming champion of the world, this documentary series recounts the life and career of the iconic Argentinian soccer player.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Angel Di Maria, Eduardo De Los Reyes, Lionel Messi",
+      "Language": "Spanish, German",
+      "Country": "Argentina"
     },
     {
       "title": "Virgilio",
@@ -1516,7 +2724,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt26340586",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjc5NzVhOTEtNTk4NC00OTkyLTg0ZGItNTkzZDg1ODRiOWY1XkEyXkFqcGdeQXVyNDYwODE5NzY@._V1_SX300.jpg",
-      "Plot": "Peruvian superstar chef Virgilio Martinez revisits his life and the birth of mythic Central Restaurant and the \"uneven concept\" while he embarks into a journey to Cusco to reopen his restaurant MIL after the pandemic"
+      "Plot": "Peruvian superstar chef Virgilio Martinez revisits his life and the birth of mythic Central Restaurant and the \"uneven concept\" while he embarks into a journey to Cusco to reopen his restaurant MIL after the pandemic",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Documentary",
+      "Director": "Alfred Oliveri",
+      "Writer": "María Paz León, Alfred Oliveri",
+      "Actors": "Pia Leon, Virgilio Martínez",
+      "Language": "Spanish",
+      "Country": "Argentina"
     },
     {
       "title": "Paparazzi King",
@@ -1543,7 +2759,15 @@
       "imdb_rating": "5.9",
       "imdb_id": "tt31042115",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMmQyNzQxMjMtYTQ4Mi00ODBjLWFkY2YtODlmN2M4OWVmYTIwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An urgent, timely and compelling portrait of Hollywood icon Greta Garbo, whose fame, isolation and loneliness still captures us."
+      "Plot": "An urgent, timely and compelling portrait of Hollywood icon Greta Garbo, whose fame, isolation and loneliness still captures us.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Documentary",
+      "Director": "Lorna Tucker",
+      "Writer": "Lorna Tucker",
+      "Actors": "Elyn Daniels",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Larissa: The Other Side of Anitta",
@@ -1552,7 +2776,15 @@
       "imdb_rating": "5.4",
       "imdb_id": "tt35630679",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjUyZTk5ZDAtN2RjNi00MjY1LTg5YTAtYWI1YWZmNzg2YTljXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Behind global star Anitta is Larissa, known only to her inner circle. Through an old flame's perspective, we see her true self emerge as she navigates personal challenges that reshape her life's direction."
+      "Plot": "Behind global star Anitta is Larissa, known only to her inner circle. Through an old flame's perspective, we see her true self emerge as she navigates personal challenges that reshape her life's direction.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Jeff Berlin, Pedro Cantelmo, João Wainer",
+      "Writer": "Maria Ribeiro",
+      "Actors": "Snoop Dogg, Anitta, Sophia Thomas",
+      "Language": "English, Portuguese, Spanish",
+      "Country": "United States"
     },
     {
       "title": "American Symphony",
@@ -1561,7 +2793,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt28865980",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTU5MTY2ZWEtZWMzYy00NmIyLWFlNTQtMmQ3MjUwZWVhNGRlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In this deeply intimate documentary, musician Jon Batiste attempts to compose a symphony as his wife, writer Suleika Jaouad, undergoes cancer treatment."
+      "Plot": "In this deeply intimate documentary, musician Jon Batiste attempts to compose a symphony as his wife, writer Suleika Jaouad, undergoes cancer treatment.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Matthew Heineman",
+      "Writer": "N/A",
+      "Actors": "Jon Batiste, Lindsey Byrnes, Jonathan Dinklage",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Conversations with Ruth de Souza",
@@ -1580,7 +2820,15 @@
       "imdb_rating": "8.0",
       "imdb_id": "tt12716222",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjg4YzA2MWQtNzgyNC00OWFlLWE1ZTQtMGQxODM2NGFkNDZjXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_SX300.jpg",
-      "Plot": "Known for stirring harmonies and socially conscious lyrics, iconic folk rock duo Indigo Girls are the subject of this intimate and insightful documentary, which tracks their decades-long career."
+      "Plot": "Known for stirring harmonies and socially conscious lyrics, iconic folk rock duo Indigo Girls are the subject of this intimate and insightful documentary, which tracks their decades-long career.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Documentary, Music",
+      "Director": "Alexandria Bombach",
+      "Writer": "N/A",
+      "Actors": "Amy Ray, Emily Saliers, Winona LaDuke",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Victoria Beckham",
@@ -1589,7 +2837,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt33241853",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODJjMDNiNWMtZjQ1MC00MGEyLWFjNjUtNGQ0MzdjYzMxN2RiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows Spice Girl's journey to fashion designer and mother of four, including her preparation for Paris Fashion Week show."
+      "Plot": "Follows Spice Girl's journey to fashion designer and mother of four, including her preparation for Paris Fashion Week show.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Tom Ford, David Beckham, Anna Wintour",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Remembering Gene Wilder",
@@ -1598,7 +2854,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt21215388",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ0M2Q5YmItMTVkYi00OTBjLWJkNjAtOGQxNzYxZGIyOTFhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A special tribute documentary honoring Gene Wilder's life and career."
+      "Plot": "A special tribute documentary honoring Gene Wilder's life and career.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Ron Frank",
+      "Writer": "Glenn Kirschbaum",
+      "Actors": "Gene Wilder, Mel Brooks, Rochelle Pierce",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "30 for 30: Lance",
@@ -1617,7 +2881,15 @@
       "imdb_rating": "7.5",
       "imdb_id": "tt17042382",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTJmODhmMzMtZjMzMy00ZGNiLTk2YjAtNzA0YTM1ODQ0NzQ0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows the life of WNBA star Sue Bird, capturing the final chapter of her 19-year career in basketball."
+      "Plot": "Follows the life of WNBA star Sue Bird, capturing the final chapter of her 19-year career in basketball.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Documentary",
+      "Director": "Sarah Dowland",
+      "Writer": "N/A",
+      "Actors": "Sue Bird, Megan Rapinoe, Diana Taurasi",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Skywalkers: A Love Story",
@@ -1626,7 +2898,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt30319830",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNGU4Y2QxYTQtMWJhYy00OTNmLTgwZWUtZWYzYTQzMDQ2N2JmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A daring couple travels worldwide to climb the 118-story megatall skyscraper, Merdeka 118, in Kuala Lumpur, Malaysia, attempting a bold acrobatic stunt on the spire to salvage both their career and relationship."
+      "Plot": "A daring couple travels worldwide to climb the 118-story megatall skyscraper, Merdeka 118, in Kuala Lumpur, Malaysia, attempting a bold acrobatic stunt on the spire to salvage both their career and relationship.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary",
+      "Director": "Jeff Zimbalist, Maria Bukhonina",
+      "Writer": "Jeff Zimbalist",
+      "Actors": "Angela Nikolau, Ivan Beerkus",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "TLC Forever",
@@ -1635,7 +2915,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt13220796",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDg0MTk1NTAtMzQ3OS00ZTA2LTkzNmUtMGYyYzA5ZTc2Y2Q5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follow the iconic group that influenced an entire generation and survived against all odds, showing personal stories about their world fame."
+      "Plot": "Follow the iconic group that influenced an entire generation and survived against all odds, showing personal stories about their world fame.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Matt Kay",
+      "Writer": "N/A",
+      "Actors": "Denise Richards, Rosie O'Donnell, Whitney Houston",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Will & Harper",
@@ -1644,7 +2932,15 @@
       "imdb_rating": "7.4",
       "imdb_id": "tt30321133",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjAwODVjM2QtNmVhNy00NjYwLWJhMzgtM2FlZjY0ZGJjZjQ2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In this intimate portrayal of friendship, transition and America, Will Ferrell and his close friend of thirty years decide to go on a cross-country road trip to explore a new chapter in their relationship."
+      "Plot": "In this intimate portrayal of friendship, transition and America, Will Ferrell and his close friend of thirty years decide to go on a cross-country road trip to explore a new chapter in their relationship.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Documentary",
+      "Director": "Josh Greenbaum",
+      "Writer": "N/A",
+      "Actors": "Will Ferrell, Harper Steele, Tina Fey",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Modern Masters: SS Rajamouli",
@@ -1661,7 +2957,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt31319003",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYWQwZWYxYTQtZjk3NC00Y2RmLWFjMTYtMzIwOGFkZDdjMjg4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "To commemorate the 50th anniversary of the iconic Swedish group winning the Eurovision Song Contest."
+      "Plot": "To commemorate the 50th anniversary of the iconic Swedish group winning the Eurovision Song Contest.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Documentary, History, Music",
+      "Director": "James Rogan",
+      "Writer": "N/A",
+      "Actors": "ABBA, Björn Ulvaeus, Anni-Frid Lyngstad",
+      "Language": "English, German, Swedish, Spanish",
+      "Country": "United Kingdom, Norway, Iceland, Sweden, Denmark, Finland, Belgium, Germany, Estonia, Netherlands, France, Czech Republic, Switzerland"
     },
     {
       "title": "The Only Girl in the Orchestra",
@@ -1670,7 +2974,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt29497240",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDVlNmEyMTQtYmJkMi00MDQ0LTljMGYtZDJkYzA0NDdiN2NkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A celebration of trailblazing double bassist Orin O'Brien, the first woman to become a full-time member of the New York Philharmonic."
+      "Plot": "A celebration of trailblazing double bassist Orin O'Brien, the first woman to become a full-time member of the New York Philharmonic.",
+      "Type": "movie",
+      "RunTime": "34 min",
+      "Genre": "Documentary, Short, Music",
+      "Director": "Molly O'Brien",
+      "Writer": "N/A",
+      "Actors": "Orin O'Brien, Manny Alvarez, Julian Barrera",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Aitana: Metamorphosis",
@@ -1679,7 +2991,15 @@
       "imdb_rating": "6.0",
       "imdb_id": "tt35315539",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDM0OGU2ZWYtMmU5Yi00YmU1LTgzMGYtZDc4ZTljYzllNzM0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follow pop star Aitana's journey in this 6-part series as she grows personally and professionally, shares her hits, faces challenges, and emerges as a leading Spanish music artist."
+      "Plot": "Follow pop star Aitana's journey in this 6-part series as she grows personally and professionally, shares her hits, faces challenges, and emerges as a leading Spanish music artist.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Aitana, Burgandi Trejo Phoenix",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Harta Tahta Raisa",
@@ -1688,7 +3008,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt31495242",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDU2OWQ1OGQtZmIwOS00ZjNkLThhNjYtYTBlYzY2NDE3YzdlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Raisa's career journey. Before pursuing a career in the world of music, Raisa apparently had the desire to become an artist since she was child."
+      "Plot": "Raisa's career journey. Before pursuing a career in the world of music, Raisa apparently had the desire to become an artist since she was child.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Soleh Solihun",
+      "Writer": "Soleh Solihun",
+      "Actors": "Raisa, Hamish Daud, Allan N. Rachman",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "Avicii - I'm Tim",
@@ -1697,7 +3025,15 @@
       "imdb_rating": "7.8",
       "imdb_id": "tt32138523",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmJiNjAyZmMtOTkyOS00ZmI0LWI0MWMtYmQ0ZDQzYWU1NDVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This is the story of Tim Bergling, a shy and insecure boy who, without realizing it, suddenly created one of the world's most loved artists - Avicii."
+      "Plot": "This is the story of Tim Bergling, a shy and insecure boy who, without realizing it, suddenly created one of the world's most loved artists - Avicii.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Henrik Burman",
+      "Writer": "Henrik Burman",
+      "Actors": "Avicii, Aloe Blacc, Chris Martin",
+      "Language": "English",
+      "Country": "Sweden"
     },
     {
       "title": "The Roshans",
@@ -1706,7 +3042,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt31189484",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTA4NzJhYjQtOTFiNS00ZDcyLTljZjYtYWE3MGIwNjY0NWQ1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Biography",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Julia's Stepping Stones",
@@ -1715,7 +3059,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt33320827",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2I4M2QxYWItNjE0Yy00MWFjLTlmYzQtZGE0NzJlOGI5MDdiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Julia Reichert, who passed away after a long battle with cancer in 2022, recounts the path she took to becoming an acclaimed filmmaker: her upbringing and education, and her interest in working people and the women's movement."
+      "Plot": "Julia Reichert, who passed away after a long battle with cancer in 2022, recounts the path she took to becoming an acclaimed filmmaker: her upbringing and education, and her interest in working people and the women's movement.",
+      "Type": "movie",
+      "RunTime": "32 min",
+      "Genre": "Documentary, Short",
+      "Director": "Steven Bognar, Julia Reichert",
+      "Writer": "N/A",
+      "Actors": "Julia Reichert",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "One Hundred Years with Juan Rulfo",
@@ -1734,7 +3086,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt30835190",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDhiNGRiMDYtOWJmYy00MDQ4LTg3ODgtYjMwNzhkNWRlNzRlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "At 15, he took a life. Three days later, his brother's life was taken. An incarcerated musician struggles for healing and peace as he comes of age in this documentary visual album composed behind bars."
+      "Plot": "At 15, he took a life. Three days later, his brother's life was taken. An incarcerated musician struggles for healing and peace as he comes of age in this documentary visual album composed behind bars.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Documentary, Drama, Music",
+      "Director": "Contessa Gayles",
+      "Writer": "Contessa Gayles, JJ'88",
+      "Actors": "Kellie Evans, Devonte Hoy, Myles Lassiter",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Piece by Piece",
@@ -1743,7 +3103,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt31064841",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjUxMjE2YWQtY2YwMS00MTdkLTg0ZWQtMTQ0NzExY2U4NGZkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A vibrant journey through the life of Pharrell Williams, told through the lens of LEGO animation."
+      "Plot": "A vibrant journey through the life of Pharrell Williams, told through the lens of LEGO animation.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Animation, Biography, Comedy",
+      "Director": "Morgan Neville",
+      "Writer": "Morgan Neville, Jason Zeldes, Aaron Wickenden",
+      "Actors": "Pharrell Williams, Morgan Neville, Kendrick Lamar",
+      "Language": "English",
+      "Country": "United States, Denmark"
     },
     {
       "title": "Becoming Led Zeppelin",
@@ -1752,7 +3120,15 @@
       "imdb_rating": "7.5",
       "imdb_id": "tt10365912",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTBhMzliNzYtMjQwMy00MjdhLWIyOGYtYzdiY2FlNjk3YTkzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The film traces the journeys of the four members of the Stairway To Heaven rockers through the music scene of the 1960s and their meeting in the summer of 1968, culminating in 1970."
+      "Plot": "The film traces the journeys of the four members of the Stairway To Heaven rockers through the music scene of the 1960s and their meeting in the summer of 1968, culminating in 1970.",
+      "Type": "movie",
+      "RunTime": "122 min",
+      "Genre": "Documentary, Music",
+      "Director": "Bernard MacMahon",
+      "Writer": "Bernard MacMahon, Allison McGourty",
+      "Actors": "Led Zeppelin, Jimmy Page, John Paul Jones",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Selena y Los Dinos: A Family’s Legacy",
@@ -1771,7 +3147,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt7264336",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjliZjMxM2UtMjRlZC00NGNkLTk5YWYtNjQ2Zjk0ODQ5OTU1XkEyXkFqcGdeQXVyMTA5OTYxNTk4._V1_SX300.jpg",
-      "Plot": "Examines the groundbreaking career of pioneering television host Ed Sullivan, focusing on his platforming of Black musicians during the civil rights era."
+      "Plot": "Examines the groundbreaking career of pioneering television host Ed Sullivan, focusing on his platforming of Black musicians during the civil rights era.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Sacha Jenkins",
+      "Writer": "Mark Monroe",
+      "Actors": "Harry Belafonte, Berry Gordy, Smokey Robinson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "DEVO",
@@ -1780,7 +3164,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt36435547",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjU1YjNmNzgtMzU1ZC00N2QzLWIzNzUtOTY5NDFhMmI1ZThmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "Vishwaa",
+      "Writer": "Vishwaa",
+      "Actors": "Prasad Oak, Khushi Hajare, Prarthana Behere",
+      "Language": "Marathi",
+      "Country": "India"
     },
     {
       "title": "Sangre del Toro",
@@ -1789,7 +3181,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt36909787",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjAxOGQ5OTctNzg0MC00NGJiLThjMjEtY2VmZTNhZjJhZWY2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Yves Montmayeur",
+      "Writer": "Yves Montmayeur",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "United Kingdom, France"
     },
     {
       "title": "Scotty James: Pipe Dream",
