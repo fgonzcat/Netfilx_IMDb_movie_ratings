@@ -240,11 +240,11 @@ echo "... years fetched in $CACHE_JSON_FILE"
 ##########################################
 echo -e "\nSTEP 4: OMDb"
 
-APIKEY="1a8c9011"
+#APIKEY="1a8c9011"
 #APIKEY="d7e16fa4"
 #APIKEY="ed6cc44c"
 #APIKEY="14cf7f93"
-#APIKEY="b79f4081"
+APIKEY="b79f4081"
 
 echo "Fetching missing IMDb ratings, IDs, Poster, and Plot for new movies..."
 TMP_TSV=$(mktemp)
@@ -254,12 +254,12 @@ NPROC=$(nproc 2>/dev/null || sysctl -n hw.ncpu)
 
 jq -r '
   .movies[]
-  | select(.imdb_rating == null or .imdb_id == null or .Poster == null or .Plot == null)
+  | select(.imdb_rating == null or .imdb_id == null or .Poster == null or .Plot == null or .Actors == null)
   | [.title, .year, .netflix_url]
   | @tsv
 ' "$CACHE_JSON_FILE" > "$TMP_TSV"
 
-tmp_json=$(jq -r '.movies[]   | select((.imdb_rating == null or .imdb_id == null or .Poster == null or .Plot == null)  and (.SkipTitle // false | not))' "$CACHE_JSON_FILE"  )
+tmp_json=$(jq -r '.movies[]   | select((.imdb_rating == null or .imdb_id == null or .Poster == null or .Plot == null or  .Actors == null)  and (.SkipTitle // false | not))' "$CACHE_JSON_FILE"  )
 N=$(echo $tmp_json | jq -r ' .title ' | wc -l)
 printf "\033[33m--> Performing %d calls to OMDb...\033[0m\n" "$N"
 
@@ -294,10 +294,62 @@ while IFS=$'\t' read -r title year url; do
 
     omdb_url=$(echo "http://www.omdbapi.com/?t=$safe_title&y=$year&apikey=$APIKEY")
     json=$(curl -s "$omdb_url") 
+    # Fields typically available in OMDb ($json):
+    #  {
+    #    "Title": "Atlas",
+    #    "Year": "2024",
+    #    "Rated": "PG-13",
+    #    "Released": "24 May 2024",
+    #    "Runtime": "118 min",
+    #    "Genre": "Action, Adventure, Drama",
+    #    "Director": "Brad Peyton",
+    #    "Writer": "Leo Sardarian, Aron Eli Coleite",
+    #    "Actors": "Jennifer Lopez, Simu Liu, Sterling K. Brown",
+    #    "Plot": "In a bleak-sounding future, an A.I. soldier has determined that the only way to end war is to end humanity.",
+    #    "Language": "English",
+    #    "Country": "United States",
+    #    "Awards": "2 wins & 4 nominations total",
+    #    "Poster": "https://m.media-amazon.com/images/M/MV5BNDUwNTFkNzYtMGM5NS00NTc4LWEwMDUtMmE5MzgyMjcwOWM4XkEyXkFqcGc@._V1_SX300.jpg",
+    #    "Ratings": [
+    #      {
+    #        "Source": "Internet Movie Database",
+    #        "Value": "5.6/10"
+    #      },
+    #      {
+    #        "Source": "Rotten Tomatoes",
+    #        "Value": "18%"
+    #      },
+    #      {
+    #        "Source": "Metacritic",
+    #        "Value": "37/100"
+    #      }
+    #    ],
+    #    "Metascore": "37",
+    #    "imdbRating": "5.6",
+    #    "imdbVotes": "58,016",
+    #    "imdbID": "tt14856980",
+    #    "Type": "movie",
+    #    "DVD": "N/A",
+    #    "BoxOffice": "N/A",
+    #    "Production": "N/A",
+    #    "Website": "N/A",
+    #    "Response": "True"
+    #  }
+
+
     rating=$(echo "$json" | jq -r '.imdbRating // empty')
     imdbid=$(echo "$json" | jq -r '.imdbID // empty')
-    poster=$(echo "$json" | jq -r '.Poster  // empty')
-    plot=$(echo "$json" | jq -r '.Plot  // empty')
+    Poster=$(echo "$json" | jq -r '.Poster  // empty')
+    Plot=$(echo "$json" | jq -r '.Plot  // empty')
+    Type=$(echo "$json" | jq -r '.Type  // empty')
+    Title=$(echo "$json" | jq -r '.Title // empty')
+    RunTime=$(echo "$json" | jq -r '.Runtime // empty')
+    Genre=$(echo "$json" | jq -r '.Genre // empty')
+    Director=$(echo "$json" | jq -r '.Director // empty')
+    Writer=$(echo "$json" | jq -r '.Writer // empty')
+    Actors=$(echo "$json" | jq -r '.Actors // empty')
+    Language=$(echo "$json" | jq -r '.Language // empty')
+    Country=$(echo "$json" | jq -r '.Country // empty')
     omdbError=$(echo "$json" | jq -r '.Error // empty')
 
     if [[ -n "$omdbError"  ]]; then
@@ -312,8 +364,17 @@ while IFS=$'\t' read -r title year url; do
       json=$(curl -s "$omdb_url") 
       rating=$(echo "$json" | jq -r '.imdbRating // empty')
       imdbid=$(echo "$json" | jq -r '.imdbID // empty')
-      poster=$(echo "$json" | jq -r '.Poster  // empty')
-      plot=$(echo "$json" | jq -r '.Plot  // empty')
+      Poster=$(echo "$json" | jq -r '.Poster  // empty')
+      Plot=$(echo "$json" | jq -r '.Plot  // empty')
+      Type=$(echo "$json" | jq -r '.Type  // empty')
+      Title=$(echo "$json" | jq -r '.Title // empty')
+      RunTime=$(echo "$json" | jq -r '.Runtime // empty')
+      Genre=$(echo "$json" | jq -r '.Genre // empty')
+      Director=$(echo "$json" | jq -r '.Director // empty')
+      Writer=$(echo "$json" | jq -r '.Writer // empty')
+      Actors=$(echo "$json" | jq -r '.Actors // empty')
+      Language=$(echo "$json" | jq -r '.Language // empty')
+      Country=$(echo "$json" | jq -r '.Country // empty')
       # Did it work?
       if [[ -z "$imdbid" ]]; then
         echo "⚠️  OMDb lookup FAILED after retry: $title   $omdbError  :  $title  'http://www.omdbapi.com/?t=$safe_title&apikey=$APIKEY' " >&2
@@ -332,11 +393,11 @@ while IFS=$'\t' read -r title year url; do
       echo "⚠️  OMDb API error: $omdbError  :  $title  'http://www.omdbapi.com/?t=$safe_title&apikey=$APIKEY' "
     fi
 
-    plot=${plot//$'\t'/ }      # replace tabs
-    plot=${plot//$'\n'/ }      # replace newlines
+    Plot=${Plot//$'\t'/ }      # replace tabs
+    Plot=${Plot//$'\n'/ }      # replace newlines
 
     # Emit one result line (append-only, atomic)
-    printf "%s\t%s\t%s\t%s\t%s\n" "$url" "$rating" "$imdbid" "$poster" "$plot"
+    printf "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" "$url" "$rating" "$imdbid" "$Poster" "$Plot" "$Type" "$Title" "$RunTime" "$Genre" "$Director" "$Writer" "$Actors" "$Language" "$Country"
     #printf "%s\t%s\t%s\n" "$url" "$rating" "$imdbid"
     echo "$title -> Rating: ${rating:-NA}, ID: ${imdbid:-NA}"
   ) >> "$TMP_OUT" &
@@ -356,17 +417,25 @@ fi
 
 
 # Reading the TMP_OUT
-while IFS=$'\t' read -r url rating imdbid poster plot; do
+while IFS=$'\t' read -r url rating imdbid Poster Plot Type Title RunTime Genre Director Writer Actors Language Country; do
   [[ -z "$rating" && -z "$imdbid" ]] && continue
 
-  jq --arg u "$url" --arg r "$rating" --arg i "$imdbid" --arg p "$poster" --arg l "$plot" '
+  jq --arg u "$url" --arg r "$rating" --arg i "$imdbid" --arg poster "$Poster" --arg plot "$Plot" --arg tp "$Type" --arg runtime "$RunTime" --arg genre "$Genre" --arg director "$Director" --arg writer "$Writer" --arg actors "$Actors"  --arg lang "$Language" --arg country "$Country" '
     .movies |= map(
       if .netflix_url == $u then
         . + (
           (if .imdb_rating == null and $r != "" then {imdb_rating: $r} else {} end) +
           (if .imdb_id     == null and $i != "" then {imdb_id:     $i} else {} end) +
-          (if .Poster      == null and $p != "" then {Poster:      $p} else {} end) +
-          (if .Plot        == null and $l != "" then {Plot:        $l} else {} end)
+          (if .Poster      == null and $poster   != "" then {Poster:      $poster   } else {} end) +
+          (if .Plot        == null and $plot     != "" then {Plot:        $plot     } else {} end) +
+          (if .Type        == null and $tp       != "" then {Type:        $tp       } else {} end) +
+          (if .RunTime     == null and $runtime  != "" then {RunTime:     $runtime  } else {} end) +
+          (if .Genre       == null and $genre    != "" then {Genre:       $genre    } else {} end) +
+          (if .Director    == null and $director != "" then {Director:    $director } else {} end) +
+          (if .Writer      == null and $writer   != "" then {Writer:      $writer   } else {} end) +
+          (if .Actors      == null and $actors   != "" then {Actors:      $actors   } else {} end) +
+          (if .Language    == null and $lang     != "" then {Language:    $lang     } else {} end) +
+          (if .Country     == null and $country  != "" then {Country:     $country  } else {} end)
         )
       else .
       end
