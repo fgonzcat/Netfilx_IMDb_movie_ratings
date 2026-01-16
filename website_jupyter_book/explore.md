@@ -74,8 +74,10 @@ async function init() {
     document.getElementById('results').innerHTML =
       filtered.map(m => `
         <div class="card">
-          <img src="${m.Poster}" />
-          <b>${m.title}</b> (${m.year}) – ${m.imdb_rating}
+         <a href="${m.netflix_url}" target="_blank" rel="noopener noreferrer">
+          <img src="${m.Poster}" alt="${m.title}" />
+          </a>
+        <b>${m.title}</b> (${m.year}) – ${m.imdb_rating}
         </div>
       `).join('');
   }
