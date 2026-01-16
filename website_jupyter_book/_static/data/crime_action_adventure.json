@@ -9,7 +9,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt0119094",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOGQyOWNmYTgtZWY0NS00NzhjLTg3NmMtMzcwYzQ2OTA2OTJkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "To foil a terrorist plot, an FBI agent assumes the identity of the criminal who murdered his son via facial transplant surgery, but the crook wakes up prematurely and vows revenge."
+      "Plot": "To foil a terrorist plot, an FBI agent assumes the identity of the criminal who murdered his son via facial transplant surgery, but the crook wakes up prematurely and vows revenge.",
+      "Type": "movie",
+      "RunTime": "138 min",
+      "Genre": "Action, Crime, Sci-Fi",
+      "Director": "John Woo",
+      "Writer": "Mike Werb, Michael Colleary",
+      "Actors": "John Travolta, Nicolas Cage, Joan Allen",
+      "Language": "English, Latin",
+      "Country": "United States"
     },
     {
       "title": "Aakhri Adaalat",
@@ -18,7 +26,15 @@
       "imdb_rating": "5.1",
       "imdb_id": "tt0177505",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWViZTZlYmEtOTMzMC00OGFjLTkzZWUtZjdmMjc2ZGJjNThiXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-      "Plot": "An intrepid police inspector forced into a desk job must take matters into his own hands when ruthless criminals are released on a technicality."
+      "Plot": "An intrepid police inspector forced into a desk job must take matters into his own hands when ruthless criminals are released on a technicality.",
+      "Type": "movie",
+      "RunTime": "148 min",
+      "Genre": "Action, Thriller",
+      "Director": "Rajiv Mehra",
+      "Writer": "Mohan Kaul, Ravi Kapoor, Javed Siddiqui",
+      "Actors": "Vinod Khanna, Dimple Kapadia, Jackie Shroff",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Ace Ventura: When Nature Calls",
@@ -27,7 +43,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt0112281",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjk3ZDUwYTMtYmQyYy00NTg1LWExOTItNTcxODM3NDZiNjMyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Ace Ventura, Pet Detective, returns from a spiritual quest to investigate the disappearance of a rare white bat, the sacred animal of a tribe in Africa."
+      "Plot": "Ace Ventura, Pet Detective, returns from a spiritual quest to investigate the disappearance of a rare white bat, the sacred animal of a tribe in Africa.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Adventure, Comedy, Crime",
+      "Director": "Steve Oedekerk",
+      "Writer": "Jack Bernstein, Steve Oedekerk",
+      "Actors": "Jim Carrey, Ian McNeice, Simon Callow",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Mashaal",
@@ -36,7 +60,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt0085912",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYThkM2M4ZTgtMTA3OS00MGY2LTg4OTAtMjFkOTk0NTdlODIwXkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_SX300.jpg",
-      "Plot": "A chain of events changes Vinod's life - from honest journalist to black marketer to an underworld Don and a Racketeer in order to combat Vardhan."
+      "Plot": "A chain of events changes Vinod's life - from honest journalist to black marketer to an underworld Don and a Racketeer in order to combat Vardhan.",
+      "Type": "movie",
+      "RunTime": "162 min",
+      "Genre": "Action, Drama, Family",
+      "Director": "Yash Chopra",
+      "Writer": "Javed Akhtar",
+      "Actors": "Anil Kapoor, Dilip Kumar, Waheeda Rehman",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Charlie's Angels",
@@ -45,7 +77,15 @@
       "imdb_rating": "5.6",
       "imdb_id": "tt0160127",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTkyYjRiZGMtYzA0Mi00N2IyLThhZDAtYWU1OWNhNjIxNzY5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Three private investigators are assigned to track down a kidnapped software engineer, but the case isn't as straightforward as it seems."
+      "Plot": "Three private investigators are assigned to track down a kidnapped software engineer, but the case isn't as straightforward as it seems.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "McG",
+      "Writer": "Ryan Rowe, Ed Solomon, John August",
+      "Actors": "Cameron Diaz, Drew Barrymore, Lucy Liu",
+      "Language": "English, German",
+      "Country": "Germany, United States"
     },
     {
       "title": "Vijay",
@@ -54,7 +94,15 @@
       "imdb_rating": "5.5",
       "imdb_id": "tt0096390",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2M5ZDYxYzEtZWZjMy00YmZlLWExYjUtYWEyMjg5ODZlMzI3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Vijay is a story about people that are bound by relationships of love and friendship and how they become foes and take up weapons against each other."
+      "Plot": "Vijay is a story about people that are bound by relationships of love and friendship and how they become foes and take up weapons against each other.",
+      "Type": "movie",
+      "RunTime": "172 min",
+      "Genre": "Action, Drama, Romance",
+      "Director": "Yash Chopra",
+      "Writer": "N/A",
+      "Actors": "Anil Kapoor, Rajesh Khanna, Rishi Kapoor",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Man on Fire",
@@ -63,7 +111,15 @@
       "imdb_rating": "7.7",
       "imdb_id": "tt0328107",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGMzNjg3ZDgtOGNlNy00NTdjLWI2NDEtMjI1MmEwMTBmMjMxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In Mexico City, a former CIA operative swears vengeance on those who committed an unspeakable act against the family he was hired to protect."
+      "Plot": "In Mexico City, a former CIA operative swears vengeance on those who committed an unspeakable act against the family he was hired to protect.",
+      "Type": "movie",
+      "RunTime": "146 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Tony Scott",
+      "Writer": "A.J. Quinnell, Brian Helgeland",
+      "Actors": "Denzel Washington, Christopher Walken, Dakota Fanning",
+      "Language": "English, Spanish",
+      "Country": "Switzerland, United Kingdom, United States, Mexico"
     },
     {
       "title": "Dhoom",
@@ -72,7 +128,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt0422091",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDcyYTI4YTktOTVmYy00ZTQ3LTk2YzEtMmU1Y2IxMGQ1YmJlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A gang of bikers are on a robbing spree and infuse terror in the city. In order to nab the perpetrators, ACP Jai teams up with Ali, a mechanic."
+      "Plot": "A gang of bikers are on a robbing spree and infuse terror in the city. In order to nab the perpetrators, ACP Jai teams up with Ali, a mechanic.",
+      "Type": "movie",
+      "RunTime": "129 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Sanjay Gadhvi",
+      "Writer": "Vijay Krishna Acharya",
+      "Actors": "Abhishek Bachchan, John Abraham, Uday Chopra",
+      "Language": "Hindi, English",
+      "Country": "India"
     },
     {
       "title": "Mr. & Mrs. Smith",
@@ -81,7 +145,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt0356910",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxMzcxNzQzOF5BMl5BanBnXkFtZTcwMzQxNjUyMw@@._V1_SX300.jpg",
-      "Plot": "A husband and wife struggle to keep their marriage alive until they realize they are both secretly working as assassins. Now, their respective assignments require them to kill each other."
+      "Plot": "A husband and wife struggle to keep their marriage alive until they realize they are both secretly working as assassins. Now, their respective assignments require them to kill each other.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Doug Liman",
+      "Writer": "Simon Kinberg",
+      "Actors": "Brad Pitt, Angelina Jolie, Adam Brody",
+      "Language": "English, Spanish, French",
+      "Country": "United States"
     },
     {
       "title": "Four Brothers",
@@ -90,7 +162,15 @@
       "imdb_rating": "6.8",
       "imdb_id": "tt0430105",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4NzM3Njg2NV5BMl5BanBnXkFtZTcwNjU4NDczMw@@._V1_SX300.jpg",
-      "Plot": "When their adoptive mother is gunned down in a store robbery, four brothers decide to investigate the murder and find the killers themselves, but not all is what it seems."
+      "Plot": "When their adoptive mother is gunned down in a store robbery, four brothers decide to investigate the murder and find the killers themselves, but not all is what it seems.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "John Singleton",
+      "Writer": "David Elliot, Paul Lovett",
+      "Actors": "Mark Wahlberg, Tyrese Gibson, André 3000",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Dhoom: 2",
@@ -99,7 +179,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt0441048",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjgxNjUzZDctYWJmOS00MDI4LTkzNTctMDdmOGYzN2M5ZmY3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Mr A, a fearless thief, steals valuable artefacts and teams up with the girl he is attracted to but cannot trust. Close on their heels are three police officers trying to apprehend them."
+      "Plot": "Mr A, a fearless thief, steals valuable artefacts and teams up with the girl he is attracted to but cannot trust. Close on their heels are three police officers trying to apprehend them.",
+      "Type": "movie",
+      "RunTime": "152 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Sanjay Gadhvi",
+      "Writer": "Vijay Krishna Acharya, Aditya Chopra",
+      "Actors": "Hrithik Roshan, Abhishek Bachchan, Aishwarya Rai Bachchan",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Bon Cop, Bad Cop",
@@ -108,7 +196,15 @@
       "imdb_rating": "6.7",
       "imdb_id": "tt0479647",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NTkwMTcwM15BMl5BanBnXkFtZTcwNzIwNzE0MQ@@._V1_SX300.jpg",
-      "Plot": "Two Canadian detectives, one from Ontario and the other from Quebec, must work together when a murdered victim is found on the Ontario-Quebec border."
+      "Plot": "Two Canadian detectives, one from Ontario and the other from Quebec, must work together when a murdered victim is found on the Ontario-Quebec border.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Erik Canuel",
+      "Writer": "Leila Basen, Alex Epstein, Patrick Huard",
+      "Actors": "Michel Beaudry, Patrice Bélanger, Pierre Boudreau",
+      "Language": "English, French",
+      "Country": "Canada"
     },
     {
       "title": "Tashan",
@@ -117,7 +213,15 @@
       "imdb_rating": "3.8",
       "imdb_id": "tt0995752",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjFmODZlODgtODE5Ny00ZjRmLTljODgtNTNhMTEwMDgzNGM0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "What happens when you throw 2 guys who hate each other together? Add for good measure a beauty and a gangster and the trouble is no one can be trusted."
+      "Plot": "What happens when you throw 2 guys who hate each other together? Add for good measure a beauty and a gangster and the trouble is no one can be trusted.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Vijay Krishna Acharya",
+      "Writer": "Vijay Krishna Acharya",
+      "Actors": "Akshay Kumar, Saif Ali Khan, Kareena Kapoor",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Pineapple Express",
@@ -126,7 +230,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt0910936",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1MTE4NzAwM15BMl5BanBnXkFtZTcwNzg3Mjg2MQ@@._V1_SX300.jpg",
-      "Plot": "A process server and his marijuana dealer wind up on the run from hitmen and a corrupt police officer after he witnesses his dealer's boss murder a competitor while trying to serve papers on him."
+      "Plot": "A process server and his marijuana dealer wind up on the run from hitmen and a corrupt police officer after he witnesses his dealer's boss murder a competitor while trying to serve papers on him.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "David Gordon Green",
+      "Writer": "Seth Rogen, Evan Goldberg, Judd Apatow",
+      "Actors": "Seth Rogen, James Franco, Gary Cole",
+      "Language": "English, Cantonese, Korean",
+      "Country": "United States"
     },
     {
       "title": "30 Minutes or Less",
@@ -135,7 +247,15 @@
       "imdb_rating": "6.0",
       "imdb_id": "tt1622547",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5NjM0ODY1NF5BMl5BanBnXkFtZTcwMjk5NjI0Ng@@._V1_SX300.jpg",
-      "Plot": "Two fledgling criminals kidnap a pizza delivery guy, strap a bomb to his chest, and inform him that he has mere hours to rob a bank or else..."
+      "Plot": "Two fledgling criminals kidnap a pizza delivery guy, strap a bomb to his chest, and inform him that he has mere hours to rob a bank or else...",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Ruben Fleischer",
+      "Writer": "Michael Diliberti, Matthew Sullivan",
+      "Actors": "Jesse Eisenberg, Danny McBride, Nick Swardson",
+      "Language": "English, German, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Colombiana",
@@ -144,7 +264,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt1657507",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0NDI2NjgxNl5BMl5BanBnXkFtZTcwMTYyNjA3NQ@@._V1_SX300.jpg",
-      "Plot": "A professional assassin seeks revenge for the murder of her parents."
+      "Plot": "A professional assassin seeks revenge for the murder of her parents.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Olivier Megaton",
+      "Writer": "Luc Besson, Robert Mark Kamen",
+      "Actors": "Zoe Saldaña, Michael Vartan, Callum Blue",
+      "Language": "English, Spanish",
+      "Country": "France, United States, United Kingdom, Mexico, Canada"
     },
     {
       "title": "Hit & Run",
@@ -153,7 +281,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt2150592",
       "Poster": "N/A",
-      "Plot": "Four friends hit a man while driving and must dispose of the body."
+      "Plot": "Four friends hit a man while driving and must dispose of the body.",
+      "Type": "movie",
+      "RunTime": "16 min",
+      "Genre": "Short, Comedy",
+      "Director": "Ryan McGilloway",
+      "Writer": "Steven Brandt, Ryan McGilloway, Nicholas James Wey",
+      "Actors": "Steven Brandt, Michael Lindenmayer, Ryan McGilloway",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Stolen",
@@ -162,7 +298,15 @@
       "imdb_rating": "5.5",
       "imdb_id": "tt1656186",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzY0ODM1NzU0OV5BMl5BanBnXkFtZTcwNTExNjIyOA@@._V1_SX300.jpg",
-      "Plot": "A former thief frantically searches for his missing daughter, who has been kidnapped and locked in the trunk of a taxi."
+      "Plot": "A former thief frantically searches for his missing daughter, who has been kidnapped and locked in the trunk of a taxi.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Simon West",
+      "Writer": "David Guggenheim",
+      "Actors": "Nicolas Cage, Malin Akerman, Josh Lucas",
+      "Language": "English, Swedish",
+      "Country": "United States"
     },
     {
       "title": "Aurangzeb",
@@ -171,7 +315,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt2804026",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmRkMWMwYWQtMTEzYi00YmI3LWI3MDktOTg4NmY0OWQwYTk3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Kingship knows no Kinship and there can be only one Emperor in Aurangzeb's world. In Gurgaon, to bring down a criminal the law has to think like one."
+      "Plot": "Kingship knows no Kinship and there can be only one Emperor in Aurangzeb's world. In Gurgaon, to bring down a criminal the law has to think like one.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Atul Sabharwal",
+      "Writer": "Atul Sabharwal",
+      "Actors": "Arjun Kapoor, Zahrah S Khan, Prithviraj Sukumaran",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Sabotage",
@@ -180,7 +332,15 @@
       "imdb_rating": "5.7",
       "imdb_id": "tt1742334",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxNjI4MjEyN15BMl5BanBnXkFtZTgwMDUxMDM4MDE@._V1_SX300.jpg",
-      "Plot": "Members of an elite DEA task force find themselves being taken down one by one after they rob a drug cartel safe house."
+      "Plot": "Members of an elite DEA task force find themselves being taken down one by one after they rob a drug cartel safe house.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "David Ayer",
+      "Writer": "Skip Woods, David Ayer",
+      "Actors": "Arnold Schwarzenegger, Sam Worthington, Terrence Howard",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Dhoom: 3",
@@ -189,7 +349,15 @@
       "imdb_rating": "5.4",
       "imdb_id": "tt1833673",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDIxODBmZjYtYWM3Ny00N2U1LWI3M2ItMzZkNmQ4NWYyNDFlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Jai and Ali return to catch the clown thief, Sahir, who has targeted various branches of the Western Bank of Chicago."
+      "Plot": "Jai and Ali return to catch the clown thief, Sahir, who has targeted various branches of the Western Bank of Chicago.",
+      "Type": "movie",
+      "RunTime": "172 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Vijay Krishna Acharya",
+      "Writer": "Vijay Krishna Acharya, Aditya Chopra",
+      "Actors": "Aamir Khan, Katrina Kaif, Abhishek Bachchan",
+      "Language": "Hindi, English",
+      "Country": "India, United States"
     },
     {
       "title": "Kick",
@@ -198,7 +366,15 @@
       "imdb_rating": "6.0",
       "imdb_id": "tt2372222",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyMTg0MTA1OF5BMl5BanBnXkFtZTgwMDg2MjMwMjE@._V1_SX300.jpg",
-      "Plot": "An adrenaline junkie walks away from a whirlwind romance and embraces a new life as a thief, though he soon finds himself pursued by veteran police officer and engaged in a turf war with a local gangster."
+      "Plot": "An adrenaline junkie walks away from a whirlwind romance and embraces a new life as a thief, though he soon finds himself pursued by veteran police officer and engaged in a turf war with a local gangster.",
+      "Type": "movie",
+      "RunTime": "146 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Sajid Nadiadwala",
+      "Writer": "Vakkantham Vamsi, Rajat Arora, Keith Gomes",
+      "Actors": "Salman Khan, Jacqueline Fernandez, Nawazuddin Siddiqui",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Gunday",
@@ -207,7 +383,15 @@
       "imdb_rating": "2.7",
       "imdb_id": "tt2574698",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjI2NjEzNjc4NV5BMl5BanBnXkFtZTgwODQxOTc5MDE@._V1_SX300.jpg",
-      "Plot": "The lives of Calcutta's most powerful Gunday, Bikram and Bala, changes when Nandita enters it. Then a counter-force takes charge and a thriller unfolds."
+      "Plot": "The lives of Calcutta's most powerful Gunday, Bikram and Bala, changes when Nandita enters it. Then a counter-force takes charge and a thriller unfolds.",
+      "Type": "movie",
+      "RunTime": "152 min",
+      "Genre": "Action, Drama, Musical",
+      "Director": "Ali Abbas Zafar",
+      "Writer": "Ali Abbas Zafar, Sanjay Masoomm",
+      "Actors": "Ranveer Singh, Arjun Kapoor, Priyanka Chopra Jonas",
+      "Language": "Hindi, Bengali",
+      "Country": "India"
     },
     {
       "title": "Swelter",
@@ -216,7 +400,15 @@
       "imdb_rating": "4.5",
       "imdb_id": "tt2112277",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4OTQ4Nzg4MV5BMl5BanBnXkFtZTgwNjk0MTQyMjE@._V1_SX300.jpg",
-      "Plot": "Ten years after their casino heist, four escaped convicts trace their former partner to a desert town, where he is now a lawman with no memory of his criminal past."
+      "Plot": "Ten years after their casino heist, four escaped convicts trace their former partner to a desert town, where he is now a lawman with no memory of his criminal past.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Keith Parmer",
+      "Writer": "Keith Parmer",
+      "Actors": "Grant Bowler, Brad Carter, Tokala Black Elk",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Happy New Year",
@@ -225,7 +417,15 @@
       "imdb_rating": "5.0",
       "imdb_id": "tt2461132",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A gang of amateur dancers takes part in a dancing competition to avenge their personal vendetta."
+      "Plot": "A gang of amateur dancers takes part in a dancing competition to avenge their personal vendetta.",
+      "Type": "movie",
+      "RunTime": "180 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Farah Khan",
+      "Writer": "Althea Kaushal, Farah Khan, Mayur Puri",
+      "Actors": "Shah Rukh Khan, Deepika Padukone, Abhishek Bachchan",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Kill Dil",
@@ -234,7 +434,15 @@
       "imdb_rating": "4.5",
       "imdb_id": "tt3380264",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWY0NzYzNzktMDNjOC00MDRiLTlhN2ItMzE4YTUwMTFlZGQyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Abandoned when young, Bhaiyaji gives shelter to Dev and Tutu. A game of defiance, deception and love follows when free-spirited Disha enters their life."
+      "Plot": "Abandoned when young, Bhaiyaji gives shelter to Dev and Tutu. A game of defiance, deception and love follows when free-spirited Disha enters their life.",
+      "Type": "movie",
+      "RunTime": "127 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Shaad Ali",
+      "Writer": "Nitesh Tiwari, Shreyas Jain, Nikhil Mehrotra",
+      "Actors": "Ranveer Singh, Ali Zafar, Parineeti Chopra",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Headshot",
@@ -243,7 +451,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt5147214",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjI2MzU2ODQ4M15BMl5BanBnXkFtZTgwOTgxMTU5OTE@._V1_SX300.jpg",
-      "Plot": "Uwais plays a young man who washes ashore, an amnesiac with a serious head injury whose past comes back to haunt him shortly after being nursed back to health by a young doctor. Violence ensues. Sweet, sweet violence."
+      "Plot": "Uwais plays a young man who washes ashore, an amnesiac with a serious head injury whose past comes back to haunt him shortly after being nursed back to health by a young doctor. Violence ensues. Sweet, sweet violence.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Kimo Stamboel, Timo Tjahjanto",
+      "Writer": "Timo Tjahjanto",
+      "Actors": "Iko Uwais, Chelsea Islan, Sunny Pang",
+      "Language": "Indonesian, English",
+      "Country": "Indonesia, Singapore"
     },
     {
       "title": "Wheelman",
@@ -252,7 +468,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt5723286",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjA0MzE1N15BMl5BanBnXkFtZTgwNjAzNzQ0MzI@._V1_SX300.jpg",
-      "Plot": "A getaway driver for a bank robbery realizes he has been double crossed and races to find out who betrayed him."
+      "Plot": "A getaway driver for a bank robbery realizes he has been double crossed and races to find out who betrayed him.",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Action, Thriller",
+      "Director": "Jeremy Rush",
+      "Writer": "Jeremy Rush",
+      "Actors": "Frank Grillo, Caitlin Carmichael, Garret Dillahunt",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Bright",
@@ -261,7 +485,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt5519340",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNzk5NDg1Nl5BMl5BanBnXkFtZTgwNTM5MDQxNDM@._V1_SX300.jpg",
-      "Plot": "A detective must work with an Orc to find a powerful wand before evil creatures do."
+      "Plot": "A detective must work with an Orc to find a powerful wand before evil creatures do.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Action, Fantasy, Thriller",
+      "Director": "David Ayer",
+      "Writer": "Max Landis",
+      "Actors": "Will Smith, Joel Edgerton, Noomi Rapace",
+      "Language": "English, Spanish",
+      "Country": "United States, Canada, Australia, Mexico, India"
     },
     {
       "title": "Bon Cop Bad Cop 2",
@@ -270,7 +502,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt4738174",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzA4M2IzYjYtOGJjMS00NzM2LTgxZmUtYzM2NTljNWZlNzhlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A francophone S.Q. officer and an anglophone O.P.P officer reunite to investigate a large car theft ring led by an Italian mobster."
+      "Plot": "A francophone S.Q. officer and an anglophone O.P.P officer reunite to investigate a large car theft ring led by an Italian mobster.",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Alain Desrochers",
+      "Writer": "Patrick Huard",
+      "Actors": "Colm Feore, Patrick Huard, Marc Beaupré",
+      "Language": "English, French",
+      "Country": "Canada"
     },
     {
       "title": "The Night Comes for Us",
@@ -279,7 +519,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt6116856",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWFmYmE4MmEtNjgxNy00NjE1LWFmNzItNGRiMDJjYmFmZDU2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Ito, a gangland enforcer, is caught amidst a treacherous and violent insurrection within his Triad crime family upon his return home from a stint abroad."
+      "Plot": "Ito, a gangland enforcer, is caught amidst a treacherous and violent insurrection within his Triad crime family upon his return home from a stint abroad.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Timo Tjahjanto",
+      "Writer": "Timo Tjahjanto",
+      "Actors": "Iko Uwais, Sunny Pang, Joe Taslim",
+      "Language": "Indonesian, English, Mandarin, French",
+      "Country": "Indonesia, United States"
     },
     {
       "title": "One 2 Ka 4",
@@ -288,7 +536,15 @@
       "imdb_rating": "5.5",
       "imdb_id": "tt0227194",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTliNzU3OGQtZjU5OS00ODk2LWJhZjktZmM0ZGFiYTkwNTc5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When a cop's partner is killed in the line of duty, he assumed guardianship of his orphaned children while investigating the murder."
+      "Plot": "When a cop's partner is killed in the line of duty, he assumed guardianship of his orphaned children while investigating the murder.",
+      "Type": "movie",
+      "RunTime": "169 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Shashilal K. Nair",
+      "Writer": "Sanjay Chhel, Raaj Kumar Dahima, Manoj Lalwani",
+      "Actors": "Shah Rukh Khan, Jackie Shroff, Juhi Chawla",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Mujrim",
@@ -297,7 +553,15 @@
       "imdb_rating": "5.4",
       "imdb_id": "tt0097926",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWQwZWE5MjctMTlkYy00NWUwLTg0ZTktZmUxYzcxZGE4NWNkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-      "Plot": "Jailed as a teenager, Shankar has been unable to stay on the right side of the law ever since, despite his wife's pleas and his mother's rejection."
+      "Plot": "Jailed as a teenager, Shankar has been unable to stay on the right side of the law ever since, despite his wife's pleas and his mother's rejection.",
+      "Type": "movie",
+      "RunTime": "163 min",
+      "Genre": "Action, Crime",
+      "Director": "Umesh Mehra",
+      "Writer": "Mukul Dutt, P.D. Mehra, Vinay Shukla",
+      "Actors": "Mithun Chakraborty, Madhuri Dixit, Suresh Oberoi",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Hold the Dark",
@@ -306,7 +570,15 @@
       "imdb_rating": "5.7",
       "imdb_id": "tt5057140",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjMwOTQ1MzM3M15BMl5BanBnXkFtZTgwODQyNDQxNjM@._V1_SX300.jpg",
-      "Plot": "After the deaths of three children suspected to be killed by wolves, writer Russell Core is hired by the mother of a missing six-year-old boy to track down and locate her son in the Alaskan wilderness."
+      "Plot": "After the deaths of three children suspected to be killed by wolves, writer Russell Core is hired by the mother of a missing six-year-old boy to track down and locate her son in the Alaskan wilderness.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Jeremy Saulnier",
+      "Writer": "Macon Blair, William Giraldi",
+      "Actors": "Jeffrey Wright, Alexander Skarsgård, James Badge Dale",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Salaakhen",
@@ -315,7 +587,15 @@
       "imdb_rating": "5.7",
       "imdb_id": "tt0395743",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzMyOWE3OTMtNTEzOS00YmM0LTljNGQtMGFiNGZlMjNhODU1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
-      "Plot": "In-separable childhood friends, Raju and Guddi are separated when Guddi's dad, Ramlal is arrested by the police for theft. Years later Guddi is now a cabaret dancer and singer, Seema, while Raju is a thief and professional gambler..."
+      "Plot": "In-separable childhood friends, Raju and Guddi are separated when Guddi's dad, Ramlal is arrested by the police for theft. Years later Guddi is now a cabaret dancer and singer, Seema, while Raju is a thief and professional gambler...",
+      "Type": "movie",
+      "RunTime": "129 min",
+      "Genre": "Action, Thriller",
+      "Director": "A. Salaam",
+      "Writer": "Shanti Prakash Bakshi, A. Salaam",
+      "Actors": "Shashi Kapoor, Sulakshana Pandit, Mehmood",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Khoon Khoon",
@@ -324,7 +604,15 @@
       "imdb_rating": "5.2",
       "imdb_id": "tt0230412",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjI0MjRkMTMtZWRlMi00ZGZmLTg2MDYtMWZhZjRiMjdjZjFjXkEyXkFqcGdeQXVyMjU3MzYxODk@._V1_SX300.jpg",
-      "Plot": "A Bombay cop tries to track down a serial killer who snipes at random victims."
+      "Plot": "A Bombay cop tries to track down a serial killer who snipes at random victims.",
+      "Type": "movie",
+      "RunTime": "127 min",
+      "Genre": "Crime, Mystery, Thriller",
+      "Director": "Mohammed Hussain",
+      "Writer": "Umesh, Vrajendra Gaur",
+      "Actors": "Mahendra Sandhu, Danny Denzongpa, Jagdeep",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Raees",
@@ -333,7 +621,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt3405236",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2NTYwMTE1NV5BMl5BanBnXkFtZTgwODQ5MzAwMTI@._V1_SX300.jpg",
-      "Plot": "A bootlegger sets out to improve his community as a promising leader but falls in a political trap."
+      "Plot": "A bootlegger sets out to improve his community as a promising leader but falls in a political trap.",
+      "Type": "movie",
+      "RunTime": "143 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Rahul Dholakia",
+      "Writer": "Rahul Dholakia, Harit Mehta, Niraj Shukla",
+      "Actors": "Shah Rukh Khan, Sunny Leone, Mahira Khan",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Triple Frontier",
@@ -342,7 +638,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt1488606",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODU4MzM2MDAxMl5BMl5BanBnXkFtZTgwNDEzNjM0NzM@._V1_SX300.jpg",
-      "Plot": "Loyalties are tested when five friends and former special forces operatives reunite to take down a South American drug lord, unleashing a chain of unintended consequences."
+      "Plot": "Loyalties are tested when five friends and former special forces operatives reunite to take down a South American drug lord, unleashing a chain of unintended consequences.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "J.C. Chandor",
+      "Writer": "Mark Boal, J.C. Chandor",
+      "Actors": "Ben Affleck, Oscar Isaac, Charlie Hunnam",
+      "Language": "English, Spanish, Portuguese",
+      "Country": "United States, Colombia"
     },
     {
       "title": "The Last Days of American Crime",
@@ -351,7 +655,15 @@
       "imdb_rating": "3.8",
       "imdb_id": "tt1552211",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjkxZTFhYWUtMjFlYy00Y2M1LTg4MDUtZTViY2MxMmEwZTg0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In the not-too-distant future, as a final response to terrorism and crime, the U.S. government plans to broadcast a signal making it impossible for anyone to knowingly commit unlawful acts."
+      "Plot": "In the not-too-distant future, as a final response to terrorism and crime, the U.S. government plans to broadcast a signal making it impossible for anyone to knowingly commit unlawful acts.",
+      "Type": "movie",
+      "RunTime": "148 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Olivier Megaton",
+      "Writer": "Karl Gajdusek, Rick Remender, Greg Tocchini",
+      "Actors": "Neels Clasen, Edgar Ramírez, Tony Caprari",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Hard Way",
@@ -360,7 +672,15 @@
       "imdb_rating": "4.8",
       "imdb_id": "tt9815714",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ5MTE1NWItNmFjOS00N2U0LTg2MjEtYjM3OGE3MzRlNTZhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After learning his brother died on a mission in Romania, a former soldier teams up with two allies to hunt down a mysterious enemy and exact revenge."
+      "Plot": "After learning his brother died on a mission in Romania, a former soldier teams up with two allies to hunt down a mysterious enemy and exact revenge.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Action",
+      "Director": "Keoni Waxman",
+      "Writer": "Thomas J. Churchill, Keoni Waxman",
+      "Actors": "Michael Jai White, Luke Goss, Randy Couture",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Project Power",
@@ -369,7 +689,15 @@
       "imdb_rating": "6.0",
       "imdb_id": "tt7550000",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2QxNjM4YTAtMjY1Yi00YjMwLTlkOWUtZmIzYmZmNzUwNDU1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When a pill that gives its users unpredictable superpowers for five minutes hits the streets of New Orleans, a teenage dealer and a local cop must team with an ex-soldier to take down the group responsible for its creation."
+      "Plot": "When a pill that gives its users unpredictable superpowers for five minutes hits the streets of New Orleans, a teenage dealer and a local cop must team with an ex-soldier to take down the group responsible for its creation.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Action, Crime, Sci-Fi",
+      "Director": "Henry Joost, Ariel Schulman",
+      "Writer": "Mattson Tomlin",
+      "Actors": "Jamie Foxx, Joseph Gordon-Levitt, Dominique Fishback",
+      "Language": "English, Spanish",
+      "Country": "United States, United Kingdom, Canada, France"
     },
     {
       "title": "Manhunt",
@@ -378,7 +706,15 @@
       "imdb_rating": "8.1",
       "imdb_id": "tt5618256",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTcxMjEyMzc4NV5BMl5BanBnXkFtZTgwOTQ4MjE4MjI@._V1_SX300.jpg",
-      "Plot": "An in-depth look at how an FBI profiler helped track down the terrorist Ted Kaczynski, the Unabomber."
+      "Plot": "An in-depth look at how an FBI profiler helped track down the terrorist Ted Kaczynski, the Unabomber.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Andrew Sodroski, Jim Clemente, Tony Gittelson",
+      "Actors": "Gethin Anthony, Arliss Howard, Kelly Jenrette",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Coffee & Kareem",
@@ -387,7 +723,15 @@
       "imdb_rating": "5.2",
       "imdb_id": "tt9898858",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0ZDZjY2EtZjlkZi00YmNhLTljOGItYzhlYTliMmIzZDliXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Twelve-year-old Kareem Manning hires a criminal to scare his mom's new boyfriend -police officer James Coffee - but it backfires, forcing Coffee and Kareem to team up in order to save themselves from Detroit's most ruthless drug k..."
+      "Plot": "Twelve-year-old Kareem Manning hires a criminal to scare his mom's new boyfriend -police officer James Coffee - but it backfires, forcing Coffee and Kareem to team up in order to save themselves from Detroit's most ruthless drug k...",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Michael Dowse",
+      "Writer": "Shane Mack",
+      "Actors": "Ed Helms, Taraji P. Henson, Terrence Little Gardenhigh",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Point Blank",
@@ -396,7 +740,15 @@
       "imdb_rating": "5.7",
       "imdb_id": "tt2499472",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjQzYzhlOGMtYWRkMi00MTg2LWEyODYtZTI2MjUxYjU2OGYwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An ER nurse and a career criminal are forced into an unlikely partnership in taking down a ring of corrupt cops threatening the lives of both their families."
+      "Plot": "An ER nurse and a career criminal are forced into an unlikely partnership in taking down a ring of corrupt cops threatening the lives of both their families.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Joe Lynch",
+      "Writer": "Fred Cavayé, Guillaume Lemans, Adam G. Simon",
+      "Actors": "Frank Grillo, Stuart F. Wilson, Buster Reeves",
+      "Language": "English",
+      "Country": "France, United States"
     },
     {
       "title": "BuyBust",
@@ -405,7 +757,15 @@
       "imdb_rating": "5.7",
       "imdb_id": "tt5938084",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2ZmMWZjNDMtMWI2ZS00ZWU3LThkYjktOTRlZWU3MTZmMTRmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An anti-drug enforcement agency stages a massive drug bust in the slums of Manila."
+      "Plot": "An anti-drug enforcement agency stages a massive drug bust in the slums of Manila.",
+      "Type": "movie",
+      "RunTime": "127 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Erik Matti",
+      "Writer": "Anton Santamaria, Erik Matti",
+      "Actors": "Anne Curtis, Brandon Vera, Victor Neri",
+      "Language": "Filipino, Tagalog",
+      "Country": "Philippines"
     },
     {
       "title": "Polar",
@@ -414,7 +774,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt4139588",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmEzNzU2MDUtZmJiNi00ZGI0LWFiNjItYWQzNGIxY2I2MGZjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A retiring assassin suddenly finds himself on the receiving end of a hit, contracted by none other than his own employer seeking to cash in on the pensions of aging employees."
+      "Plot": "A retiring assassin suddenly finds himself on the receiving end of a hit, contracted by none other than his own employer seeking to cash in on the pensions of aging employees.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Jonas Åkerlund",
+      "Writer": "Jayson Rothwell, Víctor Santos",
+      "Actors": "Mads Mikkelsen, Vanessa Hudgens, Katheryn Winnick",
+      "Language": "English, Russian",
+      "Country": "United States, Germany"
     },
     {
       "title": "Maria",
@@ -423,7 +791,15 @@
       "imdb_rating": "5.0",
       "imdb_id": "tt7594584",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDRlMmM3YmEtYmE3ZC00NDIyLWFkMzMtZjAzNWQxMGYzMTNlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A Filipino female assassin quits and fakes her death. Her old boss finds out after she's gotten a family. He tries to kill them. She responds."
+      "Plot": "A Filipino female assassin quits and fakes her death. Her old boss finds out after she's gotten a family. He tries to kill them. She responds.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Pedring Lopez",
+      "Writer": "Pedring Lopez, Yz Carbonell, Rex Lopez",
+      "Actors": "Cristine Reyes, Germaine De Leon, KC Montero",
+      "Language": "Filipino, English",
+      "Country": "Philippines"
     },
     {
       "title": "Murder Mystery",
@@ -432,7 +808,15 @@
       "imdb_rating": "6.1",
       "imdb_id": "tt1618434",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzg4NDFjNmYtZjQxMy00MDY4LWEyZjUtYzRjNjNkNjJiZTZhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A New York cop and his wife go on a European vacation to reinvigorate the spark in their marriage, but end up getting framed and on the run for the death of an elderly billionaire."
+      "Plot": "A New York cop and his wife go on a European vacation to reinvigorate the spark in their marriage, but end up getting framed and on the run for the death of an elderly billionaire.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Crime, Mystery, Romance",
+      "Director": "Kyle Newacheck",
+      "Writer": "James Vanderbilt",
+      "Actors": "Adam Sandler, Jennifer Aniston, Luke Evans",
+      "Language": "English, French, Latin, Spanish",
+      "Country": "United States, Italy, Canada"
     },
     {
       "title": "Believer",
@@ -441,7 +825,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt7095654",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2MxZTNhNmYtMmY3Yi00MzQxLWFkM2QtODM4MWYyYjU2Nzk5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A police detective determined to catch the unseen boss of Asia's biggest drug cartel joins hands with a revenge-thirsty member of the gang."
+      "Plot": "A police detective determined to catch the unseen boss of Asia's biggest drug cartel joins hands with a revenge-thirsty member of the gang.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Lee Hae-young",
+      "Writer": "Jung Seo-Kyoung",
+      "Actors": "Park Hae-joon, Ryu Jun-yeol, Cho Jin-woong",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Spenser Confidential",
@@ -450,7 +842,15 @@
       "imdb_rating": "6.2",
       "imdb_id": "tt8629748",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDFiNmViNGUtMWI2NC00OTI0LTg5NjMtZGYwOTlkM2JlZGRmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When two Boston police officers are murdered, ex-cop Spenser teams up with his no-nonsense roommate Hawk to take down criminals."
+      "Plot": "When two Boston police officers are murdered, ex-cop Spenser teams up with his no-nonsense roommate Hawk to take down criminals.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Peter Berg",
+      "Writer": "Sean O'Keefe, Brian Helgeland, Robert B. Parker",
+      "Actors": "Mark Wahlberg, Winston Duke, Alan Arkin",
+      "Language": "English, Hindi",
+      "Country": "United States"
     },
     {
       "title": "Honest Thief",
@@ -459,7 +859,15 @@
       "imdb_rating": "6.0",
       "imdb_id": "tt1838556",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNmY3Y2E0MzYtY2JjNy00MTNkLTllODYtZDIxY2ZkNWQ5MTRlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Wanting to lead an honest life, a notorious bank robber turns himself in, only to be double-crossed by two ruthless FBI agents."
+      "Plot": "Wanting to lead an honest life, a notorious bank robber turns himself in, only to be double-crossed by two ruthless FBI agents.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Mark Williams",
+      "Writer": "Steve Allrich, Mark Williams, Louis Per Bruno",
+      "Actors": "Liam Neeson, Kate Walsh, Jai Courtney",
+      "Language": "English, Spanish, German",
+      "Country": "United States"
     },
     {
       "title": "Gatao",
@@ -468,7 +876,15 @@
       "imdb_rating": "5.4",
       "imdb_id": "tt6159026",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjlhNjQ4N2YtNjQ4Zi00MWUxLThhOWQtMjllMDQyYWU5ZTdmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Xiong a Taiwan gangster gets released from prison when a rival gang lead by a ruthless man looks to expand their turf for a business deal."
+      "Plot": "Xiong a Taiwan gangster gets released from prison when a rival gang lead by a ruthless man looks to expand their turf for a business deal.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Crime",
+      "Director": "Joe Lee",
+      "Writer": "Ming-Fe Chung, Joe Lee, Marco Chen-Yang Hsieh",
+      "Actors": "Alien Huang, Sunny Wang, Peng Sun",
+      "Language": "Mandarin",
+      "Country": "Taiwan"
     },
     {
       "title": "Army of the Dead",
@@ -477,7 +893,15 @@
       "imdb_rating": "5.8",
       "imdb_id": "tt0993840",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjc0MDFjZmQtMWMxZi00YzY4LWI5N2EtOGQwM2IzZjRkYmY1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted."
+      "Plot": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+      "Type": "movie",
+      "RunTime": "148 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "Zack Snyder",
+      "Writer": "Zack Snyder, Shay Hatten, Joby Harold",
+      "Actors": "Dave Bautista, Ella Purnell, Ana de la Reguera",
+      "Language": "English, Spanish, German, French, Bable, Polish",
+      "Country": "United States"
     },
     {
       "title": "The Last Runway",
@@ -486,7 +910,15 @@
       "imdb_rating": "5.8",
       "imdb_id": "tt7606620",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjU1YWViMDktYmZiYS00ODYwLWExMjUtNGMyNTAxMjE3ZjE2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Former Colonel Fernandez is appointed Minister of the National Anti-Drug Agency (SENAD) and purges the special forces to fight the first of many battles against drug trafficking on the border of Paraguay and Argentina."
+      "Plot": "Former Colonel Fernandez is appointed Minister of the National Anti-Drug Agency (SENAD) and purges the special forces to fight the first of many battles against drug trafficking on the border of Paraguay and Argentina.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Rodrigo Salomón, Pietro Scappini",
+      "Writer": "Andrés Gelós, Marcelo Tolces, Alejandro Cabral",
+      "Actors": "Luis Aguirre, Fini Bocchino, Bruno Sosa Bofinger",
+      "Language": "Spanish",
+      "Country": "Paraguay, Argentina"
     },
     {
       "title": "Overhaul",
@@ -495,7 +927,15 @@
       "imdb_rating": "4.9",
       "imdb_id": "tt16427938",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWZlMjQ3NjMtMTFlNi00OGYyLWI1MWQtOWI3M2RkODNlYmQwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When truck racer Roger loses everything, he receives a tempting but dangerous offer: to work as the getaway driver for a gang of thieves."
+      "Plot": "When truck racer Roger loses everything, he receives a tempting but dangerous offer: to work as the getaway driver for a gang of thieves.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Tomas Portella",
+      "Writer": "Tomas Portella, Leandro Soares",
+      "Actors": "Milhem Cortaz, Raphael Logam, Thiago Martins",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Gatao 2: Rise of the King",
@@ -504,7 +944,15 @@
       "imdb_rating": "6.2",
       "imdb_id": "tt8324576",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzNmODg1YWEtNGVhZC00OTVmLWE0OWYtZGYwZTZmNmRiOTgzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Ren has finally succeeded his boss as the head of the North Fort Gang. For so long, his ambitions had been held back; now, he can realize them."
+      "Plot": "Ren has finally succeeded his boss as the head of the North Fort Gang. For so long, his ambitions had been held back; now, he can realize them.",
+      "Type": "movie",
+      "RunTime": "127 min",
+      "Genre": "Crime",
+      "Director": "Cheng-Kuo Yen",
+      "Writer": "Red Chang, Jerry Sun",
+      "Actors": "Collin Chou, Shih-Sian Wang, Jack Kao",
+      "Language": "Mandarin, Min Nan, Spanish, English",
+      "Country": "Taiwan"
     },
     {
       "title": "Beverly Hills Cop: Axel F",
@@ -513,7 +961,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt3083016",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDVhYWNkNTUtZWVjMC00Y2M1LWEzNmItZjFiMzA4ZjNiODI4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Axel Foley returns to Beverly Hills after his daughter's life is threatened for a family reunion that includes old pals John Taggart and Billy Rosewood to uncover a conspiracy."
+      "Plot": "Axel Foley returns to Beverly Hills after his daughter's life is threatened for a family reunion that includes old pals John Taggart and Billy Rosewood to uncover a conspiracy.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Mark Molloy",
+      "Writer": "Will Beall, Tom Gormican, Kevin Etten",
+      "Actors": "Eddie Murphy, Joseph Gordon-Levitt, Taylour Paige",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "The Harder They Fall",
@@ -522,7 +978,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt10696784",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDBjOTQyZTEtZTdhYS00ZTNlLWE3NTgtZGY3YmZlZTdhYjUxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When an outlaw discovers his enemy is being released from prison, he reunites his gang to seek revenge."
+      "Plot": "When an outlaw discovers his enemy is being released from prison, he reunites his gang to seek revenge.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Action, Drama, Western",
+      "Director": "Jeymes Samuel",
+      "Writer": "Jeymes Samuel, Boaz Yakin",
+      "Actors": "Jonathan Majors, Zazie Beetz, RJ Cyler",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Lost Bullet",
@@ -531,7 +995,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt10456740",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2M0MDA2MDAtYTUyNC00NGFlLTllYTEtMDE3NTlkMWM4ZTQ0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops."
+      "Plot": "A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Guillaume Pierret",
+      "Writer": "Guillaume Pierret, Alban Lenoir, Kamel Guemra",
+      "Actors": "Alban Lenoir, Nicolas Duvauchelle, Ramzy Bedia",
+      "Language": "French, English",
+      "Country": "France"
     },
     {
       "title": "Sooryavanshi",
@@ -540,7 +1012,15 @@
       "imdb_rating": "5.8",
       "imdb_id": "tt9531772",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzM0YWRjNGYtYTdiMy00YzZhLThjMWYtMTY3N2Q5NGZkOTI2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "DCP Veer Sooryavanshi, the chief of the Anti-Terrorism Squad in India, tries to bring down a terrorist organization with which he has a history."
+      "Plot": "DCP Veer Sooryavanshi, the chief of the Anti-Terrorism Squad in India, tries to bring down a terrorist organization with which he has a history.",
+      "Type": "movie",
+      "RunTime": "145 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Rohit Shetty",
+      "Writer": "Sanchit Bedre, Vidhi Ghodgaonkar, Yunus Sajawal",
+      "Actors": "Akshay Kumar, Katrina Kaif, Ajay Devgn",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Red Notice",
@@ -549,7 +1029,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt7991608",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOGNjNGQ3MmItYTM5NS00NjBiLWI0ZTItZDE5ZjQyNjg3ODBjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An Interpol agent successfully tracks down the world's most wanted art thief with help from a rival thief. But nothing is as it seems as a series of double-crosses ensues."
+      "Plot": "An Interpol agent successfully tracks down the world's most wanted art thief with help from a rival thief. But nothing is as it seems as a series of double-crosses ensues.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Action, Comedy, Thriller",
+      "Director": "Rawson Marshall Thurber",
+      "Writer": "Rawson Marshall Thurber",
+      "Actors": "Dwayne Johnson, Ryan Reynolds, Gal Gadot",
+      "Language": "English, Russian, Italian, Spanish, Indonesian",
+      "Country": "United States, Italy"
     },
     {
       "title": "Silverton Siege",
@@ -558,7 +1046,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt18563148",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDUwZjBiNjYtOTJlMS00Njg5LThhMWQtZTNlMmQwYzZhYjNhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows three young freedom fighters who seek refuge in a South African bank in Silverton, and take the bank and its customers hostage and would only release them in exchange for the release of Nelson Mandela."
+      "Plot": "Follows three young freedom fighters who seek refuge in a South African bank in Silverton, and take the bank and its customers hostage and would only release them in exchange for the release of Nelson Mandela.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Mandla Dube",
+      "Writer": "Sabelo Mgidi",
+      "Actors": "Thabo Rametsi, Arnold Vosloo, Noxolo Dlamini",
+      "Language": "English, Afrikaans",
+      "Country": "South Africa"
     },
     {
       "title": "The Out-Laws",
@@ -567,7 +1063,15 @@
       "imdb_rating": "5.4",
       "imdb_id": "tt11274492",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDZmMTczYTgtYzA5MS00ODI5LTk0OWYtYzlkN2ZlYTJjNzBhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A straight-laced bank manager about to marry the love of his life. When his bank is held up by infamous Ghost Bandits during his wedding week, he believes his future in-laws who just arrived in town, are the infamous Out-Laws."
+      "Plot": "A straight-laced bank manager about to marry the love of his life. When his bank is held up by infamous Ghost Bandits during his wedding week, he believes his future in-laws who just arrived in town, are the infamous Out-Laws.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Tyler Spindel",
+      "Writer": "Ben Zazove, Evan Turner",
+      "Actors": "Adam Devine, Pierce Brosnan, Ellen Barkin",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Drive",
@@ -576,7 +1080,15 @@
       "imdb_rating": "3.2",
       "imdb_id": "tt6593054",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzVmMmM2NTgtYTU2NS00Yjk0LTg2N2QtNjI0MzRiN2ZlYzMwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A notorious thief allies with a street racer for a grand heist involving an elaborate game of deceit with authorities, who have their own dirty secrets."
+      "Plot": "A notorious thief allies with a street racer for a grand heist involving an elaborate game of deceit with authorities, who have their own dirty secrets.",
+      "Type": "movie",
+      "RunTime": "147 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Tarun Mansukhani",
+      "Writer": "Tarun Mansukhani",
+      "Actors": "Sushant Singh Rajput, Jacqueline Fernandez, Vikramjeet Virk",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Code 8",
@@ -585,7 +1097,15 @@
       "imdb_rating": "6.1",
       "imdb_id": "tt6259380",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWNjZDVlMzUtZWVhNi00YmRmLThlM2MtZWZmOTY4ZjI0MTVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A super-powered construction worker falls in with a group of criminals in order to raise the funds to help his ill mother."
+      "Plot": "A super-powered construction worker falls in with a group of criminals in order to raise the funds to help his ill mother.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Jeff Chan",
+      "Writer": "Chris Pare, Jeff Chan",
+      "Actors": "Kari Matchett, Robbie Amell, Penny Eizenga",
+      "Language": "English",
+      "Country": "Canada, United Kingdom"
     },
     {
       "title": "Murder Mystery 2",
@@ -594,7 +1114,15 @@
       "imdb_rating": "5.7",
       "imdb_id": "tt15255288",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMWU3OWYwNjAtNWExZS00ODY4LTgwMGQtNzliMzM2MjEyNDBkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Full-time detectives Nick and Audrey are struggling to get their private eye agency off the ground. They find themselves at the center of international abduction when their friend Maharaja is kidnapped at his own lavish wedding."
+      "Plot": "Full-time detectives Nick and Audrey are struggling to get their private eye agency off the ground. They find themselves at the center of international abduction when their friend Maharaja is kidnapped at his own lavish wedding.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Jeremy Garelick",
+      "Writer": "James Vanderbilt",
+      "Actors": "Adam Sandler, Jennifer Aniston, Mark Strong",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Malang",
@@ -603,7 +1131,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt9877170",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODc5NWY1NzctMWEwYS00NmU0LWJlYzEtNzg1ZGJjZTEwODE5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Advait visits Goa where he meets Sara, a free-spirited girl who lives life unshackled. Opposites attract and all goes well until life turns upside down. Years later, Advait is on a killing spree with cops Aghase and Michael in his..."
+      "Plot": "Advait visits Goa where he meets Sara, a free-spirited girl who lives life unshackled. Opposites attract and all goes well until life turns upside down. Years later, Advait is on a killing spree with cops Aghase and Michael in his...",
+      "Type": "movie",
+      "RunTime": "135 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Mohit Suri",
+      "Writer": "Aseem Arrora, Aniruddha Guha, Mohit Suri",
+      "Actors": "Aditya Roy Kapoor, Anil Kapoor, Disha Patani",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Dostana (1980)",
@@ -632,7 +1168,15 @@
       "imdb_rating": "6.1",
       "imdb_id": "tt8851668",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2FlZTJmMDktNGMwYy00NjNiLTg2MTItYmNkODRkNDFhMjA5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A couple (Issa Rae and Kumail Nanjiani) experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery."
+      "Plot": "A couple (Issa Rae and Kumail Nanjiani) experiences a defining moment in their relationship when they are unintentionally embroiled in a murder mystery.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Michael Showalter",
+      "Writer": "Aaron Abrams, Brendan Gall, Martin Gero",
+      "Actors": "Issa Rae, Kumail Nanjiani, Paul Sparks",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Robbing Mussolini",
@@ -641,7 +1185,15 @@
       "imdb_rating": "5.4",
       "imdb_id": "tt14270848",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzczOTI1OTItYzAwNS00MDVhLWIwMzMtODE3MWEwMjJmODZlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A Milanese wartime entrepreneur forms a band of misfits and rogues to stage an elaborate heist of a legendary treasure belonging to Benito Mussolini."
+      "Plot": "A Milanese wartime entrepreneur forms a band of misfits and rogues to stage an elaborate heist of a legendary treasure belonging to Benito Mussolini.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Renato De Maria",
+      "Writer": "Renato De Maria",
+      "Actors": "Pietro Castellitto, Matilda De Angelis, Tommaso Ragno",
+      "Language": "Italian",
+      "Country": "Italy"
     },
     {
       "title": "Saakini Daakini",
@@ -650,7 +1202,15 @@
       "imdb_rating": "6.0",
       "imdb_id": "tt12874984",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzg2NTYwNmEtYmEyNC00YzY0LWI2OGQtYTg3ZDUzNzIxNjlmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Two police trainees witness the kidnapping of a girl one night on their way home. Unable to get help from the local police and determined to rescue the girl, they set out on their own amateur investigation."
+      "Plot": "Two police trainees witness the kidnapping of a girl one night on their way home. Unable to get help from the local police and determined to rescue the girl, they set out on their own amateur investigation.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Action, Comedy",
+      "Director": "Sudheer Varma",
+      "Writer": "Akshay Poolla",
+      "Actors": "Regina Cassandra, Nivetha Thomas, Lahari Shari",
+      "Language": "Telugu, English",
+      "Country": "India, South Korea"
     },
     {
       "title": "Bartkowiak",
@@ -659,7 +1219,15 @@
       "imdb_rating": "5.1",
       "imdb_id": "tt14315566",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ1YzYxYTktMGFiNi00YjdjLWI2ODAtNjI2MmI0YjllMGVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After his brother dies in a car crash, a disgraced MMA fighter takes over the family nightclub and soon learns his sibling's death wasn't an accident."
+      "Plot": "After his brother dies in a car crash, a disgraced MMA fighter takes over the family nightclub and soon learns his sibling's death wasn't an accident.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Action, Crime, Sport",
+      "Director": "Daniel Markowicz",
+      "Writer": "Daniel Bernardi, Monika Slawecka",
+      "Actors": "Józef Pawlowski, Zofia Domalik, Szymon Bobrowski",
+      "Language": "Polish",
+      "Country": "Poland"
     },
     {
       "title": "Luther: The Fallen Sun",
@@ -668,7 +1236,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt3155298",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDFmYzdjOGYtMWY3MC00ZjQ0LWJiYjgtODc3ZDUzZmM4MmQ3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Brilliant but disgraced detective John Luther breaks out of prison to hunt down a sadistic serial killer who is terrorising London."
+      "Plot": "Brilliant but disgraced detective John Luther breaks out of prison to hunt down a sadistic serial killer who is terrorising London.",
+      "Type": "movie",
+      "RunTime": "129 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Jamie Payne",
+      "Writer": "Neil Cross",
+      "Actors": "Idris Elba, Cynthia Erivo, Andy Serkis",
+      "Language": "English, Estonian, Portuguese",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Wingwomen",
@@ -677,7 +1253,15 @@
       "imdb_rating": "5.7",
       "imdb_id": "tt21638298",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTIzMDI0OTQtYmUwZS00MjNhLTliNTItODIwZGRmYTI1ZGMyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Tired of the risks involved in a life of crime, two expert thieves and best friends recruit feisty Sam to assist them with one last job before they move to a new, and less stressful, line of work."
+      "Plot": "Tired of the risks involved in a life of crime, two expert thieves and best friends recruit feisty Sam to assist them with one last job before they move to a new, and less stressful, line of work.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Mélanie Laurent",
+      "Writer": "Mélanie Laurent, Christophe Deslandes, Cédric Anger",
+      "Actors": "Adèle Exarchopoulos, Mélanie Laurent, Manon Bresch",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Centauro",
@@ -686,7 +1270,15 @@
       "imdb_rating": "8.1",
       "imdb_id": "tt6067908",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNGM3ZTEyODktYjRiZC00MTIwLTk1MzYtMTdmOWVhZTc1MDQ5L2ltYWdlXkEyXkFqcGdeQXVyNjcxMjI4MA@@._V1_SX300.jpg",
-      "Plot": "A man falls from a horse and can no longer be saved. Man and horse become one, for a short moment."
+      "Plot": "A man falls from a horse and can no longer be saved. Man and horse become one, for a short moment.",
+      "Type": "movie",
+      "RunTime": "14 min",
+      "Genre": "Animation, Short",
+      "Director": "Nicolás Suárez",
+      "Writer": "Nicolás Suárez",
+      "Actors": "Walter Jakob, Agustín Alcides Otero",
+      "Language": "Spanish",
+      "Country": "Argentina"
     },
     {
       "title": "Havoc",
@@ -695,7 +1287,15 @@
       "imdb_rating": "5.6",
       "imdb_id": "tt14123284",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWJjMjdhNGEtZjEyMi00OTg2LTllMzQtN2JlZWNjYzI4YzFhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After a drug deal gone wrong, a bruised detective must fight his way through the criminal underworld to rescue a politician's estranged son, unraveling a deep web of corruption and conspiracy that ensnares his entire city."
+      "Plot": "After a drug deal gone wrong, a bruised detective must fight his way through the criminal underworld to rescue a politician's estranged son, unraveling a deep web of corruption and conspiracy that ensnares his entire city.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Gareth Evans",
+      "Writer": "Gareth Evans",
+      "Actors": "Tom Hardy, Jessie Mei Li, Justin Cornwell",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Doctor (Tamil)",
@@ -714,7 +1314,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt0405325",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2ExOGM1MDQtYmRjZS00NDAzLTlmMDAtMmE3YjQ1MzNlZTllXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Set in an era where superheroes are commonly known and accepted, young William Stronghold, the son of the Commander and Jetstream, tries to find a balance between being a normal teenager and an extraordinary being."
+      "Plot": "Set in an era where superheroes are commonly known and accepted, young William Stronghold, the son of the Commander and Jetstream, tries to find a balance between being a normal teenager and an extraordinary being.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Action, Comedy, Family",
+      "Director": "Mike Mitchell",
+      "Writer": "Paul Hernandez, Bob Schooley, Mark McCorkle",
+      "Actors": "Kurt Russell, Kelly Preston, Michael Angarano",
+      "Language": "English, Cantonese",
+      "Country": "United States"
     },
     {
       "title": "Get the Goat",
@@ -733,7 +1341,15 @@
       "imdb_rating": "5.9",
       "imdb_id": "tt23490586",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODI3NGNjMjAtNzE5NS00NGRlLWE0MGItMjc5NTU0OTE0MWMzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Three nearly-identical men become fast friends after meeting via an online doppelgänger-finding app. It's all fun and games until one of them turns out to be a notorious fugitive."
+      "Plot": "Three nearly-identical men become fast friends after meeting via an online doppelgänger-finding app. It's all fun and games until one of them turns out to be a notorious fugitive.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Rajendra Reddy",
+      "Writer": "Rajendra Reddy, Sudhakar Reddy Yeruva",
+      "Actors": "Brahmaji, Nithin Prasanna, Nandamuri Kalyan Ram",
+      "Language": "Telugu",
+      "Country": "India"
     },
     {
       "title": "The Takedown",
@@ -742,7 +1358,15 @@
       "imdb_rating": "5.8",
       "imdb_id": "tt13822738",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzEwZjg4ZDItMzQyNS00ZTM4LWE1MTQtNDRiYzc4ZTZlYmYyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Diakité and Monge are police officers who are complete opposites, and get paired together to uncover an unexpectedly big criminal case."
+      "Plot": "Diakité and Monge are police officers who are complete opposites, and get paired together to uncover an unexpectedly big criminal case.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Louis Leterrier",
+      "Writer": "Stéphane Kazandjian, Pierre Le Coz, Franck Gastambide",
+      "Actors": "Omar Sy, Laurent Lafitte, Izïa Higelin",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Jagame Thandhiram",
@@ -751,7 +1375,15 @@
       "imdb_rating": "5.8",
       "imdb_id": "tt10661848",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmQyZWJhMDYtYjU4Yy00OTgwLWE0MTktNmRkYTVlZGZmMmQ5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A nomadic gangster finds himself caught between good and evil in a fight for a place to call home. Starring Dhanush, Aishwarya Lekshmi and James Cosmo."
+      "Plot": "A nomadic gangster finds himself caught between good and evil in a fight for a place to call home. Starring Dhanush, Aishwarya Lekshmi and James Cosmo.",
+      "Type": "movie",
+      "RunTime": "158 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Karthik Subbaraj",
+      "Writer": "Nick Bain, K.N. Vijay Kumar, Karthik Subbaraj",
+      "Actors": "Dhanush, James Cosmo, Aishwarya Lekshmi",
+      "Language": "Tamil, Telugu",
+      "Country": "United Kingdom, India"
     },
     {
       "title": "Restless",
@@ -760,7 +1392,15 @@
       "imdb_rating": "5.8",
       "imdb_id": "tt14465894",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGFkZWU2ZDUtYzg3Yi00MzVkLWIxZmEtOTlmYjg0NzUwZTkwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After going to extremes to cover up an accident, a corrupt cop's life spirals out of control when he starts receiving threats from a mysterious witness."
+      "Plot": "After going to extremes to cover up an accident, a corrupt cop's life spirals out of control when he starts receiving threats from a mysterious witness.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Régis Blondeau",
+      "Writer": "Julien Colombani, Régis Blondeau, Kim Seong-hun",
+      "Actors": "Franck Gastambide, Simon Abkarian, Michaël Abiteboul",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Wild Dog",
@@ -769,7 +1409,15 @@
       "imdb_rating": "6.1",
       "imdb_id": "tt11503178",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjUwZGUyMjYtYWI1Yi00NGMwLTkzYmMtMjE1OTNhNjYzMGUyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A brash but brilliant Indian intelligence agent leads a covert operation to nab the mastermind behind a series of attacks threatening national security."
+      "Plot": "A brash but brilliant Indian intelligence agent leads a covert operation to nab the mastermind behind a series of attacks threatening national security.",
+      "Type": "movie",
+      "RunTime": "145 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "Ahishor Solomon",
+      "Writer": "Ahishor Solomon, Kiran Kumar",
+      "Actors": "Nagarjuna Akkineni, Dia Mirza, Saiyami Kher",
+      "Language": "Telugu",
+      "Country": "India"
     },
     {
       "title": "Animal",
@@ -778,7 +1426,15 @@
       "imdb_rating": "6.2",
       "imdb_id": "tt13751694",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZThmNDg1NjUtNWJhMC00YjA3LWJiMjItNmM4ZDQ5ZGZiN2Y2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life."
+      "Plot": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
+      "Type": "movie",
+      "RunTime": "204 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Sandeep Reddy Vanga",
+      "Writer": "Suresh Bandaru, Saurabh Gupta, Pranay Reddy Vanga",
+      "Actors": "Ranbir Kapoor, Anil Kapoor, Bobby Deol",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Seoul Vibe",
@@ -787,7 +1443,15 @@
       "imdb_rating": "5.5",
       "imdb_id": "tt13611770",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDAzMDE2N2MtMGJiMC00MjM0LTg4ODEtZmM3NjcyMDU5ZWVjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The drivers of the Sanggye-dong Supreme Team become mired in the slush fund investigation of a powerful person on the very day of the 1988 Seoul Olympics opening ceremony."
+      "Plot": "The drivers of the Sanggye-dong Supreme Team become mired in the slush fund investigation of a powerful person on the very day of the 1988 Seoul Olympics opening ceremony.",
+      "Type": "movie",
+      "RunTime": "138 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Hyun-Sung Moon",
+      "Writer": "Sua Shin",
+      "Actors": "Yoo Ah-in, Go Kyung-pyo, Lee Kyoo-hyung",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Lift",
@@ -796,7 +1460,15 @@
       "imdb_rating": "5.5",
       "imdb_id": "tt14371878",
       "Poster": "https://m.media-amazon.com/images/M/MV5BN2FkMDJmNWItYzBlYy00ZDQ0LTgyMzEtZTA2N2U0ZTY5OGMyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows a master thief and his Interpol Agent ex-girlfriend who team up to steal $500 million in gold bullion being transported on an A380 passenger flight."
+      "Plot": "Follows a master thief and his Interpol Agent ex-girlfriend who team up to steal $500 million in gold bullion being transported on an A380 passenger flight.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "F. Gary Gray",
+      "Writer": "Daniel Kunka",
+      "Actors": "Kevin Hart, Gugu Mbatha-Raw, Sam Worthington",
+      "Language": "English, Italian",
+      "Country": "United States"
     },
     {
       "title": "Gatao - The Last Stray",
@@ -805,7 +1477,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt14720502",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmJhYTdmN2YtYmM1YS00MDlkLTlmMWEtYjQ0NjU4MDM3NWYyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A Qing encounters the photographer Xiao Qi at the full moon banquet of the daughter of the big brother Ren Ge at the corner of the Beiguan. They fall in love with each other. But, sadly, they aren't able to stay together at the end."
+      "Plot": "A Qing encounters the photographer Xiao Qi at the full moon banquet of the daughter of the big brother Ren Ge at the corner of the Beiguan. They fall in love with each other. But, sadly, they aren't able to stay together at the end.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Jui-Chih Chiang",
+      "Writer": "N/A",
+      "Actors": "Xin Cai, Tsai-Hsing Chang, Jen-Shuo Cheng",
+      "Language": "Mandarin",
+      "Country": "Taiwan"
     },
     {
       "title": "How I Became a Superhero",
@@ -814,7 +1494,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt26453435",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjliOWQyZjEtMjE5Yy00NWYzLWI2NjktNGQyNzRkZWJkYjA5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Short, Action",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "City Hunter",
@@ -823,7 +1511,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt24478470",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzI5ZWZjN2UtNjRiNS00MzViLTgzNjMtZWEyZTlmNWJhYjJkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An exceptional marksman and hopeless playboy, private eye Ryo Saeba reluctantly forms an alliance with his late partner's sister to investigate his death."
+      "Plot": "An exceptional marksman and hopeless playboy, private eye Ryo Saeba reluctantly forms an alliance with his late partner's sister to investigate his death.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Yûichi Satô",
+      "Writer": "Tsukasa Hôjô, Tatsuro Mishima",
+      "Actors": "Ryohei Suzuki, Misato Morita, Masanobu Andô",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "My Name Is Vendetta",
@@ -832,7 +1528,15 @@
       "imdb_rating": "5.6",
       "imdb_id": "tt15229674",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODBiZDNmMDgtODQ3NS00NjFmLWIyNTEtMDFlZTA5MzNlYjU4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After old enemies kill his family, a former mafia enforcer and his feisty daughter flee to Milan, where they hide out while plotting their revenge."
+      "Plot": "After old enemies kill his family, a former mafia enforcer and his feisty daughter flee to Milan, where they hide out while plotting their revenge.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Cosimo Gomez",
+      "Writer": "Sandrone Dazieri, Franco Fraternale, Cosimo Gomez",
+      "Actors": "Alessandro Gassmann, Ginevra Francesconi, Alessio Praticò",
+      "Language": "Italian",
+      "Country": "Italy"
     },
     {
       "title": "Wrath of Man",
@@ -841,7 +1545,15 @@
       "imdb_rating": "7.1",
       "imdb_id": "tt11083552",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODE4ZGY4OTktNDBjMy00NGVkLTk5YWUtNjA3NGU3MTA5NzM0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A mysteriously stoic character is hired as a security guard by a cash truck company responsible for transporting a lot of money around Los Angeles each week."
+      "Plot": "A mysteriously stoic character is hired as a security guard by a cash truck company responsible for transporting a lot of money around Los Angeles each week.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Guy Ritchie",
+      "Writer": "Nicolas Boukhrief, Éric Besnard, Guy Ritchie",
+      "Actors": "Jason Statham, Holt McCallany, Josh Hartnett",
+      "Language": "English, Spanish, Arabic",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Yaksha: Ruthless Operations",
@@ -850,7 +1562,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt12663250",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTAxMzhkNTQtYmFlYi00ZWZiLWEyYTAtZjdmZDI2M2Y3NzAyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Nicknamed after a human-devouring spirit, the ruthless leader of an overseas black ops team takes up a dangerous mission in a city riddled with spies."
+      "Plot": "Nicknamed after a human-devouring spirit, the ruthless leader of an overseas black ops team takes up a dangerous mission in a city riddled with spies.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Hyeon Na",
+      "Writer": "Hyeon Na, Ahn Sang-hoon",
+      "Actors": "Sul Kyung-gu, Park Hae-soo, Hiroyuki Ikeuchi",
+      "Language": "Korean, Chinese, Japanese, English",
+      "Country": "South Korea"
     },
     {
       "title": "The Takeover",
@@ -859,7 +1579,15 @@
       "imdb_rating": "5.3",
       "imdb_id": "tt18082758",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDNmZDFjZTktNTE2NC00Yzc1LTgzNDUtYWJhM2U3NzQxMjY5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Framed for murder after uncovering a privacy scandal, an ethical hacker must evade the police while trying to track down the criminals blackmailing her."
+      "Plot": "Framed for murder after uncovering a privacy scandal, an ethical hacker must evade the police while trying to track down the criminals blackmailing her.",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Annemarie van de Mond",
+      "Writer": "Hans Bot, Hans Erik Kraan, Tijs van Marle",
+      "Actors": "Holly Mae Brood, Géza Weisz, Frank Lammers",
+      "Language": "English, Dutch",
+      "Country": "Netherlands"
     },
     {
       "title": "Ambulance",
@@ -868,7 +1596,15 @@
       "imdb_rating": "6.1",
       "imdb_id": "tt4998632",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDZiY2RmNjgtYzYyZi00ZGEyLTlkOTUtZDc5OTUzY2NlMmEyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Two robbers steal an ambulance after their heist goes awry."
+      "Plot": "Two robbers steal an ambulance after their heist goes awry.",
+      "Type": "movie",
+      "RunTime": "136 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Michael Bay",
+      "Writer": "Chris Fedak, Laurits Munch-Petersen, Lars Andreas Pedersen",
+      "Actors": "Jake Gyllenhaal, Yahya Abdul-Mateen II, Eiza González",
+      "Language": "English, Spanish, Cantonese",
+      "Country": "United States, Japan"
     },
     {
       "title": "Big Nunu's Little Heist",
@@ -877,7 +1613,15 @@
       "imdb_rating": "4.1",
       "imdb_id": "tt24062912",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzU4YTViZTItMTM2Yi00N2E2LWEyMzgtZGFjNTFiMjY1NTA3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An ex-soldier turned deliveryman is dragged into a local kingpin's bumbling gang to pull off a daring heist in an infamous South African township."
+      "Plot": "An ex-soldier turned deliveryman is dragged into a local kingpin's bumbling gang to pull off a daring heist in an infamous South African township.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Andy 'Admiral' Kasrils",
+      "Writer": "Andy 'Admiral' Kasrils",
+      "Actors": "Jefferson Tshabalala, Tony Miyambo, Amahle Khumalo",
+      "Language": "Zulu",
+      "Country": "South Africa"
     },
     {
       "title": "Lesson Plan",
@@ -886,7 +1630,15 @@
       "imdb_rating": "5.0",
       "imdb_id": "tt23343786",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDE2NmVjZjMtZWZmYi00YjczLTkwYTMtZTEyN2JkMzFmYmMzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After a teacher tragically dies, his friend, who happens to be a former cop, takes over his old job in hopes of catching the people responsible for his murder."
+      "Plot": "After a teacher tragically dies, his friend, who happens to be a former cop, takes over his old job in hopes of catching the people responsible for his murder.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Daniel Markowicz",
+      "Writer": "Daniel Bernardi, Jan Kuznik",
+      "Actors": "Piotr Witkowski, Jan Wieczorkowski, Antonina Jarnuszkiewicz",
+      "Language": "Polish",
+      "Country": "Poland"
     },
     {
       "title": "Freestyle",
@@ -895,7 +1647,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt28366647",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWE2ZGRkZmEtNjE4MS00NjAyLWEyMjUtNzc5YzBkNzYwNTkzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In need of cash for time in the recording studio, a rising rap star with a criminal past sets up a risky drug deal that could cost him everything."
+      "Plot": "In need of cash for time in the recording studio, a rising rap star with a criminal past sets up a risky drug deal that could cost him everything.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Action, Crime",
+      "Director": "Maciej Bochniak",
+      "Writer": "Maciej Bochniak, Slawomir Shuty",
+      "Actors": "Maciej Musialowski, Nel Kaczmarek, Michal Sikorski",
+      "Language": "Polish",
+      "Country": "Poland"
     },
     {
       "title": "Etharkkum Thunindhavan",
@@ -904,7 +1664,15 @@
       "imdb_rating": "6.4",
       "imdb_id": "tt10340562",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzYwMTViYzItZmE0ZS00MjQ5LWIxZTQtZDY0YTc0ZWRkNjYxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A lawyer turns judge jury and executioner and goes after a gang, led by a minister's son, that threatens women with videos of them."
+      "Plot": "A lawyer turns judge jury and executioner and goes after a gang, led by a minister's son, that threatens women with videos of them.",
+      "Type": "movie",
+      "RunTime": "151 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Pandiraj",
+      "Writer": "M Chandramouli, Pandiraj",
+      "Actors": "Suriya, Priyanka Arulmohan, Sathyaraj",
+      "Language": "Tamil",
+      "Country": "India"
     },
     {
       "title": "DSP",
@@ -913,7 +1681,15 @@
       "imdb_rating": "3.6",
       "imdb_id": "tt23557940",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNGY2ZDFiNmItMGRkOC00MTVjLWE1ODgtZDI0MmIxZDIzYjlkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A flower seller's son ends up in a tussle with a ruthless rowdy in Dindigul, forcing him to become a policeman and fight the odds."
+      "Plot": "A flower seller's son ends up in a tussle with a ruthless rowdy in Dindigul, forcing him to become a policeman and fight the odds.",
+      "Type": "movie",
+      "RunTime": "144 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Ponram",
+      "Writer": "Ponram",
+      "Actors": "Pugazh, S Rajapandi, Vijay Sethupathi",
+      "Language": "Tamil, English",
+      "Country": "India"
     },
     {
       "title": "DSP (Hindi)",
@@ -930,7 +1706,15 @@
       "imdb_rating": "5.5",
       "imdb_id": "tt15281704",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDQyOWI0ZjctZTc0OS00NzBmLWE3NjAtYTU0ZjRhNDhiMThmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A van carrying cash on a rainy night in the outskirts of Mumbai is the crosshairs of three separate gangs all with the same plan. Now that they've crossed paths who will survive?"
+      "Plot": "A van carrying cash on a rainy night in the outskirts of Mumbai is the crosshairs of three separate gangs all with the same plan. Now that they've crossed paths who will survive?",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Aasmaan Bhardwaj",
+      "Writer": "Aasmaan Bhardwaj, Vishal Bhardwaj",
+      "Actors": "Tabu, Arjun Kapoor, Naseeruddin Shah",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Lost Bullet 2",
@@ -939,7 +1723,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt14465706",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMGIzY2RhMDQtMGZiMi00N2I3LTlmYWItNWIxMzA3M2ExNTZlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After the death of Charras, Lino and Julia took over and form the new narcotic unit. Determined to find the murderers of his brother and his mentor, Lino continues his hunt and won't let anyone get in his way."
+      "Plot": "After the death of Charras, Lino and Julia took over and form the new narcotic unit. Determined to find the murderers of his brother and his mentor, Lino continues his hunt and won't let anyone get in his way.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Guillaume Pierret",
+      "Writer": "Guillaume Pierret, Alban Lenoir",
+      "Actors": "Alban Lenoir, Stéfi Celma, Sébastien Lalanne",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Maha Samudram",
@@ -948,7 +1740,15 @@
       "imdb_rating": "5.0",
       "imdb_id": "tt13131798",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzg5YTI4ZTQtZWVhOC00Y2Q5LWExNTctMGY4ZmIyYmY2MzViXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Set in Visakhapatnam, the story is about four lives and their roller-coaster romantic ride."
+      "Plot": "Set in Visakhapatnam, the story is about four lives and their roller-coaster romantic ride.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Drama",
+      "Director": "Ajay Bhupathi",
+      "Writer": "Ajay Bhupathi, Tajuddin Syed",
+      "Actors": "Sharwanand, Siddharth, Aditi Rao Hydari",
+      "Language": "Telugu",
+      "Country": "India"
     },
     {
       "title": "Ghost in the Shell: SAC_2045 Sustainable War",
@@ -957,7 +1757,15 @@
       "imdb_rating": "5.8",
       "imdb_id": "tt15392166",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2JlYzRiM2QtNjVkYS00MmQ3LThhNmQtZmRhNmQwNjhiNzc3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In the year 2045, cybernetic mercenary Motoko Kusanagi returns to Section 9 to face the threat of the posthumans."
+      "Plot": "In the year 2045, cybernetic mercenary Motoko Kusanagi returns to Section 9 to face the threat of the posthumans.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Animation, Action, Sci-Fi",
+      "Director": "Shinji Aramaki, Michihito Fujii, Kenji Kamiyama",
+      "Writer": "Harumi Doki, Ryô Higaki, Kenji Kamiyama",
+      "Actors": "Atsuko Tanaka, Osamu Saka, Akio Ôtsuka",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "iNumber Number: Jozi Gold",
@@ -966,7 +1774,15 @@
       "imdb_rating": "4.4",
       "imdb_id": "tt27728519",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmJmNjI5ZjItYjE4YS00OTZjLTlkMjYtOGI5N2RmN2I2YzZhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When an undercover cop is tasked with investigating a historic gold heist in Johannesburg, he’s forced to choose between his conscience and the law."
+      "Plot": "When an undercover cop is tasked with investigating a historic gold heist in Johannesburg, he’s forced to choose between his conscience and the law.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "Donovan Marsh",
+      "Writer": "Donovan Marsh",
+      "Actors": "Lonwabo Bokamoso, Presley Chweneyagae, Willem Jacobus de Jongh",
+      "Language": "N/A",
+      "Country": "South Africa"
     },
     {
       "title": "Meter",
@@ -975,7 +1791,15 @@
       "imdb_rating": "3.7",
       "imdb_id": "tt26234988",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2I2MTZlY2ItZDZiNy00NDZjLTk3MmQtNGQwODY0ZjlhNmM2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Arjun Kalyan reluctantly becomes a police officer to fulfill his father's dream, then an unexpected turn of events forces him to go head-to-head with the home minister of the state."
+      "Plot": "Arjun Kalyan reluctantly becomes a police officer to fulfill his father's dream, then an unexpected turn of events forces him to go head-to-head with the home minister of the state.",
+      "Type": "movie",
+      "RunTime": "127 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Ramesh Kadhuri",
+      "Writer": "Ramesh Kadhuri, Suriya",
+      "Actors": "Kiran Abbavaram, Athulya Ravi, Keshav Deepak",
+      "Language": "Telugu, English",
+      "Country": "India"
     },
     {
       "title": "The Getaway King",
@@ -984,7 +1808,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt10516196",
       "Poster": "https://m.media-amazon.com/images/M/MV5BN2ZiOTNjYjgtNjFkMy00ZDgwLWExZjctYjg3OTE1ODJhMjVkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An action-crime-comedy set in the last days of communism in Poland; a story of folk-hero thief Naymro, who escaped from the police 29 times and lived on his own terms until love and the collapsing Berlin Wall changed everything."
+      "Plot": "An action-crime-comedy set in the last days of communism in Poland; a story of folk-hero thief Naymro, who escaped from the police 29 times and lived on his own terms until love and the collapsing Berlin Wall changed everything.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Action, Biography, Comedy",
+      "Director": "Mateusz Rakowicz",
+      "Writer": "Lukasz M. Maciejewski, Mateusz Rakowicz",
+      "Actors": "Dawid Ogrodnik, Robert Wieckiewicz, Rafal Zawierucha",
+      "Language": "Polish",
+      "Country": "Poland"
     },
     {
       "title": "Demon City",
@@ -993,7 +1825,15 @@
       "imdb_rating": "5.4",
       "imdb_id": "tt35111035",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzg3ZGY5MmUtNGViOC00ZjRkLTg4ZmYtMDI1NWZiZDQ0Zjc2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Framed for his family's murder and left for dead, an ex-hitman will stop at nothing to exact revenge on the masked \"demons\" who have taken over his city."
+      "Plot": "Framed for his family's murder and left for dead, an ex-hitman will stop at nothing to exact revenge on the masked \"demons\" who have taken over his city.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "Seiji Tanaka",
+      "Writer": "Masamichi Kawabe, Seiji Tanaka",
+      "Actors": "Tôma Ikuta, Masahiro Higashide, Miou Tanaka",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Furioza",
@@ -1002,7 +1842,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt18286666",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzE5NmFhNTctZDg0Yi00MjBkLWIzYzctMjQzZDAxNDdmNzM3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A past event divides the fates of three friends. Unexpectedly in the life of Dawid, now a doctor, she appears again. \"Wild\" - once the love of his life, now an experienced policewoman, makes him an offer he cannot refuse. Either h..."
+      "Plot": "A past event divides the fates of three friends. Unexpectedly in the life of Dawid, now a doctor, she appears again. \"Wild\" - once the love of his life, now an experienced policewoman, makes him an offer he cannot refuse. Either h...",
+      "Type": "series",
+      "RunTime": "16S min",
+      "Genre": "Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mateusz Banasiuk, Weronika Ksiazkiewicz, Mateusz Damiecki",
+      "Language": "Polish",
+      "Country": "Poland"
     },
     {
       "title": "Ballerina",
@@ -1011,7 +1859,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt26350277",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTgxNzA0MDktYzc5ZC00MGY3LWIwYjItMDJhNzE2ZGFjYmE1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Grieving the loss of a best friend she couldn't protect, an ex-bodyguard sets out to fulfill her dear friend's last wish: sweet revenge."
+      "Plot": "Grieving the loss of a best friend she couldn't protect, an ex-bodyguard sets out to fulfill her dear friend's last wish: sweet revenge.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Action, Thriller",
+      "Director": "Chung-Hyun Lee",
+      "Writer": "Chung-Hyun Lee",
+      "Actors": "Jeon Jong-seo, Kim Ji-hoon, Park Yu-rim",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "AKA",
@@ -1020,7 +1876,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt27197387",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDJiZmQ3OGUtOTEzYS00NDRkLTlmNjQtMTAzOWRjYTZhZGMwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A steely special ops agent finds his morality put to the test when he infiltrates a crime syndicate and unexpectedly bonds with the boss's young son."
+      "Plot": "A steely special ops agent finds his morality put to the test when he infiltrates a crime syndicate and unexpectedly bonds with the boss's young son.",
+      "Type": "movie",
+      "RunTime": "122 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Morgan S. Dalibert",
+      "Writer": "Morgan S. Dalibert, Alban Lenoir",
+      "Actors": "Alban Lenoir, Éric Cantona, Thibault de Montalembert",
+      "Language": "Arabic, French",
+      "Country": "France"
     },
     {
       "title": "Heart of the Hunter",
@@ -1029,7 +1893,15 @@
       "imdb_rating": "4.7",
       "imdb_id": "tt28943278",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjhiMWM3NjEtNzkxNy00NTNjLWEyNzQtYjdiZTFkODczNWYxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A retired assassin is pulled back into action when his friend uncovers a dangerous conspiracy at the heart of the South African government."
+      "Plot": "A retired assassin is pulled back into action when his friend uncovers a dangerous conspiracy at the heart of the South African government.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Thriller",
+      "Director": "Mandla Dube",
+      "Writer": "Deon Meyer, Willem Grobler",
+      "Actors": "Bonko Khoza, Connie Ferguson, Masasa Mbangeni",
+      "Language": "English",
+      "Country": "South Africa"
     },
     {
       "title": "Race 3",
@@ -1038,7 +1910,15 @@
       "imdb_rating": "1.9",
       "imdb_id": "tt7431594",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTM3Y2RlOGItMWY1My00MWY1LWExYmUtMDYxMmNkYmM5Mjg0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Relationships and loyalties of a criminal family planning its next big heist are tested when some shocking revelations strike them."
+      "Plot": "Relationships and loyalties of a criminal family planning its next big heist are tested when some shocking revelations strike them.",
+      "Type": "movie",
+      "RunTime": "160 min",
+      "Genre": "Action, Thriller",
+      "Director": "Remo D'Souza",
+      "Writer": "Shiraz Ahmed, Kiran Kotrial, Athar Nawaaz",
+      "Actors": "Anil Kapoor, Salman Khan, Bobby Deol",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Dabangg 3",
@@ -1047,7 +1927,15 @@
       "imdb_rating": "3.0",
       "imdb_id": "tt7059844",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNGRkZjQzNzctNTZjYi00YzgwLWE3NjctMmQ2OTE0OGJmNTk0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Chulbul Pandey encounters an enemy from his past, and his origin story as the fearless cop unfolds."
+      "Plot": "Chulbul Pandey encounters an enemy from his past, and his origin story as the fearless cop unfolds.",
+      "Type": "movie",
+      "RunTime": "160 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Prabhu Deva",
+      "Writer": "Salman Khan, Prabhu Deva, Alok Upadhyay",
+      "Actors": "Salman Khan, Sudeep, Sonakshi Sinha",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Believer 2",
@@ -1056,7 +1944,15 @@
       "imdb_rating": "5.6",
       "imdb_id": "tt26258204",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjA0OGJhMjYtNTQ3YS00ZGE5LTg5YzAtOGRlMTA1NWJkMTM4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A determined detective continues his search for the truth behind Asia's largest drug organization and its elusive boss he has unfinished business with."
+      "Plot": "A determined detective continues his search for the truth behind Asia's largest drug organization and its elusive boss he has unfinished business with.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Jong-Yeol Baek",
+      "Writer": "Cheol-Hong Jeon",
+      "Actors": "Kim Dong-young, Andreas Fronk, Han Hyo-joo",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "GodFather",
@@ -1065,7 +1961,15 @@
       "imdb_rating": "5.1",
       "imdb_id": "tt13130308",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDI2OTU2MzctMzYwZC00MjM5LThmNmQtZjRhOWFlMjQ4NjkyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A political leader's death leads to a power struggle. Amid corruption, greed and deceit, an unlikely opponent steps up."
+      "Plot": "A political leader's death leads to a power struggle. Amid corruption, greed and deceit, an unlikely opponent steps up.",
+      "Type": "movie",
+      "RunTime": "157 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Mohan Raja",
+      "Writer": "Lakshmi Bhupala, Murali Gopy, Mohan Raja",
+      "Actors": "Chiranjeevi, Salman Khan, Nayanthara",
+      "Language": "Telugu",
+      "Country": "India"
     },
     {
       "title": "Japan",
@@ -1074,7 +1978,15 @@
       "imdb_rating": "3.1",
       "imdb_id": "tt23474462",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDU3OWQ0MzQtNWM3NC00YzQ1LWI5MTQtNTc4NzdhYzRhNDA4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A daring robbery in a jewellery showroom kickstarts the hunt for Japan, a notorious robber, who is a law unto himself."
+      "Plot": "A daring robbery in a jewellery showroom kickstarts the hunt for Japan, a notorious robber, who is a law unto himself.",
+      "Type": "movie",
+      "RunTime": "156 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Raju Murugan",
+      "Writer": "C. Murugesh Babu, Raju Murugan",
+      "Actors": "Karthi, K.S. Ravikumar, Sunil",
+      "Language": "Tamil",
+      "Country": "India"
     },
     {
       "title": "Kaapa",
@@ -1083,7 +1995,15 @@
       "imdb_rating": "5.9",
       "imdb_id": "tt15251536",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDhjNGRlNzMtZWFkNi00YjA0LTg0NjQtMzlmNWQwZjg1MTk3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The film explores the dark underbelly of Thiruvananthapuram where rival goondas clash in cold-blooded gang wars to gain dominion over the city's suburbs and slums."
+      "Plot": "The film explores the dark underbelly of Thiruvananthapuram where rival goondas clash in cold-blooded gang wars to gain dominion over the city's suburbs and slums.",
+      "Type": "movie",
+      "RunTime": "136 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Shaji Kailas",
+      "Writer": "G.R. Indugopan",
+      "Actors": "Prithviraj Sukumaran, Asif Ali, Anna Ben",
+      "Language": "Malayalam",
+      "Country": "India"
     },
     {
       "title": "Furies",
@@ -1092,7 +2012,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt11384300",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNDkyNmU4MzAtOTkxOC00YzQ2LTlmY2QtOWQ0YmVjOGQxMWFlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A dive into Paris's criminal underworld, where Lyna meets the enigmatic and brutal Furie, the boss of this hazardous environment."
+      "Plot": "A dive into Paris's criminal underworld, where Lyna meets the enigmatic and brutal Furie, the boss of this hazardous environment.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Action, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Jean-Yves Arnaud, Yoann Legave",
+      "Actors": "Lina El Arabi, Marina Foïs, Steve Tientcheu",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "The Ghost",
@@ -1101,7 +2029,15 @@
       "imdb_rating": "5.1",
       "imdb_id": "tt15309632",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTI1YjNhZGMtYjg0MC00YTU5LTkyMjctNGQwMGViNzYyOTljXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An ex-Interpol officer wreaks havoc and sends shock waves across the global underworld but goes missing in action, only to remerge years later, for his beloved family."
+      "Plot": "An ex-Interpol officer wreaks havoc and sends shock waves across the global underworld but goes missing in action, only to remerge years later, for his beloved family.",
+      "Type": "movie",
+      "RunTime": "138 min",
+      "Genre": "Action, Thriller",
+      "Director": "Praveen Sattaru",
+      "Writer": "Ali Lucknowi, Abhijeeth Poondla, Praveen Sattaru",
+      "Actors": "Nagarjuna Akkineni, Sonal Chauhan, Gul Panag",
+      "Language": "Telugu",
+      "Country": "India"
     },
     {
       "title": "Inkabi",
@@ -1110,7 +2046,15 @@
       "imdb_rating": "4.6",
       "imdb_id": "tt32365822",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMmZhYWIxMzQtNGUwZS00YmJhLTk3ZGQtYjFjNjVmZGFhYmVkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Rank, a retired hitman, becomes a taxi driver. Lucy, a casino worker, witnesses a murder, is targeted. She turns to Frank for help. He kills to protect her, despite being retired, as she has no one else."
+      "Plot": "Rank, a retired hitman, becomes a taxi driver. Lucy, a casino worker, witnesses a murder, is targeted. She turns to Frank for help. He kills to protect her, despite being retired, as she has no one else.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Action",
+      "Director": "Norman Maake",
+      "Writer": "Norman Maake",
+      "Actors": "Dumisani Dlamini, Nkosinathi Keswa, Mimi Mamabolo",
+      "Language": "English, Zulu",
+      "Country": "South Africa"
     },
     {
       "title": "HELL DOGS - IN THE HOUSE OF BAMBOO -",
@@ -1129,7 +2073,15 @@
       "imdb_rating": "4.8",
       "imdb_id": "tt17677492",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDUwNzJkZjYtOTAwYS00MWUxLTgxMDctYWRhMjA4ODFkYzUwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A young girl leads a double life as an assassin for hire."
+      "Plot": "A young girl leads a double life as an assassin for hire.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Tôichirô Rutô",
+      "Writer": "Renji Asai, Itaru Era, Tôichirô Rutô",
+      "Actors": "Kanna Hashimoto, Yôsuke Sugino, Fumika Baba",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Inside Furioza",
@@ -1148,7 +2100,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt28349451",
       "Poster": "https://m.media-amazon.com/images/M/MV5BODdmZTc0MzktN2IwNy00NWJiLTlmZWEtZjVjNGY1ODEzNjk5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Codename 13, a 17-year-old assassin, is suspended due to a sloppy mission in Japan. She meets 11-year-old Monji, who loses his mother, and sets out to rescue him."
+      "Plot": "Codename 13, a 17-year-old assassin, is suspended due to a sloppy mission in Japan. She meets 11-year-old Monji, who loses his mother, and sets out to rescue him.",
+      "Type": "movie",
+      "RunTime": "144 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Timo Tjahjanto",
+      "Writer": "Timo Tjahjanto",
+      "Actors": "Aurora Ribero, Hana Malasan, Taskya Namya",
+      "Language": "Indonesian, English, Japanese, Chinese",
+      "Country": "Indonesia, United States"
     },
     {
       "title": "Bhola Shankar",
@@ -1157,7 +2117,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt0155549",
       "Poster": "N/A",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "Vishram Bedekar",
+      "Writer": "N/A",
+      "Actors": "Sadhona Bose, Jagdeep",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Buffoon",
@@ -1166,7 +2134,15 @@
       "imdb_rating": "5.0",
       "imdb_id": "tt14391226",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTk3MDQyNmUtYWM4MC00ZGZkLWIwMGItNTY2NzgxMDUxZjYwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Rangarajan, a powerful casteist politician confronts the party leader for MLA seat and if denied warns to start a separate party. How far will he go to see it happen?"
+      "Plot": "Rangarajan, a powerful casteist politician confronts the party leader for MLA seat and if denied warns to start a separate party. How far will he go to see it happen?",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Drama",
+      "Director": "Ashok Veerappan",
+      "Writer": "Ashok Veerappan",
+      "Actors": "Vaibhav Reddy, Anagha L.K., Anthakudi Ilayaraja",
+      "Language": "Tamil",
+      "Country": "India"
     },
     {
       "title": "Leo (Tamil)",
@@ -1185,7 +2161,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt26319590",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjY4OTUzMTUtYWYzZC00YTYzLWFmODEtNWRlZThjOGI3YmY2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A"
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "K. Chandru",
+      "Writer": "K. Chandru",
+      "Actors": "Keerthy Suresh, Redin Kingsley, Sunil",
+      "Language": "Tamil",
+      "Country": "India"
     },
     {
       "title": "VidaaMuyarchi",
@@ -1194,7 +2178,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt18926098",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZjYxMDE2OTAtNmQ5Yi00ZTcwLTgwOGQtZThmOTdhMzFhMjRiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A married couple's trip takes an unsettling turn when the wife goes missing, prompting the husband's frantic search while an unknown villain creates obstacles."
+      "Plot": "A married couple's trip takes an unsettling turn when the wife goes missing, prompting the husband's frantic search while an unknown villain creates obstacles.",
+      "Type": "movie",
+      "RunTime": "154 min",
+      "Genre": "Action, Thriller",
+      "Director": "Magizh Thirumeni",
+      "Writer": "Magizh Thirumeni",
+      "Actors": "Ajith Kumar, Arjun Sarja, Trisha Krishnan",
+      "Language": "Tamil, English, Telugu, Malayalam, Kannada, Hindi",
+      "Country": "India"
     },
     {
       "title": "Stealing Raden Saleh",
@@ -1203,7 +2195,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt13484872",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDY0ZTZkNTctYzc3My00YjU0LWExZGQtY2UyZmY1ZjI4M2YxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "To save his father, a master forger sets out to steal an invaluable painting with the help of a motley crew of specialists."
+      "Plot": "To save his father, a master forger sets out to steal an invaluable painting with the help of a motley crew of specialists.",
+      "Type": "movie",
+      "RunTime": "154 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Angga Dwimas Sasongko",
+      "Writer": "Angga Dwimas Sasongko, Husein M. Atmodjo",
+      "Actors": "Iqbaal Dhiafakhri Ramadhan, Angga Yunanda, Rachel Amanda",
+      "Language": "Indonesian",
+      "Country": "Indonesia, Malaysia"
     },
     {
       "title": "GodFather (Hindi)",
@@ -1222,7 +2222,15 @@
       "imdb_rating": "6.1",
       "imdb_id": "tt26594589",
       "Poster": "https://m.media-amazon.com/images/M/MV5BM2VmY2EyYWItYWY0Ni00MDE4LWJjZDYtYmU3YmYxZmFhN2YxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Detective Yuji Kudo drives his car to see his mother, who is hospitalized with a serious health condition. Yuji then accidentally hits a man with his car and that man dies. At the hospital, Yuji tries to cover up the death of the ..."
+      "Plot": "Detective Yuji Kudo drives his car to see his mother, who is hospitalized with a serious health condition. Yuji then accidentally hits a man with his car and that man dies. At the hospital, Yuji tries to cover up the death of the ...",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Michihito Fujii",
+      "Writer": "Michihito Fujii, Kenya Hirata, Kim Seong-hun",
+      "Actors": "Gô Ayano, Tim Dang, Akira Emoto",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Almost Cops",
@@ -1231,7 +2239,15 @@
       "imdb_rating": "4.8",
       "imdb_id": "tt27675583",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmY4ZTNjOTItODJkMy00MTFjLTgwNGItZTk1ZjQyMjYxMWRiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A dedicated special investigator is forced to team up with a reckless demoted ex-detective to hunt down a killer in this buddy cop comedy."
+      "Plot": "A dedicated special investigator is forced to team up with a reckless demoted ex-detective to hunt down a killer in this buddy cop comedy.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Gonzalo Fernandez Carmona",
+      "Writer": "Kenneth Asporaat, Michel Bonset, Murth Mossel",
+      "Actors": "Jandino Asporaat, Werner Kolf, Florence Vos Weeda",
+      "Language": "Dutch",
+      "Country": "Netherlands"
     },
     {
       "title": "Bangkok Breaking: Heaven and Hell",
@@ -1240,7 +2256,15 @@
       "imdb_rating": "5.8",
       "imdb_id": "tt31158592",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzUxMjAyOWItZDczNy00YTAwLWFmZGItZjhjYzA4ZTY1YjI4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When a dedicated rescue worker inadvertently gets caught up in the kidnapping plot of a mogul's tween daughter, he must save her from the clutches of rival gangs hunting them down with unpredictable dangers around every corner."
+      "Plot": "When a dedicated rescue worker inadvertently gets caught up in the kidnapping plot of a mogul's tween daughter, he must save her from the clutches of rival gangs hunting them down with unpredictable dangers around every corner.",
+      "Type": "movie",
+      "RunTime": "146 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Kome Kongkiat Komesiri",
+      "Writer": "Kome Kongkiat Komesiri",
+      "Actors": "Sukollawat Kanarot, Sanya Kunakorn, Atitaya Tribudarak",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "Tillu Square",
@@ -1249,7 +2273,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt22987820",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNTYyZGUyMzktMzhmMi00MjRjLThlMjUtZmRjMjdmNzQ2OWQ5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "One year after a love affair entangled him in a murder case, a hapless DJ has a one-night stand that leads to even messier kerfuffles tied to his past."
+      "Plot": "One year after a love affair entangled him in a murder case, a hapless DJ has a one-night stand that leads to even messier kerfuffles tied to his past.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Mallik Ram",
+      "Writer": "Ravi Anthony, Sidhu Jonnalagadda, Mallik Ram",
+      "Actors": "Anupama Parameswaran, Sidhu Jonnalagadda, Priyanka Jawalkar",
+      "Language": "Telugu",
+      "Country": "India"
     },
     {
       "title": "Nice Girls",
@@ -1258,7 +2290,15 @@
       "imdb_rating": "4.2",
       "imdb_id": "tt29288566",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjRjODJlNzMtMDE3MS00NzNmLWI0OTQtMWE1NTNhNzkyYTFjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When Léo's brother Ludo is killed in Hamburg, despite orders she partners with German cop Mélanie to investigate. Unbeknownst to them, Nice faces a threat and they share an unknown connection."
+      "Plot": "When Léo's brother Ludo is killed in Hamburg, despite orders she partners with German cop Mélanie to investigate. Unbeknownst to them, Nice faces a threat and they share an unknown connection.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Noémie Saglio",
+      "Writer": "Antoine Dallancour, Philippe Planells, Noémie Saglio",
+      "Actors": "Alice Taglioni, Stéfi Celma, Baptiste Lecaplain",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Den of Thieves 2: Pantera",
@@ -1277,7 +2317,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt37162821",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMjJhZTE5NjMtMzU4Ni00MjFhLTk5ZGEtMGIyNjRkYzMxOTk5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "KINGDOM is a short documentary about the drag kings of London: their performances, their community and their history."
+      "Plot": "KINGDOM is a short documentary about the drag kings of London: their performances, their community and their history.",
+      "Type": "movie",
+      "RunTime": "19 min",
+      "Genre": "Documentary, Short",
+      "Director": "Poppy Bullard",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Mass Jathara",
@@ -1296,7 +2344,15 @@
       "imdb_rating": "4.6",
       "imdb_id": "tt28622758",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGEyN2IwYjctMjk0MC00ZDJlLTliYzktNGZmNjBhYTEwODRiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An unconventional anti-terrorist operative must defy his bosses in order to foil a devastating attack on his nation in this action thriller."
+      "Plot": "An unconventional anti-terrorist operative must defy his bosses in order to foil a devastating attack on his nation in this action thriller.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Bommarillu Baskar",
+      "Writer": "Bommarillu Baskar, Bala Ganesh K",
+      "Actors": "Brahmaji, Vaishnavi Chaitanya, Sidhu Jonnalagadda",
+      "Language": "Telugu, Hindi, Tamil, Kannada, Malayalam",
+      "Country": "India"
     },
     {
       "title": "Savi",
@@ -1305,7 +2361,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt32308617",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzhjYjZjN2QtMzAwYy00MTc4LWFkYjMtMmVhZTJmNjllODU2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Savi a simple housewife attempts a daring jailbreak to get her husband out of one of England's high security prisons With 400 inmates, 75 armed guards, 60 surveillance cameras."
+      "Plot": "Savi a simple housewife attempts a daring jailbreak to get her husband out of one of England's high security prisons With 400 inmates, 75 armed guards, 60 surveillance cameras.",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Abhinay Deo",
+      "Writer": "Aseem Arora, Abhinay Deo",
+      "Actors": "Divya Khossla, Harshvardhan Rane, Mairaaj Kakkar",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Jewel Thief - The Heist Begins",
@@ -1314,7 +2378,15 @@
       "imdb_rating": "4.1",
       "imdb_id": "tt27843798",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWM5ZGVkNjItZDg0MC00YjIwLTkyNjEtYjdlMGM2Mjc4ODFmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A master thief accepts a mission to steal the legendary African Red Sun diamond. What begins as a meticulously planned heist spirals into a dangerous game of double-crosses and shifting loyalties."
+      "Plot": "A master thief accepts a mission to steal the legendary African Red Sun diamond. What begins as a meticulously planned heist spirals into a dangerous game of double-crosses and shifting loyalties.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Robbie Grewal, Kookie Gulati",
+      "Writer": "Sumit Arora, David Logan",
+      "Actors": "Jaideep Ahlawat, Gagan Arora, Ivana Brcan",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Wanted Man",
@@ -1323,7 +2395,15 @@
       "imdb_rating": "4.9",
       "imdb_id": "tt15791574",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNWIxYzZlMzUtZTg1YS00MDhjLWIwOWEtY2Y5ZmFmZTQ3YzA1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows a police officer who must retrieve an eyewitness and escort her after a cartel shooting leaves several DEA agents dead, but then he must decide who to trust when they discover that the attack was executed by American forces."
+      "Plot": "Follows a police officer who must retrieve an eyewitness and escort her after a cartel shooting leaves several DEA agents dead, but then he must decide who to trust when they discover that the attack was executed by American forces.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Dolph Lundgren",
+      "Writer": "Dolph Lundgren, Michael Worth, Hank Hugues",
+      "Actors": "Dolph Lundgren, Christina Villa, Kelsey Grammer",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "The Black Book",
@@ -1332,7 +2412,15 @@
       "imdb_rating": "5.3",
       "imdb_id": "tt24083908",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDBlNzU1NWItZmZkOC00YTI5LWJkMDQtZTJiMGVkYjJkNjZjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After his son is framed for a kidnapping, a bereaved deacon takes justice into his own hands and fights a corrupt police gang to absolve him."
+      "Plot": "After his son is framed for a kidnapping, a bereaved deacon takes justice into his own hands and fights a corrupt police gang to absolve him.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Thriller",
+      "Director": "Editi Effiong",
+      "Writer": "Editi Effiong, Bunmi Ajakaiye",
+      "Actors": "Richard Mofe-Damijo, Ade Laoye, Sam Dede",
+      "Language": "English",
+      "Country": "Nigeria"
     },
     {
       "title": "Last Bullet",
@@ -1341,7 +2429,15 @@
       "imdb_rating": "6.3",
       "imdb_id": "tt29768333",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGJkM2I2MjAtMmRiNy00MTkyLTg4ZDUtZjI1MmQxNzljNTUxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In southern France, Lino is a getaway driver, ex-convict, and burglar who builds cars for criminal purposes."
+      "Plot": "In southern France, Lino is a getaway driver, ex-convict, and burglar who builds cars for criminal purposes.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Guillaume Pierret",
+      "Writer": "Guillaume Pierret, Caryl Ferey",
+      "Actors": "Alban Lenoir, Nicolas Duvauchelle, Stéfi Celma",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Officer Black Belt",
@@ -1350,7 +2446,15 @@
       "imdb_rating": "6.9",
       "imdb_id": "tt28494829",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNWRkMTAzOGYtOTE4Ny00Yzg3LWExYzAtNDVhNjJjYmIwMTRkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A talented martial artist who can't walk past a person in need unites with a probation officer to fight and prevent crime as a martial arts officer."
+      "Plot": "A talented martial artist who can't walk past a person in need unites with a probation officer to fight and prevent crime as a martial arts officer.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Joo-hwan Kim",
+      "Writer": "Dawn Anderson, Kim Joo-hwan",
+      "Actors": "Kim Woo-bin, Kim Sung Kyun, Ren Hanami",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "GTMAX",
@@ -1359,7 +2463,15 @@
       "imdb_rating": "5.0",
       "imdb_id": "tt29260436",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDk1ODA0ZmQtNmM4YS00Mzc1LWJmMDItYmU3ZGE0M2FjMGY0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When a notorious gang of bikers recruits her brother for a heist, a former motocross champion must face her deepest fears to keep her family safe."
+      "Plot": "When a notorious gang of bikers recruits her brother for a heist, a former motocross champion must face her deepest fears to keep her family safe.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Olivier Schneider",
+      "Writer": "Jean-André Yerlès, Rémi Leautier, Rachid Santaki",
+      "Actors": "Ava Baya, Jalil Lespert, Jérémie Laheurte",
+      "Language": "French",
+      "Country": "France, Belgium"
     },
     {
       "title": "Daaku Maharaaj",
@@ -1368,7 +2480,15 @@
       "imdb_rating": "5.9",
       "imdb_id": "tt27957740",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMzJhNDJkODUtNDU4ZC00ZjBhLWI0NDItZGJmNDNmYTllNDI2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A daring robber, striving for survival and establishing his own territory amid conflicts with powerful adversaries, battling to become a 'king without a kingdom'."
+      "Plot": "A daring robber, striving for survival and establishing his own territory amid conflicts with powerful adversaries, battling to become a 'king without a kingdom'.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Bobby Kolli",
+      "Writer": "Bhanu-Nandu, Bobby Kolli, Hari Mohana Krishna",
+      "Actors": "Nandamuri Balakrishna, Bobby Deol, Pragya Jaiswal",
+      "Language": "Telugu",
+      "Country": "India"
     },
     {
       "title": "Gangs of Godavari",
@@ -1377,7 +2497,15 @@
       "imdb_rating": "5.0",
       "imdb_id": "tt27349461",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWRiYjkwYWMtYjYzMy00YzhlLThkN2ItZjllZWQ2Y2I5ZGU0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A morally-corrupt man seeks to rise within the gritty world of politics and power - but his ambition could ultimately cost him his life."
+      "Plot": "A morally-corrupt man seeks to rise within the gritty world of politics and power - but his ambition could ultimately cost him his life.",
+      "Type": "movie",
+      "RunTime": "165 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Krishna Chaitanya",
+      "Writer": "Krishna Chaitanya",
+      "Actors": "Vishwak Sen, Nassar, Anjali",
+      "Language": "Telugu",
+      "Country": "India"
     },
     {
       "title": "Bogeyman",
@@ -1386,7 +2514,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt27881699",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMThjYmViM2EtODQ5Ny00N2M1LWI4MjAtNzljZGMyZTcyNGVhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A pharmacist doctor falls in love with a criminal who decides to repent and leave criminality, and together with his friend, faces many situations that turn the course of events upside down."
+      "Plot": "A pharmacist doctor falls in love with a criminal who decides to repent and leave criminality, and together with his friend, faces many situations that turn the course of events upside down.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Action, Comedy",
+      "Director": "Husain El-Minbawi",
+      "Writer": "Ehab Blebel",
+      "Actors": "Amir Karara, Yasmine Sabri, Mohamed Anwar",
+      "Language": "Arabic",
+      "Country": "Egypt"
     },
     {
       "title": "24 Hours with Gaspar",
@@ -1395,7 +2531,15 @@
       "imdb_rating": "4.8",
       "imdb_id": "tt14773940",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYTZjMDUwYzMtZmVkMi00NzgxLTg2MmItYzA2ODg5N2NlYzk4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "With only 24 hours left to live, a private investigator follows a trail of confounding clues to uncover the disappearance of his childhood friend."
+      "Plot": "With only 24 hours left to live, a private investigator follows a trail of confounding clues to uncover the disappearance of his childhood friend.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Yosep Anggi Noen",
+      "Writer": "Sabda Armandio, Mohammad Irfan Ramly",
+      "Actors": "Reza Rahadian, Shenina Cinnamon, Laura Basuki",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "Salaar",
@@ -1404,7 +2548,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt13927994",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZDExMmNmMTgtNWU3MS00YzFkLWIwMjMtZmJlMmE3YTI0ZDBmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The fate of a violently contested kingdom hangs on the fraught bond between two friends-turned-foes in this saga of power, bloodshed and betrayal."
+      "Plot": "The fate of a violently contested kingdom hangs on the fraught bond between two friends-turned-foes in this saga of power, bloodshed and betrayal.",
+      "Type": "movie",
+      "RunTime": "175 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Prashanth Neel",
+      "Writer": "Sandeep Reddy Bandla, Manish Bhavan, Choudary Hanuman",
+      "Actors": "Prabhas, Karthikeya Dev, Prithviraj Sukumaran",
+      "Language": "Telugu",
+      "Country": "India"
     },
     {
       "title": "Trouble",
@@ -1413,7 +2565,15 @@
       "imdb_rating": "6.2",
       "imdb_id": "tt30217143",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTMwZmFkZjctOGJhMi00ZmQyLTk4ODAtYTM0OTFlNjkyZTVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Conny, a divorced salesman, gets wrongfully imprisoned for murder. There, he meets criminals who mistake him for a pilot like his ex-wife's new boyfriend. Chaos ensues as he navigates life behind bars while separated from his daug..."
+      "Plot": "Conny, a divorced salesman, gets wrongfully imprisoned for murder. There, he meets criminals who mistake him for a pilot like his ex-wife's new boyfriend. Chaos ensues as he navigates life behind bars while separated from his daug...",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Jon Holmberg",
+      "Writer": "Jon Holmberg, Tapio Leopold",
+      "Actors": "Filip Berg, Amy Deasismont, Eva Melander",
+      "Language": "Swedish",
+      "Country": "Sweden"
     },
     {
       "title": "Jigra",
@@ -1422,7 +2582,15 @@
       "imdb_rating": "6.1",
       "imdb_id": "tt26733317",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNmJhMTc5NDEtN2NkOC00Njc3LWJiMzgtZjhjZWNhZDhmZTE0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When Ankur is wrongfully imprisoned and sentenced to death in a foreign country, his steely sister Satya is driven by a lethal resolve to break him free."
+      "Plot": "When Ankur is wrongfully imprisoned and sentenced to death in a foreign country, his steely sister Satya is driven by a lethal resolve to break him free.",
+      "Type": "movie",
+      "RunTime": "153 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Vasan Bala",
+      "Writer": "Vasan Bala, Debashish Irengbam",
+      "Actors": "Alia Bhatt, Sikandar Kher, Vedang Raina",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Tee Yai: Born To Be Bad",
@@ -1431,7 +2599,15 @@
       "imdb_rating": "5.4",
       "imdb_id": "tt35669044",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOWU5YzkzNTAtODdkYy00N2JhLTgxNjUtMjU2ZjQzZjEwZjZjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Two outlaws whose relationship is put to the test by a detective set on tracking down a infamous gang of robbers in 1980s Bangkok."
+      "Plot": "Two outlaws whose relationship is put to the test by a detective set on tracking down a infamous gang of robbers in 1980s Bangkok.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Drama",
+      "Director": "Nonzee Nimibutr",
+      "Writer": "N/A",
+      "Actors": "Wisarut Himmarat, Supassra Thanachat, Apo Nattawin Wattanagitiphat",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "Leo (English)",
@@ -1450,7 +2626,15 @@
       "imdb_rating": "5.8",
       "imdb_id": "tt36240772",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTExNjM4NzAtY2FiZS00M2VmLWE1MjUtNWM1MTk3YTg1ZjQwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After accidentally killing his rival in an MMA bout, a man has the chance to make it up to the widow by finding her son."
+      "Plot": "After accidentally killing his rival in an MMA bout, a man has the chance to make it up to the widow by finding her son.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Antoine Blossier",
+      "Writer": "Guillaume Lemans, Louis Aubert, Clément Marchand",
+      "Actors": "Ciryl Gane, Alice Belaïdi, Foued Nabba",
+      "Language": "French",
+      "Country": "France, Belgium"
     },
     {
       "title": "The Pig, the Snake and the Pigeon",
@@ -1459,7 +2643,15 @@
       "imdb_rating": "7.3",
       "imdb_id": "tt29319990",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzdkZTgzZWUtNGI4NS00MTJmLTllMjktMmE5YzA5YTU5MGRkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Discovering that he is only the third most wanted fugitive in Taiwan, a criminal embarks on a journey to overtake the first two."
+      "Plot": "Discovering that he is only the third most wanted fugitive in Taiwan, a criminal embarks on a journey to overtake the first two.",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Wong Ching-Po",
+      "Writer": "Wong Ching-Po",
+      "Actors": "Ethan Juan, Ben Yuen, Chen Yiwen",
+      "Language": "Mandarin, Cantonese",
+      "Country": "Taiwan"
     },
     {
       "title": "Magik Rompak",
@@ -1468,7 +2660,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt34464199",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2EwYzk2NGMtZDE1MC00Nzg5LTkwZmQtOThlMTVkNzI5NTQ5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A skilled magician recruits an unlikely team for a daring heist to acquire a valuable gem. As they navigate their intertwined histories and escalating stakes, they must master deception, confront vulnerabilities."
+      "Plot": "A skilled magician recruits an unlikely team for a daring heist to acquire a valuable gem. As they navigate their intertwined histories and escalating stakes, they must master deception, confront vulnerabilities.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Adrian Teh",
+      "Writer": "Zuli Ismail, Adrian Teh",
+      "Actors": "Sharnaaz Ahmad, Amelia Henderson, Zul Ariffin",
+      "Language": "Malay",
+      "Country": "Malaysia, Singapore"
     },
     {
       "title": "13 Bombs",
@@ -1477,7 +2677,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt27490380",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNjUyZWMzOWYtNjJkZC00MGU3LThiMGMtNDExOGVjODNkMWU5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An organization races against time to uncover the mastermind behind the placement of 13 bombs in Jakarta before the city falls into chaos."
+      "Plot": "An organization races against time to uncover the mastermind behind the placement of 13 bombs in Jakarta before the city falls into chaos.",
+      "Type": "movie",
+      "RunTime": "143 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Angga Dwimas Sasongko",
+      "Writer": "Angga Dwimas Sasongko, Mohammad Irfan Ramly",
+      "Actors": "Ardhito Pramono, Lutesha, Chicco Kurniawan",
+      "Language": "Indonesian",
+      "Country": "Indonesia, South Korea"
     },
     {
       "title": "Bad Boys: Ride or Die",
@@ -1486,7 +2694,15 @@
       "imdb_rating": "6.5",
       "imdb_id": "tt4919268",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZWNjZWUwNDgtYTM4ZC00Zjk0LTg3ZWItNGEyZmVkZTIxZDk0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When their late police captain gets linked to drug cartels, wisecracking Miami cops Mike Lowrey and Marcus Burnett embark on a dangerous mission to clear his name."
+      "Plot": "When their late police captain gets linked to drug cartels, wisecracking Miami cops Mike Lowrey and Marcus Burnett embark on a dangerous mission to clear his name.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Adil El Arbi, Bilall Fallah",
+      "Writer": "Chris Bremner, Will Beall, George Gallo",
+      "Actors": "Will Smith, Martin Lawrence, Vanessa Hudgens",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Mission: Cross",
@@ -1495,7 +2711,15 @@
       "imdb_rating": "6.1",
       "imdb_id": "tt30515931",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmJmZTMwNTUtY2MxNy00YjQzLTk1YWYtZTE5ZmE0Y2ViODk4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In the ultimate test of marriage, an agent-turned-househusband gets tangled in a perilous mission with his detective wife, who's clueless about his past."
+      "Plot": "In the ultimate test of marriage, an agent-turned-househusband gets tangled in a perilous mission with his detective wife, who's clueless about his past.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Lee Myung Hoon",
+      "Writer": "Lee Myung Hoon",
+      "Actors": "Hwang Jung-min, Yum Jung-ah, Jeon Hye-jin",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Aftermath",
@@ -1504,7 +2728,15 @@
       "imdb_rating": "5.2",
       "imdb_id": "tt26545708",
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2JjNjg2ZDItOTVhYy00YmI5LWJkYjktM2M0MTBlM2RlN2I5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A returning war veteran, stricken with PTSD, unwittingly gets trapped with his teenage sister on Boston's Tobin Memorial Bridge as a heavily weaponized group of ex-military revolutionists take everyone hostage."
+      "Plot": "A returning war veteran, stricken with PTSD, unwittingly gets trapped with his teenage sister on Boston's Tobin Memorial Bridge as a heavily weaponized group of ex-military revolutionists take everyone hostage.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Action, Thriller",
+      "Director": "Patrick Lussier",
+      "Writer": "Nathan Graham Davis",
+      "Actors": "Dylan Sprouse, Mason Gooding, Megan Stott",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Mad Square",
@@ -1513,7 +2745,15 @@
       "imdb_rating": "5.7",
       "imdb_id": "tt32327574",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjc3NDMyYTYtNTYxMi00MTlhLTkwZDktYzlhMGIyZDcyOWRhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Three college buddies navigate their way through campus life, leading to wild adventures and laugh-out-loud moments."
+      "Plot": "Three college buddies navigate their way through campus life, leading to wild adventures and laugh-out-loud moments.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Comedy",
+      "Director": "Kalyan Shankar, Murali",
+      "Writer": "Pranay Rao, Kalyan Shankar",
+      "Actors": "Narne Nithiin, Ram Nithin, Sangeeth Shobhan",
+      "Language": "Telugu",
+      "Country": "India"
     },
     {
       "title": "Retro",
@@ -1522,7 +2762,15 @@
       "imdb_rating": "6.6",
       "imdb_id": "tt31945132",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmQ0ZTMzYTUtNjc2Yy00NWU5LWJiMDMtMDNjYmQyMzc4NTc2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Raised by a criminal father, Paari leaves behind his adoptive family to build a quiet life with his love, Rukmini. But his violent past won't let him go."
+      "Plot": "Raised by a criminal father, Paari leaves behind his adoptive family to build a quiet life with his love, Rukmini. But his violent past won't let him go.",
+      "Type": "movie",
+      "RunTime": "168 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Karthik Subbaraj",
+      "Writer": "Karthik Subbaraj",
+      "Actors": "Suriya, Pooja Hegde, Jayaram",
+      "Language": "Tamil, Telugu, Malayalam, Kannada",
+      "Country": "India"
     },
     {
       "title": "Good Bad Ugly",
@@ -1531,7 +2779,15 @@
       "imdb_rating": "7.6",
       "imdb_id": "tt27540217",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTViMDEwZjgtMjEzZS00YWQ1LWI0ODctMWIzNTE4Y2Y5Y2Y2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A fearless don tries to change his ruthless ways and violent past to live peacefully with his family. However, his dark past continues to haunt him. He faces it head-on and overcomes it."
+      "Plot": "A fearless don tries to change his ruthless ways and violent past to live peacefully with his family. However, his dark past continues to haunt him. He faces it head-on and overcomes it.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Adhik Ravichandran",
+      "Writer": "Adhik Ravichandran",
+      "Actors": "Ajith Kumar, Trisha Krishnan, Priya Prakash Varrier",
+      "Language": "Tamil",
+      "Country": "India"
     },
     {
       "title": "They Call Him OG",
@@ -1550,7 +2806,31 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt23398540",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTRlMjkwZjQtMGIwOC00OWFmLTk5OWMtMmY1NWYxOGVkYjFkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": null
+      "Plot": "movie",
+      "Type": "Thug Life",
+      "RunTime": "Action, Drama, Thriller",
+      "Genre": "Mani Ratnam",
+      "Director": "Kamal Haasan, Mani Ratnam",
+      "Writer": "Kamal Haasan, Silambarasan TR, Trisha Krishnan",
+      "Actors": "Tamil",
+      "Language": "India"
+    },
+    {
+      "title": "The Rip",
+      "netflix_url": "https://www.netflix.com/title/81915745",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32642706",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTJhNTJiOTItYjk4Yy00MjliLWJmZTgtYjA2YTVjOGZlMGQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of Miami cops discovers a stash of millions in cash, leading to distrust as outsiders learn about the huge seizure, making them question who to rely on.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Joe Carnahan",
+      "Writer": "Joe Carnahan, Michael McGrale",
+      "Actors": "Teyana Taylor, Matt Damon, Ben Affleck",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "A Time For Bravery",
@@ -1569,7 +2849,15 @@
       "imdb_rating": "7.0",
       "imdb_id": "tt33291871",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZTU4ZWRlYTUtNGY0Yy00NDNjLThlNzQtY2M1NDNiOWM5MWJkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Babu and Yesu, former delivery agents, embark on a thrilling mission as special agents, facing extraordinary challenges with humor, surprises, and nonstop excitement."
+      "Plot": "Babu and Yesu, former delivery agents, embark on a thrilling mission as special agents, facing extraordinary challenges with humor, surprises, and nonstop excitement.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Ritesh Rana",
+      "Writer": "Ritesh Rana",
+      "Actors": "Faria Abdullah, Ajay, Raja Chembolu",
+      "Language": "Telugu",
+      "Country": "India"
     },
     {
       "title": "Bleeding Tiger: Conflict Begins",
@@ -1602,6 +2890,23 @@
       "SkipTitle": true
     },
     {
+      "title": "Bagheera",
+      "netflix_url": "https://www.netflix.com/title/81953481",
+      "year": "2024",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt15380608",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWY5NjEzYTYtMWI3YS00YWYwLWJkYzQtN2Y2Yzc3Y2I2NWNhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When society turns into a jungle, just one predator cries out for justice.",
+      "Type": "movie",
+      "RunTime": "158 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "D.R. Suri",
+      "Writer": "Prashanth Neel, Soori",
+      "Actors": "Sri Murali, Rukmini Vasanth, Prakash Raj",
+      "Language": "Kannada",
+      "Country": "India"
+    },
+    {
       "title": "Soul's Peak",
       "netflix_url": "https://www.netflix.com/title/81987104",
       "year": "2024",
@@ -1626,7 +2931,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt32915791",
       "Poster": "https://m.media-amazon.com/images/M/MV5BZmUxYmFhODUtZGJhZi00MjgwLWJiMWEtOTRlOWRmNTkyMmIwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Drug Prince Michael and Scorpion are seizing the old fellows' turfs, the gangs families tornado spins three nobodies who are trying to survive. You'll never know who's gonna get bit by reality through the alternation of generations?"
+      "Plot": "Drug Prince Michael and Scorpion are seizing the old fellows' turfs, the gangs families tornado spins three nobodies who are trying to survive. You'll never know who's gonna get bit by reality through the alternation of generations?",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Jui-Chih Chiang, Hung-i Yao",
+      "Writer": "Red Chang, Joyce Liu",
+      "Actors": "Harry Chang, Tsai-Hsing Chang, Jen-Shuo Cheng",
+      "Language": "Min Nan, Mandarin",
+      "Country": "Taiwan"
     },
     {
       "title": "Organ Child",
@@ -1645,7 +2958,15 @@
       "imdb_rating": "4.8",
       "imdb_id": "tt27368237",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYmIwMzMzNGQtMzdhZi00N2I3LWEwZjgtMjBhOGJkOWFkZjljXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In 1986, the defiant Fox breaks out of an abusive commune in search of her family. But when the queenpin kidnaps her little sister and sends a crooked cop after her, Fox has no choice but to infiltrate the very place she escaped."
+      "Plot": "In 1986, the defiant Fox breaks out of an abusive commune in search of her family. But when the queenpin kidnaps her little sister and sends a crooked cop after her, Fox has no choice but to infiltrate the very place she escaped.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Action, Thriller",
+      "Director": "Sophie Tabet",
+      "Writer": "Julia Roth, Sophie Tabet",
+      "Actors": "Norman De Buck, Kiernan Shipka, Kiefer Sutherland",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Border Hunters",
@@ -1654,7 +2975,15 @@
       "imdb_rating": "3.4",
       "imdb_id": "tt32565484",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzU0Njg5MGMtODBhZS00MDAxLWIzMGMtYmRkZDY3NzhiNjY1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After his police officer brother is killed by a drug dealer who flees to the protection of his cartel-connected uncle in Mexico, an American man with a diverse law enforcement/military background goes south of the border to get re..."
+      "Plot": "After his police officer brother is killed by a drug dealer who flees to the protection of his cartel-connected uncle in Mexico, an American man with a diverse law enforcement/military background goes south of the border to get re...",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Action",
+      "Director": "Ruben Islas",
+      "Writer": "Ruben Islas, Pedro Fernandez",
+      "Actors": "Dean Norris, Julio Macias, Danforth Comins",
+      "Language": "English, Spanish",
+      "Country": "Mexico, United States"
     },
     {
       "title": "Gatao: Big Brothers",
@@ -1673,7 +3002,15 @@
       "imdb_rating": "N/A",
       "imdb_id": "tt35963293",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyNmMxYzEtYjFmZC00ZTlkLWExN2MtZjFmODVmMDhlNTY2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Some rides take you places. Others change your life. The Ride-a gripping short film that takes you on a dark, thought-provoking journey through the streets of the city, where every passenger has a story - but not all endings bring..."
+      "Plot": "Some rides take you places. Others change your life. The Ride-a gripping short film that takes you on a dark, thought-provoking journey through the streets of the city, where every passenger has a story - but not all endings bring...",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Short, Thriller",
+      "Director": "Ashwin Alok",
+      "Writer": "Ashwin Alok",
+      "Actors": "Ashwin Alok, Ashi Goel, Sarthak Hemkar",
+      "Language": "Hindi",
+      "Country": "India"
     }
   ]
 }

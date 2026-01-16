@@ -336,7 +336,8 @@
       "imdb_rating": "7.7",
       "imdb_id": "tt14540468",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTkxZmY4MmEtZDBiYy00NmQxLWJmNzQtNDE0ZjYxZTIyYzQzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Black food is American food. Chef and writer Stephen Satterfield traces the delicious, moving throughlines from Africa to Texas in this docuseries."
+      "Plot": "Black food is American food. Chef and writer Stephen Satterfield traces the delicious, moving throughlines from Africa to Texas in this docuseries.",
+      "SkipTitle": true
     },
     {
       "title": "The Lost Pirate Kingdom",

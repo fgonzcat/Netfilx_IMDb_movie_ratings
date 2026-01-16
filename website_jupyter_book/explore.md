@@ -56,6 +56,22 @@ Choose your criteria and explore the full catalog.
     Year to:
     <input id="yearTo" type="number" value="2025" style="width:4em;">
   </label>
+
+  <label>
+    Actor:
+    <select id="actor"></select>
+  </label>
+  
+  <label>
+    Country:
+    <select id="country"></select>
+  </label>
+
+  <label>
+    Language:
+    <select id="language"></select>
+  </label>
+
 </div>
 
 <div id="results" style="margin-top:1rem;"></div>
@@ -68,33 +84,88 @@ async function init() {
   const movies = await res.json();
 
   const genreSel = document.getElementById('genre');
+  const actorSel = document.getElementById('actor');
+  const countrySel = document.getElementById('country');
+  const languageSel = document.getElementById('language');
+
+  // Populate Genre options
   const genres = [...new Set(movies.map(m => m.genre))].sort();
   genreSel.innerHTML = `<option value="">All</option>` +
     genres.map(g => `<option value="${g}">${g}</option>`).join('');
+
+  // Populate Actor options (flatten multiple actors in comma-separated list)
+  const actors = [...new Set(
+    movies
+      .filter(m => m.Actors)           // ignore null/undefined
+      .flatMap(m => m.Actors.split(',').map(a => a.trim()))
+  )].sort();
+  actorSel.innerHTML = `<option value="">All</option>` +
+    actors.map(a => `<option value="${a}">${a}</option>`).join('');
+
+  // Populate Country options
+  const countries = [...new Set(
+    movies
+      .filter(m => m.Country)
+      .map(m => m.Country.trim())
+  )].sort();
+  countrySel.innerHTML = `<option value="">All</option>` +
+    countries.map(c => `<option value="${c}">${c}</option>`).join('');
+
+  // Populate Languages
+  const languages = [...new Set(movies.map(m => m.Language).filter(x => x))].sort();
+  languageSel.innerHTML = `<option value="">All</option>` +
+    languages.map(l => `<option value="${l}">${l}</option>`).join('');
+
+
 
   function render() {
     const g = genreSel.value;
     const r = parseFloat(document.getElementById('rating').value);
     const y0 = parseInt(document.getElementById('yearFrom').value);
     const y1 = parseInt(document.getElementById('yearTo').value);
+    const a = actorSel.value;
+    const c = countrySel.value;
+    const lang = languageSel.value;
 
-    const filtered = movies.filter(m =>
+  
+    // Step 1: Filter movies by selected criteria
+    let filtered = movies.filter(m =>
       (!g || m.genre === g) &&
-        m.imdb_rating && parseFloat(m.imdb_rating) >= r &&
+      // IMDb rating filter
+      m.imdb_rating && parseFloat(m.imdb_rating) >= r &&
+      // year filter
       parseInt(m.year) >= y0 &&
-      parseInt(m.year) <= y1
+      parseInt(m.year) <= y1 &&
+      // actor filter (null-safe)
+      (!a || (m.Actors && m.Actors.split(',').map(x => x.trim()).includes(a))) &&
+      // country filter (null-safe)
+      (!c || (m.Country && m.Country.includes(c))) &&
+      // language filter (null-safe)
+      (!lang || (m.Language && m.Language === lang))
     );
-
+  
+    // Step 2: Deduplicate only if "All" is selected
+    if (!g) {
+      const seen = new Set();
+      filtered = filtered.filter(m => {
+        if (seen.has(m.netflix_url)) return false;
+        seen.add(m.netflix_url);
+        return true;
+      });
+    }
+  
+    // Step 3: Render cards
     document.getElementById('results').innerHTML =
       filtered.map(m => `
         <div class="card">
-         <a href="${m.netflix_url}" target="_blank" rel="noopener noreferrer">
-          <img src="${m.Poster}" alt="${m.title}" />
+          <a href="${m.netflix_url}" target="_blank" rel="noopener noreferrer">
+            <img src="${m.Poster}" alt="${m.title}" />
           </a>
-        <b>${m.title}</b> (${m.year}) – ${m.imdb_rating}
+          <b>${m.title}</b> (${m.year}) – ${m.imdb_rating}
         </div>
       `).join('');
   }
+
 
   document.querySelectorAll('#controls input, #controls select')
     .forEach(e => e.addEventListener('input', render));

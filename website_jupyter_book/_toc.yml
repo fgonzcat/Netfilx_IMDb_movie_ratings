@@ -5,21 +5,21 @@ format: jb-book
 root: intro
 
 parts:
-  - caption: About this project
+  - caption: 📖 About this project
     chapters:
       - file: how_it_works
       - file: scripts 
       - file: netflix_codes
 
-  - caption: Best of the Best
+  - caption: ⭐ Best of the Best
     chapters:
       - file: best 
 
-  - caption: Explore
+  - caption: 🔍 Filter Movies
     chapters:
       - file: explore 
 
-  - caption: Movie Categories on Netflix
+  - caption: 🎬  Movie Categories on Netflix
     chapters:
       - file: anime
         sections:
@@ -63,13 +63,15 @@ parts:
       - file: romance 
       - file: romantic_comedies
       - file: scifi 
+        sections:
+          - file: scifi_fantasy
       - file: spanish_movies_and_TV_shows 
       - file: standup_comedy 
       - file: suspenseful
       - file: thrillers
 
 
-  - caption: Series 
+  - caption: 📺 Series 
     chapters:
       - file: anime_series
       - file: TV_dramas 
