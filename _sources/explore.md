@@ -67,6 +67,11 @@ Choose your criteria and explore the full catalog.
     <select id="country"></select>
   </label>
 
+  <label>
+    Language:
+    <select id="language"></select>
+  </label>
+
 </div>
 
 <div id="results" style="margin-top:1rem;"></div>
@@ -81,6 +86,7 @@ async function init() {
   const genreSel = document.getElementById('genre');
   const actorSel = document.getElementById('actor');
   const countrySel = document.getElementById('country');
+  const languageSel = document.getElementById('language');
 
   // Populate Genre options
   const genres = [...new Set(movies.map(m => m.genre))].sort();
@@ -105,6 +111,12 @@ async function init() {
   countrySel.innerHTML = `<option value="">All</option>` +
     countries.map(c => `<option value="${c}">${c}</option>`).join('');
 
+  // Populate Languages
+  const languages = [...new Set(movies.map(m => m.Language).filter(x => x))].sort();
+  languageSel.innerHTML = `<option value="">All</option>` +
+    languages.map(l => `<option value="${l}">${l}</option>`).join('');
+
+
 
   function render() {
     const g = genreSel.value;
@@ -113,6 +125,7 @@ async function init() {
     const y1 = parseInt(document.getElementById('yearTo').value);
     const a = actorSel.value;
     const c = countrySel.value;
+    const lang = languageSel.value;
 
   
     // Step 1: Filter movies by selected criteria
@@ -126,7 +139,9 @@ async function init() {
       // actor filter (null-safe)
       (!a || (m.Actors && m.Actors.split(',').map(x => x.trim()).includes(a))) &&
       // country filter (null-safe)
-      (!c || (m.Country && m.Country.includes(c)))
+      (!c || (m.Country && m.Country.includes(c))) &&
+      // language filter (null-safe)
+      (!lang || (m.Language && m.Language === lang))
     );
   
     // Step 2: Deduplicate only if "All" is selected
