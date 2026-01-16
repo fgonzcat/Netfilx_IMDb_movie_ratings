@@ -102,20 +102,31 @@ async function init() {
   actorSel.innerHTML = `<option value="">All</option>` +
     actors.map(a => `<option value="${a}">${a}</option>`).join('');
 
+
   // Populate Country options
   const countries = [...new Set(
-    movies
-      .filter(m => m.Country)
-      .map(m => m.Country.trim())
+    movies.flatMap(m =>
+      m.Country
+        ? m.Country.split(',').map(c => c.trim())
+        : []
+    )
   )].sort();
+  
   countrySel.innerHTML = `<option value="">All</option>` +
     countries.map(c => `<option value="${c}">${c}</option>`).join('');
 
+
   // Populate Languages
-  const languages = [...new Set(movies.map(m => m.Language).filter(x => x))].sort();
+  const languages = [...new Set(
+    movies.flatMap(m =>
+      m.Language
+        ? m.Language.split(',').map(l => l.trim())
+        : []
+    )
+  )].sort();
+  
   languageSel.innerHTML = `<option value="">All</option>` +
     languages.map(l => `<option value="${l}">${l}</option>`).join('');
-
 
 
   function render() {
