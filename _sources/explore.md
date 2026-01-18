@@ -43,8 +43,8 @@ Choose your criteria and explore the full catalog.
   </label>
 
   <label>
-    Min IMDb rating:
-    <input id="rating" type="number" step="0.1" value="7" style="width:4em;">
+    ⭐ Min IMDb rating:
+    <input id="rating" type="number" step="0.1" value="0" style="width:4em;">
   </label>
 
   <label>
