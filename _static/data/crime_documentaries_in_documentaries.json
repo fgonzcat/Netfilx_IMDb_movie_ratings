@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/9875",
   "movies": [
     {
+      "title": "Cocaine Cowboys 2",
+      "netflix_url": "https://www.netflix.com/title/70100553",
+      "year": "2008",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt1176726",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5NzIzMTk4NF5BMl5BanBnXkFtZTcwNDE4MTc3MQ@@._V1_SX300.jpg",
+      "Plot": "The sequel follows cocaine dealer Charles Crosby beginning in 1991 on the inner-city streets of Oakland, California. The story of Griselda Blanco is presented in greater depth.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "Billy Corben",
+      "Writer": "N/A",
+      "Actors": "Nelson Andreu, Jorge Ayala, Griselda Blanco",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "30 for 30: The Two Escobars",
       "netflix_url": "https://www.netflix.com/title/70137756",
       "year": "2010",
@@ -1614,6 +1631,23 @@
       "Country": "United States"
     },
     {
+      "title": "Shiny_Flakes: The Teenage Drug Lord",
+      "netflix_url": "https://www.netflix.com/title/81207826",
+      "year": "2021",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt15036416",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzJmZjRlODUtYmNmYy00MzRhLWFlZWMtZWJiNmRjNzliNTcyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Max S. reveals how he built a drug empire from his childhood bedroom in this story that inspired the series \"How to Sell Drugs Online (Fast).\"",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "Eva Müller, Michael Schmitt",
+      "Writer": "Eva Müller",
+      "Actors": "Maximilian Schmidt",
+      "Language": "German",
+      "Country": "Germany"
+    },
+    {
       "title": "Girl in the Picture",
       "netflix_url": "https://www.netflix.com/title/81212487",
       "year": "2022",
@@ -1644,6 +1678,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Dorie Hofmann Olds, Shannon Flynn, Brent Metcalfe",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Fugitive: The Curious Case of Carlos Ghosn",
+      "netflix_url": "https://www.netflix.com/title/81227167",
+      "year": "2022",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt19113302",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTM0NjZmOTItNDAwNi00YzQ1LWIzMDktYjEyYWIwN2VmNDZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It chronicles the rise of Carlos Ghosn as well as the internal rivalries and tensions he sparked within Nissan-Renault and his dramatic arrest.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Documentary",
+      "Director": "Lucy Blakstad",
+      "Writer": "Lucy Blakstad, Cameron Mitchell",
+      "Actors": "Carlos Ghosn, Louis Schweitzer, Clément Lacombe",
       "Language": "English",
       "Country": "United States"
     },
@@ -1801,6 +1852,23 @@
       "Country": "United States"
     },
     {
+      "title": "Broken Idol: The Undoing of Diomedes Díaz",
+      "netflix_url": "https://www.netflix.com/title/81294594",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt18750180",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODAwYjE2NzYtNTNlYy00Njk0LTkxYzEtYzczMWFjMDEwMzBmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Chronicles Diomedes Díaz's rise as one of Colombia's most iconic singers, and his downfall after being accused of killing a fan.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Jaime Barbosa, Jorge Duran",
+      "Writer": "N/A",
+      "Actors": "Diomedes Diaz, Jorge Oñate, Marciano Martínez",
+      "Language": "Spanish",
+      "Country": "Colombia"
+    },
+    {
       "title": "Conversations with a Killer: The John Wayne Gacy Tapes",
       "netflix_url": "https://www.netflix.com/title/81298614",
       "year": "2022",
@@ -1892,6 +1960,23 @@
       "Actors": "Mónica Del Carmen, Raúl Briones, María Teresa Hernández Cañas",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "Running with the Devil: The Wild World of John McAfee",
+      "netflix_url": "https://www.netflix.com/title/81327515",
+      "year": "2022",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt21379574",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjY0YjQ0ZmMtNjAyZS00NzU3LWIyOTMtMjhlNjU1ZjQ2NGEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Life and death of software pioneer John McAfee who developed the software: McAfee Antivirus.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Charlie Russell",
+      "Writer": "N/A",
+      "Actors": "John McAfee, Dean Barrow, Rocco Castoro",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Killer Sally",
@@ -2290,6 +2375,14 @@
       "Actors": "Andrew Lee, Keisuke Hoashi, June Yoon",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "Big Mäck: Gangsters and Gold",
+      "netflix_url": "https://www.netflix.com/title/81495571",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The King Who Never Was",

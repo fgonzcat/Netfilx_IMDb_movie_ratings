@@ -2745,6 +2745,23 @@
       "Country": "Canada, Australia, United States"
     },
     {
+      "title": "Valeria",
+      "netflix_url": "https://www.netflix.com/title/80212986",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36831968",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGUyMWY0OWEtODc2Yi00NzMzLThiMzItMzY2ZGQ4MzU0YjE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "22 min",
+      "Genre": "Documentary, Short",
+      "Director": "Isabela Alves, Isabella Milena Nascimento",
+      "Writer": "Isabela Alves, Isabella Milena Nascimento",
+      "Actors": "Valéria Marcoratti, Vânia Maria dos Santos",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
       "title": "Ratched",
       "netflix_url": "https://www.netflix.com/title/80213445",
       "year": "2020",
@@ -3083,6 +3100,23 @@
       "Actors": "Hwang Seung-eon, Kim Hee-jung, Kim Min-kyo",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "Crime Diaries: The Candidate",
+      "netflix_url": "https://www.netflix.com/title/80230265",
+      "year": "2019",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt9327348",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzRiNTI3NmYtYjMyNC00OGU4LWFhN2EtYTFmYmZmZTQxOThlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1994, Mexican presidential candidate Luis Donaldo Colosio's assassination sends his dying widow racing to uncover who did it.",
+      "Type": "series",
+      "RunTime": "38S min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Alberto Guerra, Gustavo Sánchez Parra, Ilse Salas",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "Wild District",
@@ -5133,6 +5167,23 @@
       "Country": "United States"
     },
     {
+      "title": "Intimacy",
+      "netflix_url": "https://www.netflix.com/title/81149763",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt14463542",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzhjNWIyMjktMTQ2ZS00OTUyLThmOWYtNDc0NmI0YTdmMmRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A compromising sexual video featuring a promising politician, it depicts the lives of four women forced to walk the line between public and private life.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Crime, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Itziar Ituño, Patricia López Arnaiz, Verónica Echegui",
+      "Language": "Spanish, Basque",
+      "Country": "Spain"
+    },
+    {
       "title": "The Sandman",
       "netflix_url": "https://www.netflix.com/title/81150303",
       "year": "2025",
@@ -6919,6 +6970,23 @@
       "Country": "Japan"
     },
     {
+      "title": "The Defeated",
+      "netflix_url": "https://www.netflix.com/title/81424068",
+      "year": "2020",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt8879894",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDEzODk5ODItMzE3My00MTBiLWI5ZDgtYmVmY2U4NTVjZWE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Max McLaughlin is an American cop who arrives in Berlin in the summer of 1946 to help create a police force in the chaotic aftermath of the war.",
+      "Type": "series",
+      "RunTime": "45 min",
+      "Genre": "Drama, History, Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Taylor Kitsch, Michael C. Hall, Logan Marshall-Green",
+      "Language": "English, German, Russian",
+      "Country": "France, Germany, Canada"
+    },
+    {
       "title": "The Price of Glory",
       "netflix_url": "https://www.netflix.com/title/81424951",
       "year": "2023",
@@ -7184,6 +7252,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Fakes",
+      "netflix_url": "https://www.netflix.com/title/81446305",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt15764684",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjliOGNmMmEtYWFiOC00MjRkLWE0ZjUtNjU5YzJiY2Y4ZDc4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow two teenagers who are best friends and accidentally build one of the largest fake ID empires in North America.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "David Turko",
+      "Actors": "Emilija Baranac, Jennifer Tong, Richard Harmon",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "BEEF",
       "netflix_url": "https://www.netflix.com/title/81447461",
       "year": "2023",
@@ -7369,6 +7454,23 @@
       "Actors": "Madhumita Das, Shabana Azmi, Jyotika",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Wrong Side of the Tracks",
+      "netflix_url": "https://www.netflix.com/title/81478080",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32430325",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmEyZWQ5MDEtODc0Ny00OTZlLWIyN2YtYTNlMmYwNDBhOGRkXkEyXkFqcGdeQXVyMTUwMjE2MTMx._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "14 min",
+      "Genre": "Short, Thriller",
+      "Director": "Joel McDaniel",
+      "Writer": "Joel McDaniel",
+      "Actors": "Israel Coxon, Joel McDaniel",
+      "Language": "N/A",
+      "Country": "United States"
     },
     {
       "title": "Champion",
@@ -8409,6 +8511,14 @@
       "Country": "China"
     },
     {
+      "title": "Rivers of Fate",
+      "netflix_url": "https://www.netflix.com/title/81635410",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Thank You, Next",
       "netflix_url": "https://www.netflix.com/title/81637609",
       "year": "2025",
@@ -8740,6 +8850,23 @@
       "Actors": "Jean-Paul Belmondo, Jean Seberg, Richard Balducci",
       "Language": "French, English",
       "Country": "France"
+    },
+    {
+      "title": "The Good Bad Mother",
+      "netflix_url": "https://www.netflix.com/title/81669775",
+      "year": "2023",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt27042206",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzk1YmY3Y2ItMzMzMy00M2NlLWFjMmYtYzMyMzkxM2Y3NGEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A tragic accident leaves an ambitious prosecutor with the mind of a child, forcing him and his mother to embark on a journey to heal their relationship.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Ra Mi-ran, Lee Do-hyun, Ahn Eun-jin",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "See You in My 19th Life",

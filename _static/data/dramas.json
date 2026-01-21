@@ -428,6 +428,23 @@
       "Country": "United States"
     },
     {
+      "title": "Main Hoon Na",
+      "netflix_url": "https://www.netflix.com/title/70000196",
+      "year": "2004",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0347473",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDcwZDJhOGQtNWI5NS00MmI3LWFkYjMtNTY3OGUxMjgwMjZiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An army major goes undercover as a college student. His mission is both professional and personal: to protect his general's daughter from a radical militant, and to find his estranged half-brother.",
+      "Type": "movie",
+      "RunTime": "182 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Farah Khan",
+      "Writer": "Farah Khan, Abbas Tyrewala, Rajesh Saathi",
+      "Actors": "Shah Rukh Khan, Sushmita Sen, Suniel Shetty",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Swades",
       "netflix_url": "https://www.netflix.com/title/70019491",
       "year": "2004",
@@ -494,6 +511,23 @@
       "Actors": "Mark Wahlberg, Tyrese Gibson, André 3000",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Black",
+      "netflix_url": "https://www.netflix.com/title/70031975",
+      "year": "2005",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0375611",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTgzMTNmMDQtNWU0MS00MTFjLTk0ZWYtNGJmMWFlYTllMTU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Michelle, a disabled girl who can't see, hear, or speak, suffering in a world that has given up on her. But when the teacher Debraj enters her life, he becomes a ray of hope that she might pursue her passions and have a normal life.",
+      "Type": "movie",
+      "RunTime": "122 min",
+      "Genre": "Drama",
+      "Director": "Sanjay Leela Bhansali",
+      "Writer": "Sanjay Leela Bhansali, Bhavani Iyer, Prakash Kapadia",
+      "Actors": "Amitabh Bachchan, Rani Mukerji, Shernaz Patel",
+      "Language": "Hindi, English",
+      "Country": "India"
     },
     {
       "title": "Match Point",
@@ -2119,6 +2153,23 @@
       "Country": "United States"
     },
     {
+      "title": "OK Jaanu",
+      "netflix_url": "https://www.netflix.com/title/80170125",
+      "year": "2017",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt5764024",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzFhN2Y2YzUtOWYyMC00MjkwLTk3OGEtOTlhMDQxZWFlMTg0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Adi and Tara move to Mumbai to pursue their dreams. A chance meeting sparks off a heady, no strings attached romance until their careers pull them apart. Will ambition prevail over matters of the heart?",
+      "Type": "movie",
+      "RunTime": "135 min",
+      "Genre": "Drama, Romance",
+      "Director": "Shaad Ali",
+      "Writer": "Mani Ratnam, Gulzar, Sameer Rajda",
+      "Actors": "Aditya Roy Kapoor, Shraddha Kapoor, Naseeruddin Shah",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Roxanne Roxanne",
       "netflix_url": "https://www.netflix.com/title/80171733",
       "year": "2018",
@@ -3435,6 +3486,23 @@
       "Country": "Japan, United States, China"
     },
     {
+      "title": "Bad Seeds",
+      "netflix_url": "https://www.netflix.com/title/80999643",
+      "year": "2018",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt6708116",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxY2FhZjUtM2RmZS00MjlmLWE4ZjUtMmNjNjUwOTU2NmY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Wael (Kheiron) a former street child, makes a living from small scams with his adoptive mother and partner-in-crime Monique (Catherine Deneuve). When this unconventional duo swindles the wrong guy, Victor (André Dussollier), an ol...",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Comedy",
+      "Director": "Kheiron",
+      "Writer": "Kheiron",
+      "Actors": "Kheiron, Catherine Deneuve, André Dussollier",
+      "Language": "French",
+      "Country": "France, Belgium"
+    },
+    {
       "title": "Wasp Network",
       "netflix_url": "https://www.netflix.com/title/81000201",
       "year": "2020",
@@ -3705,6 +3773,23 @@
       "Actors": "Hairul Azreen, Ammar Alfian, Henley Hii",
       "Language": "Malay, English, Mandarin, Somali, Portuguese",
       "Country": "Malaysia"
+    },
+    {
+      "title": "Holiday Rush",
+      "netflix_url": "https://www.netflix.com/title/81033086",
+      "year": "2019",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt10091530",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWQ5MzAxNDktYTU5My00ZGU2LThhMjEtZmEzM2UxNjIxODk3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After his sudden firing, a popular radio DJ moves in with his aunt, bringing along his four spoiled children, and a plan to return to the airwaves.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Comedy, Drama, Family",
+      "Director": "Leslie Small",
+      "Writer": "Sean Dwyer, Greg Cope White",
+      "Actors": "Romany Malco, Sonequa Martin-Green, Darlene Love",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Best of Enemies",
@@ -4301,6 +4386,23 @@
       "Actors": "Kiara Advani, Taher Shabbir, Akansha Ranjan Kapoor",
       "Language": "Hindi, English",
       "Country": "India"
+    },
+    {
+      "title": "Rose Island",
+      "netflix_url": "https://www.netflix.com/title/81116948",
+      "year": "2020",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt10287954",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDhlODJjMTMtYTg1NS00ZjE1LTg4NGEtNmM2YWM5M2I4MjQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An idealistic engineer builds his own island off the Italian coast and declares it a nation, drawing the world's attention. Values are tested when the Italian Government declares him an enemy, but to change the world risks must be...",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Adventure, Biography, Comedy",
+      "Director": "Sydney Sibilia",
+      "Writer": "Francesca Manieri, Sydney Sibilia",
+      "Actors": "Elio Germano, Leonardo Lidi, Matilda De Angelis",
+      "Language": "Italian, French, German",
+      "Country": "Italy"
     },
     {
       "title": "MANK",
@@ -4988,6 +5090,23 @@
       "Actors": "Ryôsuke Yamada, Tsubasa Honda, Mackenyu",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Mimi",
+      "netflix_url": "https://www.netflix.com/title/81267360",
+      "year": "2021",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt10895576",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzU5YjkyODYtNmIzOC00MWY3LWE0ZTUtZWU2MDZhODE3NDE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mimi is introduced by Bhanu to an American couple as a surrogate in exchange for Rs 2 million. She decides to have the baby even when they change their mind and tells her parent that Bhanu is the father.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Rajesh Bhatia, Laxman Utekar",
+      "Writer": "Laxman Utekar, Rohan Shankar, Samruoddhi Porey",
+      "Actors": "Kriti Sanon, Evelyn Edwards, Pankaj Tripathi",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Society of the Snow",
@@ -5874,6 +5993,23 @@
       "Country": "United Kingdom, India"
     },
     {
+      "title": "40 Years Young",
+      "netflix_url": "https://www.netflix.com/title/81423174",
+      "year": "2022",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt16969906",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWZjN2ExZDYtYmZjOS00Y2RjLTllNGMtMjkwYjdiZGUwMTRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After turning 40, César is invited to a culinary contest in Cancún, but a bitter discovery threatens to destroy his family as well as his chances to win the competition.",
+      "Type": "movie",
+      "RunTime": "81 min",
+      "Genre": "Comedy",
+      "Director": "Pietro Loprieno",
+      "Writer": "Pietro Loprieno",
+      "Actors": "Erick Elias, Gaby Espino, Adal Ramones",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
       "title": "I Used to Be Famous",
       "netflix_url": "https://www.netflix.com/title/81426667",
       "year": "2022",
@@ -6699,6 +6835,23 @@
       "Country": "India"
     },
     {
+      "title": "Kathal - A Jackfruit Mystery",
+      "netflix_url": "https://www.netflix.com/title/81511260",
+      "year": "2023",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt18413766",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2M5NTllZDctNTlmYy00YTBhLTgzYWItZjQ2OWZkOThiOGE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A local politician whose prized jackfruits go missing and a young police officer who is adamant to solve this bizarre case to prove herself.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Yashowardhan Mishra",
+      "Writer": "Ashok Mishra, Yashowardhan Mishra",
+      "Actors": "Sanya Malhotra, Anant Joshi, Vijay Raaz",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Licorice Pizza",
       "netflix_url": "https://www.netflix.com/title/81514106",
       "year": "2021",
@@ -7115,6 +7268,23 @@
       "Poster": null,
       "Plot": null,
       "SkipTitle": true
+    },
+    {
+      "title": "The Entitled",
+      "netflix_url": "https://www.netflix.com/title/81597575",
+      "year": "2022",
+      "imdb_rating": "4.1",
+      "imdb_id": "tt21030232",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTYwYTE1YzctYThmZi00MjJkLWEyNGQtOGZhMWVlNDY3NWU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After learning her estranged father is a hotel mogul, Belinda bumbles her way through a new, sophisticated lifestyle with the help of a charming lawyer.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Theodore Boborol",
+      "Writer": "Alex Gonzaga, Theodore Boborol, Noreen Capili",
+      "Actors": "Alex Gonzaga, JC De Vera, Ara Mina",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
     },
     {
       "title": "CBI 5: The Brain",
@@ -7678,6 +7848,23 @@
       "Country": "United Kingdom, Spain, United States"
     },
     {
+      "title": "In Good Hands 2",
+      "netflix_url": "https://www.netflix.com/title/81670880",
+      "year": "2024",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt28567745",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODY3ZWMwMDQtZDBkNS00M2NhLWExNmQtMDg3YjdjOTM1YmNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A newly reunited father and son grapple with new beginnings after tragedy, but can they manage to fill the void left by a beloved wife and mother?",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Ketche",
+      "Writer": "Hakan Bonomo",
+      "Actors": "Kaan Urgancioglu, Melisa Pamuk, Mert Ege Ak",
+      "Language": "Turkish",
+      "Country": "Turkey"
+    },
+    {
       "title": "Ìjọ̀gbọ̀n",
       "netflix_url": "https://www.netflix.com/title/81671712",
       "year": "2023",
@@ -7831,6 +8018,23 @@
       "Country": "India"
     },
     {
+      "title": "One Hit Wonder",
+      "netflix_url": "https://www.netflix.com/title/81684726",
+      "year": "2025",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt35657531",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTJiMzUxMjctYjhjMy00YzczLTg4YWQtM2MzYjdjMjA1OGY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two dreamers, Entoy and Lorina, pursue stardom in '90s Filipino pop music. Can they achieve their big dreams the second time around?",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Drama, Music, Romance",
+      "Director": "Marla Ancheta",
+      "Writer": "Marla Ancheta",
+      "Actors": "Sue Ramirez, Khalil Ramos, Romnick Sarmenta",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
+    },
+    {
       "title": "The Children's Train",
       "netflix_url": "https://www.netflix.com/title/81685656",
       "year": "2024",
@@ -7863,6 +8067,23 @@
       "Actors": "Juan Pablo Fuentes Acevedo, Fernando Cattori, Ximena Lamadrid",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "Keluarga Super Irit",
+      "netflix_url": "https://www.netflix.com/title/81687688",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32546802",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2MxYjc0OGYtNzMwOS00NmEzLTk3MDQtMmIxOTExMzA1MjI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A family that used to live extravagantly and in debt. However, everything changed when the father, Tony, lost his job. Forced, Tony and his family had to live frugally to save themselves from bankruptcy.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Comedy, Drama, Family",
+      "Director": "Danial Rifki",
+      "Writer": "Theodore Arnoldy, Lee Bongki-ki, Fahmie Yanardi",
+      "Actors": "Dwi Sasono, Widi Mulia, Dru Prawiro Sasono",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "Rewind",
@@ -8077,6 +8298,23 @@
       "Country": "India"
     },
     {
+      "title": "Odum Kuthira Chadum Kuthira",
+      "netflix_url": "https://www.netflix.com/title/81707598",
+      "year": "2024",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt22001978",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2FkYmFhNTEtODc0Zi00MWVjLWJkMzgtOTY3YjQ4ZTRlOGU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When his fiancée's dream leads to an accident on his wedding day, Aby wakes up from a coma to find himself torn between the past and present.",
+      "Type": "movie",
+      "RunTime": "153 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Althaf Salim",
+      "Writer": "Anuraj O.B., Althaf Salim",
+      "Actors": "Fahadh Faasil, Kalyani Priyadarshan, Revathi Pillai",
+      "Language": "Malayalam",
+      "Country": "India"
+    },
+    {
       "title": "Meet the Khumalos",
       "netflix_url": "https://www.netflix.com/title/81708891",
       "year": "2025",
@@ -8194,6 +8432,14 @@
       "Actors": "Ajay Devgn, Neha Sharma, Tabu",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Lost in the Spotlight",
+      "netflix_url": "https://www.netflix.com/title/81718351",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "OMG 2",
@@ -8645,6 +8891,23 @@
       "Country": "India"
     },
     {
+      "title": "Dragon",
+      "netflix_url": "https://www.netflix.com/title/81762715",
+      "year": "2025",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt26743210",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODA5Y2M0NjctNWQzMy00ODRhLWE0MzUtYmE1YTAzZjYyYmQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "As an ancient threat endangers both Vikings and dragons alike on the isle of Berk, the friendship between Hiccup, an inventive Viking, and Toothless, a Night Fury dragon, becomes the key to both species forging a new future together.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Action, Adventure, Comedy",
+      "Director": "Dean DeBlois",
+      "Writer": "Dean DeBlois, Cressida Cowell, William Davies",
+      "Actors": "Mason Thames, Nico Parker, Gerard Butler",
+      "Language": "English",
+      "Country": "United States, United Kingdom, Ireland, Iceland, Canada"
+    },
+    {
       "title": "It Ends With Us",
       "netflix_url": "https://www.netflix.com/title/81762778",
       "year": "2024",
@@ -8872,6 +9135,23 @@
       "Actors": "Benjamin Westfall, María Paz Grandjean, Ignacia Baeza",
       "Language": "Spanish",
       "Country": "Chile"
+    },
+    {
+      "title": "Inspector Zende",
+      "netflix_url": "https://www.netflix.com/title/81778084",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35076553",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDAxYmY5YjAtMTE0OC00YmViLWFmNmItYjhiYWI2YzcyMjVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Manoj Bajpayee, Jim Sarbh, Girija Oak",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "A Paris Christmas Waltz",

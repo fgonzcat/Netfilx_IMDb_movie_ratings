@@ -4251,6 +4251,14 @@
       "Country": "Japan"
     },
     {
+      "title": "Anpanman: Purun, The Soap Bubble",
+      "netflix_url": "https://www.netflix.com/title/81719801",
+      "year": "2007",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Anpanman: The Secret of Fairy Rin-Rin",
       "netflix_url": "https://www.netflix.com/title/81719804",
       "year": "2008",
@@ -4278,6 +4286,14 @@
       "SkipTitle": true
     },
     {
+      "title": "Anpanman: Revive Banana Island!",
+      "netflix_url": "https://www.netflix.com/title/81719813",
+      "year": "2012",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Anpanman: Apple Boy And Everyone's Hope",
       "netflix_url": "https://www.netflix.com/title/81719818",
       "year": "2014",
@@ -4302,6 +4318,22 @@
       "imdb_id": null,
       "Poster": null,
       "Plot": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Anpanman: Shine! Kulun and the Stars of Life",
+      "netflix_url": "https://www.netflix.com/title/81719828",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Anpanman: Twinkle! Princess Vanilla of Ice Cream Land",
+      "netflix_url": "https://www.netflix.com/title/81719829",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null,
       "SkipTitle": true
     },
     {

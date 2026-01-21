@@ -2825,6 +2825,23 @@
       "Country": "United States"
     },
     {
+      "title": "Seaspiracy",
+      "netflix_url": "https://www.netflix.com/title/81014008",
+      "year": "2021",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt14152756",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWUzZDNjZTEtZDM1Mi00ODVkLWI4Y2UtYjAwZGVlM2YwNTg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Passionate about ocean life, a filmmaker sets out to document the harm that humans do to marine species - and uncovers alarming global corruption.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Documentary, Adventure",
+      "Director": "Ali Tabrizi",
+      "Writer": "N/A",
+      "Actors": "Ali Tabrizi, Richard O'Barry, Lucy Tabrizi",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Spycraft",
       "netflix_url": "https://www.netflix.com/title/81014547",
       "year": "2021",
@@ -5305,6 +5322,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Charles Dance, Clarke Peters, Avi Azulay",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Earthstorm",
+      "netflix_url": "https://www.netflix.com/title/81346975",
+      "year": "2022",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt22437106",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTBmOGEyYmUtMTMzYy00NWMyLTliYTctY2NiOTJkMDI5NjBhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Storm chasers, survivors and first responders recount their harrowing experiences with volcanoes, tornadoes, hurricanes and earthquakes.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mimî M Khayisa, Kyanna Parsons-Perez, Brandon Clement",
       "Language": "English",
       "Country": "United States"
     },
@@ -9584,6 +9618,23 @@
       "Country": "United States"
     },
     {
+      "title": "To Kill a Tiger",
+      "netflix_url": "https://www.netflix.com/title/81766865",
+      "year": "2024",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt21688772",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFhNzY5MDEtNmUxZi00MTA2LTg2OTYtM2VkNmY3MTEwMTJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ranjit, a farmer in India, takes on the fight of his life when he demands justice for his 13-year-old daughter, the victim of a brutal gang rape. His decision to support his daughter is virtually unheard of, and his journey unprec...",
+      "Type": "movie",
+      "RunTime": "128 min",
+      "Genre": "Documentary",
+      "Director": "Nisha Pahuja",
+      "Writer": "Nisha Pahuja",
+      "Actors": "N/A",
+      "Language": "Hindi",
+      "Country": "Canada"
+    },
+    {
       "title": "Murder in Monaco",
       "netflix_url": "https://www.netflix.com/title/81767764",
       "year": "2025",
@@ -9643,6 +9694,23 @@
       "Actors": "ABBA, Björn Ulvaeus, Anni-Frid Lyngstad",
       "Language": "English, German, Swedish, Spanish",
       "Country": "United Kingdom, Norway, Iceland, Sweden, Denmark, Finland, Belgium, Germany, Estonia, Netherlands, France, Czech Republic, Switzerland"
+    },
+    {
+      "title": "Tell Them You Love Me",
+      "netflix_url": "https://www.netflix.com/title/81783064",
+      "year": "2023",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt29142525",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODk3ZmIwOTktNTRmMy00M2NjLThlNjQtZmJjMDM1MTM1YjY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A professor has a relationship with a nonverbal man who has cerebral palsy. Their affair leads to a criminal trial over disability and consent. The film shows interviews and footage that present both perspectives.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Documentary",
+      "Director": "Nick August-Perna",
+      "Writer": "N/A",
+      "Actors": "Armani Cooper, Carl Hinson, Alex Conde",
+      "Language": "English",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "Saudi Pro League: Kickoff",

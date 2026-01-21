@@ -1016,6 +1016,23 @@
       "Country": "Spain, France"
     },
     {
+      "title": "Two",
+      "netflix_url": "https://www.netflix.com/title/80202902",
+      "year": "2021",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt12358104",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjhkNGE1ZTYtZDRiMy00M2M2LWJhOGItNjI0ZGVmOGVhNzAxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two people, a man and a woman, wake up naked and with their abdomens attached to each other.",
+      "Type": "movie",
+      "RunTime": "70 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "Mar Targarona",
+      "Writer": "Cuca Canals, Christian Molina, Mike Hostench",
+      "Actors": "Marina Gatell, Pablo Derqui, Kandido Uranga",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "Intrusion",
       "netflix_url": "https://www.netflix.com/title/80206420",
       "year": "2021",
@@ -1099,6 +1116,23 @@
       "Actors": "Christina Ricci, Brendan Fletcher, Vicellous Shannon",
       "Language": "English",
       "Country": "Canada"
+    },
+    {
+      "title": "The Silence of the Marsh",
+      "netflix_url": "https://www.netflix.com/title/80216611",
+      "year": "2019",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt8743032",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc3MmQ0OTItNzg1MC00ZTY1LTg1YzgtODZlZWE1MGViYzQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A writer of crime stories discovers that reality is more criminal than the stories he writes.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Action, Drama, Mystery",
+      "Director": "Marc Vigil",
+      "Writer": "Carlos de Pando, Sara Antuña, Juanjo Braulio",
+      "Actors": "Pedro Alonso, Nacho Fresneda, Carmina Barrios",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "See You Yesterday",
@@ -1728,6 +1762,23 @@
       "Actors": "Belén Rueda, Javier Rey, Aura Garrido",
       "Language": "Spanish",
       "Country": "Spain"
+    },
+    {
+      "title": "Unknown Origins",
+      "netflix_url": "https://www.netflix.com/title/81038599",
+      "year": "2020",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt5827790",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDk0M2M2NDEtMWQ2Yi00M2FmLTgxN2MtZTVmZmZiYzFkOTE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Madrid, 2019. A serial killer is spreading chaos. Anonymous people with no apparent connection are being murdered while imitating the first appearances of the most famous superheroes.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "David Galán Galindo",
+      "Writer": "David Galán Galindo, Fernando Navarro",
+      "Actors": "Javier Rey, Verónica Echegui, Brays Efe",
+      "Language": "Spanish",
+      "Country": "Spain, Argentina"
     },
     {
       "title": "Awake",
@@ -2808,6 +2859,23 @@
       "Actors": "Taapsee Pannu, Vikrant Massey, Harshvardhan Rane",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Code Name: Emperor",
+      "netflix_url": "https://www.netflix.com/title/81321674",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt13660916",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmM3ZjRiMTUtZjc1Ni00OWRlLTk3YjEtYTM5Y2QxYmUxYjJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows Juan, an agent working for the intelligence services, who also reports to a parallel unit involved in illegal activities.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Jorge Coira",
+      "Writer": "Jorge Guerricaechevarría",
+      "Actors": "Luis Tosar, Alexandra Masangkay, Georgina Amorós",
+      "Language": "Spanish, English",
+      "Country": "Spain, France"
     },
     {
       "title": "Stowaway",
