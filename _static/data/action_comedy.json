@@ -108,18 +108,18 @@
       "title": "The A-Team",
       "netflix_url": "https://www.netflix.com/title/70103526",
       "year": "2010",
-      "imdb_rating": "6.7",
-      "imdb_id": "tt0429493",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4ODc4NTQ1N15BMl5BanBnXkFtZTcwNDUxODUyMw@@._V1_SX300.jpg",
-      "Plot": "A group of Iraq War veterans look to clear their name with the U.S. Military, who suspect the four men of committing a crime for which they were framed.",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt7215706",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGIxNmY1MzEtNWU5Yy00NTljLWE2NDktZTA0ZWFjYTdmNGFjXkEyXkFqcGdeQXVyODE3MDg1OTE@._V1_SX300.jpg",
+      "Plot": "A day in the life of a homeless, cocaine smoking, prostitute.",
       "Type": "movie",
-      "RunTime": "117 min",
-      "Genre": "Action, Adventure, Crime",
-      "Director": "Joe Carnahan",
-      "Writer": "Joe Carnahan, Brian Bloom, Skip Woods",
-      "Actors": "Liam Neeson, Bradley Cooper, Sharlto Copley",
-      "Language": "English, Spanish, French, Swahili, German",
-      "Country": "United States, United Kingdom"
+      "RunTime": "5 min",
+      "Genre": "Short, Drama, Music",
+      "Director": "Ruskin Kyle",
+      "Writer": "N/A",
+      "Actors": "Katie Brady, Selina MacDonald",
+      "Language": "English",
+      "Country": "UK"
     },
     {
       "title": "30 Minutes or Less",
@@ -263,8 +263,6 @@
       "year": "2016",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -613,8 +611,6 @@
       "year": "2018",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -674,8 +670,6 @@
       "year": "2019",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -802,9 +796,7 @@
       "netflix_url": "https://www.netflix.com/title/81227923",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null
+      "imdb_id": null
     },
     {
       "title": "Face Off",
@@ -1011,16 +1003,6 @@
       "Country": "United States"
     },
     {
-      "title": "Motu Patlu: Khazaane Ki Race",
-      "netflix_url": "https://www.netflix.com/title/81318058",
-      "year": "2015",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
-    },
-    {
       "title": "The Pirates: The Last Royal Treasure",
       "netflix_url": "https://www.netflix.com/title/81336431",
       "year": "2022",
@@ -1111,8 +1093,6 @@
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1206,8 +1186,6 @@
       "year": "2022",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1413,14 +1391,6 @@
       "Actors": "Pugazh, S Rajapandi, Vijay Sethupathi",
       "Language": "Tamil, English",
       "Country": "India"
-    },
-    {
-      "title": "DSP (Hindi)",
-      "netflix_url": "https://www.netflix.com/title/81508718",
-      "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
     },
     {
       "title": "Kuttey",
@@ -1644,16 +1614,6 @@
       "Country": "India"
     },
     {
-      "title": "Uncle Naji 2",
-      "netflix_url": "https://www.netflix.com/title/81660256",
-      "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Almost Cops",
       "netflix_url": "https://www.netflix.com/title/81661402",
       "year": "2025",
@@ -1795,8 +1755,6 @@
       "year": "2018",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1883,23 +1841,6 @@
       "Actors": "Sharnaaz Ahmad, Amelia Henderson, Zul Ariffin",
       "Language": "Malay",
       "Country": "Malaysia, Singapore"
-    },
-    {
-      "title": "Ghostbusters: Frozen Empire",
-      "netflix_url": "https://www.netflix.com/title/81762779",
-      "year": "2024",
-      "imdb_rating": "6.1",
-      "imdb_id": "tt21235248",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOWI5NGUyMzUtMGFiNi00ZTc3LTk1YTQtMDU0NGRjNGIxZTZmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second ice age.",
-      "Type": "movie",
-      "RunTime": "115 min",
-      "Genre": "Adventure, Comedy, Fantasy",
-      "Director": "Gil Kenan",
-      "Writer": "Gil Kenan, Jason Reitman, Ivan Reitman",
-      "Actors": "Paul Rudd, Carrie Coon, Finn Wolfhard",
-      "Language": "English, Korean, French",
-      "Country": "United States, Canada, United Kingdom"
     },
     {
       "title": "Bad Boys: Ride or Die",
@@ -1992,8 +1933,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2036,8 +1975,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2046,8 +1983,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     }
   ]

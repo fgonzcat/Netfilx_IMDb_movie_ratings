@@ -441,8 +441,6 @@
       "year": "2020",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -501,9 +499,7 @@
       "netflix_url": "https://www.netflix.com/title/81033473",
       "year": "1998",
       "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null
+      "imdb_id": null
     },
     {
       "title": "Super Crooks",
@@ -664,14 +660,12 @@
       "year": "2019",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
       "title": "Sonic X",
       "netflix_url": "https://www.netflix.com/title/81172267",
-      "year": "2003",
+      "year": "2004",
       "imdb_rating": "6.2",
       "imdb_id": "tt0367413",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzdjYTU1MWItNjY3Mi00NTNjLWIzNzctZmU5ZWQ0NGVlMTAzXkEyXkFqcGc@._V1_SX300.jpg",
@@ -895,8 +889,6 @@
       "year": "2020",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -905,8 +897,6 @@
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -948,9 +938,7 @@
       "netflix_url": "https://www.netflix.com/title/81497635",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null
+      "imdb_id": null
     },
     {
       "title": "Ghost in the Shell: SAC_2045 Sustainable War",

@@ -122,23 +122,6 @@
       "Country": "United Kingdom, United States"
     },
     {
-      "title": "Donnie Darko",
-      "netflix_url": "https://www.netflix.com/title/60022315",
-      "year": "2001",
-      "imdb_rating": "8.0",
-      "imdb_id": "tt0246578",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWE3NTYzZmEtM2U5MS00MDZhLTk2ZTQtZTgzNjg0ZGQ5ZjM0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes.",
-      "Type": "movie",
-      "RunTime": "113 min",
-      "Genre": "Drama, Mystery, Sci-Fi",
-      "Director": "Richard Kelly",
-      "Writer": "Richard Kelly",
-      "Actors": "Jake Gyllenhaal, Jena Malone, Mary McDonnell",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Monty Python's The Meaning of Life",
       "netflix_url": "https://www.netflix.com/title/60029676",
       "year": "1983",

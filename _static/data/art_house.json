@@ -178,8 +178,6 @@
       "year": "2012",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -375,8 +373,6 @@
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -720,23 +716,6 @@
       "Country": "France, Spain"
     },
     {
-      "title": "Dry Martina",
-      "netflix_url": "https://www.netflix.com/title/81039410",
-      "year": "2018",
-      "imdb_rating": "5.8",
-      "imdb_id": "tt6312802",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmFhMzUwMjItYzFkYi00NzljLWIwMTAtNjJhNGM2MjMwOGJiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Martina was a famous singer in Argentina during the late 90s, who's become completely frigid and disenchanted with love. The arrival of a so-called sister, alongside her attractive boyfriend, compel Martina to go to Chile with one...",
-      "Type": "movie",
-      "RunTime": "95 min",
-      "Genre": "Comedy, Drama",
-      "Director": "Che Sandoval",
-      "Writer": "Che Sandoval",
-      "Actors": "Antonella Costa, Patricio Contreras, Geraldine Neary",
-      "Language": "Spanish",
-      "Country": "Chile, Argentina"
-    },
-    {
       "title": "Joy",
       "netflix_url": "https://www.netflix.com/title/81046255",
       "year": "2019",
@@ -759,8 +738,6 @@
       "year": "2018",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1194,8 +1171,6 @@
       "year": "2020",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1442,8 +1417,6 @@
       "year": "2022",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1486,26 +1459,24 @@
       "year": "2022",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
       "title": "The Sand Castle",
       "netflix_url": "https://www.netflix.com/title/81636517",
       "year": "2025",
-      "imdb_rating": "7.1",
-      "imdb_id": "tt0075847",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ0ZjdmYTktNDM0OC00OTFmLWFjMWMtYjI0NTc3YTJkOTBiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "On a sandy desert, a man made of sand constructs other sand creatures to help make a beautiful sand castle for themselves.",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0202604",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmUzNTA3ZDQtYjgzMS00NDRjLTgwNDAtYzk3YTA2YmU2MWJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Detectives investigate the murder of an old man found in a Tokyo rail yard.",
       "Type": "movie",
-      "RunTime": "13 min",
-      "Genre": "Animation, Short, Comedy",
-      "Director": "Co Hoedeman",
-      "Writer": "N/A",
-      "Actors": "N/A",
-      "Language": "French, English",
-      "Country": "Canada"
+      "RunTime": "143 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Yoshitarô Nomura",
+      "Writer": "Seichô Matsumoto, Shinobu Hashimoto, Yôji Yamada",
+      "Actors": "Tetsurô Tanba, Gô Katô, Kensaku Morita",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Adagio",
@@ -1564,8 +1535,6 @@
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1642,8 +1611,6 @@
       "year": "2022",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1686,8 +1653,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {

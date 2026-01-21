@@ -40,17 +40,17 @@
       "title": "Slam Dunk",
       "netflix_url": "https://www.netflix.com/title/70024218",
       "year": "1996",
-      "imdb_rating": "8.7",
-      "imdb_id": "tt0965547",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjIyYjg4YWUtNTM2OS00YTc3LWE5NTEtZTdmMDdiMzE1OGJjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "About Sakuragi Hanamichi, a freshman of Shohoku High School who joins the basketball team because of the girl he has a crush on, Haruko. Although he is newbie in this sport, he is no ordinary basketball player.",
-      "Type": "series",
-      "RunTime": "22 min",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt15242330",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGViYmNmZDUtODFlNi00MjMxLWI0ZmYtYTBiMDg2OGRiODQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows 17-year-old Ryota Miyagi, who struggles to accomplish his late elder brother's dream of becoming a basketball star.",
+      "Type": "movie",
+      "RunTime": "124 min",
       "Genre": "Animation, Comedy, Drama",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Hisao Egawa, Eriko Hara, Akiko Hiramatsu",
-      "Language": "Japanese, English",
+      "Director": "Takehiko Inoue",
+      "Writer": "Takehiko Inoue",
+      "Actors": "Shugo Nakamura, Jun Kasama, Shinichiro Kamio",
+      "Language": "Japanese",
       "Country": "Japan"
     },
     {
@@ -67,23 +67,6 @@
       "Director": "Tensai Okamura",
       "Writer": "Masashi Kishimoto, Katsuyuki Sumizawa, Ardwight Chamberlain",
       "Actors": "Junko Takeuchi, Chie Nakamura, Noriaki Sugiyama",
-      "Language": "Japanese",
-      "Country": "Japan"
-    },
-    {
-      "title": "One Piece: Episode of Alabasta",
-      "netflix_url": "https://www.netflix.com/title/70086565",
-      "year": "2007",
-      "imdb_rating": "6.8",
-      "imdb_id": "tt1037116",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2MGRkZTgtYmI2My00M2VjLTlmNTItYmJiNTY3ZmNkNTIyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A re-telling of the Alabaster Arc from One Piece (TV). Luffy and his crew come to rescue a land in the midst of a civil war, due to a powerful devil fruit user.",
-      "Type": "movie",
-      "RunTime": "90 min",
-      "Genre": "Animation, Action, Adventure",
-      "Director": "Takahiro Imamura",
-      "Writer": "Eiichirô Oda, Hirohiko Uesaka",
-      "Actors": "Mayumi Tanaka, Kazuya Nakai, Akemi Okamura",
       "Language": "Japanese",
       "Country": "Japan"
     },
@@ -312,11 +295,18 @@
       "title": "Naruto Shippuden: The Movie: The Lost Tower",
       "netflix_url": "https://www.netflix.com/title/70275937",
       "year": "2010",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
+      "imdb_rating": "6.8",
+      "imdb_id": "tt1703048",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTk2Yjk5OWYtOTU2NC00N2EzLWFiYzQtMTYxMGZhMWEyNjg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Our hero Naruto is caught in special chakra that propels him into the past. He finds himself in the City of Loran. As he encounters strange things, can he save the future with the past?",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Masahiko Murata",
+      "Writer": "Junki Takegami, Seth Walther, Masahiro Hikokubo",
+      "Actors": "Junko Takeuchi, Chie Nakamura, Satoshi Hino",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Dragon Ball Z: Battle of Gods",
@@ -341,8 +331,6 @@
       "year": "2000",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -351,8 +339,6 @@
       "year": "2014",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -410,18 +396,18 @@
       "title": "Dinosaur King",
       "netflix_url": "https://www.netflix.com/title/80007912",
       "year": "2008",
-      "imdb_rating": "6.0",
-      "imdb_id": "tt1524993",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzk3ZmY1YjYtMjEyZi00NDM4LTk2MWQtYTEwNmI1NGU4NDE1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Max Taylor is the son of paleontologist Dr Spike Taylor and is a fan of dinosaurs.",
-      "Type": "series",
-      "RunTime": "49S min",
-      "Genre": "Animation, Action, Adventure",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Rebecca Soler, Matt Hoverman, David Zen Mansley",
-      "Language": "Japanese, English",
-      "Country": "Japan"
+      "imdb_rating": "2.2",
+      "imdb_id": "tt0048256",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDkzOTY0YjktYTFiOC00YjMwLTlhODEtN2MwMTZlNTJkYWMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A new planet moves into the Solar system and four scientists (two couples) are sent to explore planet Nova. In between romantic interludes, the cast faces an iguana masquerading as a Tyrannosaurus rex.",
+      "Type": "movie",
+      "RunTime": "63 min",
+      "Genre": "Adventure, Horror, Sci-Fi",
+      "Director": "Bert I. Gordon",
+      "Writer": "Bert I. Gordon, Al Zimbalist, Tom Gries",
+      "Actors": "William Bryant, Wanda Curtis, Douglas Henderson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Magi",
@@ -537,11 +523,18 @@
       "title": "Naruto Shippûden the Movie: The Will of Fire",
       "netflix_url": "https://www.netflix.com/title/80045673",
       "year": "2009",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
+      "imdb_rating": "7.0",
+      "imdb_id": "tt1481363",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQyN2RjMzAtMjc3Ny00N2Q5LWI4NzktYTgzNTdlYzg2ZTQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ninjas with bloodline limits begin disappearing in all the countries and blame points toward the fire nation. By Tsunade's order, Kakashi is sacrificed to prevent an all out war. Naruto fights through friends and foes to prevent h...",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Animation, Action, Fantasy",
+      "Director": "Masahiko Murata",
+      "Writer": "Masashi Kishimoto, Junki Takegami, Masahiro Hikokubo",
+      "Actors": "Junko Takeuchi, Chie Nakamura, Satoshi Hino",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "The Seven Deadly Sins",
@@ -597,7 +590,7 @@
     {
       "title": "Kamisama Kiss",
       "netflix_url": "https://www.netflix.com/title/80070071",
-      "year": "2012",
+      "year": "2015",
       "imdb_rating": "8.1",
       "imdb_id": "tt2320220",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ2NWQ0Y2UtYzU5Yi00ZjI2LWE2MDEtMjRhZDNlZWJhOWQ3XkEyXkFqcGc@._V1_SX300.jpg",
@@ -634,8 +627,6 @@
       "year": "2016",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -841,23 +832,6 @@
       "Actors": "Daiki Yamashita, Nobuhiko Okamoto, Yuka Terasaki",
       "Language": "Japanese",
       "Country": "Japan"
-    },
-    {
-      "title": "Charlotte",
-      "netflix_url": "https://www.netflix.com/title/80142917",
-      "year": "2015",
-      "imdb_rating": "7.5",
-      "imdb_id": "tt4574736",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmIxNDIxMDgtNTk5Mi00YzYyLWI2ZjgtMmUxZmEwOWExOTJlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The story takes place in an alternate reality where a small percentage of children manifest superhuman abilities upon reaching puberty. A focus is placed on Yuu Otosaka, a high school boy who awakens the ability to temporarily pos...",
-      "Type": "series",
-      "RunTime": "24 min",
-      "Genre": "Animation, Comedy, Drama",
-      "Director": "N/A",
-      "Writer": "Jun Maeda",
-      "Actors": "Kôki Uchiyama, Ayane Sakura, Momo Asakura",
-      "Language": "Japanese, English",
-      "Country": "China, Japan"
     },
     {
       "title": "Sailor Moon Crystal",
@@ -1208,38 +1182,21 @@
       "Country": "Japan"
     },
     {
-      "title": "LOST SONG",
-      "netflix_url": "https://www.netflix.com/title/80191369",
-      "year": "2018",
-      "imdb_rating": "6.9",
-      "imdb_id": "tt7211600",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTkxNWNhM2MtZmJmMC00YjVjLWIzNDEtMWQ5YTg4Y2QzMTlmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Rin, a young girl blessed with the power of song goes through on a journey trying to get to the capital to sing, little does she know, there's another girl who also has the power of song named finis.",
-      "Type": "series",
-      "RunTime": "25 min",
-      "Genre": "Animation, Adventure, Drama",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Konomi Suzuki, Yukari Tamura, Cherami Leigh",
-      "Language": "Japanese",
-      "Country": "Japan"
-    },
-    {
-      "title": "Cannon Busters",
-      "netflix_url": "https://www.netflix.com/title/80195357",
-      "year": "2019",
-      "imdb_rating": "6.6",
-      "imdb_id": "tt5066664",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGRmM2UxZTMtNzJmYi00NmFhLWJlMGItYzlhOTY5MDk0Yzc4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Explore fantastic land of Gearbolt as we follow a motley crew of travelers on an unforgettable journey to reunite 2 best friends.",
+      "title": "SAINT SEIYA: Knights of the Zodiac",
+      "netflix_url": "https://www.netflix.com/title/80186926",
+      "year": "2020",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt6908976",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY1MmU1M2MtZDhlZi00Nzc4LWJjOTUtZjc4MTk3ZTZjYTE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A digital remake from the Japanese anime classic Saint Seiya: Knights of the Zodiac (1986).",
       "Type": "series",
       "RunTime": "N/A",
-      "Genre": "Animation, Fantasy",
-      "Director": "Lesean Thomas",
-      "Writer": "Lesean Thomas",
-      "Actors": "Stephanie Sheh, Kenny Blank, Kamali Minter",
-      "Language": "English",
-      "Country": "United States, Japan"
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Tomasz Baginski",
+      "Writer": "Masami Kurumada (manga)",
+      "Actors": "Bryson Baugus, Masakazu Morita, Hideyuki Tanaka",
+      "Language": "Japanese, English",
+      "Country": "Japan"
     },
     {
       "title": "Rilakkuma and Kaoru",
@@ -1306,23 +1263,6 @@
       "Director": "Hiroyuki Seshita, Kôbun Shizuno",
       "Writer": "Ishirô Honda, Sadayuki Murai, Takeo Murata",
       "Actors": "Mamoru Miyano, Takahiro Sakurai, Kana Hanazawa",
-      "Language": "Japanese",
-      "Country": "Japan"
-    },
-    {
-      "title": "HERO MASK",
-      "netflix_url": "https://www.netflix.com/title/80200027",
-      "year": "2019",
-      "imdb_rating": "6.1",
-      "imdb_id": "tt9316078",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzY5N2M1NDctYTIyNy00NjczLWI2ZjUtNGZlOGM2YWMwM2MzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Detective James Blood investigates a string of grisly crimes all involving a mysterious mask.",
-      "Type": "series",
-      "RunTime": "25 min",
-      "Genre": "Animation, Action, Crime",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Greg Chun, Lauren Landa, Landon McDonald",
       "Language": "Japanese",
       "Country": "Japan"
     },
@@ -1429,16 +1369,6 @@
       "Country": "Japan"
     },
     {
-      "title": "Flavors of Youth: International Version",
-      "netflix_url": "https://www.netflix.com/title/80234491",
-      "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Godzilla Singular Point",
       "netflix_url": "https://www.netflix.com/title/80234811",
       "year": "2021",
@@ -1459,16 +1389,16 @@
       "title": "From Me to You: Kimi ni Todoke",
       "netflix_url": "https://www.netflix.com/title/80236253",
       "year": "2024",
-      "imdb_rating": "7.0",
-      "imdb_id": "tt22001792",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjAyYjNhZjItMzE1Yy00ZTRmLWFkMDgtY2ExZmExODFiZjZhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Put off by her gloomy demeanor, Sawako has a hard time fitting in but when an outgoing classmate approaches her, life takes a turn for the better.",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt1745240",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDliNGUxNTEtOTE1Zi00M2U3LWE0ODktNWQxMDRhMDZiNDAyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Sawako wishes to make friends but her weird vibe and lack of communication skills are getting in her way. Fortunately, it's no longer the case since she met Kazehaya, an extroverted guy who she couldn't help but to fall in love with.",
       "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Comedy, Drama, Romance",
+      "RunTime": "24 min",
+      "Genre": "Animation, Comedy, Drama",
       "Director": "N/A",
       "Writer": "N/A",
-      "Actors": "Oji Suzuka, Sara Minami, Rinka Kumada",
+      "Actors": "Mamiko Noto, Morgan Berry, Daisuke Namikawa",
       "Language": "Japanese",
       "Country": "Japan"
     },
@@ -1488,33 +1418,6 @@
       "Actors": "Dallas Reid, Gakuto Kajiwara, Jill Harris",
       "Language": "Japanese, English, Portuguese, German, Spanish",
       "Country": "Japan"
-    },
-    {
-      "title": "DRAGON PILOT: Hisone & Masotan",
-      "netflix_url": "https://www.netflix.com/title/80241960",
-      "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Forest of Piano",
-      "netflix_url": "https://www.netflix.com/title/80986797",
-      "year": "2019",
-      "imdb_rating": "7.3",
-      "imdb_id": "tt8043492",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjgxY2IzZGUtYzY1Yi00YmIxLWFjZjMtYjEwM2QwY2FkNzc3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Two different people - the son of a prostitute, and the son of a professional musician - develop a bond of friendship through their love of playing the piano.",
-      "Type": "series",
-      "RunTime": "25 min",
-      "Genre": "Animation, Adventure, Drama",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Johnny Yong Bosch, Erika Harlacher, Kyle McCarley",
-      "Language": "Japanese",
-      "Country": "Japan, Italy"
     },
     {
       "title": "RESIDENT EVIL: Infinite Darkness",
@@ -1670,23 +1573,6 @@
       "Country": "United States"
     },
     {
-      "title": "Ingress: The Animation",
-      "netflix_url": "https://www.netflix.com/title/80992853",
-      "year": "2018",
-      "imdb_rating": "6.4",
-      "imdb_id": "tt9561968",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjE0MjM0MWMtNjkxNy00MzMxLWIwZGQtYzdmYTE3MzM4NDFiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After scientists discover a mysterious substance that can influence human minds, two factions wage an all-out battle to control its awesome power.",
-      "Type": "series",
-      "RunTime": "24 min",
-      "Genre": "Animation, Sci-Fi",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Laura Bailey, Cristina Valenzuela, Crispin Freeman",
-      "Language": "English, Japanese",
-      "Country": "Japan"
-    },
-    {
       "title": "Japan Sinks: 2020",
       "netflix_url": "https://www.netflix.com/title/80993018",
       "year": "2020",
@@ -1726,8 +1612,6 @@
       "year": "2013",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1799,16 +1683,6 @@
       "Country": "Japan"
     },
     {
-      "title": "One Piece: Episode of Chopper: Bloom in the Winter, Miracle Sakura",
-      "netflix_url": "https://www.netflix.com/title/80998780",
-      "year": "2008",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
-    },
-    {
       "title": "One Piece Film: Strong World",
       "netflix_url": "https://www.netflix.com/title/80998781",
       "year": "2009",
@@ -1843,23 +1717,6 @@
       "Country": "United States"
     },
     {
-      "title": "Bright: Samurai Soul",
-      "netflix_url": "https://www.netflix.com/title/81001990",
-      "year": "2021",
-      "imdb_rating": "5.5",
-      "imdb_id": "tt14837960",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZGIyMGQ4MGItN2U5NS00MGY4LTg3NjEtYzA0NTgyNjM4NjFiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Izo, a Ronin, and Raiden, an orc, work to bring a young elf girl and the wand she carries to the land of the elves in the north.",
-      "Type": "movie",
-      "RunTime": "80 min",
-      "Genre": "Animation, Action, Adventure",
-      "Director": "Kyohei Ishiguro",
-      "Writer": "Michiko Yokote",
-      "Actors": "Simu Liu, Keone Young, Victoria Grace",
-      "Language": "English, Japanese",
-      "Country": "United States, Japan"
-    },
-    {
       "title": "Altered Carbon: Resleeved",
       "netflix_url": "https://www.netflix.com/title/81001991",
       "year": "2020",
@@ -1875,23 +1732,6 @@
       "Actors": "Ray Chase, Doug Stone, Kaiji Tang",
       "Language": "Japanese",
       "Country": "Japan, United States"
-    },
-    {
-      "title": "The Idhun Chronicles",
-      "netflix_url": "https://www.netflix.com/title/81002001",
-      "year": "2021",
-      "imdb_rating": "5.5",
-      "imdb_id": "tt9731266",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODk5MzE2NTgtZDBkNy00YmQzLTg0NzItM2FkMTQ5MmI5MjdkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The day the three Suns and three Moons came together in alignment over Idhun, Ashran the necromancer seized power and the reign of the winged snakes started.",
-      "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Animation, Action, Adventure",
-      "Director": "N/A",
-      "Writer": "Andrés Carrión, Laura Gallego",
-      "Actors": "Itzan Escamilla, Michelle Jenner, Sergio Mur",
-      "Language": "Spanish",
-      "Country": "Spain"
     },
     {
       "title": "Pacific Rim: The Black",
@@ -1916,8 +1756,6 @@
       "year": "2020",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1975,11 +1813,18 @@
       "title": "The Seven Deadly Sins the Movie: Prisoners of the Sky",
       "netflix_url": "https://www.netflix.com/title/81006261",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
+      "imdb_rating": "7.0",
+      "imdb_id": "tt9089294",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzI1ODdlOWItMTVlMS00NTdjLTkxZTktYmRmY2NkN2I2NTA1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Seven Deadly Sins travel to the Sky Temple in search of an elusive ingredient.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Yasuto Nishikata, Noriyuki Abe",
+      "Writer": "Makoto Uezu, Nakaba Suzuki",
+      "Actors": "Yûki Kaji, Sora Amamiya, Misaki Kuno",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Aggretsuko: We Wish You a Metal Christmas",
@@ -1987,8 +1832,6 @@
       "year": "2018",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2043,23 +1886,6 @@
       "Country": "Japan"
     },
     {
-      "title": "Ultramarine Magmell",
-      "netflix_url": "https://www.netflix.com/title/81019771",
-      "year": "2019",
-      "imdb_rating": "6.0",
-      "imdb_id": "tt9826314",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTdiOTFkM2ItYzg5Mi00MmZlLWFjMjQtZjY2N2EwOWY2NmI5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Unknown creatures. Deadly pitfalls. With so many reckless adventures out to make fortune, someone's got to rescue them.",
-      "Type": "series",
-      "RunTime": "24 min",
-      "Genre": "Animation, Action, Adventure",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Jonathan Fahn, Mao Ichimichi, Yasuyuki Kase",
-      "Language": "Japanese, Mandarin, English, Chinese",
-      "Country": "Japan, China"
-    },
-    {
       "title": "Cells at Work!",
       "netflix_url": "https://www.netflix.com/title/81028791",
       "year": "2021",
@@ -2109,15 +1935,6 @@
       "Actors": "Spike Spencer, Allison Keith-Shipp, Sue Ulu",
       "Language": "Japanese, English",
       "Country": "Japan"
-    },
-    {
-      "title": "EVANGELION: DEATH (TRUE)²",
-      "netflix_url": "https://www.netflix.com/title/81033473",
-      "year": "1998",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null
     },
     {
       "title": "Super Crooks",
@@ -2482,8 +2299,6 @@
       "year": "2019",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2492,14 +2307,12 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
       "title": "Sonic X",
       "netflix_url": "https://www.netflix.com/title/81172267",
-      "year": "2003",
+      "year": "2004",
       "imdb_rating": "6.2",
       "imdb_id": "tt0367413",
       "Poster": "https://m.media-amazon.com/images/M/MV5BNzdjYTU1MWItNjY3Mi00NTNjLWIzNzctZmU5ZWQ0NGVlMTAzXkEyXkFqcGc@._V1_SX300.jpg",
@@ -2597,23 +2410,6 @@
       "Actors": "Ron Bottitta, Frankie Kevich, Cherami Leigh",
       "Language": "Japanese",
       "Country": "Japan"
-    },
-    {
-      "title": "Pokémon Concierge",
-      "netflix_url": "https://www.netflix.com/title/81186864",
-      "year": "2023",
-      "imdb_rating": "7.5",
-      "imdb_id": "tt26916286",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2VmNmY2YTctYzAyYy00YmRiLTg2NjYtMzQ2MmMwMTQ3N2NkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follow the adventures of Haru, a concierge at the Pokémon Resort as she interacts with the Pokémon and their visiting owners.",
-      "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Animation, Short, Adventure",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Non, Ai Fairouz, Eita Okuno",
-      "Language": "English, Japanese",
-      "Country": "United States, France, Japan"
     },
     {
       "title": "Pokémon Journeys: The Series",
@@ -2718,23 +2514,6 @@
       "Country": "Japan"
     },
     {
-      "title": "Great Pretender",
-      "netflix_url": "https://www.netflix.com/title/81220435",
-      "year": "2020",
-      "imdb_rating": "7.8",
-      "imdb_id": "tt11680468",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxOWUzODEtMTdlYS00NTc5LWFhM2QtZTM3NjE2ZWZhYWVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A Japanese conman crosses paths with a French rival, and gets entangled in conspiracies and scams beyond his wildest dreams.",
-      "Type": "series",
-      "RunTime": "23 min",
-      "Genre": "Animation, Adventure, Comedy",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Chiaki Kobayashi, Jun'ichi Suwabe, Natsumi Fujiwara",
-      "Language": "Japanese",
-      "Country": "Japan"
-    },
-    {
       "title": "Pokémon: Mewtwo Strikes Back - Evolution",
       "netflix_url": "https://www.netflix.com/title/81223075",
       "year": "2019",
@@ -2774,8 +2553,6 @@
       "year": "2013",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -3000,23 +2777,6 @@
       "Country": "Japan, United States"
     },
     {
-      "title": "Thus Spoke Kishibe Rohan",
-      "netflix_url": "https://www.netflix.com/title/81280998",
-      "year": "2021",
-      "imdb_rating": "7.5",
-      "imdb_id": "tt13887556",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BM2YxM2Q0ZWYtNGZhOS00MzVlLWFiMDctMTE5ZmI4OGFmNTQyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A popular manga creator becomes enmeshed in paranormal events while conducting research.",
-      "Type": "series",
-      "RunTime": "1 min",
-      "Genre": "Animation, Action, Adventure",
-      "Director": "N/A",
-      "Writer": "Hirohiko Araki",
-      "Actors": "Takahiro Sakurai, Landon McDonald, Yûki Kaji",
-      "Language": "Japanese",
-      "Country": "Japan"
-    },
-    {
       "title": "PLUTO",
       "netflix_url": "https://www.netflix.com/title/81281344",
       "year": "2023",
@@ -3055,9 +2815,7 @@
       "netflix_url": "https://www.netflix.com/title/81281582",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null
+      "imdb_id": null
     },
     {
       "title": "A Whisker Away",
@@ -3080,21 +2838,35 @@
       "title": "Pokémon Master Journeys: The Series",
       "netflix_url": "https://www.netflix.com/title/81291575",
       "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
+      "imdb_rating": "7.5",
+      "imdb_id": "tt29079338",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMThiMWVlMGUtZGQxNC00N2ExLWJkNjctNGRiNTQyM2NlYWRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ash and his companions Pikachu, Misty, and Brock journey across regions, aiding troubled Pokémon while a mysterious guardian watches over them.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "Japan"
     },
     {
       "title": "Pokémon Ultimate Journeys: The Series",
       "netflix_url": "https://www.netflix.com/title/81291578",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
+      "imdb_rating": "7.5",
+      "imdb_id": "tt29079338",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMThiMWVlMGUtZGQxNC00N2ExLWJkNjctNGRiNTQyM2NlYWRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ash and his companions Pikachu, Misty, and Brock journey across regions, aiding troubled Pokémon while a mysterious guardian watches over them.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "Japan"
     },
     {
       "title": "Junji Ito Maniac: Japanese Tales of the Macabre",
@@ -3388,11 +3160,18 @@
       "title": "Cells at Work! CODE BLACK",
       "netflix_url": "https://www.netflix.com/title/81392162",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
+      "imdb_rating": "7.5",
+      "imdb_id": "tt12150836",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTdiY2M1ZjctMzdjMC00OGQ4LWJlYWItYjU5ODMyMzcyN2EyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a human body, trillions of cells work tirelessly to keep the host alive. \"Hataraku Saibou Black\" follows the battle waged by these cells against the owner's unhealthy habits, fighting to safeguard his well-being.",
+      "Type": "series",
+      "RunTime": "24 min",
+      "Genre": "Animation, Action, Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Allegra Clark, Andrew Russell, Yôko Hikasa",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Transformers: War for Cybertron: Earthrise",
@@ -3400,8 +3179,6 @@
       "year": "2020",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -3410,8 +3187,6 @@
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -3868,11 +3643,18 @@
       "title": "Jujutsu Kaisen 0: The Movie",
       "netflix_url": "https://www.netflix.com/title/81602834",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
+      "imdb_rating": "7.8",
+      "imdb_id": "tt14331144",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzNhZTdmNDYtNTA0NC00MmNmLWIzYjUtNjg5NzNlYWQ0N2E5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The prequel to Jujutsu Kaisen (2020), where a high schooler gains control of an extremely powerful cursed spirit and gets enrolled in the Tokyo Prefectural Jujutsu High School by Jujutsu Sorcerers.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Animation, Action, Fantasy",
+      "Director": "Sunghoo Park",
+      "Writer": "Gege Akutami, Hiroshi Seko",
+      "Actors": "Megumi Ogata, Kana Hanazawa, Yûichi Nakamura",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Pokémon: The Arceus Chronicles",
@@ -3980,9 +3762,18 @@
       "title": "One Piece: 3D2Y - Overcome Ace's Death! Luffy's Vow to His Friends",
       "netflix_url": "https://www.netflix.com/title/81679587",
       "year": "2014",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_rating": "7.5",
+      "imdb_id": "tt5098548",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTJlNjI5NWYtMDg0ZS00YTk3LThkMzgtY2YxMjA2MTQ2OGVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The special takes place during the two year before the Straw Hats reunite on Sabaody. Luffy is currently in Rusukaina training to get stronger to take on the New World. However the training is interrupted when Hancock's sisters, M...",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Naoyuki Itô",
+      "Writer": "Eiichirô Oda, Hirohiko Uesaka, Jin Tanaka",
+      "Actors": "Felecia Angelle, Ryôhei Arai, Sôta Arai",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "One Piece Adventure of Nebulandia",
@@ -4149,16 +3940,16 @@
       "title": "Rurouni Kenshin",
       "netflix_url": "https://www.netflix.com/title/81705252",
       "year": "2024",
-      "imdb_rating": "8.5",
-      "imdb_id": "tt0182629",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjhiMzRkMmEtMzZhNi00ZTNhLWIxZTEtZDE3MTA4NzY4OWY2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The adventures of a young wandering swordsman who stumbles upon a struggling martial arts school in Meiji era Japan.",
-      "Type": "series",
-      "RunTime": "24 min",
-      "Genre": "Animation, Action, Adventure",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Mayo Suzukaze, Dorothy Elias-Fahn, Richard Cansino",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt1979319",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDgzODM2MjUyMF5BMl5BanBnXkFtZTgwMzg4MjA1OTE@._V1_SX300.jpg",
+      "Plot": "A former assassin who has resolved to never kill again has his vow sorely tested.",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Keishi Otomo",
+      "Writer": "Nobuhiro Watsuki, Kiyomi Fujii, Keishi Otomo",
+      "Actors": "Takeru Satoh, Emi Takei, Yû Aoi",
       "Language": "Japanese",
       "Country": "Japan"
     },
@@ -4166,11 +3957,18 @@
       "title": "Pokémon: To Be a Pokémon Master: Ultimate Journeys: The Series",
       "netflix_url": "https://www.netflix.com/title/81706101",
       "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
+      "imdb_rating": "7.5",
+      "imdb_id": "tt29079338",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMThiMWVlMGUtZGQxNC00N2ExLWJkNjctNGRiNTQyM2NlYWRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ash and his companions Pikachu, Misty, and Brock journey across regions, aiding troubled Pokémon while a mysterious guardian watches over them.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "Japan"
     },
     {
       "title": "The Apothecary Diaries",
@@ -4224,119 +4022,6 @@
       "Country": "Japan"
     },
     {
-      "title": "Anpanman: Adventure of Happie",
-      "netflix_url": "https://www.netflix.com/title/81719798",
-      "year": "2005",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Anpanman: Star-Spirited Dollie",
-      "netflix_url": "https://www.netflix.com/title/81719799",
-      "year": "2006",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt15685194",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTJhMzg4M2ItYTIxOS00MjY5LTg0MDUtYzc4MmU3YzQ0ODhlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The beloved children's superhero has his hands full after he saves Dollie, who comes to life and annoys others with her non-stop search for fun times.",
-      "Type": "movie",
-      "RunTime": "51 min",
-      "Genre": "Animation",
-      "Director": "Hiroyuki Yano",
-      "Writer": "Tomoko Konparu",
-      "Actors": "Keiko Toda, Ryûsei Nakao, Hiroshi Masuoka",
-      "Language": "English",
-      "Country": "Japan"
-    },
-    {
-      "title": "Anpanman: Purun, The Soap Bubble",
-      "netflix_url": "https://www.netflix.com/title/81719801",
-      "year": "2007",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Anpanman: The Secret of Fairy Rin-Rin",
-      "netflix_url": "https://www.netflix.com/title/81719804",
-      "year": "2008",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt1260507",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZWFkMWY1ZmItNTViYy00OGI4LWJjMzEtMzFhNzAwMzZhN2UzXkEyXkFqcGdeQXVyNjgwNTk4Mg@@._V1_SX300.jpg",
-      "Plot": "N/A",
-      "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "Animation",
-      "Director": "Akinori Nagaoka",
-      "Writer": "Takashi Yanase, Shôji Yonemura",
-      "Actors": "Keiko Toda, Ryûsei Nakao, Ghia Burns",
-      "Language": "English, Japanese",
-      "Country": "Japan"
-    },
-    {
-      "title": "Anpanman: The Blacknose with Magical Song",
-      "netflix_url": "https://www.netflix.com/title/81719808",
-      "year": "2010",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Anpanman: Revive Banana Island!",
-      "netflix_url": "https://www.netflix.com/title/81719813",
-      "year": "2012",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Anpanman: Apple Boy And Everyone's Hope",
-      "netflix_url": "https://www.netflix.com/title/81719818",
-      "year": "2014",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt15041652",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NGFiNjctM2JlZC00Njc5LThkZTQtNDVjMDVmZjg4MjAxXkEyXkFqcGdeQXVyMTEwMDc4OTU@._V1_SX300.jpg",
-      "Plot": "N/A",
-      "Type": "movie",
-      "RunTime": "46 min",
-      "Genre": "Animation, Adventure, Family",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Mauriett Chayeb, Ghia Burns, Andrio Chavarro",
-      "Language": "English, Japanese",
-      "Country": "Japan"
-    },
-    {
-      "title": "Anpanman: Nanda and Runda from Star of Toys",
-      "netflix_url": "https://www.netflix.com/title/81719826",
-      "year": "2016",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Anpanman: Shine! Kulun and the Stars of Life",
-      "netflix_url": "https://www.netflix.com/title/81719828",
-      "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Anpanman: Twinkle! Princess Vanilla of Ice Cream Land",
-      "netflix_url": "https://www.netflix.com/title/81719829",
-      "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Mobile Suit Gundam Seed Destiny",
       "netflix_url": "https://www.netflix.com/title/81724493",
       "year": "2004",
@@ -4376,18 +4061,14 @@
       "year": "2024",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
       "title": "Monsters 103 Mercies Dragon Damnation",
       "netflix_url": "https://www.netflix.com/title/81733654",
       "year": "2024",
-      "imdb_rating": "7.7",
-      "imdb_id": "tt30475122",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZmI4ZTAyMjAtNmZjZi00NjcwLWFkNmYtMzJlYWVmYzNjNzU1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A samurai's path leads him to a young waitress whose hometown was destroyed by a dragon. He doesn't want any trouble, but it finds them anyway."
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "DAN DA DAN",
@@ -4454,23 +4135,6 @@
       "Director": "Yuzuru Tachikawa",
       "Writer": "Number 8, Shin'ichi Ishizuka",
       "Actors": "Junya Abe, Yutaka Aoyama, Mika Doi",
-      "Language": "Japanese",
-      "Country": "Japan"
-    },
-    {
-      "title": "Orb: On the Movements of the Earth",
-      "netflix_url": "https://www.netflix.com/title/81765022",
-      "year": "2024",
-      "imdb_rating": "8.4",
-      "imdb_id": "tt33044444",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRmMThlN2EtYTM0Ni00MjBjLWFmZmMtOGYxZWI1MzUzNzJhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After learning heretical teachings about the Earth and the Sun, a child prodigy searches for his master's hidden research while evading the Inquisition.",
-      "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Animation, Drama, History",
-      "Director": "N/A",
-      "Writer": "Uoto",
-      "Actors": "Kenjiro Tsuda, Katsuyuki Konishi, Yûichi Nakamura",
       "Language": "Japanese",
       "Country": "Japan"
     },
@@ -4582,8 +4246,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -4626,8 +4288,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -4653,8 +4313,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -4731,8 +4389,6 @@
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -4741,8 +4397,6 @@
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     }
   ]
