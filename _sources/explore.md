@@ -8,11 +8,11 @@ Choose your criteria and explore the full catalog.
 </small>
 
 Interpretation
-😴 = Very boring
-💣 = Likely bad
-🤔 = Might be good
-👍 = Very likely good
-🌟 = Excellent
+- 😴 = Very boring
+- 💣 = Likely bad
+- 🤔 = Might be good
+- 👍 = Very likely good
+- 🌟 = Excellent
 
 
 
