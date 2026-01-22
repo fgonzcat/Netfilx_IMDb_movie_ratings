@@ -249,6 +249,14 @@
       "Country": "South Korea, Canada"
     },
     {
+      "title": "Misaeng: Incomplete Life",
+      "netflix_url": "https://www.netflix.com/title/80165295",
+      "year": "2014",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Love Alarm",
       "netflix_url": "https://www.netflix.com/title/80168068",
       "year": "2021",
@@ -440,6 +448,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Lee Seung-gi, Cha Seung-won, Oh Yeon-Seo",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Prison Playbook",
+      "netflix_url": "https://www.netflix.com/title/80214406",
+      "year": "2017",
+      "imdb_rating": "8.4",
+      "imdb_id": "tt7622902",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDY0NzM1YTAtNDQ0NC00YTI1LTg5NzctMzcwNDMzOGEzODVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Baseball pitcher Kim Je-hyeok becomes a convict overnight after being sent to prison for defending his sister from a sexual assault, days before he was due to fly to the US to join the Boston Red Sox.",
+      "Type": "series",
+      "RunTime": "90 min",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Park Hae-soo, Jung Kyung-ho, Krystal Jung",
       "Language": "Korean",
       "Country": "South Korea"
     },
@@ -1115,6 +1140,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "When the Camellia Blooms",
+      "netflix_url": "https://www.netflix.com/title/81144925",
+      "year": "2019",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt10826064",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWVmNTM5ZTMtZWVlMi00MDU4LWExNzAtMDk0YzEyMmE5NjMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A love story of the single-parent Dongbaek, the owner of Camellia Bar among a small neighborhood, who is also being the next murder target of a serial killer case.",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kong Hyo-jin, Kim Ji-seok, Ji E-Suu",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Dog Days Out",
       "netflix_url": "https://www.netflix.com/title/81157021",
       "year": "2025",
@@ -1213,6 +1255,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Lee Joon-hyuk, Yun Jong-seok, Kim Si-eun",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Itaewon Class",
+      "netflix_url": "https://www.netflix.com/title/81193309",
+      "year": "2020",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt11239552",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODEyZmVlMWEtYjNmNS00MTQ5LThlMzgtZjM4YjNhMGVkZWI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An ex-con opens a street bar in Itaewon, while also seeking revenge on the family who was responsible for his father's death.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Romance",
+      "Director": "N/A",
+      "Writer": "Gwang Jin",
+      "Actors": "Park Seo-joon, Kim Da-mi, Yoo Jae-myung",
       "Language": "Korean",
       "Country": "South Korea"
     },
@@ -1597,6 +1656,23 @@
       "Actors": "N/A",
       "Language": "Korean",
       "Country": "Korea"
+    },
+    {
+      "title": "Start-Up",
+      "netflix_url": "https://www.netflix.com/title/81290293",
+      "year": "2020",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt5538572",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmViOTJjN2YtZWY4Yi00MTBlLWIwMzItNTVhNDAwODJkMjRjXkEyXkFqcGdeQXVyNTgwNTgzNDA@._V1_SX300.jpg",
+      "Plot": "An entertainment manager starts his own company after being fired for his dubious ways.",
+      "Type": "series",
+      "RunTime": "11 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Paul Galazo, Jeremey Penn",
+      "Language": "English",
+      "Country": "USA"
     },
     {
       "title": "Record of Youth",
@@ -2638,6 +2714,31 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Seo In-guk, Oh Yeon-Seo, Kwak Si-yang",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "My Liberation Notes",
+      "netflix_url": "https://www.netflix.com/title/81568411",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Welcome to Wedding Hell",
+      "netflix_url": "https://www.netflix.com/title/81568851",
+      "year": "2022",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt20192096",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTAzNTY0ZmQtOWZkNC00NjZjLWEwZGEtYTNlMzkwOTg5ZjczXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A marriage proposal is supposed to be a happy ending. But for one couple, it becomes the beginning of an uphill struggle over wedding preparations.",
+      "Type": "series",
+      "RunTime": "32S min",
+      "Genre": "Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Lee Yeon-hee, Lee Jin-wook, Kim Mi-kyung",
       "Language": "Korean",
       "Country": "South Korea"
     },
@@ -3789,6 +3890,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "N/A",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "The Atypical Family",
+      "netflix_url": "https://www.netflix.com/title/81773839",
+      "year": "2024",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt32166552",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDE5Njc0ODYtYWRhYS00NjVlLTg2MWQtZWY5YTRmYjJlNjNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bok Gwi Joo's family has supernatural abilities. He can revisit happy past moments. Depression causes him to lose this power. His family also loses abilities due to modern issues. Do Da He joins their household, instigating change.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Fantasy, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jang Ki-yong, Chun Woo-hee, Claudia Kim",
       "Language": "Korean",
       "Country": "South Korea"
     },

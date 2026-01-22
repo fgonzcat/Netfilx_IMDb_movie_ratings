@@ -946,6 +946,23 @@
       "Country": "United States"
     },
     {
+      "title": "The 3rd Eye",
+      "netflix_url": "https://www.netflix.com/title/81016750",
+      "year": "2018",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt8893590",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTVmZGUwNTktNjhlZC00NzQ5LTliY2QtYzJlYjA2YmU0NTVmXkEyXkFqcGdeQXVyMjcxOTQ0Mjc@._V1_SX300.jpg",
+      "Plot": "When her little sister claims she sees the dead, Alia consults a psychic, who opens her own eyes to the vengeful ghosts haunting their childhood home.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "N/A"
+    },
+    {
       "title": "Rattlesnake",
       "netflix_url": "https://www.netflix.com/title/81018455",
       "year": "2019",
@@ -1148,6 +1165,23 @@
       "Actors": "Awie, Dalimawati, Zul Ariffin",
       "Language": "Malay",
       "Country": "Malaysia"
+    },
+    {
+      "title": "Suzzanna: Buried Alive",
+      "netflix_url": "https://www.netflix.com/title/81062674",
+      "year": "2018",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt9044128",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY5OTMxN2YtY2E4OS00NjZmLTkxNmYtY2MwMWQwZWRlZWQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a pregnant woman is murdered, her spirit seeks revenge against her increasingly terrified killers, who are determined to finish her off for good.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Director": "Rocky Soraya, Anggy Umbara",
+      "Writer": "Ferry Lesmana, Bene Dion Rajagukguk, Sunil Soraya",
+      "Actors": "Luna Maya, Herjunot Ali, T. Rifnu Wikana",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "Till Death",
@@ -2049,6 +2083,14 @@
       "Country": "Italy"
     },
     {
+      "title": "Boomika (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81496130",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "The Girl Who Got Away",
       "netflix_url": "https://www.netflix.com/title/81500351",
       "year": "2021",
@@ -2303,6 +2345,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Possessed",
+      "netflix_url": "https://www.netflix.com/title/81631032",
+      "year": "2022",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt22400006",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDlkNWZiODctMjM5OC00Y2U5LTg3YmMtNGRjODE2OWQ5NmJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Nazmi, a teacher must put aside his personal traumas to rally his school in a fight for survival against a group of violent, possessed students.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Action, Horror, Thriller",
+      "Director": "James Lee",
+      "Writer": "Adib Zaini, Laili Noordin",
+      "Actors": "Alif Satar, Ikmal Amry, Abbas Mahmood",
+      "Language": "Malay",
+      "Country": "Malaysia"
+    },
+    {
       "title": "Katteri",
       "netflix_url": "https://www.netflix.com/title/81632774",
       "year": "2022",
@@ -2443,6 +2502,23 @@
       "year": "2024",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Guna Guna Istri Muda",
+      "netflix_url": "https://www.netflix.com/title/81678618",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28363725",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU0Y2I5ODktZjFjNy00MTdjLTlmMDMtOTU1ZThmNDE3MTIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young wife attempt to destroy a family using witchcraft.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Razka Robby Ertanto",
+      "Writer": "Ackyl Anwari, Alim Sudio, Titien Wattimena",
+      "Actors": "Anjasmara, Lulu Tobing, Carissa Perusset",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "Possession: Kerasukan",
@@ -2699,6 +2775,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Do You See What I See",
+      "netflix_url": "https://www.netflix.com/title/81738676",
+      "year": "2024",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt28088336",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTA2MzI3ODQtOWE5MS00ZmE0LWE2OTUtNWQwNGQ5NzAwNzBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "On her birthday, Mawar's dream, who was lonely and only accompanied by her boarding house friends, came true about the partner she dreamed of. However, after finding this partner, Mawar's behavior became increasingly strange.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Horror",
+      "Director": "Awi Suryadi",
+      "Writer": "Lele Laila, Mizter Popo",
+      "Actors": "Shenina Cinnamon, Diandra Agatha, Yesaya Abraham",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Outside",
       "netflix_url": "https://www.netflix.com/title/81739319",
       "year": "2024",
@@ -2765,6 +2858,23 @@
       "Actors": "Iza Calzado, Miggs Cuaderno, Donna Cariaga",
       "Language": "Tagalog, Filipino",
       "Country": "Philippines"
+    },
+    {
+      "title": "Siksa Neraka",
+      "netflix_url": "https://www.netflix.com/title/81753728",
+      "year": "2023",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt27657534",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTkxNmRiOGUtODYzMy00MTA2LTg3MGYtMDI3MWMxN2RlZDhlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four siblings, always taught lessons about heaven and hell, suddenly go missing and they now face hell itself and the punishments it has to offer for their sins.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Horror, Thriller",
+      "Director": "Anggy Umbara",
+      "Writer": "Lele Laila, M.B. Rahimsyah",
+      "Actors": "Safira Ratu Sofya, Kiesha Alvaro, Ariyo Wahab",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "Kuyang",

@@ -1717,6 +1717,23 @@
       "Country": "United States"
     },
     {
+      "title": "Bright: Samurai Soul",
+      "netflix_url": "https://www.netflix.com/title/81001990",
+      "year": "2021",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt14837960",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGIyMGQ4MGItN2U5NS00MGY4LTg3NjEtYzA0NTgyNjM4NjFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Izo, a Ronin, and Raiden, an orc, work to bring a young elf girl and the wand she carries to the land of the elves in the north.",
+      "Type": "movie",
+      "RunTime": "80 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Kyohei Ishiguro",
+      "Writer": "Michiko Yokote",
+      "Actors": "Simu Liu, Keone Young, Victoria Grace",
+      "Language": "English, Japanese",
+      "Country": "United States, Japan"
+    },
+    {
       "title": "Altered Carbon: Resleeved",
       "netflix_url": "https://www.netflix.com/title/81001991",
       "year": "2020",
@@ -2410,6 +2427,13 @@
       "Actors": "Ron Bottitta, Frankie Kevich, Cherami Leigh",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Pokémon Concierge",
+      "netflix_url": "https://www.netflix.com/title/81186864",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Pokémon Journeys: The Series",
@@ -4120,6 +4144,14 @@
       "Actors": "Katsuyuki Konishi, Sumire Uesaka, Yôko Hikasa",
       "Language": "Japanese, Spanish, Portuguese",
       "Country": "Japan"
+    },
+    {
+      "title": "Cosmic Princess Kaguya!",
+      "netflix_url": "https://www.netflix.com/title/81756595",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "BLUE GIANT",

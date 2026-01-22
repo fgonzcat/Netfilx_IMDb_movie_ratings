@@ -632,6 +632,40 @@
       "Country": "India"
     },
     {
+      "title": "Hunter x Hunter: The Last Mission",
+      "netflix_url": "https://www.netflix.com/title/80108453",
+      "year": "2013",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt3198698",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2IyMGNhZWMtNTc4Mi00OWU5LTllY2ItNzY2MGM5NmRkMTRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Hunters divided into \"light\" and \"dark\" factions. \"Dark\" hunters attack, injuring Killua and nearly killing Kurapika. Gon considers joining the \"dark\" side to gain strength to save friends after learning about the Association's mi...",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Keiichirô Kawaguchi",
+      "Writer": "Yoshihiro Togashi, Nobuaki Kishima",
+      "Actors": "Ichitarô Ai, Hiroyuki Amano, Tommy Arciniega",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
+      "title": "Hunter x Hunter: Phantom Rouge",
+      "netflix_url": "https://www.netflix.com/title/80108601",
+      "year": "2013",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt2918988",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGRhOTJkNTEtZjFiNS00Yzc1LThkM2EtOTIwNmRiZDIxNWQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Someone has stolen Kurapika's eyes-and another survivor from his clan whose members were massacred for their Scarlet Eyes! Gon and Killua begin investigating on his behalf, but shortly after they've begun, the Phantom Troupe appears!",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Yûzô Satô",
+      "Writer": "Yoshihiro Togashi, Shôji Yonemura",
+      "Actors": "Miho Arakawa, Tommy Arciniega, Edward Bosco",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "BLAME!",
       "netflix_url": "https://www.netflix.com/title/80115466",
       "year": "2017",
@@ -1507,6 +1541,23 @@
       "Country": "Canada, United States"
     },
     {
+      "title": "The Seven Deadly Sins the Movie: Prisoners of the Sky",
+      "netflix_url": "https://www.netflix.com/title/81006261",
+      "year": "2018",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt9089294",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzI1ODdlOWItMTVlMS00NTdjLTkxZTktYmRmY2NkN2I2NTA1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Seven Deadly Sins travel to the Sky Temple in search of an elusive ingredient.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Yasuto Nishikata, Noriyuki Abe",
+      "Writer": "Makoto Uezu, Nakaba Suzuki",
+      "Actors": "Yûki Kaji, Sora Amamiya, Misaki Kuno",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Ultraman: Rising",
       "netflix_url": "https://www.netflix.com/title/81007144",
       "year": "2024",
@@ -1803,6 +1854,23 @@
       "Country": "Japan, South Korea"
     },
     {
+      "title": "Oh! Baby",
+      "netflix_url": "https://www.netflix.com/title/81093951",
+      "year": "2019",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt9348296",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDM4ZWNkMjAtMGJmMS00YTBlLThlM2UtMDg1NTFkMTk0ZDBhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A 70-year-old woman is given a second chance to relive her youth when she turns into a 24-year-old girl.",
+      "Type": "movie",
+      "RunTime": "161 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "B.V. Nandini Reddy",
+      "Writer": "B.V. Nandini Reddy, Lakshmi Bhupala, Gopimohan",
+      "Actors": "Samantha Ruth Prabhu, Lakshmi, Rajendra Prasad",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
       "title": "Space Sweepers",
       "netflix_url": "https://www.netflix.com/title/81094067",
       "year": "2021",
@@ -1874,6 +1942,14 @@
       "title": "Bigbug",
       "netflix_url": "https://www.netflix.com/title/81158472",
       "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Sturgill Simpson Presents Sound & Fury",
+      "netflix_url": "https://www.netflix.com/title/81171121",
+      "year": "2019",
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
@@ -2310,6 +2386,23 @@
       "Actors": "Dante Basco, Erica Lindbeck, Brando Eaton",
       "Language": "English, Japanese, Italian, Portuguese, French, Spanish",
       "Country": "United States, Japan"
+    },
+    {
+      "title": "Rainbow",
+      "netflix_url": "https://www.netflix.com/title/81351145",
+      "year": "2022",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt14722598",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmZkMjI0MDctOTNhOC00ODc1LTgwZTMtOWU0ZmQxYmQxN2JjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Modern day Dorothy (Wizard of Oz inspiration) faces the challenges of being a teenager nowdays and the harsh words of peers.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Drama",
+      "Director": "Paco León",
+      "Writer": "Javier Gullón, Paco León",
+      "Actors": "Dora Postigo, Carmen Maura, Carmen Machi",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "The Yin-Yang Master: Dream Of Eternity",
@@ -3075,6 +3168,23 @@
       "Country": "United States"
     },
     {
+      "title": "Jujutsu Kaisen 0: The Movie",
+      "netflix_url": "https://www.netflix.com/title/81602834",
+      "year": "2021",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt14331144",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzNhZTdmNDYtNTA0NC00MmNmLWIzYjUtNjg5NzNlYWQ0N2E5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The prequel to Jujutsu Kaisen (2020), where a high schooler gains control of an extremely powerful cursed spirit and gets enrolled in the Tokyo Prefectural Jujutsu High School by Jujutsu Sorcerers.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Animation, Action, Fantasy",
+      "Director": "Sunghoo Park",
+      "Writer": "Gege Akutami, Hiroshi Seko",
+      "Actors": "Megumi Ogata, Kana Hanazawa, Yûichi Nakamura",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Transformers: Rise of the Beasts",
       "netflix_url": "https://www.netflix.com/title/81602889",
       "year": "2023",
@@ -3479,6 +3589,31 @@
       "Actors": "Beto Kusyairy, Shiqin Kamal, Vanida Imran",
       "Language": "Malay",
       "Country": "Malaysia, Singapore"
+    },
+    {
+      "title": "Cosmic Princess Kaguya!",
+      "netflix_url": "https://www.netflix.com/title/81756595",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Yesterday After Tomorrow",
+      "netflix_url": "https://www.netflix.com/title/81756819",
+      "year": "2023",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt30008419",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGM4ZmVlMWItNjAyZS00OGNlLWE2OWQtMDYzM2ZkMGNkY2M2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two brothers, living with their widowed mother, discover an old door that leads them to a past where their father was alive. They must reconnect with their mother and solve the mystery of their disappearance.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Comedy, Drama, Sci-Fi",
+      "Director": "Abdulghani Alsaigh",
+      "Writer": "Omar Ashmouni",
+      "Actors": "Ismail Alhassan, Ahmed Saddam, Naif Aldaferi",
+      "Language": "Arabic",
+      "Country": "Saudi Arabia"
     },
     {
       "title": "The Night My Dad Saved Christmas 2",

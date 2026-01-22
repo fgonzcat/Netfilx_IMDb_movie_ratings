@@ -1949,6 +1949,23 @@
       "Country": "United States"
     },
     {
+      "title": "Raangi",
+      "netflix_url": "https://www.netflix.com/title/81412248",
+      "year": "2022",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt10805970",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODU0OTUzZWEtN2NkNS00Nzk2LTg3OWYtYmMxN2MyNTY3ZmYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An online channel reporter, finds a fake Facebook account of her niece. She encounters a boy Aalim from Libya. The FBI on the other hand wants to bring Aalim under their custody using Thaiyal Nayagi and her niece as bait.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Action",
+      "Director": "M. Saravanan",
+      "Writer": "A.R. Murugadoss, M. Saravanan",
+      "Actors": "Trisha Krishnan, Anaswara Rajan, Bekzod Abdumalikov",
+      "Language": "Tamil",
+      "Country": "India"
+    },
+    {
       "title": "Restless",
       "netflix_url": "https://www.netflix.com/title/81424708",
       "year": "2022",
@@ -2229,6 +2246,23 @@
       "Country": "India, United Kingdom"
     },
     {
+      "title": "Kaaval",
+      "netflix_url": "https://www.netflix.com/title/81519290",
+      "year": "2021",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt11182984",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ1NDAyOTItOTM4NC00ODA5LTg2MjMtMzAyZmIxN2YwMTc5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Thamban and Antony were best friends and business partners. A family tragedy and its falling-out separates them for good. But now Antony and his family faces a grievous situation, and he is forced to ask his old friend for help.",
+      "Type": "movie",
+      "RunTime": "147 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Nithin Renji Panicker",
+      "Writer": "Nithin Renji Panicker",
+      "Actors": "Suresh Gopi, Renji Panicker, Rachel David",
+      "Language": "Malayalam",
+      "Country": "India"
+    },
+    {
       "title": "Demon City",
       "netflix_url": "https://www.netflix.com/title/81566553",
       "year": "2025",
@@ -2481,6 +2515,14 @@
       "Actors": "Ajith Kumar, Arjun Sarja, Trisha Krishnan",
       "Language": "Tamil, English, Telugu, Malayalam, Kannada, Hindi",
       "Country": "India"
+    },
+    {
+      "title": "GodFather (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81648072",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Wages of Fear",

@@ -156,6 +156,23 @@
       "Country": "United States"
     },
     {
+      "title": "Your lie in April",
+      "netflix_url": "https://www.netflix.com/title/80041089",
+      "year": "2014",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt3895150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGMyYmFmNzgtMWQ4NS00MWE2LTg4YmEtZGY1MTBiODE0YmE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A piano prodigy who lost his ability to play after suffering a traumatic event in his childhood is forced back into the spotlight by an eccentric girl with a secret of her own.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Natsuki Hanae, Risa Taneda, Ayane Sakura",
+      "Language": "Japanese, English, German, Spanish",
+      "Country": "Japan"
+    },
+    {
       "title": "A Very Murray Christmas",
       "netflix_url": "https://www.netflix.com/title/80042368",
       "year": "2015",
@@ -1013,6 +1030,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Song Exploder",
+      "netflix_url": "https://www.netflix.com/title/80992997",
+      "year": "2020",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt13110256",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTcxYjJmNzAtMzc1MS00MWVhLWIzYzEtYTlmNjdlMWM0NjRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Weaves together in-depth interviews, archival footage, and raw recordings as each artist breaks down their song, layer by layer, sharing intimate insight into the personal inspiration behind the music and lyrics.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Hrishikesh Hirway, Lin-Manuel Miranda, Dua Lipa",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Ladies First: A Story of Women in Hip-Hop",
       "netflix_url": "https://www.netflix.com/title/80997174",
       "year": "2023",
@@ -1300,6 +1334,23 @@
       "Actors": "Eva Mariol, Imma Cabecerans, Joaquín Oristrell",
       "Language": "Spanish",
       "Country": "Spain"
+    },
+    {
+      "title": "I Am Woman",
+      "netflix_url": "https://www.netflix.com/title/81041593",
+      "year": "2019",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt9185316",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzQ5YzJjYTUtNWE4MS00NjBkLWE5NzctODZiYzgzMTZmZWJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of 1970s musician and activist Helen Reddy.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "Unjoo Moon",
+      "Writer": "Emma Jensen",
+      "Actors": "Evan Peters, Danielle Macdonald, Chris Parnell",
+      "Language": "English",
+      "Country": "Australia"
     },
     {
       "title": "Purple Hearts",
@@ -1895,6 +1946,23 @@
       "Actors": "Emicida, Zeca Pagodinho, Pabllo Vittar",
       "Language": "Portuguese",
       "Country": "Brazil"
+    },
+    {
+      "title": "Rainbow",
+      "netflix_url": "https://www.netflix.com/title/81351145",
+      "year": "2022",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt14722598",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmZkMjI0MDctOTNhOC00ODc1LTgwZTMtOWU0ZmQxYmQxN2JjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Modern day Dorothy (Wizard of Oz inspiration) faces the challenges of being a teenager nowdays and the harsh words of peers.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Drama",
+      "Director": "Paco León",
+      "Writer": "Javier Gullón, Paco León",
+      "Actors": "Dora Postigo, Carmen Maura, Carmen Machi",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Emicida: AmarElo - Live in São Paulo",
@@ -3097,6 +3165,14 @@
       "SkipTitle": true
     },
     {
+      "title": "Cosmic Princess Kaguya!",
+      "netflix_url": "https://www.netflix.com/title/81756595",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "TLC Forever",
       "netflix_url": "https://www.netflix.com/title/81759221",
       "year": "2023",
@@ -3592,6 +3668,23 @@
       "Actors": "Ahaan Panday, Aneet Padda, Rajesh Kumar",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "FireAid Benefit Concert",
+      "netflix_url": "https://www.netflix.com/title/82027106",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35471898",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmE5YWU0YTItNmJlOC00NjQyLWIxZDUtYmQzZTk4ZjBkMGM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "360 min",
+      "Genre": "Music",
+      "Director": "Martin Pasetta, Joe DeMaio, Joel Gallen",
+      "Writer": "N/A",
+      "Actors": "Gracie Abrams, Jessica Alba, Lil Baby",
+      "Language": "N/A",
+      "Country": "United States"
     },
     {
       "title": "Qaidi Band",

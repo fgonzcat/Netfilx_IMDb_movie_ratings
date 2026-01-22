@@ -1268,6 +1268,23 @@
       "Country": "Australia"
     },
     {
+      "title": "A Shaun the Sheep Movie: Farmageddon",
+      "netflix_url": "https://www.netflix.com/title/80242602",
+      "year": "2019",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt6193408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjg2MDJmYmYtYzc2MC00MzEyLTg3MmQtMDU4Mjc4MzdlM2VjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When an alien with amazing powers crash-lands near Mossy Bottom Farm, Shaun the Sheep goes on a mission to shepherd the intergalactic visitor home before a sinister organization can capture her.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Will Becher, Richard Phelan",
+      "Writer": "Mark Burton, Jon Brown, Richard Starzak",
+      "Actors": "Justin Fletcher, John Sparkes, Amalia Vitale",
+      "Language": "English",
+      "Country": "United Kingdom, France"
+    },
+    {
       "title": "The Princess Switch",
       "netflix_url": "https://www.netflix.com/title/80242926",
       "year": "2018",
@@ -1727,6 +1744,23 @@
       "Country": "United States"
     },
     {
+      "title": "Operation Christmas Drop",
+      "netflix_url": "https://www.netflix.com/title/81026186",
+      "year": "2020",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt13236566",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI2MzBlMmUtNTY4NC00ZDhmLWFiMmItY2Q0YWJiZGRlMzBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Congressional aide Erica forgoes family Christmas to travel at her boss's behest. At a beach side Air Force base, she clashes with Capt. Andrew Jantz, who knows her assignment is finding reasons to defund the facility.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Family, Romance",
+      "Director": "Martin Wood",
+      "Writer": "Gregg Rossen, Brian Sawyer",
+      "Actors": "Kat Graham, Alexander Ludwig, Trezzo Mahoro",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Knight Before Christmas",
       "netflix_url": "https://www.netflix.com/title/81026188",
       "year": "2019",
@@ -2164,6 +2198,23 @@
       "Director": "Victor Heerman",
       "Writer": "George S. Kaufman, Morrie Ryskind, Bert Kalmar",
       "Actors": "Groucho Marx, Harpo Marx, Chico Marx",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Tall Girl 2",
+      "netflix_url": "https://www.netflix.com/title/81194110",
+      "year": "2022",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt16085592",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjBiOTE5NDQtMmJkNC00NzIxLWE2ZTYtYTY4ZTRlMjZiOGViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After Jodi Kreyman gains popularity, her miscommunications start causing rifts with those around her and now she really needs to 'stand tall'.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Comedy, Drama, Family",
+      "Director": "Emily Ting",
+      "Writer": "Sam Wolfson",
+      "Actors": "Ava Michelle, Griffin Gluck, Sabrina Carpenter",
       "Language": "English",
       "Country": "United States"
     },
@@ -2886,6 +2937,23 @@
       "Writer": "Chris Titone, Keith Blum",
       "Actors": "Kevin James, Taylor Lautner, Rob Schneider",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Best. Christmas. Ever!",
+      "netflix_url": "https://www.netflix.com/title/81416268",
+      "year": "2023",
+      "imdb_rating": "4.4",
+      "imdb_id": "tt7038762",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM1MTdkYjUtMzQxNS00NzAxLWI3OWMtNjIyNTgyMzViNGE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Friendships are put to the ultimate test over a boastful holiday newsletter.",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Mary Lambert",
+      "Writer": "Todd Calgi Gallicano, Charles Shyer",
+      "Actors": "Heather Graham, Brandy Norwood, Jason Biggs",
+      "Language": "Spanish, English",
       "Country": "United States"
     },
     {

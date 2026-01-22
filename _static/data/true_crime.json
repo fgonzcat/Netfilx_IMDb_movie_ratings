@@ -470,6 +470,23 @@
       "Country": "Ireland, United States, United Kingdom"
     },
     {
+      "title": "Trial 4",
+      "netflix_url": "https://www.netflix.com/title/80202347",
+      "year": "2020",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt13363298",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE1YWJhZjktMzUzMi00OWY3LWE3YmMtMzRmYWJkYWE4NzdmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Charged as a teen in the 1993 killing of a Boston cop, Sean K. Ellis fights to prove his innocence while exposing police corruption and systemic racism.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Sean Ellis, Rosemary Scapicchio, Edward McNelley",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Alcàsser Murders",
       "netflix_url": "https://www.netflix.com/title/80213115",
       "year": "2019",
@@ -485,6 +502,23 @@
       "Actors": "Fernando García, Elías León Siminiani, Ramón Campos",
       "Language": "Spanish",
       "Country": "Spain"
+    },
+    {
+      "title": "The Confession Killer",
+      "netflix_url": "https://www.netflix.com/title/80213588",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt11307176",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTM2Y2Q2ZDEtZGM0Zi00M2E5LTkyMDgtYWNiNjBiZDIyZDk4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Henry Lee Lucas was known as America's most prolific serial killer, admitting to hundreds of murders, but, as DNA results contradict his confessions, will they expose the biggest criminal justice hoax in U.S. history?",
+      "Type": "series",
+      "RunTime": "240 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Bob Prince, Nan Cuba, Hugh Aynesworth",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Innocence Files",
@@ -604,6 +638,23 @@
       "Actors": "Larissa Anderson, Francesca Asumah, Sarah Baughn",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Who Killed Little Gregory?",
+      "netflix_url": "https://www.netflix.com/title/80222157",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt11269714",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGM5NjBiZTctOGM4Ni00ZWY3LTk0NmUtZTc4ODZkYzhjNTY0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When their 4-year-old son is murdered, a young couple fights a twisting and arduous battle trying to identify a frustratingly elusive killer.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Crime, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "William Salyers, Jayne Taini, Page Leong",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Lost Girls",
@@ -792,6 +843,23 @@
       "Country": "United States"
     },
     {
+      "title": "Abducted in Plain Sight",
+      "netflix_url": "https://www.netflix.com/title/81000864",
+      "year": "2017",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt3444312",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQ1ZWE4ZDUtMzgxMC00ZjQ1LWJhMDMtMjc4ZDk5ZTFlNjM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The twisting, turning, stranger-than-fiction true story of the Brobergs, a naïve, church-going Idaho family that fell under the spell of a sociopathic neighbor with designs on their 12-year-old daughter.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Skye Borgman",
+      "Writer": "N/A",
+      "Actors": "Bob Broberg, Karen Campbell, Jan Broberg",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "On My Skin",
       "netflix_url": "https://www.netflix.com/title/81001000",
       "year": "2018",
@@ -807,6 +875,23 @@
       "Actors": "Alessandro Borghi, Massimiliano Tortora, Milvia Marigliano",
       "Language": "Italian",
       "Country": "Italy"
+    },
+    {
+      "title": "The Three Deaths of Marisela Escobedo",
+      "netflix_url": "https://www.netflix.com/title/81002192",
+      "year": "2020",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt13206564",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGYwNjAzY2UtZDg2NS00ODNlLWFmNTAtMWIxYzMyOTdiNmFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows a mother's tireless crusade to jail her daughter's murderer after Mexico's justice system failed to do so.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Carlos Perez Osorio",
+      "Writer": "N/A",
+      "Actors": "Juan Manuel Fraire Escobedo, Alejandro Fraire, Blanca Escobedo",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "Unabomber - In His Own Words",
@@ -1004,6 +1089,23 @@
       "SkipTitle": true
     },
     {
+      "title": "Elize Matsunaga: Once Upon a Crime",
+      "netflix_url": "https://www.netflix.com/title/81043160",
+      "year": "2021",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt14856998",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGFlYTczZTMtMzIxYi00NzAzLThkMDktMDIzYWYzNWY0MDlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The crime shocked Brazil: Elize Matsunaga shot and dismembered her rich husband. Featuring her first interview, this docuseries dives deep into the case.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Stephanie Sherry, Thaís Nunes, Luciano Santoro",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
       "title": "The Sons of Sam: A Descent into Darkness",
       "netflix_url": "https://www.netflix.com/title/81059887",
       "year": "2021",
@@ -1104,6 +1206,23 @@
       "Actors": "Daniel Thompson, John R. Anderson III, Angelyn Thompson",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "The Raincoat Killer: Chasing a Predator in Korea",
+      "netflix_url": "https://www.netflix.com/title/81087760",
+      "year": "2021",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt15484900",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTMxMmExNjUtM2QxYy00MTYwLWJmNDUtOTA4OTZmOWI3ZjkyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows a serial killer who came to light as a psychopath to the Korean public in 2004.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kim Hee Sook, Park Myung Sun, Kwon Il-Yong",
+      "Language": "Korean, English",
+      "Country": "South Korea, Singapore"
     },
     {
       "title": "House of Secrets: The Burari Deaths",
@@ -1208,6 +1327,23 @@
       "Country": "United Kingdom, Italy"
     },
     {
+      "title": "Web of Make Believe: Death, Lies and the Internet",
+      "netflix_url": "https://www.netflix.com/title/81122462",
+      "year": "2022",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt20602042",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjcxMDI0ZWMtMmExNi00ODRmLTkyZWEtMWVhYzZkOWIyMjI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Conspiracy. Fraud. Violence. Murder. What starts out virtual can get real all too quickly--and when the web is worldwide, so are the consequences.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Paul Black, Daniel Rigmaiden, Devin McGee",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "American Murder: The Family Next Door",
       "netflix_url": "https://www.netflix.com/title/81130130",
       "year": "2020",
@@ -1240,6 +1376,23 @@
       "Actors": "Sofía Vergara, Alberto Guerra, Juliana Aidén Martinez",
       "Language": "English, Spanish",
       "Country": "United States"
+    },
+    {
+      "title": "The Indrani Mukerjea Story: Buried Truth",
+      "netflix_url": "https://www.netflix.com/title/81150989",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt31069611",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjA5YWZhZjEtMmU5Ny00Nzg2LWFhNTUtMzIyMjZhYmFhMDNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "With new revelations and access, this docuseries investigates the disappearance of 25-year-old Sheena Bora. It reveals the shocking aftermath.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Anurita Jha, Vivek Kumar, Samaksh Sudi",
+      "Language": "N/A",
+      "Country": "India"
     },
     {
       "title": "American Conspiracy: The Octopus Murders",
@@ -1342,6 +1495,23 @@
       "Actors": "Abhay Deol, Rajshri Deshpande, Punit Tiwari",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Murder Among the Mormons",
+      "netflix_url": "https://www.netflix.com/title/81226889",
+      "year": "2021",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt13987620",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTBhZjE0MzgtYjczOC00MGU2LWIyYzAtYWY4OTM0OGE0NzFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "High-stakes exploits turn deadly - and shake a global church to its core - in the extraordinary true crime story.",
+      "Type": "series",
+      "RunTime": "160 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Dorie Hofmann Olds, Shannon Flynn, Brent Metcalfe",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Our Father",
@@ -1895,6 +2065,23 @@
       "Country": "Denmark"
     },
     {
+      "title": "Scouts Honor: The Secret Files of the Boy Scouts of America",
+      "netflix_url": "https://www.netflix.com/title/81477233",
+      "year": "2023",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt28660814",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzFhNjk3YzItNGY5ZC00ZWM2LWI2NjMtMzlkM2EyYTFiN2YwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Survivors, whistle-blowers and experts recount the Boy Scouts of America's decades long cover-up of sexual abuse cases and its heartbreaking impact.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Brian Knappenberger",
+      "Writer": "N/A",
+      "Actors": "Michael Johnson, Patrick Boyle, Christopher Hurley",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Eloá the Hostage: Live on TV",
       "netflix_url": "https://www.netflix.com/title/81481358",
       "year": "2025",
@@ -2054,6 +2241,23 @@
       "Actors": "Charles Cullen, Amy Loughren, Donna Hargreaves",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "From Rock Star to Killer",
+      "netflix_url": "https://www.netflix.com/title/81517758",
+      "year": "2025",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt36241713",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODBkNDllYTItMDgzNS00NjA3LTlmNzctZDMwNWI0ZGFhODNhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 2003, rock singer Bertrand Cantat killed his partner, actress Marie Trintignant. This documentary reviews the case that divided a nation.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Lio, Richard Kolinka, Anne-Sophie Jahn",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Murdaugh Murders: A Southern Scandal",
@@ -2824,6 +3028,23 @@
       "Actors": "Tom Lange, Mark Fuhrman, Christopher Darden",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Diamond Heist",
+      "netflix_url": "https://www.netflix.com/title/81701502",
+      "year": "2025",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt31806040",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGQ3YzVjNWQtOGFhZS00OTcxLTlhZWQtNTczYTkxMzA5MWYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 2000, a group of London criminals plan an audacious heist: ram-raid the Millennium Dome, steal diamond and escape by boat on the Thames, but the police are surveilling them.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jorge Leon, Nicholas Blatt, Lee Wenham",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Cold Case: Who Killed JonBenét Ramsey",

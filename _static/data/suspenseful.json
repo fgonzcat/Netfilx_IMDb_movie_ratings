@@ -88,6 +88,23 @@
       "Country": "United States"
     },
     {
+      "title": "Godzilla",
+      "netflix_url": "https://www.netflix.com/title/11819467",
+      "year": "1998",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt0120685",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzdmYmUzYjAtMmJhNi00NGU3LWJiODYtM2I5MGFhZjBhM2NhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "French nuclear tests irradiate an iguana into a giant monster that heads off to New York City. The American military must chase the monster across the city to stop it before it reproduces.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Action, Sci-Fi, Thriller",
+      "Director": "Roland Emmerich",
+      "Writer": "Dean Devlin, Roland Emmerich, Ted Elliott",
+      "Actors": "Matthew Broderick, Jean Reno, Maria Pitillo",
+      "Language": "English, French, Japanese, Russian, Spanish",
+      "Country": "United States, Japan"
+    },
+    {
       "title": "Tomorrow Never Dies",
       "netflix_url": "https://www.netflix.com/title/17016471",
       "year": "1997",
@@ -1057,6 +1074,40 @@
       "Country": "United States"
     },
     {
+      "title": "Icarus",
+      "netflix_url": "https://www.netflix.com/title/80168079",
+      "year": "2017",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt6333060",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGE4M2MxOWUtYmY2ZC00ZWYxLWIxZTAtNTNjYTZmYmUyOGY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Bryan sets out to uncover the truth about doping in sports, a chance meeting with a Russian scientist transforms his story from a personal experiment into a geopolitical thriller.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Bryan Fogel",
+      "Writer": "Bryan Fogel, Mark Monroe, Jon Bertain",
+      "Actors": "Bryan Fogel, Dave Zabriskie, Don Catlin",
+      "Language": "English, Russian",
+      "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "The Invisible Guardian",
+      "netflix_url": "https://www.netflix.com/title/80173176",
+      "year": "2017",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt4924942",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTY5YWFjZDYtNzExNy00Mzc3LWExMTktYjRkNzViMzg5YzFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A female inspector confronts a serial killer while dealing with the ghosts of her past.",
+      "Type": "movie",
+      "RunTime": "129 min",
+      "Genre": "Crime, Mystery, Thriller",
+      "Director": "Fernando González Molina",
+      "Writer": "Luiso Berdejo, Dolores Redondo",
+      "Actors": "Marta Etura, Elvira Mínguez, Carlos Librado 'Nene'",
+      "Language": "Spanish, English, Basque",
+      "Country": "Spain, Germany"
+    },
+    {
       "title": "Only the Brave",
       "netflix_url": "https://www.netflix.com/title/80182216",
       "year": "2017",
@@ -1363,6 +1414,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Chase",
+      "netflix_url": "https://www.netflix.com/title/80226357",
+      "year": "2017",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt8088944",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGNhNjEyNzEtYWZjNi00OTI1LTk1N2YtOGRkYmQxOGEyZjhmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Sim Deok-soo is a grumpy landlord running a run-down apartment complex. Suddenly his tenants begin disappearing under suspicious circumstances. A retired ex-detective shows up, claiming a serial murderer from 30 years back has ret...",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Hongsun Kim",
+      "Writer": "Hongsun Kim, Young-jong Lee, Kim Min-sung",
+      "Actors": "Baek Yoon-shik, Sung Dong-il, Chun Ho-jin",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "I Am Mother",
       "netflix_url": "https://www.netflix.com/title/80227090",
       "year": "2019",
@@ -1378,6 +1446,23 @@
       "Actors": "Luke Hawker, Rose Byrne, Maddie Lenton",
       "Language": "English",
       "Country": "Australia"
+    },
+    {
+      "title": "The Postcard Killings",
+      "netflix_url": "https://www.netflix.com/title/80227207",
+      "year": "2020",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt4106514",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmQ0YTY1YTctNWU0Yi00YjUxLWFmYTgtMWViOTQ2MDk3N2YzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A New York detective investigates the death of his daughter who was murdered while on her honeymoon in London.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Danis Tanovic",
+      "Writer": "Andrew Stern, Ellen Furman, Liza Marklund",
+      "Actors": "Jeffrey Dean Morgan, Famke Janssen, Cush Jumbo",
+      "Language": "English, Swedish, Russian, German, French, Dutch, Finnish",
+      "Country": "United Kingdom, Germany, United States"
     },
     {
       "title": "In the Shadow of the Moon",
@@ -1565,6 +1650,23 @@
       "Actors": "Jacob Derwig, Barry Atsma, Fockeline Ouwerkerk",
       "Language": "Dutch",
       "Country": "Netherlands, Belgium"
+    },
+    {
+      "title": "Bad Genius",
+      "netflix_url": "https://www.netflix.com/title/80245442",
+      "year": "2017",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt6788942",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjJhNTYxOGUtYWQxMS00YjYwLWFmMWItOWViN2QyZmZhNDM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Lynn, a brilliant student, after helping her friends to get the grades they need, develops the idea of starting a much bigger exam-cheating business.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Baz Poonpiriya",
+      "Writer": "Tanida Hantaweewatana, Vasudhorn Piyaromna, Baz Poonpiriya",
+      "Actors": "Chutimon Chuengcharoensukying, Eisaya Hosuwan, Teeradon Supapunpinyo",
+      "Language": "Thai, English",
+      "Country": "Thailand"
     },
     {
       "title": "Operation Finale",
@@ -1907,6 +2009,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Decline",
+      "netflix_url": "https://www.netflix.com/title/81013927",
+      "year": "2020",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt10307440",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzFlMWI1YTgtZjlmYy00OGEzLTg5OTMtNTc2NThlYTYyNWE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A fatal accident at a remote survivalist training camp sends participants into a panic - and sets the stage for a chilling showdown.",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Action, Thriller",
+      "Director": "Patrice Laliberté",
+      "Writer": "Charles Dionne, Nicolas Krief, Patrice Laliberté",
+      "Actors": "Guillaume Laurin, Marie-Evelyne Lessard, Réal Bossé",
+      "Language": "French",
+      "Country": "Canada"
+    },
+    {
       "title": "Rattlesnake",
       "netflix_url": "https://www.netflix.com/title/81018455",
       "year": "2019",
@@ -1939,6 +2058,23 @@
       "Actors": "Stanley Tucci, Kiernan Shipka, Miranda Otto",
       "Language": "English, American Sign ",
       "Country": "United States, Germany"
+    },
+    {
+      "title": "Synchronic",
+      "netflix_url": "https://www.netflix.com/title/81025509",
+      "year": "2020",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt9016974",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDdjNzJhOGUtMDFkNS00OTEyLThiNGQtZWQ1MGFhYzk2YmM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two New Orleans paramedics' lives are ripped apart after they encounter a series of horrific deaths linked to a designer drug with bizarre, otherworldly effects.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Drama, Horror, Mystery",
+      "Director": "Justin Benson, Aaron Moorhead",
+      "Writer": "Justin Benson",
+      "Actors": "Anthony Mackie, Jamie Dornan, Katie Aselton",
+      "Language": "English, Spanish",
+      "Country": "United States"
     },
     {
       "title": "Red Dot",
@@ -2022,6 +2158,23 @@
       "Director": "Lluís Quílez",
       "Writer": "Fernando Navarro, Lluís Quílez",
       "Actors": "Javier Gutiérrez, Karra Elejalde, Luis Callejo",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
+      "title": "Twin Murders: the Silence of the White City",
+      "netflix_url": "https://www.netflix.com/title/81038589",
+      "year": "2020",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt8393332",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTUyMjMxNjYtMzM3NC00YjAyLTgyYWEtMWU2MGQwNjM1YmZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A cop returns to the job. A serial killer too returns to the job.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Daniel Calparsoro",
+      "Writer": "Roger Danès, Eva García Sáenz de Urturi, Alfred Pérez Fargas",
+      "Actors": "Belén Rueda, Javier Rey, Aura Garrido",
       "Language": "Spanish",
       "Country": "Spain"
     },
@@ -2143,6 +2296,23 @@
       "Actors": "Allison Janney, Jurnee Smollett, Logan Marshall-Green",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Suzzanna: Buried Alive",
+      "netflix_url": "https://www.netflix.com/title/81062674",
+      "year": "2018",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt9044128",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY5OTMxN2YtY2E4OS00NjZmLTkxNmYtY2MwMWQwZWRlZWQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a pregnant woman is murdered, her spirit seeks revenge against her increasingly terrified killers, who are determined to finish her off for good.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Director": "Rocky Soraya, Anggy Umbara",
+      "Writer": "Ferry Lesmana, Bene Dion Rajagukguk, Sunil Soraya",
+      "Actors": "Luna Maya, Herjunot Ali, T. Rifnu Wikana",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "The Wandering Earth",
@@ -2434,6 +2604,40 @@
       "Country": "United States"
     },
     {
+      "title": "The Fanatic",
+      "netflix_url": "https://www.netflix.com/title/81168609",
+      "year": "2019",
+      "imdb_rating": "4.1",
+      "imdb_id": "tt7869070",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjc5MzM2NzItZGFkYS00ZTU5LTg5MjctN2U1NjczNzg2MjAyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A rabid film fan stalks his favorite action hero and destroys his life.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Fred Durst",
+      "Writer": "Fred Durst, Dave Bekerman",
+      "Actors": "John Travolta, Devon Sawa, Ana Golja",
+      "Language": "English, Spanish",
+      "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "The Father Who Moves Mountains",
+      "netflix_url": "https://www.netflix.com/title/81174182",
+      "year": "2021",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt8886670",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDgxMGRhZDgtM2M4Yi00ZDFjLWI0ZGYtODI3MTU4MDYyNjJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mircea, a retired intelligence officer, finds out that his son from has gone missing in the mountains. After days of searches, Mircea put his own rescue team together, leading to altercation with the local squad.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Daniel Sandu",
+      "Writer": "Daniel Sandu",
+      "Actors": "Adrian Titieni, Elena Purea, Judith State",
+      "Language": "Romanian",
+      "Country": "Romania, Sweden"
+    },
+    {
       "title": "Silverton Siege",
       "netflix_url": "https://www.netflix.com/title/81176353",
       "year": "2022",
@@ -2653,6 +2857,23 @@
       "Actors": "Riccardo Scamarcio, Mía Maestro, Giulia Patrignani",
       "Language": "Italian",
       "Country": "Italy"
+    },
+    {
+      "title": "Recurrence",
+      "netflix_url": "https://www.netflix.com/title/81259570",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt23353032",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDZkMTAyOWUtNjM1My00ZjVjLWJkN2QtNjZkZWUxYWViYjNkXkEyXkFqcGdeQXVyMzI5Mjk0MDE@._V1_SX300.jpg",
+      "Plot": "Helen has fled to Sweden with her daughter and is struggling with making ends meet. One day Isaak visits and claims to be working for the resistance in her home country and brings news of her sister. But can he be trusted?",
+      "Type": "movie",
+      "RunTime": "9 min",
+      "Genre": "Short, Drama",
+      "Director": "Ruben Levi",
+      "Writer": "Ruben Levi",
+      "Actors": "Omeya Lundqvist-Simbizi, Anna Sise, Richard Sseruwagi",
+      "Language": "English, Swedish",
+      "Country": "Sweden"
     },
     {
       "title": "The Good Nurse",
@@ -2926,6 +3147,21 @@
       "SkipTitle": true
     },
     {
+      "title": "Fear Street Part 3: 1666",
+      "netflix_url": "https://www.netflix.com/title/81334750",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Blue, Painful, Fragile",
+      "netflix_url": "https://www.netflix.com/title/81335232",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "In for a Murder",
       "netflix_url": "https://www.netflix.com/title/81338273",
       "year": "2021",
@@ -3028,6 +3264,23 @@
       "Country": "United States"
     },
     {
+      "title": "Grudge",
+      "netflix_url": "https://www.netflix.com/title/81346326",
+      "year": "2021",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt13717980",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWUyZTZlMDktZGQzMi00YjU3LTkyYmMtOTQ2OTQxODEzYjg2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After been in line for a promotion due to his arrest of a gang in Istanbul, the Captain of the Police is set by someone who apparently has a grudge against the him concerning one of his past cases.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Turkan Derya",
+      "Writer": "Yilmaz Erdogan",
+      "Actors": "Yilmaz Erdogan, Ahmet Mümtaz Taylan, Cem Yigit Uzümoglu",
+      "Language": "Turkish",
+      "Country": "Turkey"
+    },
+    {
       "title": "Prey",
       "netflix_url": "https://www.netflix.com/title/81350329",
       "year": "2021",
@@ -3060,6 +3313,23 @@
       "Actors": "N/A",
       "Language": "N/A",
       "Country": "N/A"
+    },
+    {
+      "title": "The Rope Curse 2",
+      "netflix_url": "https://www.netflix.com/title/81351497",
+      "year": "2020",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt13212006",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2MwOTU2ZjMtYTFmMC00M2FkLWE4MzEtZDNhZjc4YjhkNGUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a purification ritual unravels, a conflicted Taoist priest attempts to help a lonely young psychic whose aunt is possessed by a powerful demon.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Horror",
+      "Director": "Shih-Han Liao",
+      "Writer": "Tzu-Ming Ma",
+      "Actors": "Kang-sheng Lee, Wilson Hsu, Vera Chen",
+      "Language": "Mandarin, Min Nan",
+      "Country": "Taiwan"
     },
     {
       "title": "The Yin-Yang Master: Dream Of Eternity",
@@ -3332,6 +3602,23 @@
       "Actors": "Panisara Rikulsurakan, Kay Lertsittichai, Supanaree Sutavijitvong",
       "Language": "Thai",
       "Country": "Thailand"
+    },
+    {
+      "title": "Malbatt: Misi Bakara",
+      "netflix_url": "https://www.netflix.com/title/81440944",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt22024396",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTM2ZGZiNmQtNmQxMy00YWRjLWE2ZjYtZjhjMTQ2MGY4ZGQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of the 19th Battalion Malay Regiment, which was deployed as part of the United Nations peacekeeping force in 1993, and their mission to rescue the trapped American soldiers following the Black Hawk Down attack.",
+      "Type": "movie",
+      "RunTime": "131 min",
+      "Genre": "Action, Drama, History",
+      "Director": "Adrian Teh",
+      "Writer": "Adrian Teh, Ashraf Modee Zain",
+      "Actors": "Bront Palarae, Shaheizy Sam, Hairul Azreen",
+      "Language": "Malay, English, Somali",
+      "Country": "Malaysia"
     },
     {
       "title": "Apollo 13: Survival",
@@ -3843,6 +4130,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "Photocopier",
+      "netflix_url": "https://www.netflix.com/title/81519381",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt13729220",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzMyMThjZmMtMGU3NS00ZTAyLWIzYmQtYjVmYTE1OWJlOGNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After losing her scholarship when photos of her at a party surface online, a student pairs with a photocopy worker to piece together what happened.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Wregas Bhanuteja",
+      "Writer": "Wregas Bhanuteja, Henricus Pria",
+      "Actors": "Shenina Cinnamon, Dea Panendra, Giulio Parengkuan",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Alkhallat+",
       "netflix_url": "https://www.netflix.com/title/81520967",
       "year": "2023",
@@ -4062,6 +4366,23 @@
       "Actors": "Isaiah Mustafa, Zach McGowan, Thomas Jane",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Colors of Evil: Red",
+      "netflix_url": "https://www.netflix.com/title/81619384",
+      "year": "2024",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt27578157",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ0OTAzMjMtNTJkYS00ODUwLTg5NGYtYTUwOWMzZjU1NThlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a girl's body is found on a beach in Poland's Tricity, a prosecutor teams up with the victim's mother on an impassioned quest for the truth.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Adrian Panek",
+      "Writer": "Lukasz M. Maciejewski, Adrian Panek, Malgorzata Oliwia Sobczak",
+      "Actors": "Jakub Gierszal, Maja Ostaszewska, Zofia Jastrzebska",
+      "Language": "Polish",
+      "Country": "Poland"
     },
     {
       "title": "Justice",

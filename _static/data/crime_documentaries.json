@@ -1547,6 +1547,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "The Indrani Mukerjea Story: Buried Truth",
+      "netflix_url": "https://www.netflix.com/title/81150989",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt31069611",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjA5YWZhZjEtMmU5Ny00Nzg2LWFhNTUtMzIyMjZhYmFhMDNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "With new revelations and access, this docuseries investigates the disappearance of 25-year-old Sheena Bora. It reveals the shocking aftermath.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Anurita Jha, Vivek Kumar, Samaksh Sudi",
+      "Language": "N/A",
+      "Country": "India"
+    },
+    {
       "title": "American Conspiracy: The Octopus Murders",
       "netflix_url": "https://www.netflix.com/title/81168725",
       "year": "2024",
@@ -3183,6 +3200,13 @@
       "Country": "Italy"
     },
     {
+      "title": "Cooking Up Murder: Uncovering the Story of César Román",
+      "netflix_url": "https://www.netflix.com/title/81711038",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Beauty and the Bester",
       "netflix_url": "https://www.netflix.com/title/81713096",
       "year": "2025",
@@ -3476,6 +3500,23 @@
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
+    },
+    {
+      "title": "Tell Them You Love Me",
+      "netflix_url": "https://www.netflix.com/title/81783064",
+      "year": "2023",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt29142525",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODk3ZmIwOTktNTRmMy00M2NjLThlNjQtZmJjMDM1MTM1YjY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A professor has a relationship with a nonverbal man who has cerebral palsy. Their affair leads to a criminal trial over disability and consent. The film shows interviews and footage that present both perspectives.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Documentary",
+      "Director": "Nick August-Perna",
+      "Writer": "N/A",
+      "Actors": "Armani Cooper, Carl Hinson, Alex Conde",
+      "Language": "English",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "The Kings of Tupelo: A Southern Crime Saga",

@@ -20,6 +20,23 @@
       "Country": "United States"
     },
     {
+      "title": "Sliding Doors",
+      "netflix_url": "https://www.netflix.com/title/1192903",
+      "year": "1998",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0120148",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2VhZDYyYjEtMzBkNC00MWI4LWIxNWYtZTAyMTJiNzY4NjgyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After personal and professional setbacks, a woman experiences an alternate reality.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "Peter Howitt",
+      "Writer": "Peter Howitt",
+      "Actors": "Gwyneth Paltrow, John Hannah, John Lynch",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Dil Se",
       "netflix_url": "https://www.netflix.com/title/17671454",
       "year": "1998",
@@ -442,6 +459,23 @@
       "Writer": "Karan Johar, Shibani Bathija, Niranjan Iyengar",
       "Actors": "Shah Rukh Khan, Rani Mukerji, Amitabh Bachchan",
       "Language": "Hindi, English",
+      "Country": "India"
+    },
+    {
+      "title": "Maya Memsaab",
+      "netflix_url": "https://www.netflix.com/title/70057994",
+      "year": "1993",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28657747",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Pooja Anand, Aritaa Paul, Vikas Sachdeva",
+      "Language": "Hindi",
       "Country": "India"
     },
     {
@@ -1082,6 +1116,23 @@
       "Country": "United States, Thailand"
     },
     {
+      "title": "Ae Dil Hai Mushkil",
+      "netflix_url": "https://www.netflix.com/title/80147949",
+      "year": "2016",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt4559006",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTMwMjExMjMtZjIyYi00NzM4LWE4YWItN2FhMDMyZTRhMDQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A story about unrequited love - the shapes it takes, the ways it changes us and the exhilarating and often heartbreaking ride it takes us on. It is the journey of three characters, Ayan, Alizeh and Saba, as their lives intertwine ...",
+      "Type": "movie",
+      "RunTime": "158 min",
+      "Genre": "Drama, Music, Musical",
+      "Director": "Karan Johar",
+      "Writer": "Karan Johar, Niranjan Iyengar",
+      "Actors": "Ranbir Kapoor, Aishwarya Rai Bachchan, Anushka Sharma",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Aashik Awara",
       "netflix_url": "https://www.netflix.com/title/80157084",
       "year": "1993",
@@ -1207,6 +1258,23 @@
       "Actors": "Aditya Roy Kapoor, Shraddha Kapoor, Naseeruddin Shah",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Christmas Inheritance",
+      "netflix_url": "https://www.netflix.com/title/80177441",
+      "year": "2017",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt7608534",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTdkYjE4MGMtYTliMS00ZTdhLTg3NmEtOWUyY2YzZjZiYTJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "To be the CEO, an heiress is challenged by her dad to deliver a Christmas letter in person to his ex-partner in their hometown - traveling by bus, incognito and with only $100. Will she learn something from the people there?",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Ernie Barbarash",
+      "Writer": "Dinah Eng",
+      "Actors": "Eliza Taylor, Jake Lacy, Andie MacDowell",
+      "Language": "English",
+      "Country": "United States, Canada, Germany"
     },
     {
       "title": "Badrinath Ki Dulhania",
@@ -2286,6 +2354,23 @@
       "Country": "Germany"
     },
     {
+      "title": "Ride or Die",
+      "netflix_url": "https://www.netflix.com/title/81261676",
+      "year": "2021",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt14164234",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTBkZTU0ZWYtYWI4Ni00YmE5LWIyNzUtYzAxMTA0YjM4ZmE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rei helps the woman she's been in love with for years escape her abusive husband. While on the run, their feelings for each other catch fire.",
+      "Type": "movie",
+      "RunTime": "142 min",
+      "Genre": "Crime, Drama, Romance",
+      "Director": "Ryûichi Hiroki",
+      "Writer": "Nami Yoshikawa, Ching Nakamura",
+      "Actors": "Kiko Mizuhara, Honami Satô, Shinya Niiro",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "The Princess Switch 3: Romancing the Star",
       "netflix_url": "https://www.netflix.com/title/81262270",
       "year": "2021",
@@ -2880,6 +2965,14 @@
       "Country": "Brazil"
     },
     {
+      "title": "I missed you: Director's Cut",
+      "netflix_url": "https://www.netflix.com/title/81440771",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Rich in Love 2",
       "netflix_url": "https://www.netflix.com/title/81459281",
       "year": "2023",
@@ -3177,6 +3270,23 @@
       "Country": "India"
     },
     {
+      "title": "No Limit",
+      "netflix_url": "https://www.netflix.com/title/81513875",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt14995258",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTIxYjYzMDItNTU2MS00MDBkLThjOTktYjUxMTIwYjNjNzg0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Roxana Aubrey decides to drop her studies and escape her life in Paris for a free diving course in the south of France. She is quickly pulled into a life that reaches new depths brought by the weight of an ocean's descent.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Drama, Romance, Sport",
+      "Director": "David M. Rosenthal",
+      "Writer": "David M. Rosenthal",
+      "Actors": "Camille Rowe, Sofiane Zermani, César Domboy",
+      "Language": "French, English",
+      "Country": "France"
+    },
+    {
       "title": "Vengeance Is Mine, All Others Pay Cash",
       "netflix_url": "https://www.netflix.com/title/81520225",
       "year": "2021",
@@ -3302,6 +3412,40 @@
       "Actors": "Ren Nagase, Natsuki Deguchi, Mayu Yokota",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Diorama",
+      "netflix_url": "https://www.netflix.com/title/81591290",
+      "year": "2022",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt10851466",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmQ0M2RmZjctOTVkZC00ZWIxLWJlOTItNjA0NDZlNDA1YTBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It follows Frida and Björn's love story, from passion to marriage to family life, from a scientific perspective.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Tuva Novotny",
+      "Writer": "Tuva Novotny",
+      "Actors": "Claes Bang, David Dencik, Gustav Lindh",
+      "Language": "Danish, Norwegian, Swedish",
+      "Country": "Sweden"
+    },
+    {
+      "title": "Story of Dinda: Second Chance of Happiness",
+      "netflix_url": "https://www.netflix.com/title/81597204",
+      "year": "2021",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt14807282",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU2YzVmY2YtZDY5Zi00ZTA4LTgyOWItYTY5NDliYmY5MTJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dinda believes that there is a kind of love that doesn't hurt, and Pram is the proof. Meeting Pram makes his world that almost collapsed back into one.",
+      "Type": "movie",
+      "RunTime": "59 min",
+      "Genre": "Drama, Romance",
+      "Director": "Ginanti Rona",
+      "Writer": "Marchella F.P., Mohammad Irfan Ramly",
+      "Actors": "Aurélie Moeremans, Abimana Aryasatya, Ardhito Pramono",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "The Entitled",
@@ -3487,6 +3631,23 @@
       "Director": "Pradeep Ranganathan",
       "Writer": "Pradeep Ranganathan",
       "Actors": "Pradeep Ranganathan, Ivana, Yogi Babu",
+      "Language": "Tamil",
+      "Country": "India"
+    },
+    {
+      "title": "Theera Kadhal",
+      "netflix_url": "https://www.netflix.com/title/81644299",
+      "year": "2023",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt27236842",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjI4YjFhODgtOWFiMi00ZjE3LWFjZTQtYmVkMDZhMzdjODlhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two ex-lovers unexpectedly rekindle their romance. Despite being married to different people, one of them believes they are meant to be together.",
+      "Type": "movie",
+      "RunTime": "128 min",
+      "Genre": "Drama, Romance",
+      "Director": "Rohin Venkatesan",
+      "Writer": "G.R. Surendarnath, Rohin Venkatesan",
+      "Actors": "Jai, Amzath Khan, K S Krishnan",
       "Language": "Tamil",
       "Country": "India"
     },
@@ -4162,6 +4323,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Ali Topan",
+      "netflix_url": "https://www.netflix.com/title/81755772",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt26923485",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2RmM2NkMmYtNjdiNS00ZTcxLWFmNzAtYWI2Zjg2ODNiNzA1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ali Topan, from a chaotic family, finds love with Anna Karenina, sparking a forbidden romance that leads them on a perilous journey across Java, facing opposition and accusations.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Adventure, Comedy, Crime",
+      "Director": "Sidharta Tata",
+      "Writer": "Ifan Ismail, Sidharta Tata, Teguh Esha",
+      "Actors": "Jefri Nichol, Lutesha, Ari Sihasale",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Romantic Problematic",
       "netflix_url": "https://www.netflix.com/title/81755777",
       "year": "2022",
@@ -4260,6 +4438,23 @@
       "Writer": "Anurag Basu, Samrat Chakraborty, Sandeep Shrivastava",
       "Actors": "Anupam Kher, Neena Gupta, Saswata Chatterjee",
       "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Tere Ishk Mein",
+      "netflix_url": "https://www.netflix.com/title/81772320",
+      "year": "2025",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt28142095",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGRjMzM1ZmUtMjk0Yi00NzA0LTk3ZWYtZWM3MWY3M2EwMjBhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Shankar and Mukti's intense love story unfolds against the backdrop of Benaras, exploring surrender and transformation through an all-consuming romance that heals, hurts, and changes them.",
+      "Type": "movie",
+      "RunTime": "167 min",
+      "Genre": "Action, Drama, Musical",
+      "Director": "Aanand L. Rai",
+      "Writer": "Himanshu Sharma, Neeraj Yadav",
+      "Actors": "Kriti Sanon, Dhanush, Mohd. Zeeshan Ayyub",
+      "Language": "Hindi, Tamil, Telugu",
       "Country": "India"
     },
     {
