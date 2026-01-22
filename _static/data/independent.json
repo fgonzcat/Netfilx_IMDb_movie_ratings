@@ -173,6 +173,23 @@
       "Country": "USA, Mexico"
     },
     {
+      "title": "Brother's Shadow",
+      "netflix_url": "https://www.netflix.com/title/70068739",
+      "year": "2006",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0468458",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI2NzczNDMxOV5BMl5BanBnXkFtZTcwNjM2ODIzMQ@@._V1_SX300.jpg",
+      "Plot": "Jake Groden is the black sheep of his family. Ankle deep in fish guts, he serves out his parole in Alaska. Then, after a decade of self-imposed exile, he is forced to return to his Brooklyn family. He soon discovers that his perfe...",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Drama",
+      "Director": "Todd S. Yellin",
+      "Writer": "Ivan Krim, Todd S. Yellin",
+      "Actors": "Scott Cohen, Katie Danziger, Lisa Emery",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Just Buried",
       "netflix_url": "https://www.netflix.com/title/70108649",
       "year": "2007",
@@ -1235,6 +1252,23 @@
       "Country": "United States"
     },
     {
+      "title": "Dude",
+      "netflix_url": "https://www.netflix.com/title/80192186",
+      "year": "2018",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt3458510",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1NjA2ODk2NV5BMl5BanBnXkFtZTgwNjkyMTA0NTM@._V1_SX300.jpg",
+      "Plot": "A group of teenage girlfriends deal with their impending graduation from high school.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Olivia Milch",
+      "Writer": "Olivia Milch, Kendall McKinnon",
+      "Actors": "Lucy Hale, Kathryn Prescott, Alexandra Shipp",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "My Friend Dahmer",
       "netflix_url": "https://www.netflix.com/title/80192637",
       "year": "2017",
@@ -1418,6 +1452,23 @@
       "Director": "Joe Robert Cole",
       "Writer": "Joe Robert Cole",
       "Actors": "Ashton Sanders, Jeffrey Wright, Isaiah John",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Forty-Year-Old Version",
+      "netflix_url": "https://www.netflix.com/title/80231356",
+      "year": "2020",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt10642834",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDg0YTk0YjMtM2I4YS00NDFjLWJhNzItODU2YWUyZjg0ZmFmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Radha is a down-on-her-luck NY playwright, who is desperate for a breakthrough before 40. Reinventing herself as rapper RadhaMUSPrime, she vacillates between the worlds of Hip Hop and theater in order to find her true voice.",
+      "Type": "movie",
+      "RunTime": "123 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Radha Blank",
+      "Writer": "Radha Blank",
+      "Actors": "Radha Blank, Peter Kim, Oswin Benjamin",
       "Language": "English",
       "Country": "United States"
     },
@@ -3007,6 +3058,23 @@
       "Country": "United States"
     },
     {
+      "title": "Cactus Flower",
+      "netflix_url": "https://www.netflix.com/title/81660266",
+      "year": "2017",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt6520568",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2FjMGM5NmMtZmNhMS00ODJmLWE0MmYtODczMjMxNjI5OGIyXkEyXkFqcGdeQXVyMTA4MjY5ODE@._V1_SX300.jpg",
+      "Plot": "In a hot and politically challenged Cairo actress Aida and her neighbor, the aging diva Samiha, are thrown out on the streets. Together with the street smart Yassin, they try to find a place to live, forcing them to confront with ...",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Adventure, Drama, Fantasy",
+      "Director": "Hala Elkoussy",
+      "Writer": "Hala Elkoussy",
+      "Actors": "Salma Samy, Menha Batraoui, Marwan Alazab",
+      "Language": "Arabic",
+      "Country": "Egypt, Norway, United Arab Emirates, Qatar"
+    },
+    {
       "title": "Run Rabbit Run",
       "netflix_url": "https://www.netflix.com/title/81664196",
       "year": "2023",
@@ -3353,6 +3421,23 @@
       "Actors": "Colin Farrell, Margot Robbie, Phoebe Waller-Bridge",
       "Language": "English",
       "Country": "Ireland, United States"
+    },
+    {
+      "title": "Ro & the Stardust",
+      "netflix_url": "https://www.netflix.com/title/81923257",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15736800",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzhiOWFjMmUtNDIyYy00NTA2LWIxMmQtMWMzZDM4NGRkNmU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A free-spirited teen fulfills her terminally ill grandmother's dying wish of building a rocket ship to launch her into outer space.",
+      "Type": "movie",
+      "RunTime": "15 min",
+      "Genre": "Short, Fantasy",
+      "Director": "Eunice Levis",
+      "Writer": "Eunice Levis",
+      "Actors": "Cindy De La Cruz, Nadya Encarnacion, Elvis Nolasco",
+      "Language": "Spanish, English",
+      "Country": "United States"
     },
     {
       "title": "Daddio",

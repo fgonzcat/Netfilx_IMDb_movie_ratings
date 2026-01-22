@@ -275,6 +275,23 @@
       "Country": "India"
     },
     {
+      "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+      "netflix_url": "https://www.netflix.com/title/70074559",
+      "year": "2004",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0476680",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzZiNmI3MWYtYzA4YS00YjE4LWFhMzQtYzQ3MTE2MTcyOGM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Naruto and his team are hired to protect a young actress from three rogue warriors in the Land of the Snow.",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Tensai Okamura",
+      "Writer": "Masashi Kishimoto, Katsuyuki Sumizawa, Ardwight Chamberlain",
+      "Actors": "Junko Takeuchi, Chie Nakamura, Noriaki Sugiyama",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Thoda Pyaar Thoda Magic",
       "netflix_url": "https://www.netflix.com/title/70102768",
       "year": "2008",
@@ -341,6 +358,23 @@
       "Actors": "Anna Faris, Bill Hader, Bruce Campbell",
       "Language": "English, French, Spanish, German",
       "Country": "United States"
+    },
+    {
+      "title": "Naruto Shippuden: The Movie",
+      "netflix_url": "https://www.netflix.com/title/70124999",
+      "year": "2007",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0988982",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjNiOWU3ODQtNDE4Zi00M2FlLWFjMjYtZDA0NGZiZTc3Yjc2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A powerful spirit that once threatened to destroy the world is back! Naruto's mission is to protect a priestess named Shion, who is the only one with the power to seal away the monster.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Hajime Kamegaki",
+      "Writer": "Masashi Kishimoto, Junki Takegami",
+      "Actors": "Junko Takeuchi, Chie Nakamura, Yôichi Masukawa",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "The Amazing Spider-Man",
@@ -426,6 +460,23 @@
       "Actors": "Lily Collins, Jamie Campbell Bower, Robert Sheehan",
       "Language": "English",
       "Country": "United States, Germany, Canada, United Kingdom"
+    },
+    {
+      "title": "Naruto Shippuden: The Movie: The Lost Tower",
+      "netflix_url": "https://www.netflix.com/title/70275937",
+      "year": "2010",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt1703048",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTk2Yjk5OWYtOTU2NC00N2EzLWFiYzQtMTYxMGZhMWEyNjg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Our hero Naruto is caught in special chakra that propels him into the past. He finds himself in the City of Loran. As he encounters strange things, can he save the future with the past?",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Masahiko Murata",
+      "Writer": "Junki Takegami, Seth Walther, Masahiro Hikokubo",
+      "Actors": "Junko Takeuchi, Chie Nakamura, Satoshi Hino",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Mr. Peabody & Sherman",
@@ -936,6 +987,23 @@
       "Actors": "Clive Owen, Afiya Bennett, Morgan Allen",
       "Language": "English",
       "Country": "United Kingdom, Canada, United States, Germany"
+    },
+    {
+      "title": "GODZILLA The Planet Eater",
+      "netflix_url": "https://www.netflix.com/title/80198623",
+      "year": "2018",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt8478602",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODZmZmItYTdiZS00ZDk2LTgyOWEtZDFhNjE2ZGVkYmViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Humanity, their alien allies, and Godzilla all enter their endgame as the powerful destructive entity known as Ghidorah arrives on Earth.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Hiroyuki Seshita, Kôbun Shizuno",
+      "Writer": "Ishirô Honda, Sadayuki Murai, Takeo Murata",
+      "Actors": "Mamoru Miyano, Takahiro Sakurai, Kana Hanazawa",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "The Last Days of American Crime",
@@ -2601,6 +2669,14 @@
       "Country": "Hong Kong"
     },
     {
+      "title": "Holiday on Mars",
+      "netflix_url": "https://www.netflix.com/title/81473656",
+      "year": "2020",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "I’m Your Man",
       "netflix_url": "https://www.netflix.com/title/81479294",
       "year": "2021",
@@ -2786,6 +2862,23 @@
       "Actors": "Prabhas, Kriti Sanon, Saif Ali Khan",
       "Language": "Telugu, Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Making The Witcher: Season 2",
+      "netflix_url": "https://www.netflix.com/title/81520054",
+      "year": "2021",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt16464142",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQxM2JjMTMtNTVlYi00ZThiLWI1NWYtNDkxMmY1Y2IzNzJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Short documentary about making the second season of The Witcher (2019).",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Nathan Wiley",
+      "Writer": "N/A",
+      "Actors": "Henry Cavill",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Witcher Bestiary Season 1, Part 1",
@@ -3327,6 +3420,23 @@
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
+    },
+    {
+      "title": "The Missing",
+      "netflix_url": "https://www.netflix.com/title/81732301",
+      "year": "2023",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt28288396",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzcyZWJhM2ItNDNiNi00ZDRhLTlkMzAtZGMzNDExMDkwMDI0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When an alien comes back to take him, a mouthless young man's life twists and turns as his memories untangle.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Animation, Sci-Fi",
+      "Director": "Carl Joseph Papa",
+      "Writer": "Carl Joseph Papa",
+      "Actors": "Carlo Aquino, Gio Gahol, Dolly De Leon",
+      "Language": "Filipino",
+      "Country": "Philippines, Thailand"
     },
     {
       "title": "Rebel Moon — Part Two: Director’s Cut",

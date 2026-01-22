@@ -1837,6 +1837,23 @@
       "Country": "United States"
     },
     {
+      "title": "We Have a Ghost",
+      "netflix_url": "https://www.netflix.com/title/80230619",
+      "year": "2023",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt7798604",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDk0ZTA3ZTQtODE3OC00MmUyLWE3N2MtMGI4N2E3Y2NhZjMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Finding a ghost named Ernest haunting their new home turns Kevin's family into overnight social media sensations. But when Kevin and Ernest investigate the mystery of Ernest's past, they become a target of the CIA.",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Adventure, Comedy, Family",
+      "Director": "Christopher Landon",
+      "Writer": "Christopher Landon, Geoff Manaugh",
+      "Actors": "Jahi Di'Allo Winston, David Harbour, Anthony Mackie",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Sextuplets",
       "netflix_url": "https://www.netflix.com/title/80231419",
       "year": "2019",
@@ -2398,6 +2415,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Kissing Booth 2",
+      "netflix_url": "https://www.netflix.com/title/81026818",
+      "year": "2020",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt9784456",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2IzODA4YTktZDkwOS00MTRkLWE3NjgtYjMwZTFlNTBhNjhjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the sequel to 2018's The Kissing Booth', high school senior Elle juggles a long-distance relationship with her dreamy boyfriend Noah, college applications, and a new friendship with a handsome classmate that could change everyt...",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Vince Marcello",
+      "Writer": "Vince Marcello, Jay S Arnold, Beth Reekles",
+      "Actors": "Joey King, Joel Courtney, Jacob Elordi",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Despite Everything",
       "netflix_url": "https://www.netflix.com/title/81031939",
       "year": "2019",
@@ -2623,6 +2657,23 @@
       "Director": "Ben Falcone",
       "Writer": "Ben Falcone",
       "Actors": "Melissa McCarthy, Octavia Spencer, Jason Bateman",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Princess Switch: Switched Again",
+      "netflix_url": "https://www.netflix.com/title/81084350",
+      "year": "2020",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt11199410",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODc5MzUyMzgtY2QwNS00OTVlLWIyMDEtOWVjYzM5MGY1OTY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Duchess Margaret unexpectedly inherits the throne to Montenaro and hits a rough patch with Kevin, it's up to her double Stacy to save the day before a new lookalike, party girl Fiona foils their plans.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Comedy, Drama, Family",
+      "Director": "Mike Rohl",
+      "Writer": "Robin Bernheim, Megan Metzger",
+      "Actors": "John Jack, Vanessa Hudgens, Sam Palladio",
       "Language": "English",
       "Country": "United States"
     },
@@ -3526,6 +3577,23 @@
       "SkipTitle": true
     },
     {
+      "title": "In Good Hands",
+      "netflix_url": "https://www.netflix.com/title/81350683",
+      "year": "2022",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt14898794",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjk2MjI3MDQtMzBhNC00Zjg2LThjY2QtMGNlNzZlYWRiYjM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Diagnosed with terminal illness, a single mother encounters a suave bachelor as she grapples with the future of her headstrong six-years-old.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Ketche",
+      "Writer": "Hakan Bonomo",
+      "Actors": "Asli Enver, Kaan Urgancioglu, Mert Ege Ak",
+      "Language": "Turkish",
+      "Country": "Turkey"
+    },
+    {
       "title": "Dog",
       "netflix_url": "https://www.netflix.com/title/81350890",
       "year": "2022",
@@ -3626,6 +3694,23 @@
       "Actors": "Nicole Kidman, Zac Efron, Joey King",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Jungle Beat: The Movie",
+      "netflix_url": "https://www.netflix.com/title/81381727",
+      "year": "2021",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt12139700",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODNhMWQ4ZTAtZDEzZi00YTdjLThkYzMtMTdhNzhkNWVkY2ZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A homesick alien crash-lands his spaceship near the colorful African Jungle. His new animal friends need to get him back to his ship and teach him about friendship and fun before his Space-Conqueror father can take over the planet.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Brent Dawes",
+      "Writer": "Brent Dawes, Sam Wilson",
+      "Actors": "Ed Kear, David Menkin, Ina Marie Smith",
+      "Language": "English, Chinese",
+      "Country": "China, Mauritius, South Africa, United Kingdom, Netherlands, Zambia, United States"
     },
     {
       "title": "Technoboys",
@@ -4076,6 +4161,23 @@
       "Actors": "Jacob Tremblay, Paul Walter Hauser, Colin Hanks",
       "Language": "English",
       "Country": "France, United States"
+    },
+    {
+      "title": "Red Rocket",
+      "netflix_url": "https://www.netflix.com/title/81481609",
+      "year": "2021",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt13453006",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ0NmI0NjgtZjUxYS00ZjIyLTkxMjEtNzkyMWM1NjQ1ZDEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Washed-up porn star Mikey Saber returns to his small Texas hometown and decides if he wants to be with his ex-wife or the donut shop girl hes in love with.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Sean Baker",
+      "Writer": "Sean Baker, Chris Bergoch",
+      "Actors": "Simon Rex, Bree Elrod, Suzanna Son",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "A Vampire in the Family",

@@ -164,6 +164,23 @@
       "Country": "Mexico, United States, Spain, Colombia"
     },
     {
+      "title": "Pocoyo",
+      "netflix_url": "https://www.netflix.com/title/70288470",
+      "year": "2017",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0487849",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxNzQ3MTI5Ml5BMl5BanBnXkFtZTcwNzcyNTE0MQ@@._V1_SX300.jpg",
+      "Plot": "Pocoyo, the curious toddler dressed all in blue, joins Pato the yellow duck, Elly the pink elephant, Loula the dog, Sleepy Bird and many others in learning new things and having fun.",
+      "Type": "series",
+      "RunTime": "7 min",
+      "Genre": "Animation, Comedy, Family",
+      "Director": "N/A",
+      "Writer": "Andy Yerkes, David Cantolla, Luis Gallego",
+      "Actors": "Stephen Fry, Alex Marty, Stephen Hughes",
+      "Language": "Spanish, English",
+      "Country": "Spain, United Kingdom, United States"
+    },
+    {
       "title": "El Cartel",
       "netflix_url": "https://www.netflix.com/title/80025923",
       "year": "2008",
@@ -1598,6 +1615,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Intuition",
+      "netflix_url": "https://www.netflix.com/title/81034677",
+      "year": "2020",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt12282598",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTE0NDdkNGItM2JhMi00NTZmLWFkOTgtNmIzNzlmNjI1MmYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Pipa begins her career as a police detective alongside her mentor, the controversial detective Francisco Juánez. Together they must solve the violent murder of a 19-year-old girl.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Alejandro Montiel",
+      "Writer": "Florencia Etcheves, Alejandro Montiel, Mili Roque Pitt",
+      "Actors": "Luisana Lopilato, Joaquín Furriel, Rafael Ferro",
+      "Language": "Spanish",
+      "Country": "Argentina"
+    },
+    {
       "title": "Parchís: the Documentary",
       "netflix_url": "https://www.netflix.com/title/81036520",
       "year": "2019",
@@ -1970,6 +2004,23 @@
       "Actors": "Viña Machado, Jesus Reyes, Claudio Cataño",
       "Language": "Spanish",
       "Country": "Colombia"
+    },
+    {
+      "title": "Dogwashers",
+      "netflix_url": "https://www.netflix.com/title/81089261",
+      "year": "2021",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt13248198",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmU3MGRlNWUtNmI4ZC00NDJhLTlhZjgtMjNhOTIzOWYyOTU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Don Oscar, if he wanted, could have been the next Escobar, but instead he sits on the ruins of his decrepit little drug empire. And let's face it, there is not much left to sit on. Only a handful of his most faithful guard still r...",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Carlos Moreno",
+      "Writer": "Andres Rios",
+      "Actors": "Jose Marino Angulo, Juan Martin Arancedo, Anderson Ballesteros",
+      "Language": "Spanish",
+      "Country": "Colombia, Argentina"
     },
     {
       "title": "Dark Desire",
@@ -3466,6 +3517,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Chromosome 21",
+      "netflix_url": "https://www.netflix.com/title/81424724",
+      "year": "2022",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt22185440",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjZlNTNjZTQtOTFmZS00NmU3LWFjMjYtZmQ1ZjU1NmRkODY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man with Down Syndrome is found by the police at the crime scene. The investigation is uncertain about the participation of this man. Was he the murderer or only a witness?",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Gastón Salgado, Mario Horton, Claudia Di Girólamo",
+      "Language": "Spanish",
+      "Country": "Chile"
+    },
+    {
       "title": "The Unbroken Voice",
       "netflix_url": "https://www.netflix.com/title/81424958",
       "year": "2024",
@@ -3844,6 +3912,23 @@
       "Actors": "Memo Villegas, Norma Pablo, Mayra Batalla",
       "Language": "Spanish",
       "Country": "Mexico, Germany, Brazil, Qatar, Switzerland, United States"
+    },
+    {
+      "title": "Togo",
+      "netflix_url": "https://www.netflix.com/title/81504388",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt15686024",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDVjZjc5YmItMmNkZC00ZGMyLThmODItMmJiOTcxZTE4MDY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A car attendant who must defend his territory and the neighbors of the neighborhood against.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Israel Adrián Caetano",
+      "Writer": "Israel Adrián Caetano",
+      "Actors": "Diego Alonso Gómez, Catalina Arrillaga, Josef Cannon",
+      "Language": "Spanish",
+      "Country": "Uruguay"
     },
     {
       "title": "Pact of Silence",
@@ -5457,6 +5542,23 @@
       "Actors": "Elias Argentiere",
       "Language": "Spanish",
       "Country": "Spain"
+    },
+    {
+      "title": "Millionaire",
+      "netflix_url": "https://www.netflix.com/title/81742901",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37738599",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGFkMjNiOTgtMDA5Yi00N2E3LWIxOTMtNmRjMzMyNTAzYzg2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "Spanish",
+      "Country": "Chile"
     },
     {
       "title": "Simón",

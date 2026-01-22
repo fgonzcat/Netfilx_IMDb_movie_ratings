@@ -326,6 +326,23 @@
       "Country": "United States"
     },
     {
+      "title": "I'll Sleep When I'm Dead",
+      "netflix_url": "https://www.netflix.com/title/80118930",
+      "year": "2016",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt4679136",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MDQ0NjQ3Nl5BMl5BanBnXkFtZTgwNTkxNjA4OTE@._V1_SX300.jpg",
+      "Plot": "I'll Sleep When I'm Dead, directed by Justin Krook, is a heart-pumping yet heart-wrenching documentary about one of the most eminent DJs working today: Steve Aoki. In the lead-up to Aoki's biggest show of his career, this introspe...",
+      "Type": "movie",
+      "RunTime": "79 min",
+      "Genre": "Documentary",
+      "Director": "Justin Krook",
+      "Writer": "N/A",
+      "Actors": "Devon Aoki, Benji Madden, Will.i.am",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Turn Up Charlie",
       "netflix_url": "https://www.netflix.com/title/80124723",
       "year": "2019",
@@ -341,6 +358,23 @@
       "Actors": "Idris Elba, Piper Perabo, Frankie Hervey",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Justin Timberlake + the Tennessee Kids",
+      "netflix_url": "https://www.netflix.com/title/80127559",
+      "year": "2016",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt5001772",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQyNzRkNWItOWRmOS00YTk0LWIyYWYtZDcxMGIyMmQwNTU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The final performance of Justin Timberlake and the Tennessee Kids' 20/20 Experience World Tour, filmed in 2015 at the MGM Grand Garden Arena in Las Vegas.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Documentary, Music",
+      "Director": "Jonathan Demme",
+      "Writer": "N/A",
+      "Actors": "Adam Blackstone, Aaron Camper, Devine Evans",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Hip-Hop Evolution",
@@ -768,6 +802,23 @@
       "Country": "United States"
     },
     {
+      "title": "Vai Anitta",
+      "netflix_url": "https://www.netflix.com/title/80216621",
+      "year": "2018",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt8961530",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjE0YjIxODctOTRmOS00ZDEyLTk5ZDQtYjBlODE5YzA2NDQ5XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX300.jpg",
+      "Plot": "Go behind the scenes with Brazilian superstar Anitta as the singer reveals how she's consolidating her international career.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Biography",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Anitta, Paulo Pimenta, Sam Shahidi",
+      "Language": "Portuguese, English, Spanish",
+      "Country": "Brazil"
+    },
+    {
       "title": "Rhythm + Flow",
       "netflix_url": "https://www.netflix.com/title/80216665",
       "year": "2024",
@@ -878,8 +929,33 @@
       "Country": "United States"
     },
     {
+      "title": "Springsteen on Broadway",
+      "netflix_url": "https://www.netflix.com/title/80232329",
+      "year": "2018",
+      "imdb_rating": "8.5",
+      "imdb_id": "tt8716334",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAyMjY3MjkyNzZeQTJeQWpwZ15BbWU4MDY4MjUzODYz._V1_SX300.jpg",
+      "Plot": "The intimate, final performance of Bruce Springsteen's 236-show run at Jujamcyn's Walter Kerr Theatre on Broadway.",
+      "Type": "movie",
+      "RunTime": "153 min",
+      "Genre": "Documentary, Music",
+      "Director": "Thom Zimny",
+      "Writer": "Bruce Springsteen",
+      "Actors": "Bruce Springsteen, Patti Scialfa",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Camarón: The Film",
       "netflix_url": "https://www.netflix.com/title/80232891",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Camarón Revolution",
+      "netflix_url": "https://www.netflix.com/title/80233223",
       "year": "2018",
       "imdb_rating": null,
       "imdb_id": null,
@@ -1583,6 +1659,40 @@
       "Country": "Spain"
     },
     {
+      "title": "Johnny Hallyday: Beyond Rock",
+      "netflix_url": "https://www.netflix.com/title/81203371",
+      "year": "2022",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt14465966",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODNhMGE2MDctMjdmNC00NDQ0LThhYmYtZjhiM2I3MDUwOTYwXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_SX300.jpg",
+      "Plot": "An intimate docuseries that explores the life and career of France's rock icon through archival film and interviews.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "French",
+      "Country": "France"
+    },
+    {
+      "title": "J-Style Trip",
+      "netflix_url": "https://www.netflix.com/title/81216119",
+      "year": "2023",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt11942052",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWUwODNkMjctNjY2Ny00MWVlLTk4NDgtMGY2ZTZkZjc5YmNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jay Chou, Funky Tu, Chen Kuan-Lin",
+      "Language": "Mandarin",
+      "Country": "Taiwan, China"
+    },
+    {
       "title": "ARASHI's Diary -Voyage-",
       "netflix_url": "https://www.netflix.com/title/81219073",
       "year": "2019",
@@ -1937,6 +2047,23 @@
       "Country": "Thailand"
     },
     {
+      "title": "Vasco Rossi: Living It",
+      "netflix_url": "https://www.netflix.com/title/81417721",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28081900",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzg2ZTZhMWYtYWJmMi00NDkzLWJkYTgtMGU5MGM5NTc5ODE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Italy's most beloved rock star Vasco Rossi grants unprecedented access to intimate details of his personal life and successful career over the decades.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Vasco Rossi",
+      "Language": "Italian",
+      "Country": "Italy"
+    },
+    {
       "title": "Qala",
       "netflix_url": "https://www.netflix.com/title/81423081",
       "year": "2022",
@@ -2140,6 +2267,23 @@
       "SkipTitle": true
     },
     {
+      "title": "ONEFOUR: Against All Odds",
+      "netflix_url": "https://www.netflix.com/title/81485425",
+      "year": "2023",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt28703558",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYwM2FmMjQtNzU3ZC00NzU4LWJmZWEtMmNjZjUxNGFlZjcwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This documentary traces the meteoric rise of Australia's first drill rap stars, defiant in the face of police's efforts to stop them from performing.",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Documentary, Crime, Music",
+      "Director": "Gabriel Gasparinatos",
+      "Writer": "Gabriel Gasparinatos, Erin Moy, Joseph Nizeti",
+      "Actors": "The Kid Laroi",
+      "Language": "English",
+      "Country": "Australia"
+    },
+    {
       "title": "LiSA Another Great Day",
       "netflix_url": "https://www.netflix.com/title/81486328",
       "year": "2022",
@@ -2188,6 +2332,23 @@
       "Writer": "Chanda Bell, Carol Aebersold, Christa Pitts",
       "Actors": "Brendan Dooling, Michael May, Doug Williams",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Signing",
+      "netflix_url": "https://www.netflix.com/title/81490766",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27128307",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWRhNmFiMjgtMTEwMS00Y2JmLWE5OTQtNWYwYjQ2ODljYjNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Latino artists must impress Rauw Alejandro, Tainy, Nicki Nicole, Yandel, and Lex Borrero to score a contract.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Music, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Rauw Alejandro, Nicki Nicole, Lex Borrero",
+      "Language": "Spanish",
       "Country": "United States"
     },
     {
@@ -2410,6 +2571,40 @@
       "Actors": "Mamoru Miyano, Yûki Kaji, Fumiya Takahashi",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "If I Were Luísa Sonza",
+      "netflix_url": "https://www.netflix.com/title/81645036",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28995977",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWZjNmI2MjEtM2UxYi00MDQ3LWJkMDktNGVjMWUwMTlkYWE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Brazil's most polarizing pop singer opens up in this docuseries about her love life, career, controversies and the creation of a new album.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Luísa Sonza, Lucas Pinho, Eliane Gerloff",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
+      "title": "Rhythm + Flow Italy",
+      "netflix_url": "https://www.netflix.com/title/81659327",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28020043",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTZiNzA5ZWItMzQyNi00ZmUyLTk4NWMtZjI0YjIyZGUwMjMzXkEyXkFqcGdeQXVyMTUzOTczNzYx._V1_SX300.jpg",
+      "Plot": "In this music competition show, Fabri Fibra, Geolier and Rose Villain hit the streets of Rome, Naples and Milan to find the next Italian rap superstar.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Music, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Elias Argentiere, Fabri Fibra, Geolier",
+      "Language": "Italian",
+      "Country": "Italy"
     },
     {
       "title": "It's OK",
@@ -2741,6 +2936,23 @@
       "Country": "United States"
     },
     {
+      "title": "Rhythm + Flow: Poland",
+      "netflix_url": "https://www.netflix.com/title/81731604",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32764263",
+      "Poster": "N/A",
+      "Plot": "Aspiring Polish rappers drop bars, battle, and craft tracks to impress judges Bedoes 2115, DZIARMA, and Sokól vying for fame and a 500,000 zloty prize.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Music, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Agata Dziarmagowska, Borys Przybylski, Wojciech Sosnowski",
+      "Language": "Polish",
+      "Country": "Poland"
+    },
+    {
       "title": "Find Me Falling",
       "netflix_url": "https://www.netflix.com/title/81740504",
       "year": "2024",
@@ -2841,6 +3053,23 @@
       "Actors": "Edinburg North High School's Mariachi Oro",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "A-List to Playlist",
+      "netflix_url": "https://www.netflix.com/title/81752352",
+      "year": "2024",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt33038099",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmZkYmZmOTAtOWMwOC00MzczLWE2ZWQtMDIzMjliZTM3NmQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After two decades working as an actor, Cho Jung-seok challenges himself to make his debut as a pop star in 100 days.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "June Yoon, Kim Eana, Jo Jung-suk",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Latin Blood - The Ballad of Ney Matogrosso",
@@ -2985,6 +3214,39 @@
       "Actors": "Orin O'Brien, Manny Alvarez, Julian Barrera",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Rhythm + Flow France: After the Beat",
+      "netflix_url": "https://www.netflix.com/title/81778080",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Aitana: Metamorphosis",
+      "netflix_url": "https://www.netflix.com/title/81786471",
+      "year": "2025",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt35315539",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDM0OGU2ZWYtMmU5Yi00YmU1LTgzMGYtZDc4ZTljYzllNzM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow pop star Aitana's journey in this 6-part series as she grows personally and professionally, shares her hits, faces challenges, and emerges as a leading Spanish music artist.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Aitana, Burgandi Trejo Phoenix",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
+      "title": "Rockstar Duki from the end of the world",
+      "netflix_url": "https://www.netflix.com/title/81786830",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "aiko Love Like Aloha vol.7",

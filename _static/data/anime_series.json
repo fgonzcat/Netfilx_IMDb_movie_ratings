@@ -859,6 +859,23 @@
       "Country": "Japan, Poland"
     },
     {
+      "title": "HERO MASK",
+      "netflix_url": "https://www.netflix.com/title/80200027",
+      "year": "2019",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt9316078",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzY5N2M1NDctYTIyNy00NjczLWI2ZjUtNGZlOGM2YWMwM2MzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Detective James Blood investigates a string of grisly crimes all involving a mysterious mask.",
+      "Type": "series",
+      "RunTime": "25 min",
+      "Genre": "Animation, Action, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Greg Chun, Lauren Landa, Landon McDonald",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "BAKI",
       "netflix_url": "https://www.netflix.com/title/80204451",
       "year": "2020",
@@ -1180,6 +1197,23 @@
       "Actors": "Erin C. Davis, Bob Singer, Brennan Kerr, Gabriel Kornbluh",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Ingress: The Animation",
+      "netflix_url": "https://www.netflix.com/title/80992853",
+      "year": "2018",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt9561968",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjE0MjM0MWMtNjkxNy00MzMxLWIwZGQtYzdmYTE3MzM4NDFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After scientists discover a mysterious substance that can influence human minds, two factions wage an all-out battle to control its awesome power.",
+      "Type": "series",
+      "RunTime": "24 min",
+      "Genre": "Animation, Sci-Fi",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Laura Bailey, Cristina Valenzuela, Crispin Freeman",
+      "Language": "English, Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Japan Sinks: 2020",
@@ -1510,6 +1544,23 @@
       "Actors": "Theo James, Mary McDonnell, Lara Pulver",
       "Language": "English",
       "Country": "South Korea, United States, Japan, Poland, China"
+    },
+    {
+      "title": "High-Rise Invasion",
+      "netflix_url": "https://www.netflix.com/title/81043571",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt13352232",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmYxZTU0NzYtM2NlNC00YTVkLTg4ZDYtNzkxNjM1Yzg5Y2NmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "High schooler Yuri finds herself atop a skyscraper in a strange world, where she must survive against masked assailants bent on killing their prey.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Animation, Action, Horror",
+      "Director": "N/A",
+      "Writer": "Tsuina Miura",
+      "Actors": "Haruka Shiraishi, Shiki Aoki, Yûichirô Umehara",
+      "Language": "English, Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Dr.STONE",
@@ -2223,6 +2274,23 @@
       "Actors": "Jun'ya Enoki, Adam McArthur, Yuma Uchida",
       "Language": "Japanese, English",
       "Country": "Japan, United States"
+    },
+    {
+      "title": "Thus Spoke Kishibe Rohan",
+      "netflix_url": "https://www.netflix.com/title/81280998",
+      "year": "2021",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt13887556",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2YxM2Q0ZWYtNGZhOS00MzVlLWFiMDctMTE5ZmI4OGFmNTQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A popular manga creator becomes enmeshed in paranormal events while conducting research.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "Hirohiko Araki",
+      "Actors": "Takahiro Sakurai, Landon McDonald, Yûki Kaji",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "PLUTO",

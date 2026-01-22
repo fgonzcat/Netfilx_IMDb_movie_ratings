@@ -2383,6 +2383,23 @@
       "Country": "United States, Czech Republic, United Kingdom, Canada, France, Denmark, Thailand, Vietnam, Cambodia"
     },
     {
+      "title": "Vanished into the Night",
+      "netflix_url": "https://www.netflix.com/title/81163835",
+      "year": "2024",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt14034294",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM4NjEwNDctYTZkZS00YzU1LTg2MzctN2JjMDI0YWRhNGZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A father, immersed in a difficult divorce process, embarks on a dangerous mission when his children disappear from their isolated country house.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Renato De Maria",
+      "Writer": "Patxi Amezcua, Alejo Flah, Luca Infascelli",
+      "Actors": "Riccardo Scamarcio, Annabelle Wallis, Massimiliano Gallo",
+      "Language": "Italian, English",
+      "Country": "Italy"
+    },
+    {
       "title": "The Forgotten Battle",
       "netflix_url": "https://www.netflix.com/title/81166791",
       "year": "2021",
@@ -2621,6 +2638,23 @@
       "Country": "Norway"
     },
     {
+      "title": "The Binding",
+      "netflix_url": "https://www.netflix.com/title/81245546",
+      "year": "2020",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt10914452",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjk3ZDdkZmMtMjQ0Yi00Nzc5LTk5NDUtMDIxMzcxNjA4MzhkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "While visiting her fiancé's mother in southern Italy, a woman must fight the mysterious and malevolent curse intent on claiming her daughter.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Domenico de Feudis",
+      "Writer": "Daniele Cosci, Davide Orsini, Domenico de Feudis",
+      "Actors": "Riccardo Scamarcio, Mía Maestro, Giulia Patrignani",
+      "Language": "Italian",
+      "Country": "Italy"
+    },
+    {
       "title": "The Good Nurse",
       "netflix_url": "https://www.netflix.com/title/81260083",
       "year": "2022",
@@ -2823,6 +2857,23 @@
       "Actors": "Julia Roberts, Mahershala Ali, Ethan Hawke",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Code Name: Emperor",
+      "netflix_url": "https://www.netflix.com/title/81321674",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt13660916",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmM3ZjRiMTUtZjc1Ni00OWRlLTk3YjEtYTM5Y2QxYmUxYjJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows Juan, an agent working for the intelligence services, who also reports to a parallel unit involved in illegal activities.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Jorge Coira",
+      "Writer": "Jorge Guerricaechevarría",
+      "Actors": "Luis Tosar, Alexandra Masangkay, Georgina Amorós",
+      "Language": "Spanish, English",
+      "Country": "Spain, France"
     },
     {
       "title": "Stowaway",
@@ -3537,6 +3588,23 @@
       "Country": "Netherlands"
     },
     {
+      "title": "Windfall",
+      "netflix_url": "https://www.netflix.com/title/81483895",
+      "year": "2022",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt15033192",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTIyMjIxN2YtNmRmZC00NjYzLTg4NmMtNGJiODM2NGViMTdhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man breaks into a tech billionaire's empty vacation home, but things go sideways when the arrogant mogul and his wife arrive for a last-minute getaway.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Charlie McDowell",
+      "Writer": "Charlie McDowell, Jason Segel, Justin Lader",
+      "Actors": "Jason Segel, Lily Collins, Jesse Plemons",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Mother's Day",
       "netflix_url": "https://www.netflix.com/title/81486213",
       "year": "2023",
@@ -3705,6 +3773,23 @@
       "Actors": "Ayushmann Khurrana, Jaideep Ahlawat, Gautam Joglekar",
       "Language": "Hindi",
       "Country": "India, United Kingdom"
+    },
+    {
+      "title": "iNumber Number: Jozi Gold",
+      "netflix_url": "https://www.netflix.com/title/81516052",
+      "year": "2023",
+      "imdb_rating": "4.4",
+      "imdb_id": "tt27728519",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmJmNjI5ZjItYjE4YS00OTZjLTlkMjYtOGI5N2RmN2I2YzZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When an undercover cop is tasked with investigating a historic gold heist in Johannesburg, he’s forced to choose between his conscience and the law.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "Donovan Marsh",
+      "Writer": "Donovan Marsh",
+      "Actors": "Lonwabo Bokamoso, Presley Chweneyagae, Willem Jacobus de Jongh",
+      "Language": "N/A",
+      "Country": "South Africa"
     },
     {
       "title": "Hunger",
@@ -3911,6 +3996,23 @@
       "Country": "United States"
     },
     {
+      "title": "Gumraah",
+      "netflix_url": "https://www.netflix.com/title/81595555",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt11905536",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTUyNmJjZDktYTdkMC00MmEyLWE2MzEtYjM5NzcwZTgzOGU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The murder investigation of a young man takes an unexpected turn when the cops discover that the prime suspect has a lookalike.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Vardhan Ketkar",
+      "Writer": "Sunny Mandavarra, Magizh Thirumeni",
+      "Actors": "Aditya Roy Kapoor, Mrunal Thakur, Ronit Roy",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "The Murderer",
       "netflix_url": "https://www.netflix.com/title/81597188",
       "year": "2023",
@@ -4064,6 +4166,40 @@
       "Country": "India"
     },
     {
+      "title": "The Post-Truth World",
+      "netflix_url": "https://www.netflix.com/title/81651687",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt22463402",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDY4MDFhYTItN2FlMS00MmEwLWE0M2ItN2NlYjEyM2Y3YmIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A sports star turned convict holds over-the-hill commentator Liu Li-min hostage. Recognizing this as a chance for his big comeback, Liu plays along with the hype. But the truth is even more shocking than his wildest imagination.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "If Chen",
+      "Writer": "Huang Yen Chiao, Nai-Ching Yeh",
+      "Actors": "Hsiao-chuan Chang, Edward Chen, Caitlin Fang",
+      "Language": "Chinese, Min Nan",
+      "Country": "Taiwan"
+    },
+    {
+      "title": "THE VILLAGE",
+      "netflix_url": "https://www.netflix.com/title/81652131",
+      "year": "2023",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt21882650",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDY3NzlkNzgtZTJmMi00ODE5LWIwZjItNTY4NzNlMzA3NmFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A stranded urbanite and his three unlikely companions brave an eerie village with a sinister past to rescue his missing family in one night.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Horror, Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Arya, Aadukalam Naren, Muthukumar",
+      "Language": "Tamil",
+      "Country": "India"
+    },
+    {
       "title": "The Abandoned",
       "netflix_url": "https://www.netflix.com/title/81652564",
       "year": "2023",
@@ -4138,6 +4274,23 @@
       "Actors": "N/A",
       "Language": "N/A",
       "Country": "N/A"
+    },
+    {
+      "title": "Ferry 2",
+      "netflix_url": "https://www.netflix.com/title/81674409",
+      "year": "2024",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt30021427",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2M2N2NiZjEtZDYwZi00YzlhLWFkZDEtMzRhNmE4MzM4YjliXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After losing his drug empire, Ferry Bouman seems to have found peace away from Brabant's underworld. Why would he put it all on the line and come back?",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Wannes Destoop",
+      "Writer": "Piet Matthys, Nico Moolenaar, Jan Theys",
+      "Actors": "Frank Lammers, Aiko Beemsterboer, Tobias Kersloot",
+      "Language": "Dutch",
+      "Country": "Netherlands, Belgium"
     },
     {
       "title": "Hijack '93",
@@ -4943,6 +5096,23 @@
       "Actors": "Kalabhavan Navas, Dhyan Sreenivasan, Mathew Puthukadan",
       "Language": "Malayalam",
       "Country": "India"
+    },
+    {
+      "title": "Abducted on Prom Night",
+      "netflix_url": "https://www.netflix.com/title/82120722",
+      "year": "2023",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt27630783",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAxZDcxMTUtY2UwYy00N2VmLWJlNzktNzc0Yzk3OWZiNDQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A recently divorced mother allows her troubled daughter to attend prom, but what was supposed to be the best night of their lives turns into a twisted cat and mouse game when the daughter and her friends are taken hostage by their...",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Max McGuire",
+      "Writer": "Richard Pierce, Shawn Riopelle",
+      "Actors": "Zoë Belkin, Karen Cliche, Melissa Bray",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Some Other Woman",
