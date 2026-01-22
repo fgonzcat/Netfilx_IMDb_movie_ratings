@@ -3,23 +3,6 @@
   "genre_url": "https://www.netflix.com/browse/genre/9584",
   "movies": [
     {
-      "title": "Face/Off",
-      "netflix_url": "https://www.netflix.com/title/1154341",
-      "year": "1997",
-      "imdb_rating": "7.3",
-      "imdb_id": "tt0119094",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQyOWNmYTgtZWY0NS00NzhjLTg3NmMtMzcwYzQ2OTA2OTJkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "To foil a terrorist plot, an FBI agent assumes the identity of the criminal who murdered his son via facial transplant surgery, but the crook wakes up prematurely and vows revenge.",
-      "Type": "movie",
-      "RunTime": "138 min",
-      "Genre": "Action, Crime, Sci-Fi",
-      "Director": "John Woo",
-      "Writer": "Mike Werb, Michael Colleary",
-      "Actors": "John Travolta, Nicolas Cage, Joan Allen",
-      "Language": "English, Latin",
-      "Country": "United States"
-    },
-    {
       "title": "Aakhri Adaalat",
       "netflix_url": "https://www.netflix.com/title/20254278",
       "year": "1988",
@@ -700,23 +683,6 @@
       "Country": "United States, United Kingdom, Canada, France"
     },
     {
-      "title": "Manhunt",
-      "netflix_url": "https://www.netflix.com/title/80209866",
-      "year": "2017",
-      "imdb_rating": "8.1",
-      "imdb_id": "tt5618256",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTcxMjEyMzc4NV5BMl5BanBnXkFtZTgwOTQ4MjE4MjI@._V1_SX300.jpg",
-      "Plot": "An in-depth look at how an FBI profiler helped track down the terrorist Ted Kaczynski, the Unabomber.",
-      "Type": "series",
-      "RunTime": "2 min",
-      "Genre": "Biography, Crime, Drama",
-      "Director": "N/A",
-      "Writer": "Andrew Sodroski, Jim Clemente, Tony Gittelson",
-      "Actors": "Gethin Anthony, Arliss Howard, Kelly Jenrette",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Coffee & Kareem",
       "netflix_url": "https://www.netflix.com/title/80220009",
       "year": "2020",
@@ -1147,8 +1113,6 @@
       "year": "1980",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1157,8 +1121,6 @@
       "year": "2012",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1267,18 +1229,18 @@
       "title": "Centauro",
       "netflix_url": "https://www.netflix.com/title/81307119",
       "year": "2022",
-      "imdb_rating": "8.1",
-      "imdb_id": "tt6067908",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGM3ZTEyODktYjRiZC00MTIwLTk1MzYtMTdmOWVhZTc1MDQ5L2ltYWdlXkEyXkFqcGdeQXVyNjcxMjI4MA@@._V1_SX300.jpg",
-      "Plot": "A man falls from a horse and can no longer be saved. Man and horse become one, for a short moment.",
-      "Type": "movie",
-      "RunTime": "14 min",
-      "Genre": "Animation, Short",
-      "Director": "Nicolás Suárez",
-      "Writer": "Nicolás Suárez",
-      "Actors": "Walter Jakob, Agustín Alcides Otero",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt4689000",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2U5ZTgyMDgtY2ViMS00NDRiLWFkMDEtNjA4ZDU4YzAzNDYyXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_SX300.jpg",
+      "Plot": "Yolanda Acosta is an attractive and intelligent woman capable of breaking the law just to protect her beloved daughter Cristina, but destiny makes her the lover of Benedicto Suárez alias El Centauro, one of the most important drug...",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "Lina Uribe, Dario Vanegas",
+      "Actors": "Humberto Zurita, Michel Brown, Wayne LeGette",
       "Language": "Spanish",
-      "Country": "Argentina"
+      "Country": "United States, Mexico, Colombia"
     },
     {
       "title": "Havoc",
@@ -1303,8 +1265,6 @@
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1330,8 +1290,6 @@
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1401,23 +1359,6 @@
       "Actors": "Franck Gastambide, Simon Abkarian, Michaël Abiteboul",
       "Language": "French",
       "Country": "France"
-    },
-    {
-      "title": "Wild Dog",
-      "netflix_url": "https://www.netflix.com/title/81427455",
-      "year": "2020",
-      "imdb_rating": "6.1",
-      "imdb_id": "tt11503178",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjUwZGUyMjYtYWI1Yi00NGMwLTkzYmMtMjE1OTNhNjYzMGUyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A brash but brilliant Indian intelligence agent leads a covert operation to nab the mastermind behind a series of attacks threatening national security.",
-      "Type": "movie",
-      "RunTime": "145 min",
-      "Genre": "Action, Adventure, Crime",
-      "Director": "Ahishor Solomon",
-      "Writer": "Ahishor Solomon, Kiran Kumar",
-      "Actors": "Nagarjuna Akkineni, Dia Mirza, Saiyami Kher",
-      "Language": "Telugu",
-      "Country": "India"
     },
     {
       "title": "Animal",
@@ -1690,14 +1631,6 @@
       "Actors": "Pugazh, S Rajapandi, Vijay Sethupathi",
       "Language": "Tamil, English",
       "Country": "India"
-    },
-    {
-      "title": "DSP (Hindi)",
-      "netflix_url": "https://www.netflix.com/title/81508718",
-      "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
     },
     {
       "title": "Kuttey",
@@ -2009,35 +1942,18 @@
       "title": "Furies",
       "netflix_url": "https://www.netflix.com/title/81603171",
       "year": "2023",
-      "imdb_rating": "6.3",
-      "imdb_id": "tt11384300",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDkyNmU4MzAtOTkxOC00YzQ2LTlmY2QtOWQ0YmVjOGQxMWFlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A dive into Paris's criminal underworld, where Lyna meets the enigmatic and brutal Furie, the boss of this hazardous environment.",
-      "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Action, Crime, Drama",
-      "Director": "N/A",
-      "Writer": "Jean-Yves Arnaud, Yoann Legave",
-      "Actors": "Lina El Arabi, Marina Foïs, Steve Tientcheu",
-      "Language": "French",
-      "Country": "France"
-    },
-    {
-      "title": "The Ghost",
-      "netflix_url": "https://www.netflix.com/title/81614454",
-      "year": "2022",
-      "imdb_rating": "5.1",
-      "imdb_id": "tt15309632",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTI1YjNhZGMtYjg0MC00YTU5LTkyMjctNGQwMGViNzYyOTljXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An ex-Interpol officer wreaks havoc and sends shock waves across the global underworld but goes missing in action, only to remerge years later, for his beloved family.",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt8228172",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmI3ZmVmNGEtZDk2Yy00ZTc4LTgwMjctNjQzNjYxMzUxNWU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman is kidnapped and finds herself an unwilling participant in a deadly game where women are hunted by masked men.",
       "Type": "movie",
-      "RunTime": "138 min",
-      "Genre": "Action, Thriller",
-      "Director": "Praveen Sattaru",
-      "Writer": "Ali Lucknowi, Abhijeeth Poondla, Praveen Sattaru",
-      "Actors": "Nagarjuna Akkineni, Sonal Chauhan, Gul Panag",
-      "Language": "Telugu",
-      "Country": "India"
+      "RunTime": "82 min",
+      "Genre": "Action, Horror, Thriller",
+      "Director": "Tony D'Aquino",
+      "Writer": "Tony D'Aquino",
+      "Actors": "Danielle Horvat, Leo Stripp, Dean Gould",
+      "Language": "English",
+      "Country": "Australia"
     },
     {
       "title": "Inkabi",
@@ -2062,26 +1978,7 @@
       "year": "2022",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
-    },
-    {
-      "title": "The Violence Action",
-      "netflix_url": "https://www.netflix.com/title/81623164",
-      "year": "2022",
-      "imdb_rating": "4.8",
-      "imdb_id": "tt17677492",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDUwNzJkZjYtOTAwYS00MWUxLTgxMDctYWRhMjA4ODFkYzUwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A young girl leads a double life as an assassin for hire.",
-      "Type": "movie",
-      "RunTime": "111 min",
-      "Genre": "Action, Comedy, Crime",
-      "Director": "Tôichirô Rutô",
-      "Writer": "Renji Asai, Itaru Era, Tôichirô Rutô",
-      "Actors": "Kanna Hashimoto, Yôsuke Sugino, Fumika Baba",
-      "Language": "Japanese",
-      "Country": "Japan"
     },
     {
       "title": "Inside Furioza",
@@ -2089,8 +1986,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2150,8 +2045,6 @@
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2189,30 +2082,11 @@
       "Country": "India"
     },
     {
-      "title": "Stealing Raden Saleh",
-      "netflix_url": "https://www.netflix.com/title/81647967",
-      "year": "2022",
-      "imdb_rating": "7.3",
-      "imdb_id": "tt13484872",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDY0ZTZkNTctYzc3My00YjU0LWExZGQtY2UyZmY1ZjI4M2YxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "To save his father, a master forger sets out to steal an invaluable painting with the help of a motley crew of specialists.",
-      "Type": "movie",
-      "RunTime": "154 min",
-      "Genre": "Action, Crime, Drama",
-      "Director": "Angga Dwimas Sasongko",
-      "Writer": "Angga Dwimas Sasongko, Husein M. Atmodjo",
-      "Actors": "Iqbaal Dhiafakhri Ramadhan, Angga Yunanda, Rachel Amanda",
-      "Language": "Indonesian",
-      "Country": "Indonesia, Malaysia"
-    },
-    {
       "title": "GodFather (Hindi)",
       "netflix_url": "https://www.netflix.com/title/81648072",
       "year": "2022",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2306,8 +2180,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2333,8 +2205,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2392,18 +2262,18 @@
       "title": "Wanted Man",
       "netflix_url": "https://www.netflix.com/title/81696523",
       "year": "2023",
-      "imdb_rating": "4.9",
-      "imdb_id": "tt15791574",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWIxYzZlMzUtZTg1YS00MDhjLWIwOWEtY2Y5ZmFmZTQ3YzA1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follows a police officer who must retrieve an eyewitness and escort her after a cartel shooting leaves several DEA agents dead, but then he must decide who to trust when they discover that the attack was executed by American forces.",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt1972571",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODY2MTA0MjYzMl5BMl5BanBnXkFtZTgwOTE3NzE4MTE@._V1_SX300.jpg",
+      "Plot": "A Chechen Muslim illegally immigrates to Hamburg, where he gets caught in the international war on terror.",
       "Type": "movie",
-      "RunTime": "85 min",
-      "Genre": "Action, Crime, Drama",
-      "Director": "Dolph Lundgren",
-      "Writer": "Dolph Lundgren, Michael Worth, Hank Hugues",
-      "Actors": "Dolph Lundgren, Christina Villa, Kelsey Grammer",
-      "Language": "English, Spanish",
-      "Country": "United States"
+      "RunTime": "122 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Anton Corbijn",
+      "Writer": "Andrew Bovell, John le Carré, Stephen Cornwell",
+      "Actors": "Philip Seymour Hoffman, Rachel McAdams, Daniel Brühl",
+      "Language": "English, Turkish, Arabic",
+      "Country": "United Kingdom, United States, Germany"
     },
     {
       "title": "The Black Book",
@@ -2615,8 +2485,6 @@
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2795,8 +2663,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2838,8 +2704,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2865,8 +2729,6 @@
       "year": "2024",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2875,8 +2737,6 @@
       "year": "2024",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2885,8 +2745,6 @@
       "year": "2024",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2920,8 +2778,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2947,8 +2803,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2991,8 +2845,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {

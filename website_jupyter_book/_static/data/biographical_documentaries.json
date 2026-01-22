@@ -25,8 +25,6 @@
       "year": "2010",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -52,8 +50,6 @@
       "year": "2011",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -147,8 +143,6 @@
       "year": "2014",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -605,11 +599,18 @@
       "title": "ReMastered: Tricky Dick & The Man in Black",
       "netflix_url": "https://www.netflix.com/title/80191051",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
+      "imdb_rating": "7.1",
+      "imdb_id": "tt9046556",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2MyMjI5MDUtODMwYi00OTY3LTgxMmUtZDJkNDA4NDEyMWQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Concerned by a rising rock-n-roll influence on a growing liberal fanbase, President Nixon invited Johnny Cash to the White House to solidify his base in the traditionally more conservative genre of country music. What Cash did ins...",
+      "Type": "movie",
+      "RunTime": "59 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Sara Dosa, Barbara Kopple",
+      "Writer": "Jeff Zimbalist, Michael Zimbalist",
+      "Actors": "Johnny Cash, Richard Nixon, Aram Bakshian",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Gaga: Five Foot Two",
@@ -685,8 +686,6 @@
       "year": "2017",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -814,8 +813,6 @@
       "year": "2019",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -836,30 +833,11 @@
       "Country": "United States"
     },
     {
-      "title": "A Life of Speed: The Juan Manuel Fangio Story",
-      "netflix_url": "https://www.netflix.com/title/80227556",
-      "year": "2020",
-      "imdb_rating": "7.0",
-      "imdb_id": "tt6668212",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTgyMTE4NDktYjc4OC00NmUzLTg1NWQtNzQ1ZjZiNGZiOTIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-      "Plot": "The life of five-time Formula One world champion Juan Manuel Fangio. The first official documentary.",
-      "Type": "movie",
-      "RunTime": "92 min",
-      "Genre": "Documentary, Biography, Sport",
-      "Director": "Francisco Macri",
-      "Writer": "Luciano Origlio, Rodrigo H. Vila",
-      "Actors": "Jackie Stewart, Toto Wolff, Fernando Alonso",
-      "Language": "Spanish, English, Italian, German",
-      "Country": "Argentina"
-    },
-    {
       "title": "Camarón Revolution",
       "netflix_url": "https://www.netflix.com/title/80233223",
       "year": "2018",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -968,7 +946,7 @@
       "title": "Ladies First: A Story of Women in Hip-Hop",
       "netflix_url": "https://www.netflix.com/title/80997174",
       "year": "2023",
-      "imdb_rating": "7.2",
+      "imdb_rating": "7.3",
       "imdb_id": "tt28491199",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0MjNiZjMtNWY0NS00NGNlLThjYjEtNTBiNzQ3MDJhOGU2XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Recreates the role that the unstoppable women of hip-hop have played across the 50 years of this groundbreaking genre, putting them where they belong: at the heart of the present day.",
@@ -1271,23 +1249,11 @@
       "Country": "Spain"
     },
     {
-      "title": "Guillermo Vilas: Settling the Score",
-      "netflix_url": "https://www.netflix.com/title/81037873",
-      "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Dig Deeper: The Disappearance of Birgit Meier",
       "netflix_url": "https://www.netflix.com/title/81040563",
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1619,8 +1585,6 @@
       "year": "2022",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1760,23 +1724,6 @@
       "Country": "Germany"
     },
     {
-      "title": "Searching For Sheela",
-      "netflix_url": "https://www.netflix.com/title/81211264",
-      "year": "2021",
-      "imdb_rating": "4.3",
-      "imdb_id": "tt14167424",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BN2M4NTAyM2QtYmE4OS00NTEyLWE0NGQtNTU2Y2YyNDBiZDBlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Journalists and fans await Ma Anand Sheela as the infamous former Rajneesh commune's spokesperson returns to India after decades for an interview tour.",
-      "Type": "movie",
-      "RunTime": "58 min",
-      "Genre": "Documentary, Biography, Crime",
-      "Director": "Shakun Batra",
-      "Writer": "Shakun Batra",
-      "Actors": "Ma Anand Sheela, Shoma Chaudhury, Anurag Chauhan",
-      "Language": "Hindi, English",
-      "Country": "India"
-    },
-    {
       "title": "Beckham",
       "netflix_url": "https://www.netflix.com/title/81223488",
       "year": "2023",
@@ -1901,8 +1848,6 @@
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2045,11 +1990,18 @@
       "title": "Heroes: Silence and Rock & Roll",
       "netflix_url": "https://www.netflix.com/title/81393720",
       "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
+      "imdb_rating": "7.5",
+      "imdb_id": "tt14354838",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTBlYTQ3ZjktMTQ4OC00ZDM5LTgzMWMtNDRkOGExNzk5N2YxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "\"HEROES: SILENCIO Y ROCK AND ROLL\" tells the story of spanish rock band Héroes del Silencio since their very begining to their rise to stardom. It's a movie about friendship, music and compromise. It's the story of their lives, th...",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary",
+      "Director": "Alexis Morante",
+      "Writer": "Alexis Morante, Nacho Blasco",
+      "Actors": "Pedro Andreu, Enrique Bunbury, Joaquín Cardiel",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Schumacher",
@@ -2239,23 +2191,6 @@
       "Country": "United States"
     },
     {
-      "title": "Black Sunshine Baby",
-      "netflix_url": "https://www.netflix.com/title/81478987",
-      "year": "2022",
-      "imdb_rating": "8.3",
-      "imdb_id": "tt25399478",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDZlMzFjNDMtMDUzOS00YTc0LTkwMjgtZjBiYmE2ZjNhODgwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Family memories and personal art movingly portray author and motivational speaker Aisha Chaudhary's journey with an immune disorder and terminal illness.",
-      "Type": "movie",
-      "RunTime": "85 min",
-      "Genre": "Documentary, Biography",
-      "Director": "Nilesh Maniyar",
-      "Writer": "N/A",
-      "Actors": "Aisha Chaudhary, Aditi Chaudhary, Ishaan Chaudhary",
-      "Language": "English",
-      "Country": "India"
-    },
-    {
       "title": "LiSA Another Great Day",
       "netflix_url": "https://www.netflix.com/title/81486328",
       "year": "2022",
@@ -2295,8 +2230,6 @@
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2487,23 +2420,6 @@
       "Country": "France"
     },
     {
-      "title": "Sweetie",
-      "netflix_url": "https://www.netflix.com/title/81629752",
-      "year": "2022",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt21848444",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTcxNWM3MjgtNzUxYi00NWEzLWEzNGQtMzEyZWVmMTEyZTRjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A",
-      "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "Short",
-      "Director": "Christopher Armienti",
-      "Writer": "N/A",
-      "Actors": "Gabrielle Birchak, Aaron Anthony Harper",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Robbie Williams",
       "netflix_url": "https://www.netflix.com/title/81638710",
       "year": "2023",
@@ -2679,8 +2595,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2738,19 +2652,18 @@
       "title": "Paparazzi King",
       "netflix_url": "https://www.netflix.com/title/81707342",
       "year": "2026",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Amazing Antoine",
-      "netflix_url": "https://www.netflix.com/title/81709732",
-      "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_rating": "N/A",
+      "imdb_id": "tt9892716",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODgxNmI3ZTMtYzk5Mi00YTliLWFiNGYtOTRjNmMxMWE5YmQ2XkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_SX300.jpg",
+      "Plot": "At the age of 14, in the early 1950s, Barillari leaves his native village Limbadi in the southern region to Calabria heading to Roma. Young Barillari reaches Italy's capital and is immediately fascinated by actors and how big the ...",
+      "Type": "movie",
+      "RunTime": "77 min",
+      "Genre": "Documentary, History",
+      "Director": "Giancarlo Scarchilli, Massimo Spano",
+      "Writer": "Giancarlo Scarchilli, Massimo Spano",
+      "Actors": "Andrea Andermann, Rino Barillari, Valerio Caprara",
+      "Language": "Italian",
+      "Country": "Italy"
     },
     {
       "title": "Garbo: Where Did You Go?",
@@ -2809,8 +2722,6 @@
       "year": "2022",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2887,8 +2798,6 @@
       "year": "2020",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2958,14 +2867,6 @@
       "Actors": "Will Ferrell, Harper Steele, Tina Fey",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "Modern Masters: SS Rajamouli",
-      "netflix_url": "https://www.netflix.com/title/81763596",
-      "year": "2024",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
     },
     {
       "title": "ABBA: Against the Odds",
@@ -3092,8 +2993,6 @@
       "year": "2017",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -3153,8 +3052,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -3214,8 +3111,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     }
   ]

@@ -54,6 +54,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Thunderball",
+      "netflix_url": "https://www.netflix.com/title/1046268",
+      "year": "1965",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0059800",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjJiYmRhZjUtZTg5Zi00YjYwLTlmZWYtODZhMzQzMWZlYTRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "James Bond heads to the Bahamas to recover two nuclear warheads stolen by S.P.E.C.T.R.E. Agent Emilio Largo in an international extortion scheme.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Terence Young",
+      "Writer": "Richard Maibaum, John Hopkins, Jack Whittingham",
+      "Actors": "Sean Connery, Claudine Auger, Adolfo Celi",
+      "Language": "English, French",
+      "Country": "United Kingdom, United States, France, Bahamas"
+    },
+    {
       "title": "Titanic",
       "netflix_url": "https://www.netflix.com/title/1181461",
       "year": "1997",
@@ -190,6 +207,23 @@
       "Country": "United States"
     },
     {
+      "title": "Goldfinger",
+      "netflix_url": "https://www.netflix.com/title/22041809",
+      "year": "1964",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0058150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzE0OTU3NV5BMl5BanBnXkFtZTcwNjQxNTgzNA@@._V1_SX300.jpg",
+      "Plot": "While investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Guy Hamilton",
+      "Writer": "Richard Maibaum, Paul Dehn, Ian Fleming",
+      "Actors": "Sean Connery, Gert Fröbe, Honor Blackman",
+      "Language": "English, Chinese, Spanish",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Indian",
       "netflix_url": "https://www.netflix.com/title/27748788",
       "year": "1996",
@@ -207,6 +241,40 @@
       "Country": "India"
     },
     {
+      "title": "The Man with the Golden Gun",
+      "netflix_url": "https://www.netflix.com/title/28370063",
+      "year": "1974",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0071807",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzEzMzFiZDgtMWQ4YS00YmU1LWI5OTUtZjcwZmYyY2FlMTFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "James Bond is targeted by the world's most expensive assassin, while he attempts to recover sensitive solar cell technology that is being sold to the highest bidder.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Guy Hamilton",
+      "Writer": "Richard Maibaum, Tom Mankiewicz, Ian Fleming",
+      "Actors": "Roger Moore, Christopher Lee, Britt Ekland",
+      "Language": "English, Thai, Cantonese",
+      "Country": "United Kingdom, United States, Thailand, China"
+    },
+    {
+      "title": "On Her Majesty's Secret Service",
+      "netflix_url": "https://www.netflix.com/title/28630765",
+      "year": "1969",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0064757",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmMzOWNlNDMtM2NjMC00NTAxLWE4ODYtNzMyNmY0MzM0OWNhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "British agent James Bond goes undercover to pursue the villainous Ernst Stavro Blofeld, who is planning to hold the world to ransom.",
+      "Type": "movie",
+      "RunTime": "142 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Peter R. Hunt",
+      "Writer": "Simon Raven, Richard Maibaum, Ian Fleming",
+      "Actors": "George Lazenby, Diana Rigg, Telly Savalas",
+      "Language": "English, German, French",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Boyz n the Hood",
       "netflix_url": "https://www.netflix.com/title/328438",
       "year": "1991",
@@ -222,6 +290,40 @@
       "Actors": "Cuba Gooding Jr., Laurence Fishburne, Hudhail Al-Amir",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Dr. No",
+      "netflix_url": "https://www.netflix.com/title/458028",
+      "year": "1962",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0055928",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2Q0ODAxYTgtN2E3My00Yzc2LWI2NDUtOGU0YzgzYzM4OWMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A resourceful British government agent seeks answers in a case involving the disappearance of a colleague and the disruption of the American space program.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Terence Young",
+      "Writer": "Richard Maibaum, Johanna Harwood, Berkely Mather",
+      "Actors": "Sean Connery, Ursula Andress, Bernard Lee",
+      "Language": "English, French, Italian",
+      "Country": "United Kingdom, United States, Jamaica"
+    },
+    {
+      "title": "From Russia with Love",
+      "netflix_url": "https://www.netflix.com/title/526574",
+      "year": "1964",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0057076",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWY2MWY2ODAtMTY5Ny00MzA2LWFkMWYtODU2MjE0MmM4ZTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "James Bond willingly inserts himself into an assassination plot involving a naive Russian beauty in order to retrieve a Soviet encryption device that was stolen by the evil SPECTRE organization.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Terence Young",
+      "Writer": "Richard Maibaum, Johanna Harwood, Ian Fleming",
+      "Actors": "Sean Connery, Robert Shaw, Lotte Lenya",
+      "Language": "English, Russian, Turkish, French, Romany, Italian",
+      "Country": "United Kingdom, United States, Italy, Turkey"
     },
     {
       "title": "Glory",
@@ -309,6 +411,23 @@
       "Country": "United States"
     },
     {
+      "title": "Diamonds Are Forever",
+      "netflix_url": "https://www.netflix.com/title/60000705",
+      "year": "1971",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt0066995",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTEwMTdmOWQtNjA0NS00NTBmLTkxMjAtYWI0YjVlZTQ0NmMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A diamond smuggling investigation leads James Bond to Las Vegas where he uncovers an evil plot involving a rich business tycoon.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Guy Hamilton",
+      "Writer": "Richard Maibaum, Tom Mankiewicz, Ian Fleming",
+      "Actors": "Sean Connery, Jill St. John, Charles Gray",
+      "Language": "English, German",
+      "Country": "United Kingdom, France, United States, Netherlands"
+    },
+    {
       "title": "Forrest Gump",
       "netflix_url": "https://www.netflix.com/title/60000724",
       "year": "1994",
@@ -324,6 +443,23 @@
       "Actors": "Tom Hanks, Robin Wright, Gary Sinise",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "You Only Live Twice",
+      "netflix_url": "https://www.netflix.com/title/60000744",
+      "year": "1967",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt0062512",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjhlMjg3NDctN2QzNC00N2ViLWJjYjYtMzcyZDdlMmI1MmU4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "James Bond and the Japanese Secret Service must find and stop the true culprit of a series of space hijackings, before war is provoked between Russia and the United States.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Lewis Gilbert",
+      "Writer": "Harold Jack Bloom, Roald Dahl, Ian Fleming",
+      "Actors": "Sean Connery, Akiko Wakabayashi, Mie Hama",
+      "Language": "English, Japanese, Russian",
+      "Country": "United Kingdom, Japan, United States"
     },
     {
       "title": "Kabhi Kabhie",
@@ -479,6 +615,23 @@
       "Country": "Argentina"
     },
     {
+      "title": "Live and Let Die",
+      "netflix_url": "https://www.netflix.com/title/707294",
+      "year": "1973",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0070328",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ0OThkZGQtMzM4Zi00ZDc2LWE4ZWQtZGYyNjEzYzAzMTYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "James Bond is sent to stop a diabolically brilliant heroin magnate armed with a complex organisation and a reliable psychic tarot card reader.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Guy Hamilton",
+      "Writer": "Tom Mankiewicz, Ian Fleming",
+      "Actors": "Roger Moore, Yaphet Kotto, Jane Seymour",
+      "Language": "English, Hungarian, Italian",
+      "Country": "United Kingdom, United States, Jamaica"
+    },
+    {
       "title": "Lal Patthar",
       "netflix_url": "https://www.netflix.com/title/80158481",
       "year": "1971",
@@ -501,8 +654,6 @@
       "year": "1945",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -528,8 +679,6 @@
       "year": "1975",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {

@@ -71,23 +71,6 @@
       "Country": "United States"
     },
     {
-      "title": "Donnie Darko",
-      "netflix_url": "https://www.netflix.com/title/60022315",
-      "year": "2001",
-      "imdb_rating": "8.0",
-      "imdb_id": "tt0246578",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWE3NTYzZmEtM2U5MS00MDZhLTk2ZTQtZTgzNjg0ZGQ5ZjM0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes.",
-      "Type": "movie",
-      "RunTime": "113 min",
-      "Genre": "Drama, Mystery, Sci-Fi",
-      "Director": "Richard Kelly",
-      "Writer": "Richard Kelly",
-      "Actors": "Jake Gyllenhaal, Jena Malone, Mary McDonnell",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Y Tu Mamá También",
       "netflix_url": "https://www.netflix.com/title/60023237",
       "year": "2001",
@@ -188,23 +171,6 @@
       "Actors": "Alfonso Cuarón, Carlos Cuarón, Daniel Giménez Cacho",
       "Language": "English, Spanish",
       "Country": "USA, Mexico"
-    },
-    {
-      "title": "Brother's Shadow",
-      "netflix_url": "https://www.netflix.com/title/70068739",
-      "year": "2006",
-      "imdb_rating": "6.1",
-      "imdb_id": "tt0468458",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI2NzczNDMxOV5BMl5BanBnXkFtZTcwNjM2ODIzMQ@@._V1_SX300.jpg",
-      "Plot": "Jake Groden is the black sheep of his family. Ankle deep in fish guts, he serves out his parole in Alaska. Then, after a decade of self-imposed exile, he is forced to return to his Brooklyn family. He soon discovers that his perfe...",
-      "Type": "movie",
-      "RunTime": "91 min",
-      "Genre": "Drama",
-      "Director": "Todd S. Yellin",
-      "Writer": "Ivan Krim, Todd S. Yellin",
-      "Actors": "Scott Cohen, Katie Danziger, Lisa Emery",
-      "Language": "English",
-      "Country": "United States"
     },
     {
       "title": "Just Buried",
@@ -424,6 +390,23 @@
       "Director": "Patrick Brice",
       "Writer": "Patrick Brice, Mark Duplass",
       "Actors": "Mark Duplass, Patrick Brice, Katie Aselton",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Road Within",
+      "netflix_url": "https://www.netflix.com/title/80011618",
+      "year": "2014",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt2962876",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3NDgwNDUzMl5BMl5BanBnXkFtZTgwMjQ0NDA5NDE@._V1_SX300.jpg",
+      "Plot": "A young man with Tourette's Syndrome embarks on a road trip with his recently-deceased mother's ashes.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Adventure, Comedy, Drama",
+      "Director": "Gren Wells",
+      "Writer": "Florian David Fitz, Gren Wells",
+      "Actors": "Robert Sheehan, Dev Patel, Zoë Kravitz",
       "Language": "English",
       "Country": "United States"
     },
@@ -751,23 +734,6 @@
       "Country": "United States"
     },
     {
-      "title": "Brahman Naman",
-      "netflix_url": "https://www.netflix.com/title/80097355",
-      "year": "2016",
-      "imdb_rating": "5.5",
-      "imdb_id": "tt5240748",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjkzN2E5ZDItNTQ5ZC00YTc0LWE4MzYtZjFhYmNhNWQ1NWYzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This homage to 1980s teen sex comedies follows a college quiz bowl champion who knows almost everything, except how to talk to women.",
-      "Type": "movie",
-      "RunTime": "95 min",
-      "Genre": "Comedy",
-      "Director": "Qaushiq Mukherjee",
-      "Writer": "Naman Ramachandran",
-      "Actors": "Shashank Arora, Tanmay Dhanania, Chaitanya Varad",
-      "Language": "English",
-      "Country": "India, United Kingdom"
-    },
-    {
       "title": "The Bad Batch",
       "netflix_url": "https://www.netflix.com/title/80099204",
       "year": "2016",
@@ -834,14 +800,6 @@
       "Actors": "Kamalika Banerjee, Joyraj Bhattacharya, Soumendra Bhattacharya",
       "Language": "Bengali",
       "Country": "India"
-    },
-    {
-      "title": "The Land of Cards",
-      "netflix_url": "https://www.netflix.com/title/80107219",
-      "year": "2012",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
     },
     {
       "title": "Deidra & Laney Rob a Train",
@@ -912,23 +870,6 @@
       "Country": "United States"
     },
     {
-      "title": "Spivak",
-      "netflix_url": "https://www.netflix.com/title/80117736",
-      "year": "2017",
-      "imdb_rating": "5.7",
-      "imdb_id": "tt6342110",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWJjYmIzY2UtM2YwYi00MmM4LTkyNDMtYzFiYWM0NzcxZjNlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Struggling writer Wally Spivak is stuck in a rut--until he meets an engaged couple and starts to see life in a whole new way.",
-      "Type": "movie",
-      "RunTime": "91 min",
-      "Genre": "Comedy",
-      "Director": "Anthony Abrams, Adam Larson Broder",
-      "Writer": "Anthony Abrams, Adam Larson Broder",
-      "Actors": "Michael Bacall, Maggie Lawson, Elden Henson",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Blue Jay",
       "netflix_url": "https://www.netflix.com/title/80117746",
       "year": "2016",
@@ -978,23 +919,6 @@
       "Actors": "Nicholas Hoult, Logan Marshall-Green, Henry Cavill",
       "Language": "English, Arabic",
       "Country": "United States, Jordan"
-    },
-    {
-      "title": "6 Balloons",
-      "netflix_url": "https://www.netflix.com/title/80130625",
-      "year": "2018",
-      "imdb_rating": "5.9",
-      "imdb_id": "tt6142496",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1MjgyODM5NF5BMl5BanBnXkFtZTgwNTk2NzIwNTM@._V1_SX300.jpg",
-      "Plot": "A woman (Jacobson) learns her brother (Franco) has relapsed on heroin.",
-      "Type": "movie",
-      "RunTime": "74 min",
-      "Genre": "Drama",
-      "Director": "Marja-Lewis Ryan",
-      "Writer": "Marja-Lewis Ryan",
-      "Actors": "Abbi Jacobson, Dave Franco, Charlotte Carel",
-      "Language": "English",
-      "Country": "United States"
     },
     {
       "title": "Something Huge",
@@ -1133,23 +1057,6 @@
       "Country": "United States"
     },
     {
-      "title": "Outside In",
-      "netflix_url": "https://www.netflix.com/title/80168167",
-      "year": "2018",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt8341938",
-      "Poster": "N/A",
-      "Plot": "A young woman tries to end her life repeatedly.",
-      "Type": "movie",
-      "RunTime": "16 min",
-      "Genre": "Short, Horror",
-      "Director": "Sapan Taneja, Ryan Soares",
-      "Writer": "N/A",
-      "Actors": "N/A",
-      "Language": "English",
-      "Country": "India"
-    },
-    {
       "title": "Alex Strangelove",
       "netflix_url": "https://www.netflix.com/title/80168189",
       "year": "2018",
@@ -1235,23 +1142,6 @@
       "Country": "United States"
     },
     {
-      "title": "Boi",
-      "netflix_url": "https://www.netflix.com/title/80173485",
-      "year": "2018",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt9431258",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNWFhZjM2YWUtMGQzMS00Nzk2LTk4NTYtZDg3YzkxNTkwZjE1XkEyXkFqcGdeQXVyNzQ0MTkwNDA@._V1_SX300.jpg",
-      "Plot": "Once again, autumn has arrived in Sant Boi and along the path next to the river Llobregat, she convinces himself, with his bicycle, Carla, a very special santboiana who had to leave the city for personal reasons. But today is not a S",
-      "Type": "movie",
-      "RunTime": "20 min",
-      "Genre": "Documentary, Short",
-      "Director": "José Luis López Ortiz",
-      "Writer": "José Luis López Ortiz",
-      "Actors": "Alberto Alguacil, Ariadna de Guzmán, Roland Fosso",
-      "Language": "Spanish, Catalan",
-      "Country": "Spain"
-    },
-    {
       "title": "Wind River",
       "netflix_url": "https://www.netflix.com/title/80173524",
       "year": "2017",
@@ -1274,8 +1164,6 @@
       "year": "2017",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1344,23 +1232,6 @@
       "Writer": "Craig Borten, Samantha Power",
       "Actors": "Wagner Moura, Ana de Armas, Brían F. O'Byrne",
       "Language": "English, Portuguese, Spanish, French",
-      "Country": "United States"
-    },
-    {
-      "title": "Dude",
-      "netflix_url": "https://www.netflix.com/title/80192186",
-      "year": "2018",
-      "imdb_rating": "5.1",
-      "imdb_id": "tt3458510",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1NjA2ODk2NV5BMl5BanBnXkFtZTgwNjkyMTA0NTM@._V1_SX300.jpg",
-      "Plot": "A group of teenage girlfriends deal with their impending graduation from high school.",
-      "Type": "movie",
-      "RunTime": "97 min",
-      "Genre": "Comedy, Drama",
-      "Director": "Olivia Milch",
-      "Writer": "Olivia Milch, Kendall McKinnon",
-      "Actors": "Lucy Hale, Kathryn Prescott, Alexandra Shipp",
-      "Language": "English",
       "Country": "United States"
     },
     {
@@ -1551,64 +1422,11 @@
       "Country": "United States"
     },
     {
-      "title": "Sun Dogs",
-      "netflix_url": "https://www.netflix.com/title/80226962",
-      "year": "2017",
-      "imdb_rating": "6.3",
-      "imdb_id": "tt5665452",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOWFkMmMyNTQtZjJkYS00ZDI5LWE1MGMtNTk1YmE4YWQxYjJhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A young man determined to be a military hero, ends up on a misguided adventure with his family and new friend Tally, which leads him to the most unlikely realization of how he can courageously \"save lives.\"",
-      "Type": "movie",
-      "RunTime": "94 min",
-      "Genre": "Comedy, Drama",
-      "Director": "Jennifer Morrison",
-      "Writer": "Raoul McFarland",
-      "Actors": "Melissa Benoist, Jennifer Morrison, Allison Janney",
-      "Language": "English",
-      "Country": "United States, Mexico"
-    },
-    {
-      "title": "The Forty-Year-Old Version",
-      "netflix_url": "https://www.netflix.com/title/80231356",
-      "year": "2020",
-      "imdb_rating": "7.2",
-      "imdb_id": "tt10642834",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDg0YTk0YjMtM2I4YS00NDFjLWJhNzItODU2YWUyZjg0ZmFmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Radha is a down-on-her-luck NY playwright, who is desperate for a breakthrough before 40. Reinventing herself as rapper RadhaMUSPrime, she vacillates between the worlds of Hip Hop and theater in order to find her true voice.",
-      "Type": "movie",
-      "RunTime": "123 min",
-      "Genre": "Comedy, Drama",
-      "Director": "Radha Blank",
-      "Writer": "Radha Blank",
-      "Actors": "Radha Blank, Peter Kim, Oswin Benjamin",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Invisible",
-      "netflix_url": "https://www.netflix.com/title/80232892",
-      "year": "2017",
-      "imdb_rating": "6.0",
-      "imdb_id": "tt6596630",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjI5YWVjYWItOGMxMS00OTZhLWIzNDQtMTZiZmRjOTgxZmZkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Ely, a 17-year-old working at a pet shop, becomes pregnant, causing a rift in her inner world, fearing and upset, knowing she cannot reverse her decision.",
-      "Type": "movie",
-      "RunTime": "87 min",
-      "Genre": "Drama",
-      "Director": "Pablo Giorgelli",
-      "Writer": "María Laura Gargarella, Pablo Giorgelli",
-      "Actors": "Mora Arenillas, Mara Bestelli, Diego Cremonesi",
-      "Language": "Spanish",
-      "Country": "Argentina, France"
-    },
-    {
       "title": "Dance of the Forty One",
       "netflix_url": "https://www.netflix.com/title/80235267",
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1697,30 +1515,11 @@
       "Country": "Canada, Ireland"
     },
     {
-      "title": "Paradox",
-      "netflix_url": "https://www.netflix.com/title/80242378",
-      "year": "2018",
-      "imdb_rating": "4.0",
-      "imdb_id": "tt7949046",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NzkwODIyMF5BMl5BanBnXkFtZTgwMTk2NzAyNTM@._V1_SX300.jpg",
-      "Plot": "A group of outlaws search for a mountain treasure and experience the supernatural powers of a full moon.",
-      "Type": "movie",
-      "RunTime": "73 min",
-      "Genre": "Fantasy, Music",
-      "Director": "Daryl Hannah",
-      "Writer": "Daryl Hannah",
-      "Actors": "Neil Young, Lukas Nelson, Micah Nelson",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Coven of Sisters",
       "netflix_url": "https://www.netflix.com/title/80242819",
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1797,8 +1596,6 @@
       "year": "2020",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2193,23 +1990,6 @@
       "Country": "Netherlands"
     },
     {
-      "title": "Adhugo",
-      "netflix_url": "https://www.netflix.com/title/81052265",
-      "year": "2018",
-      "imdb_rating": "5.9",
-      "imdb_id": "tt7822454",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYWEwOWE5MjgtYWY4ZC00Mjg1LTlkNTYtMWZmMjliMDIyNDJkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Bunty, the little pink piglet is the apple of Chanti's (Sathwik) eye. But what happens when this innocent little creature is embroiled with people who each have their own agenda to seek?",
-      "Type": "movie",
-      "RunTime": "110 min",
-      "Genre": "Drama",
-      "Director": "Ravi Babu",
-      "Writer": "Ravi Babu, Nivas",
-      "Actors": "Nabha Natesh, Palamuru Devaraj, Abhishek Varma",
-      "Language": "Telugu",
-      "Country": "India"
-    },
-    {
       "title": "Freaks – You're One of Us",
       "netflix_url": "https://www.netflix.com/title/81058434",
       "year": "2020",
@@ -2242,14 +2022,6 @@
       "Actors": "Helena Zengel, Albrecht Schuch, Gabriela Maria Schmeide",
       "Language": "German, English",
       "Country": "Germany"
-    },
-    {
-      "title": "Jaoon Kahan Bata Ae Dil",
-      "netflix_url": "https://www.netflix.com/title/81074367",
-      "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
     },
     {
       "title": "House Arrest",
@@ -2342,8 +2114,6 @@
       "year": "2019",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2387,23 +2157,6 @@
       "Actors": "John Travolta, Devon Sawa, Ana Golja",
       "Language": "English, Spanish",
       "Country": "United States, United Kingdom"
-    },
-    {
-      "title": "KD (A) Karuppudurai",
-      "netflix_url": "https://www.netflix.com/title/81177366",
-      "year": "2019",
-      "imdb_rating": "8.4",
-      "imdb_id": "tt8747560",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjA1M2E3MTgtZjU5NS00ODdkLTljOGEtYTYxYTdkZjZkZmNlXkEyXkFqcGdeQXVyNzI0NzQyNTk@._V1_SX300.jpg",
-      "Plot": "KD, an 80 year old villager overhears his children say that they want him dead to claim their inheritance. Realising he has never truly lived, he enlists the help of a young orphan boy Kutti. The pair head off on a road trip tryin...",
-      "Type": "movie",
-      "RunTime": "123 min",
-      "Genre": "Comedy, Drama",
-      "Director": "Madhumita Sundararaman",
-      "Writer": "Sabarivasan Shanmugam, Madhumita Sundararaman",
-      "Actors": "Mu Ramaswamy, Nagavishal, Arpudhanandham",
-      "Language": "Tamil",
-      "Country": "India"
     },
     {
       "title": "The Wretched",
@@ -2508,23 +2261,6 @@
       "Country": "United Kingdom, United States"
     },
     {
-      "title": "Fanatyk",
-      "netflix_url": "https://www.netflix.com/title/81232964",
-      "year": "2017",
-      "imdb_rating": "6.6",
-      "imdb_id": "tt7786346",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmUyYmE0NzctMzhkZS00YzQ2LWIzY2MtNTQ4ZjJhY2Q4M2M3XkEyXkFqcGdeQXVyNzQyNjcwNDk@._V1_SX300.jpg",
-      "Plot": "A short film based on famous copy-paste text by Malcolm XD about a father - fanatic fisherman and his internet addicted son.",
-      "Type": "movie",
-      "RunTime": "33 min",
-      "Genre": "Short, Comedy",
-      "Director": "Michal Tylka",
-      "Writer": "Jan Stola, Michal Tylka, Malcolm Xd",
-      "Actors": "Juliusz Chrzastowski, Piotr Cyrwus, Marian Dziedziel",
-      "Language": "Polish",
-      "Country": "Poland"
-    },
-    {
       "title": "The Last Bomb of the Second World War",
       "netflix_url": "https://www.netflix.com/title/81248141",
       "year": "2019",
@@ -2538,8 +2274,6 @@
       "year": "2019",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -2653,23 +2387,6 @@
       "Country": "Mexico, France, Colombia"
     },
     {
-      "title": "Paava Kadhaigal",
-      "netflix_url": "https://www.netflix.com/title/81341216",
-      "year": "2020",
-      "imdb_rating": "8.0",
-      "imdb_id": "tt13206988",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ1MTM2YTgtNjQ0Mi00N2EyLTg1YTYtNWY4ZDQyYjdlMzg1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "At times dark, at times disturbing, four short films explore stories of those who dare to dream and desire - and those determined to stand in their way.",
-      "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Drama",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Simran, Prakash Raj, Anjali",
-      "Language": "Tamil",
-      "Country": "India"
-    },
-    {
       "title": "Shiva Baby",
       "netflix_url": "https://www.netflix.com/title/81343677",
       "year": "2021",
@@ -2721,23 +2438,6 @@
       "Country": "Taiwan"
     },
     {
-      "title": "Pitta Kathalu",
-      "netflix_url": "https://www.netflix.com/title/81351524",
-      "year": "2021",
-      "imdb_rating": "5.2",
-      "imdb_id": "tt13878800",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjUxMjQ2ZDMtNGFjYi00MzIwLTlkMmItMjFiZjY1MWZkYjJiXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_SX300.jpg",
-      "Plot": "Four different women, four journeys of love and betrayal. The common thread? They all want to dismantle the patriarchy.",
-      "Type": "series",
-      "RunTime": "150 min",
-      "Genre": "Drama, Romance",
-      "Director": "Nag Ashwin, Tharun Bhascker Dhaassyam, B.V. Nandini Reddy",
-      "Writer": "Tharun Bhascker Dhaassyam, Radhika Anand, Lakshmi Bhupala",
-      "Actors": "Shruti Haasan, Jagapathi Babu, Satyadev Kancharana",
-      "Language": "Telugu, Hindi",
-      "Country": "India"
-    },
-    {
       "title": "Kilometers and Kilometers",
       "netflix_url": "https://www.netflix.com/title/81354207",
       "year": "2020",
@@ -2770,23 +2470,6 @@
       "Actors": "Chris Sheffield, Michaela McManus, Neville Archambault",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "Eeb Allay Ooo!",
-      "netflix_url": "https://www.netflix.com/title/81354909",
-      "year": "2019",
-      "imdb_rating": "7.2",
-      "imdb_id": "tt9343754",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQ0ZjhkNjctNjZkMC00ZDY5LWE2M2MtZWEyNDg1N2Y4ZjIzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A young migrant battles hordes of monkeys in the heart of New Delhi as a contractual monkey repeller.",
-      "Type": "movie",
-      "RunTime": "98 min",
-      "Genre": "Comedy, Drama",
-      "Director": "Prateek Vats",
-      "Writer": "Shubham Vardhan, Prateek Vats",
-      "Actors": "Shardul Bharadwaj, Mahender Nath, Nutan Sinha",
-      "Language": "Hindi",
-      "Country": "India"
     },
     {
       "title": "Love",
@@ -2838,50 +2521,6 @@
       "Actors": "Haley Bishop, Jemma Moore, Emma Louise Webb",
       "Language": "English",
       "Country": "United Kingdom"
-    },
-    {
-      "title": "Cinema Bandi",
-      "netflix_url": "https://www.netflix.com/title/81382253",
-      "year": "2021",
-      "imdb_rating": "7.9",
-      "imdb_id": "tt14554338",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjRkMTU3MGUtOWEzNi00MWU0LTk2OTQtZjE3ZGZjODU2ZjYwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When a driver finds an expensive camera in the back seat of his rickshaw, he comes up with a ridiculously ambitious plan to gather the village and make a film - a ticket to get their drought-hit village out of its dreary conditions.",
-      "Type": "movie",
-      "RunTime": "98 min",
-      "Genre": "Comedy, Drama",
-      "Director": "Praveen Kandregula",
-      "Writer": "Vasanth Maringanti, Praveen Kandregula, Krishna Prathyusha",
-      "Actors": "Vikas Vasistha, Sandeep Varanasi, Rag Mayur",
-      "Language": "Telugu",
-      "Country": "India"
-    },
-    {
-      "title": "Thai Massage",
-      "netflix_url": "https://www.netflix.com/title/81387255",
-      "year": "2022",
-      "imdb_rating": "6.2",
-      "imdb_id": "tt20838498",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmU0Njg0NTUtOTRhYy00MzZiLTlhNDAtNzA5YzU5YjU5YzBhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A typical middle-class 70-year-old widower, Atmaram Dubey, who has been celibate for decades, realises he will probably never have sex. This awakening catapults him into an outrageous journey of self-discovery defying societal norms.",
-      "Type": "movie",
-      "RunTime": "124 min",
-      "Genre": "Comedy",
-      "Director": "Mangesh Hadawale",
-      "Writer": "Mangesh Hadawale",
-      "Actors": "Gajraj Rao, Divyendu Sharma, Sunny Hinduja",
-      "Language": "Turkish",
-      "Country": "India"
-    },
-    {
-      "title": "Sherdil: The Pilibhit Saga",
-      "netflix_url": "https://www.netflix.com/title/81387256",
-      "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
     },
     {
       "title": "Really Love",
@@ -2974,8 +2613,6 @@
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -3268,23 +2905,6 @@
       "Country": "India"
     },
     {
-      "title": "All India Rank",
-      "netflix_url": "https://www.netflix.com/title/81615968",
-      "year": "2023",
-      "imdb_rating": "6.1",
-      "imdb_id": "tt24973142",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q1NWY4NjItYmI4Ny00OWM4LWJlOTktY2NkNTk0YTQ2YTczXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Set in the late 1990s, A 17-year old Vivek who is sent away from home to a prep school to prepare for the highly competitive IIT (\"the MIT of India\") entrance examination.",
-      "Type": "movie",
-      "RunTime": "97 min",
-      "Genre": "Comedy, Drama",
-      "Director": "Varun Grover",
-      "Writer": "Varun Grover",
-      "Actors": "Bodhisattva Sharma, Samta Sudiksha, Sheeba Chaddha",
-      "Language": "Hindi",
-      "Country": "India"
-    },
-    {
       "title": "Runs in the Family",
       "netflix_url": "https://www.netflix.com/title/81616775",
       "year": "2023",
@@ -3305,18 +2925,18 @@
       "title": "Bones & All",
       "netflix_url": "https://www.netflix.com/title/81618891",
       "year": "2022",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt6302206",
-      "Poster": "N/A",
-      "Plot": "N/A",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10168670",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjUzMWU0ZTEtMjlhYy00YWEwLTlhOTktNzNkMTlhNGNiYmRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young woman embarks on a 1000 mile odyssey through America where she meets a disenfranchised drifter. But all roads lead back to their terrifying pasts and to a final stand that will determine whether love can survive their othe...",
       "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "Short, Music",
-      "Director": "N/A",
-      "Writer": "St. Paul & the Broken Bones (All I Ever Wonder)",
-      "Actors": "Artrial Clark, Clint Crane, St. Paul & the Broken Bones, Chris Steele",
+      "RunTime": "131 min",
+      "Genre": "Drama, Horror, Romance",
+      "Director": "Luca Guadagnino",
+      "Writer": "David Kajganich, Camille DeAngelis",
+      "Actors": "Timothée Chalamet, Taylor Russell, Mark Rylance",
       "Language": "English",
-      "Country": "USA"
+      "Country": "Italy, United States, United Kingdom"
     },
     {
       "title": "Attention Please",
@@ -3353,14 +2973,6 @@
       "Country": "Tunisia"
     },
     {
-      "title": "Ariyippu/Declaration",
-      "netflix_url": "https://www.netflix.com/title/81631026",
-      "year": "2022",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Starfish",
       "netflix_url": "https://www.netflix.com/title/81634640",
       "year": "2023",
@@ -3393,23 +3005,6 @@
       "Actors": "Riley Dandy, Sam Delich, Jonah Ray",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "Cactus Flower",
-      "netflix_url": "https://www.netflix.com/title/81660266",
-      "year": "2017",
-      "imdb_rating": "6.0",
-      "imdb_id": "tt6520568",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2FjMGM5NmMtZmNhMS00ODJmLWE0MmYtODczMjMxNjI5OGIyXkEyXkFqcGdeQXVyMTA4MjY5ODE@._V1_SX300.jpg",
-      "Plot": "In a hot and politically challenged Cairo actress Aida and her neighbor, the aging diva Samiha, are thrown out on the streets. Together with the street smart Yassin, they try to find a place to live, forcing them to confront with ...",
-      "Type": "movie",
-      "RunTime": "104 min",
-      "Genre": "Adventure, Drama, Fantasy",
-      "Director": "Hala Elkoussy",
-      "Writer": "Hala Elkoussy",
-      "Actors": "Salma Samy, Menha Batraoui, Marwan Alazab",
-      "Language": "Arabic",
-      "Country": "Egypt, Norway, United Arab Emirates, Qatar"
     },
     {
       "title": "Run Rabbit Run",
@@ -3446,40 +3041,6 @@
       "Country": "United States"
     },
     {
-      "title": "Raven Song",
-      "netflix_url": "https://www.netflix.com/title/81675919",
-      "year": "2023",
-      "imdb_rating": "6.0",
-      "imdb_id": "tt17827194",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5Y2RkZTEtY2Y0OC00MTM0LTg3YmMtMjk5NWE0MGFjMjBmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Nasser, an unexceptional washout, is diagnosed with a brain tumor when he meets an enigmatic and peculiar young woman. Infatuated by her and sick of being a failure, he must quickly figure out what he wants to do in life before he...",
-      "Type": "movie",
-      "RunTime": "109 min",
-      "Genre": "Comedy, Drama, Mystery",
-      "Director": "Mohamed al Salman",
-      "Writer": "Mohamed al Salman",
-      "Actors": "Asem Alawad, Ibraheem Alkhairallah, Abdullah Aljafal",
-      "Language": "Arabic",
-      "Country": "Saudi Arabia"
-    },
-    {
-      "title": "Padmini",
-      "netflix_url": "https://www.netflix.com/title/81680667",
-      "year": "2023",
-      "imdb_rating": "6.4",
-      "imdb_id": "tt16077654",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDE4MTk4NWEtNTQ4ZS00YmNjLWEwZDktMWQ4MGM5OWNkMTgzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A part-time poet and a full-time college teacher Rameshans life take a standstill when an extremely embarrassing situation makes him the target of all jokes.",
-      "Type": "movie",
-      "RunTime": "120 min",
-      "Genre": "Comedy, Drama, Family",
-      "Director": "Senna Hegde",
-      "Writer": "Deepu Pradeep",
-      "Actors": "Kunchacko Boban, Althaf Salim, Aparna Balamurali",
-      "Language": "Malayalam",
-      "Country": "India"
-    },
-    {
       "title": "The Outrun",
       "netflix_url": "https://www.netflix.com/title/81700122",
       "year": "2023",
@@ -3497,23 +3058,6 @@
       "Country": "United Kingdom, Germany"
     },
     {
-      "title": "Strawman",
-      "netflix_url": "https://www.netflix.com/title/81713154",
-      "year": "2023",
-      "imdb_rating": "5.9",
-      "imdb_id": "tt28366799",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRlZjFkNTAtYzRmNy00MzNkLWFmMWItNGRkZmE0M2VmMGFiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Budny, a secret service officer, secretly surveils Bishop Karol Wojtyla for 20 years. An unreciprocated bond forms between Budny and the unaware Wojtyla, leading to an obsessive, pathological relationship from Budny's perspective.",
-      "Type": "movie",
-      "RunTime": "112 min",
-      "Genre": "Drama, History",
-      "Director": "Robert Glinski",
-      "Writer": "Andrzej Golda",
-      "Actors": "Mateusz Wieclawek, Marianna Zydek, Adrian Brzakala",
-      "Language": "Polish",
-      "Country": "Poland"
-    },
-    {
       "title": "Bone Lake",
       "netflix_url": "https://www.netflix.com/title/81716210",
       "year": "2024",
@@ -3529,23 +3073,6 @@
       "Actors": "Alex Roe, Maddie Hasson, Marco Pigossi",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "How to Have Sex",
-      "netflix_url": "https://www.netflix.com/title/81716895",
-      "year": "2023",
-      "imdb_rating": "6.4",
-      "imdb_id": "tt22890246",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODEyY2ZjZGUtNzE1MS00YjhlLTkwYTctMTNkZDVlZWZmOWQyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Three British teenage girls go on a rites-of-passage holiday - drinking, clubbing and hooking up, in what should be the best summer of their lives.",
-      "Type": "movie",
-      "RunTime": "91 min",
-      "Genre": "Drama",
-      "Director": "Molly Manning Walker",
-      "Writer": "Molly Manning Walker",
-      "Actors": "Anna Antoniades, Mia McKenna-Bruce, Lara Peake",
-      "Language": "English",
-      "Country": "United Kingdom, Greece, France, Belgium"
     },
     {
       "title": "Shastry Virudh Shastry",
@@ -3588,23 +3115,6 @@
       "Actors": "Keir Tallman, Charley Hogan, Sarah H. Natani",
       "Language": "Navajo, English",
       "Country": "United States"
-    },
-    {
-      "title": "Three of Us",
-      "netflix_url": "https://www.netflix.com/title/81730353",
-      "year": "2023",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt27190438",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI5OGM0MWItMTQ3ZC00Yzg4LTk1YjMtZjFmZjJjZGVlYTNkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A young couple is torn between their place in the Israeli Haredi (Ultra - orthodox) community and their desire to give their autistic son the chance to win independence and be integrated into society.",
-      "Type": "movie",
-      "RunTime": "78 min",
-      "Genre": "Documentary",
-      "Director": "Henya Brodbeker",
-      "Writer": "Ayala Bengad, Henya Brodbeker",
-      "Actors": "N/A",
-      "Language": "Hebrew",
-      "Country": "Israel"
     },
     {
       "title": "Adrishya Jalakangal",
@@ -3845,40 +3355,6 @@
       "Country": "Ireland, United States"
     },
     {
-      "title": "Ro & the Stardust",
-      "netflix_url": "https://www.netflix.com/title/81923257",
-      "year": "2022",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt15736800",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzhiOWFjMmUtNDIyYy00NTA2LWIxMmQtMWMzZDM4NGRkNmU4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A free-spirited teen fulfills her terminally ill grandmother's dying wish of building a rocket ship to launch her into outer space.",
-      "Type": "movie",
-      "RunTime": "15 min",
-      "Genre": "Short, Fantasy",
-      "Director": "Eunice Levis",
-      "Writer": "Eunice Levis",
-      "Actors": "Cindy De La Cruz, Nadya Encarnacion, Elvis Nolasco",
-      "Language": "Spanish, English",
-      "Country": "United States"
-    },
-    {
-      "title": "Inheritance",
-      "netflix_url": "https://www.netflix.com/title/81923262",
-      "year": "2022",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt25505374",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWU3YjAwOGUtMTY1Zi00ZDkyLWJkZjEtN2NlM2FiMzUzYzZmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Two Filipina-American sisters return home to California for Christmas. They announce their plans to make their first pilgrimage to the Philippines, hoping this trip will reconnect them to their Filipino heritage. Three generations...",
-      "Type": "movie",
-      "RunTime": "15 min",
-      "Genre": "Documentary, Short",
-      "Director": "Quin Sotelo",
-      "Writer": "N/A",
-      "Actors": "N/A",
-      "Language": "English, Tagalog",
-      "Country": "N/A"
-    },
-    {
       "title": "Daddio",
       "netflix_url": "https://www.netflix.com/title/81941017",
       "year": "2023",
@@ -3930,30 +3406,11 @@
       "Country": "United States"
     },
     {
-      "title": "Between the Temples",
-      "netflix_url": "https://www.netflix.com/title/81971767",
-      "year": "2024",
-      "imdb_rating": "6.2",
-      "imdb_id": "tt27722375",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ1MTE3MWItZWUwMy00YjYzLTkyMDAtYzBhMjZmZjM5NTRkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A cantor in a crisis of faith finds his world turned upside down when his grade school music teacher re-enters his life as his new adult Bat Mitzvah student.",
-      "Type": "movie",
-      "RunTime": "111 min",
-      "Genre": "Comedy",
-      "Director": "Nathan Silver",
-      "Writer": "C. Mason Wells, Nathan Silver",
-      "Actors": "Jason Schwartzman, Carol Kane, Dolly De Leon",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Soul's Peak",
       "netflix_url": "https://www.netflix.com/title/81987104",
       "year": "2024",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -3962,8 +3419,6 @@
       "year": "2016",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -4023,8 +3478,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {

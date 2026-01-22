@@ -125,18 +125,18 @@
       "title": "Roman Empire",
       "netflix_url": "https://www.netflix.com/title/80096545",
       "year": "2019",
-      "imdb_rating": "7.0",
-      "imdb_id": "tt6233538",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQwYzYyODEtMGNhMS00YmI2LWJmZTktYWE1YjI4MDExNDAzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Chronicles some of the most famous leaders of the Roman Civilization.",
-      "Type": "series",
-      "RunTime": "17S min",
-      "Genre": "Documentary, Biography, Drama",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Aaron Irvin, Corey Brennan, Jerry Toner",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0058085",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjY0YTkxYmYtMzFkZi00MjYxLWE0NjQtMjNjNGEyN2M4ZGU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The death of Marcus Aurelius leads to a succession crisis, in which the deceased emperor's son, Commodus, demonstrates that he is unwilling to let anything undermine his claim to the Roman Empire.",
+      "Type": "movie",
+      "RunTime": "188 min",
+      "Genre": "Drama, History, War",
+      "Director": "Anthony Mann",
+      "Writer": "Ben Barzman, Basilio Franchina, Philip Yordan",
+      "Actors": "Sophia Loren, Stephen Boyd, Alec Guinness",
       "Language": "English",
-      "Country": "Canada, United States"
+      "Country": "United States"
     },
     {
       "title": "Hitler - A Career",
@@ -261,21 +261,35 @@
       "title": "ReMastered: Tricky Dick & The Man in Black",
       "netflix_url": "https://www.netflix.com/title/80191051",
       "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
+      "imdb_rating": "7.1",
+      "imdb_id": "tt9046556",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2MyMjI5MDUtODMwYi00OTY3LTgxMmUtZDJkNDA4NDEyMWQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Concerned by a rising rock-n-roll influence on a growing liberal fanbase, President Nixon invited Johnny Cash to the White House to solidify his base in the traditionally more conservative genre of country music. What Cash did ins...",
+      "Type": "movie",
+      "RunTime": "59 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Sara Dosa, Barbara Kopple",
+      "Writer": "Jeff Zimbalist, Michael Zimbalist",
+      "Actors": "Johnny Cash, Richard Nixon, Aram Bakshian",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Nisman: The Prosecutor, the President, and the Spy",
       "netflix_url": "https://www.netflix.com/title/80197991",
       "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
+      "imdb_rating": "7.5",
+      "imdb_id": "tt10291112",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2NiZjU1MzMtYmRlNi00M2M4LWI5OTctNTE1M2NkZWI3ZWNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The suspicious death of Alberto Nisman, investigator of the attack on the headquarters of the AMIA in 1994.",
+      "Type": "series",
+      "RunTime": "373 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Dexter Filkins, Ross Newland, Gustavo Perednik",
+      "Language": "Spanish, English, Hebrew",
+      "Country": "Spain, Germany, Denmark, United States"
     },
     {
       "title": "Trial By Media",
@@ -468,7 +482,7 @@
       "title": "Ladies First: A Story of Women in Hip-Hop",
       "netflix_url": "https://www.netflix.com/title/80997174",
       "year": "2023",
-      "imdb_rating": "7.2",
+      "imdb_rating": "7.3",
       "imdb_id": "tt28491199",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0MjNiZjMtNWY0NS00NGNlLThjYjEtNTBiNzQ3MDJhOGU2XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Recreates the role that the unstoppable women of hip-hop have played across the 50 years of this groundbreaking genre, putting them where they belong: at the heart of the present day.",
@@ -589,8 +603,6 @@
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -601,7 +613,14 @@
       "imdb_id": "tt14540468",
       "Poster": "https://m.media-amazon.com/images/M/MV5BOTkxZmY4MmEtZDBiYy00NmQxLWJmNzQtNDE0ZjYxZTIyYzQzXkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Black food is American food. Chef and writer Stephen Satterfield traces the delicious, moving throughlines from Africa to Texas in this docuseries.",
-      "SkipTitle": true
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Stephen Satterfield, Jessica B. Harris, Adrian Miller",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Lost Pirate Kingdom",
@@ -626,8 +645,6 @@
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -669,10 +686,7 @@
       "netflix_url": "https://www.netflix.com/title/81108230",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Hunt for Veerappan",
@@ -916,7 +930,7 @@
       "title": "Alexander: The Making of a God",
       "netflix_url": "https://www.netflix.com/title/81325194",
       "year": "2024",
-      "imdb_rating": "5.5",
+      "imdb_rating": "5.6",
       "imdb_id": "tt27494999",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMTliMDI0MTQtYWU0Yi00ODY5LWE5NjAtNzVmYjdlZjdiYjY5XkEyXkFqcGc@._V1_SX300.jpg",
       "Plot": "Alexander was King of the ancient Greek city state Macedon and widely considered to be one of history's greatest and most successful military commanders. By the age of 30 he had created one of the largest empires in history.",
@@ -1054,8 +1068,6 @@
       "year": "1945",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1608,8 +1620,6 @@
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1718,18 +1728,18 @@
       "title": "Black Barbie",
       "netflix_url": "https://www.netflix.com/title/81716193",
       "year": "2024",
-      "imdb_rating": "6.4",
-      "imdb_id": "tt12426780",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjgyNDY4MzctYTA2Yy00MDgxLWEyYmQtZDlkODlhYTE2NTk0XkEyXkFqcGdeQXVyNDI3NDQ1Nw@@._V1_SX300.jpg",
-      "Plot": "In a poetic animation, Comfort Arthur recollects her personal journey with skin bleaching products and questions societal ideals of beauty.",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt26593387",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxNTk5ZDgtODg3OS00ZWI2LWIxZTUtZDM3ZTgxZTYyNjk3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tracing the origin of the first Black Barbie doll to the filmmaker's aunt, who asked why Barbie couldn't look like her, this documentary explores her quest for representation and diversity.",
       "Type": "movie",
-      "RunTime": "4 min",
-      "Genre": "Animation, Short",
-      "Director": "Comfort Arthur",
-      "Writer": "Comfort Arthur",
-      "Actors": "N/A",
+      "RunTime": "94 min",
+      "Genre": "Documentary",
+      "Director": "Lagueria Davis",
+      "Writer": "Lagueria Davis",
+      "Actors": "Lagueria Davis, Beulah Mae Mitchell, Maxine Waters",
       "Language": "English",
-      "Country": "Ghana"
+      "Country": "United States"
     },
     {
       "title": "Conversations with Ruth de Souza",
@@ -1737,8 +1747,6 @@
       "year": "2022",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1764,8 +1772,6 @@
       "year": "2016",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1808,8 +1814,6 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null,
-      "Poster": null,
-      "Plot": null,
       "SkipTitle": true
     },
     {
@@ -1918,17 +1922,17 @@
       "title": "Cover-Up",
       "netflix_url": "https://www.netflix.com/title/82145211",
       "year": "2025",
-      "imdb_rating": "7.5",
-      "imdb_id": "tt37660887",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjc0MTQ3YTctZjRlZC00NTdjLWFmYzYtZGY5OGMwYWJlMWYyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Seymour Hersh has been at the front lines of political journalism in the United States. Hersh's breakthrough reportage has brought to the public's attention many of the most damning constitutional wrongdoings and cover-ups.",
-      "Type": "movie",
-      "RunTime": "117 min",
-      "Genre": "Documentary",
-      "Director": "Mark Obenhaus, Laura Poitras",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37276251",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWRjMWEyNjEtNmVhZS00NDVkLThmYzAtZDIwZWNhZTIzZDY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a ruthless empire, Serenity fights for power, loyalty, and survival, facing choices that could crown her or cost her everything.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
       "Writer": "N/A",
-      "Actors": "Seymour Hersh, David Obst, Bob Woodward",
-      "Language": "English, Vietnamese, Arabic",
+      "Actors": "N/A",
+      "Language": "English",
       "Country": "United States"
     }
   ]

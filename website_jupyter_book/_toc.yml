@@ -40,15 +40,16 @@ parts:
       - file: art_house 
       - file: classics 
       - file: comedy 
-      - file: crime
+      - file: crime_documentaries
         sections:
           - file: crime_action_adventure
           - file: true_crime 
+          - file: crime_true_crime_documentaries
       - file: cult
       - file: documentaries 
         sections:
           - file: biographical_documentaries 
-          - file: crime_documentaries
+          - file: crime_documentaries_in_documentaries
           - file: historical_documentaries 
 
       - file: dramas 
@@ -64,7 +65,13 @@ parts:
 
       - file: music 
       - file: romance 
-      - file: romantic_comedies
+        sections:
+          - file: classical_romantic_movies 
+          - file: romantic_steamy
+          - file: romantic_comedies
+          - file: romantic_dramas
+          - file: romantic_favorites
+          - file: romantic_LGBTQ_in_Romantic
       - file: scifi 
         sections:
           - file: scifi_action
