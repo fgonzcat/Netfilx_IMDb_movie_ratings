@@ -91,6 +91,11 @@ Interpretation
     <select id="language"></select>
   </label>
 
+  <label>
+    Movie/Series:
+    <select id="type"></select>
+  </label>
+
 </div>
 
 <div id="results" style="margin-top:1rem;"></div>
@@ -107,6 +112,7 @@ async function init() {
   const countrySel = document.getElementById('country');
   const languageSel = document.getElementById('language');
   const directorSel = document.getElementById('director');
+  const typeSel     = document.getElementById('type');
 
 
   // Populate Genre options
@@ -160,6 +166,11 @@ async function init() {
     directors.map(d => `<option value="${d}">${d}</option>`).join('');
 
 
+  // Populate Type 
+  typeSel.innerHTML = ` <option value="">All</option>
+    <option value="movie">🎬 Movies</option>
+    <option value="series">📺 Series</option> `;
+
 
 
   function render() {
@@ -171,6 +182,7 @@ async function init() {
     const c = countrySel.value;
     const lang = languageSel.value;
     const dir = directorSel.value;
+    const type = typeSel.value;
 
 
   
@@ -189,8 +201,8 @@ async function init() {
      // language filter (null-safe, token-based)
      (!lang ||   (m.Language &&  m.Language  .split(',')   .map(l => l.trim())  .includes(lang) ) )  &&
      // director filter (null-safe, token-based)
-     (!dir ||    (m.Director && m.Director.split(',').map(x => x.trim()).includes(dir)))
-
+     (!dir ||    (m.Director && m.Director.split(',').map(x => x.trim()).includes(dir))) &&
+     (!type || m.Type === type)
     );
   
     // Step 2: Deduplicate only if "All" is selected
