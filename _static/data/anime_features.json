@@ -1,0 +1,643 @@
+{
+  "genre": "anime_features",
+  "genre_url": "https://www.netflix.com/browse/genre/3063",
+  "movies": [
+    {
+      "title": "Grave of the Fireflies",
+      "netflix_url": "https://www.netflix.com/title/557010",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The End of Evangelion",
+      "netflix_url": "https://www.netflix.com/title/60024788",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+      "netflix_url": "https://www.netflix.com/title/70074559",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "One Piece: Episode of Alabasta",
+      "netflix_url": "https://www.netflix.com/title/70086565",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "5 Centimeters Per Second",
+      "netflix_url": "https://www.netflix.com/title/70093699",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Naruto the Movie 2: Legend of the Stone of Gelel",
+      "netflix_url": "https://www.netflix.com/title/70101321",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Naruto Shippûden the Movie: Bonds",
+      "netflix_url": "https://www.netflix.com/title/70105699",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Naruto the Movie 3: Guardians of the Crescent Moon Kingdom",
+      "netflix_url": "https://www.netflix.com/title/70108386",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Naruto Shippuden: The Movie",
+      "netflix_url": "https://www.netflix.com/title/70124999",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Naruto Shippuden: The Movie: The Lost Tower",
+      "netflix_url": "https://www.netflix.com/title/70275937",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dragon Ball Z: Battle of Gods",
+      "netflix_url": "https://www.netflix.com/title/70295183",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Road To Ninja -Naruto The Movie-",
+      "netflix_url": "https://www.netflix.com/title/80014947",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Last: Naruto the Movie",
+      "netflix_url": "https://www.netflix.com/title/80037677",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Naruto Shippûden the Movie: The Will of Fire",
+      "netflix_url": "https://www.netflix.com/title/80045673",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Boruto: Naruto the Movie",
+      "netflix_url": "https://www.netflix.com/title/80075823",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Hunter x Hunter: The Last Mission",
+      "netflix_url": "https://www.netflix.com/title/80108453",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Hunter x Hunter: Phantom Rouge",
+      "netflix_url": "https://www.netflix.com/title/80108601",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "BLAME!",
+      "netflix_url": "https://www.netflix.com/title/80115466",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Naruto Shippuden the Movie: Blood Prison",
+      "netflix_url": "https://www.netflix.com/title/80152537",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "STAND BY ME Doraemon",
+      "netflix_url": "https://www.netflix.com/title/80158156",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "One Piece Film: Gold",
+      "netflix_url": "https://www.netflix.com/title/80163050",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "GODZILLA Planet of the Monsters",
+      "netflix_url": "https://www.netflix.com/title/80180373",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "GODZILLA City on the Edge of Battle",
+      "netflix_url": "https://www.netflix.com/title/80180376",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "One Piece Film Z",
+      "netflix_url": "https://www.netflix.com/title/80198443",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "GODZILLA The Planet Eater",
+      "netflix_url": "https://www.netflix.com/title/80198623",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Flavors of Youth: International Version",
+      "netflix_url": "https://www.netflix.com/title/80234491",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Kuroko's Basketball: Last Game",
+      "netflix_url": "https://www.netflix.com/title/80991755",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "One Piece: Episode of Chopper: Bloom in the Winter, Miracle Sakura",
+      "netflix_url": "https://www.netflix.com/title/80998780",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "One Piece Film: Strong World",
+      "netflix_url": "https://www.netflix.com/title/80998781",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bright: Samurai Soul",
+      "netflix_url": "https://www.netflix.com/title/81001990",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Altered Carbon: Resleeved",
+      "netflix_url": "https://www.netflix.com/title/81001991",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Seven Deadly Sins the Movie: Prisoners of the Sky",
+      "netflix_url": "https://www.netflix.com/title/81006261",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sol Levante",
+      "netflix_url": "https://www.netflix.com/title/81017017",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "EVANGELION: DEATH (TRUE)²",
+      "netflix_url": "https://www.netflix.com/title/81033473",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Witcher: Nightmare of the Wolf",
+      "netflix_url": "https://www.netflix.com/title/81037868",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "NiNoKuni",
+      "netflix_url": "https://www.netflix.com/title/81093113",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Dragon Quest Your Story",
+      "netflix_url": "https://www.netflix.com/title/81170086",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Sturgill Simpson Presents Sound & Fury",
+      "netflix_url": "https://www.netflix.com/title/81171121",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Rose of Versailles",
+      "netflix_url": "https://www.netflix.com/title/81177638",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Violet Evergarden the Movie",
+      "netflix_url": "https://www.netflix.com/title/81193214",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Violet Evergarden: Eternity and the Auto Memory Doll",
+      "netflix_url": "https://www.netflix.com/title/81208936",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Pretty Guardian Sailor Moon Eternal The Movie",
+      "netflix_url": "https://www.netflix.com/title/81214399",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Pokémon: Mewtwo Strikes Back - Evolution",
+      "netflix_url": "https://www.netflix.com/title/81223075",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Seven Deadly Sins: Cursed by Light",
+      "netflix_url": "https://www.netflix.com/title/81263946",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "A Whisker Away",
+      "netflix_url": "https://www.netflix.com/title/81281872",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Seven Deadly Sins: Grudge of Edinburgh Part 1",
+      "netflix_url": "https://www.netflix.com/title/81302750",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Seven Deadly Sins: Grudge of Edinburgh Part 2",
+      "netflix_url": "https://www.netflix.com/title/81306306",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Drifting Home",
+      "netflix_url": "https://www.netflix.com/title/81328781",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Bubble",
+      "netflix_url": "https://www.netflix.com/title/81345945",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Pokémon the Movie: Secrets of the Jungle",
+      "netflix_url": "https://www.netflix.com/title/81346307",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Monster Hunter: Legends of the Guild",
+      "netflix_url": "https://www.netflix.com/title/81346827",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "My Hero Academia: Heroes Rising",
+      "netflix_url": "https://www.netflix.com/title/81398907",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Words Bubble Up Like Soda Pop",
+      "netflix_url": "https://www.netflix.com/title/81400497",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "New Gods: Nezha Reborn",
+      "netflix_url": "https://www.netflix.com/title/81418302",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Her Blue Sky",
+      "netflix_url": "https://www.netflix.com/title/81427482",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mobile Suit Gundam Hathaway",
+      "netflix_url": "https://www.netflix.com/title/81439253",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Black Clover: Sword of the Wizard King",
+      "netflix_url": "https://www.netflix.com/title/81448990",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "maboroshi",
+      "netflix_url": "https://www.netflix.com/title/81450803",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "STAND BY ME Doraemon 2",
+      "netflix_url": "https://www.netflix.com/title/81451264",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Child of Kamiari Month",
+      "netflix_url": "https://www.netflix.com/title/81478031",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Inu-Oh",
+      "netflix_url": "https://www.netflix.com/title/81499851",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Ghost in the Shell: SAC_2045 Sustainable War",
+      "netflix_url": "https://www.netflix.com/title/81513128",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Imaginary",
+      "netflix_url": "https://www.netflix.com/title/81565710",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mononoke The Movie: The Phantom in the Rain",
+      "netflix_url": "https://www.netflix.com/title/81580574",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "My Oni Girl",
+      "netflix_url": "https://www.netflix.com/title/81582442",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Jujutsu Kaisen 0: The Movie",
+      "netflix_url": "https://www.netflix.com/title/81602834",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Pokémon: The Arceus Chronicles",
+      "netflix_url": "https://www.netflix.com/title/81605060",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Violet Evergarden: Recollections",
+      "netflix_url": "https://www.netflix.com/title/81630362",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Baki Hanma VS Kengan Ashura",
+      "netflix_url": "https://www.netflix.com/title/81648184",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "One Piece Heart of Gold",
+      "netflix_url": "https://www.netflix.com/title/81679591",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Suzume",
+      "netflix_url": "https://www.netflix.com/title/81696498",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "One Piece Film: Red",
+      "netflix_url": "https://www.netflix.com/title/81700392",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Deer King",
+      "netflix_url": "https://www.netflix.com/title/81700393",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Quintessential Quintuplets Movie",
+      "netflix_url": "https://www.netflix.com/title/81717895",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Anpanman: Adventure of Happie",
+      "netflix_url": "https://www.netflix.com/title/81719798",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Anpanman: Star-Spirited Dollie",
+      "netflix_url": "https://www.netflix.com/title/81719799",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Anpanman: Purun, The Soap Bubble",
+      "netflix_url": "https://www.netflix.com/title/81719801",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Anpanman: The Secret of Fairy Rin-Rin",
+      "netflix_url": "https://www.netflix.com/title/81719804",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Anpanman: The Blacknose with Magical Song",
+      "netflix_url": "https://www.netflix.com/title/81719808",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Anpanman: Revive Banana Island!",
+      "netflix_url": "https://www.netflix.com/title/81719813",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Anpanman: Apple Boy And Everyone's Hope",
+      "netflix_url": "https://www.netflix.com/title/81719818",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Anpanman: Nanda and Runda from Star of Toys",
+      "netflix_url": "https://www.netflix.com/title/81719826",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Anpanman: Shine! Kulun and the Stars of Life",
+      "netflix_url": "https://www.netflix.com/title/81719828",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Anpanman: Twinkle! Princess Vanilla of Ice Cream Land",
+      "netflix_url": "https://www.netflix.com/title/81719829",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Pretty Guardian Sailor Moon Cosmos The Movie",
+      "netflix_url": "https://www.netflix.com/title/81732000",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Mobile Suit Gundam SEED FREEDOM",
+      "netflix_url": "https://www.netflix.com/title/81747912",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Cosmic Princess Kaguya!",
+      "netflix_url": "https://www.netflix.com/title/81756595",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "BLUE GIANT",
+      "netflix_url": "https://www.netflix.com/title/81763062",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The First Slam Dunk",
+      "netflix_url": "https://www.netflix.com/title/81765372",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "100 Meters",
+      "netflix_url": "https://www.netflix.com/title/81785821",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "My Hero Academia: You're Next",
+      "netflix_url": "https://www.netflix.com/title/82036353",
+      "year": null,
+      "imdb_rating": null,
+      "imdb_id": null
+    }
+  ]
+}
