@@ -1335,6 +1335,23 @@
       "Country": "United States"
     },
     {
+      "title": "Who Killed Malcolm X?",
+      "netflix_url": "https://www.netflix.com/title/80217478",
+      "year": "2020",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt10948316",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTc0YjU0M2EtZjE1Ni00NTNjLTgyNGEtZTYxZjNjN2M1ZDdiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Activist Abdur-Rahman Muhammad begins his own investigation into the perplexing details surrounding the assassination of civil rights leader Malcolm X.",
+      "Type": "series",
+      "RunTime": "43 min",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Abdur-Rahman Muhammad, Muhammad A. Aziz, Zak A. Kondo",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Missing: Dead or Alive?",
       "netflix_url": "https://www.netflix.com/title/80217818",
       "year": "2025",
@@ -6549,6 +6566,23 @@
       "Actors": "Deebo Samuel, George Kittle, Amon-Ra St. Brown",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "It's All Over: The Kiss That Changed Spanish Football",
+      "netflix_url": "https://www.netflix.com/title/81737633",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt33615797",
+      "Poster": "N/A",
+      "Plot": "Spanish footballers come together for the first time to relive the turbulent 2023 Women's World Cup and the kiss that overshadowed their victory.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Joanna Pardos",
+      "Writer": "N/A",
+      "Actors": "Jennifer Hermoso, Alexia Putellas, Irene Paredes",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Surviving Black Hawk Down",

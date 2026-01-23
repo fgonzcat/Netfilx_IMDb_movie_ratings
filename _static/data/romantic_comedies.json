@@ -2101,6 +2101,23 @@
       "Country": "India"
     },
     {
+      "title": "Luka Chuppi",
+      "netflix_url": "https://www.netflix.com/title/81113918",
+      "year": "2019",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt8908002",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWEyY2NkYmMtMGQ4Ni00ZTgzLThhNDMtNmI3ZTI5MDJiY2EyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Pretending to be married in order to cohabitate, a small-town couple lands in endless awkward situations to hide the truth from their orthodox families.",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Laxman Utekar",
+      "Writer": "Rohan Shankar",
+      "Actors": "Kartik Aaryan, Kriti Sanon, Aparshakti Khurana",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Last Christmas",
       "netflix_url": "https://www.netflix.com/title/81115192",
       "year": "2019",
@@ -2303,6 +2320,23 @@
       "Actors": "Laura Marano, Mena Massoud, Julie Edwards",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Jai Mummy Di",
+      "netflix_url": "https://www.netflix.com/title/81241439",
+      "year": "2020",
+      "imdb_rating": "3.7",
+      "imdb_id": "tt9817760",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2M1MzZmYmMtYmFjMi00M2QwLWI0OWItZTVlODY2YzhmNTFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Jai Mummy Di is a light-hearted family comedy that portrays the trials and tribulations a couple has to undergo due to the dynamics between their respective mothers.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Navjot Gulati",
+      "Writer": "Navjot Gulati",
+      "Actors": "Poonam Dhillon, Supriya Pathak, Sunny Singh",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "A Perfect Pairing",
@@ -3621,6 +3655,23 @@
       "Country": "Norway"
     },
     {
+      "title": "Still Time",
+      "netflix_url": "https://www.netflix.com/title/81660233",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt15654800",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmMyYmMwZWEtNTAxYy00NDBlLTg2NmEtY2U0YzdlOWY2MWI5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this time-jumping dramedy, a workaholic who's always in a rush now wants life to slow down when he finds himself leaping ahead a year every few hours.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "Alessandro Aronadio",
+      "Writer": "Alessandro Aronadio, Renato Sannio",
+      "Actors": "Edoardo Leo, Barbara Ronchi, Mario Sgueglia",
+      "Language": "Italian",
+      "Country": "Italy"
+    },
+    {
       "title": "Aap Jaisa Koi",
       "netflix_url": "https://www.netflix.com/title/81660570",
       "year": "2025",
@@ -3737,6 +3788,23 @@
       "Writer": "Praveen Pattu, Pranay Rao, Kalyan Shankar",
       "Actors": "Anthony, Ravi Anthony, Raghu Babu",
       "Language": "Telugu",
+      "Country": "India"
+    },
+    {
+      "title": "Dream Girl 2",
+      "netflix_url": "https://www.netflix.com/title/81687159",
+      "year": "2023",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt22086334",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzNzYzNzctNWIyNC00NDRhLWFkNGMtMzYxOTA2ZjgwYzFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Karam, who is trying to live a serious life in Mathura and falls in love with Pari but life is hell bent on not taking him seriously. In a turn of events Karam becomes Pooja which creates further chaos in his already chaotic life.",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Gauri Joshi, Raaj Shaandilyaa",
+      "Writer": "Naresh Kathooria, Ishrat R. Khan, Raaj Shaandilyaa",
+      "Actors": "Ayushmann Khurrana, Ananya Panday, Paresh Rawal",
+      "Language": "Hindi",
       "Country": "India"
     },
     {
@@ -4864,6 +4932,23 @@
       "Director": "Bosede Williams",
       "Writer": "Andrea Stevens",
       "Actors": "Thomas Cadrot, Jaime M. Callica, Thalia Campbell",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Marry Christmas",
+      "netflix_url": "https://www.netflix.com/title/82152280",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt33455358",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODcxZjg3MDQtNzk3Mi00NDRjLWI1OWUtZGE5Y2VlZjJmMjg2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After finding love, the Wright Brothers (Joey and Matthew Lawrence) unwittingly schedule weddings for the same day. A sibling rivalry ensues for the right to wed their brides on Christmas.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Comedy, Family, Romance",
+      "Director": "Andrew Lawrence",
+      "Writer": "Andrew Lawrence, Kaylin Richardson, Tim Schaaf",
+      "Actors": "Matthew Lawrence, Joey Lawrence, Andrew Lawrence",
       "Language": "English",
       "Country": "United States"
     },

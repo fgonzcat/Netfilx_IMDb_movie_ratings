@@ -554,6 +554,23 @@
       "Country": "Japan"
     },
     {
+      "title": "LOST SONG",
+      "netflix_url": "https://www.netflix.com/title/80191369",
+      "year": "2018",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt7211600",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTkxNWNhM2MtZmJmMC00YjVjLWIzNDEtMWQ5YTg4Y2QzMTlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rin, a young girl blessed with the power of song goes through on a journey trying to get to the capital to sing, little does she know, there's another girl who also has the power of song named finis.",
+      "Type": "series",
+      "RunTime": "25 min",
+      "Genre": "Animation, Adventure, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Konomi Suzuki, Yukari Tamura, Cherami Leigh",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Cannon Busters",
       "netflix_url": "https://www.netflix.com/title/80195357",
       "year": "2019",
@@ -824,6 +841,23 @@
       "Actors": "Yûki Kaji, Sora Amamiya, Misaki Kuno",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Violet Evergarden: Special",
+      "netflix_url": "https://www.netflix.com/title/81010662",
+      "year": "2018",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt9359564",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "Taichi Ishidate",
+      "Writer": "Reiko Yoshida",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "Trese",
@@ -1528,6 +1562,23 @@
       "Actors": "Megumi Ogata, Kana Hanazawa, Yûichi Nakamura",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "No Doubt in Us",
+      "netflix_url": "https://www.netflix.com/title/81648185",
+      "year": "2022",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt26596306",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGMyOWY4ODgtM2MyOC00ZGE4LWE2NzktN2NiYmI0ZWM5ZDBiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When an emperor accidentally switches bodies with his empress, the two must deal with the awkward fallouts as they learn to accept each other.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Comedy, Fantasy",
+      "Director": "N/A",
+      "Writer": "Lü Ye Qian He",
+      "Actors": "Jiaqi Xu, Ketsu, Shangqing Su",
+      "Language": "Mandarin, Chinese",
+      "Country": "China"
     },
     {
       "title": "Qi Refining for 3000 Years",

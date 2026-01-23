@@ -411,6 +411,23 @@
       "Country": "United States"
     },
     {
+      "title": "Two for the Money",
+      "netflix_url": "https://www.netflix.com/title/70032595",
+      "year": "2005",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0417217",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmVhYzEwYWUtZWQyOC00YWIyLTkyNWYtY2E2Mjc0YzI5MThhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After suffering a career-ending knee injury, a former college football star aligns himself with one of the most renowned touts in the sports-gambling business.",
+      "Type": "movie",
+      "RunTime": "122 min",
+      "Genre": "Crime, Drama, Sport",
+      "Director": "D.J. Caruso",
+      "Writer": "Dan Gilroy",
+      "Actors": "Matthew McConaughey, Al Pacino, Rene Russo",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Match Point",
       "netflix_url": "https://www.netflix.com/title/70035180",
       "year": "2006",
@@ -1771,6 +1788,23 @@
       "Country": "United Kingdom, Spain, United States, Germany"
     },
     {
+      "title": "The Last Word",
+      "netflix_url": "https://www.netflix.com/title/80154681",
+      "year": "2017",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt5023260",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4Mzc1MzY5OV5BMl5BanBnXkFtZTgwNzU0NzE4MDI@._V1_SX300.jpg",
+      "Plot": "Harriet is a retired businesswoman who tries to control everything around her. When she decides to write her own obituary, a young journalist takes up the task of finding out the truth, resulting in a life-altering friendship.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Mark Pellington",
+      "Writer": "Stuart Ross Fink",
+      "Actors": "Shirley MacLaine, Amanda Seyfried, AnnJewel Lee Dixon",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Hold the Dark",
       "netflix_url": "https://www.netflix.com/title/80157072",
       "year": "2018",
@@ -2849,6 +2883,40 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "The Laundromat",
+      "netflix_url": "https://www.netflix.com/title/80994011",
+      "year": "2019",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt5865326",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDRmNzMzZGYtZDdiMy00ZjNiLThjYzUtODMzY2QxY2VkZmIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A widow investigates an insurance fraud, chasing leads to a pair of Panama City law partners exploiting the world's financial system.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Steven Soderbergh",
+      "Writer": "Jake Bernstein, Scott Z. Burns",
+      "Actors": "Gary Oldman, Antonio Banderas, AJ Meijer",
+      "Language": "English, Mandarin, Spanish, Russian",
+      "Country": "United States"
+    },
+    {
+      "title": "The Son",
+      "netflix_url": "https://www.netflix.com/title/80994020",
+      "year": "2019",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt10665234",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGMyOWY5NDYtYmMwZi00YjE1LTgwNDktNjI2Y2QzZGRmZWMyXkEyXkFqcGdeQXVyMzM3NTgyMzY@._V1_SX300.jpg",
+      "Plot": "Adopted son Arman (18) has an unstable character and cannot find peace in the struggle for his identity. His parents and younger brother Dado (14), who was born after Arman's adoption, suffer due to his restlessness and the enormo...",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Drama",
+      "Director": "Ines Tanovic",
+      "Writer": "Ines Tanovic",
+      "Actors": "Dino Bajrovic, Snezana Bogdanovic, Uliks Fehmiu",
+      "Language": "Bosnian",
+      "Country": "Bosnia and Herzegovina"
+    },
+    {
       "title": "Feel the Beat",
       "netflix_url": "https://www.netflix.com/title/80994878",
       "year": "2020",
@@ -3758,6 +3826,23 @@
       "Country": "India"
     },
     {
+      "title": "Rose Island",
+      "netflix_url": "https://www.netflix.com/title/81116948",
+      "year": "2020",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt10287954",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDhlODJjMTMtYTg1NS00ZjE1LTg4NGEtNmM2YWM5M2I4MjQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An idealistic engineer builds his own island off the Italian coast and declares it a nation, drawing the world's attention. Values are tested when the Italian Government declares him an enemy, but to change the world risks must be...",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Adventure, Biography, Comedy",
+      "Director": "Sydney Sibilia",
+      "Writer": "Francesca Manieri, Sydney Sibilia",
+      "Actors": "Elio Germano, Leonardo Lidi, Matilda De Angelis",
+      "Language": "Italian, French, German",
+      "Country": "Italy"
+    },
+    {
       "title": "Monster",
       "netflix_url": "https://www.netflix.com/title/81121351",
       "year": "2021",
@@ -3984,6 +4069,40 @@
       "Writer": "Thayná Mantesso, Alexandre Moratto",
       "Actors": "Christian Malheiros, Rodrigo Santoro, Lucas Oranmian",
       "Language": "Portuguese, Korean, Spanish, English, French, Haitian",
+      "Country": "Brazil"
+    },
+    {
+      "title": "The Father Who Moves Mountains",
+      "netflix_url": "https://www.netflix.com/title/81174182",
+      "year": "2021",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt8886670",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDgxMGRhZDgtM2M4Yi00ZDFjLWI0ZGYtODI3MTU4MDYyNjJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mircea, a retired intelligence officer, finds out that his son from has gone missing in the mountains. After days of searches, Mircea put his own rescue team together, leading to altercation with the local squad.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Daniel Sandu",
+      "Writer": "Daniel Sandu",
+      "Actors": "Adrian Titieni, Elena Purea, Judith State",
+      "Language": "Romanian",
+      "Country": "Romania, Sweden"
+    },
+    {
+      "title": "Double Dad",
+      "netflix_url": "https://www.netflix.com/title/81175170",
+      "year": "2020",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt11821818",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQ5OTY5ZTktNmNiZi00NzExLWEwZmMtZWRmYjdlOWRlZjkyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "While her mom is away, a teen sneaks out of the hippie commune where she lives and embarks on a life-changing adventure to discover who her father is.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Comedy, Drama, Family",
+      "Director": "Cris D'Amato",
+      "Writer": "Marcelo Andrade, Renato Fagundes, João Paulo Horta",
+      "Actors": "Eduardo Moscovis, Maisa, Roberto Bonfim",
+      "Language": "Portuguese",
       "Country": "Brazil"
     },
     {
@@ -4955,6 +5074,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "The Perfumier",
+      "netflix_url": "https://www.netflix.com/title/81410551",
+      "year": "2022",
+      "imdb_rating": "3.6",
+      "imdb_id": "tt21916206",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjMzZDVlZWYtNDc1NC00M2E0LTg1MzQtMmU1NGMzYjFlOTM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A police detective tries to get back her boyfriend as well as her sense of smell, as she gets help from a perfume maker who uses deadly methods to find the perfect fragrance.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Nils Willbrandt",
+      "Writer": "Patrick Süskind, Nils Willbrandt, Kim Zimmermann",
+      "Actors": "Sólveig Arnarsdóttir, August Diehl, Robert Finster",
+      "Language": "German",
+      "Country": "Germany"
+    },
+    {
       "title": "Persuasion",
       "netflix_url": "https://www.netflix.com/title/81410649",
       "year": "2022",
@@ -5693,6 +5829,23 @@
       "Country": "Poland"
     },
     {
+      "title": "Royalteen: Princess Margrethe",
+      "netflix_url": "https://www.netflix.com/title/81516659",
+      "year": "2023",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt22488414",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTRjYzI5YmQtM2IyYi00MWI4LTk4ODYtYTM4YmUyMDliNjBmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the wake of her prom scandal, Princess Margrethe longs for normalcy as she struggles to maintain her perfect facade while dealing with family drama.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Drama, Romance",
+      "Director": "Ingvild Søderlind",
+      "Writer": "Randi Fuglehaug, Anne Gunn Halvorsen, Marta Huglen Revheim",
+      "Actors": "Elli Rhiannon Müller Osborne, Sammy Germain Wadi, Amalie Sporsheim",
+      "Language": "Norwegian",
+      "Country": "Norway"
+    },
+    {
       "title": "Hunger",
       "netflix_url": "https://www.netflix.com/title/81517155",
       "year": "2023",
@@ -5844,6 +5997,23 @@
       "Actors": "Jördis Triebel, Robert Maaser, Alexander Scheer",
       "Language": "German, English",
       "Country": "Germany"
+    },
+    {
+      "title": "The Forgiven",
+      "netflix_url": "https://www.netflix.com/title/81557918",
+      "year": "2021",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt3696180",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzViZjE2NzQtYjhkYy00N2YyLTk1YmMtODVkYTY1NDFhMWM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A fatal accident disrupts the lives of Western visitors to a lavish party in the High Atlas Mountains of Morocco, and will ultimately lead to a reckoning in the desert.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Drama",
+      "Director": "John Michael McDonagh",
+      "Writer": "Lawrence Osborne, John Michael McDonagh",
+      "Actors": "Aissam Taamart, Omar Ghazaoui, David McSavage",
+      "Language": "English, Arabic, French",
+      "Country": "United Kingdom, Canada, United States, Morocco"
     },
     {
       "title": "The Courier",
@@ -6251,6 +6421,23 @@
       "Actors": "Song Joong-ki, Kaan Abdullah, June Angela",
       "Language": "Korean, French, English, Mandarin",
       "Country": "South Korea"
+    },
+    {
+      "title": "Ashes",
+      "netflix_url": "https://www.netflix.com/title/81616617",
+      "year": "2024",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt21308718",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODE0ZWVlZTEtMTZiMC00ZWZlLWIxYWQtNWI2MDg1YzYyODlhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A wealthy, married woman falling in love with a mysterious carpenter, which will lead to many conflicts.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama, Romance",
+      "Director": "Erdem Tepegöz",
+      "Writer": "Erdi Isik",
+      "Actors": "Funda Eryigit, Alperen Duymaz, Mehmet Günsür",
+      "Language": "Turkish",
+      "Country": "Turkey"
     },
     {
       "title": "Colors of Evil: Red",
@@ -7134,6 +7321,23 @@
       "Actors": "Idris Elba, Rebecca Ferguson, Gabriel Basso",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Lesson",
+      "netflix_url": "https://www.netflix.com/title/81744798",
+      "year": "2023",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt20358284",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzE5M2VlODQtNGYxMC00ODgzLTlhOTYtOWYxZGU2ZWM4OThjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young author takes a tutoring position at the estate of a legendary writer.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Thriller",
+      "Director": "Alice Troughton",
+      "Writer": "Alex MacKeith",
+      "Actors": "Richard E. Grant, Julie Delpy, Daryl McCormack",
+      "Language": "English",
+      "Country": "United Kingdom, Germany, France, United States"
     },
     {
       "title": "K.O.",
@@ -8303,6 +8507,23 @@
       "Country": "United States"
     },
     {
+      "title": "STEPHEN",
+      "netflix_url": "https://www.netflix.com/title/82057638",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35838090",
+      "Poster": "N/A",
+      "Plot": "Stephen's boyfriend recommends an ideal spot for raving, but the party holds unexpected surprises.",
+      "Type": "movie",
+      "RunTime": "9 min",
+      "Genre": "Short",
+      "Director": "Jon Arnold",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Aaha Kalyanam (Telugu)",
       "netflix_url": "https://www.netflix.com/title/82062377",
       "year": "2014",
@@ -8564,6 +8785,14 @@
       "Actors": "Zoey Deutch, Jonah Hauer-King, Ruby Cruz",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Greater Kalesh",
+      "netflix_url": "https://www.netflix.com/title/82171959",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Can You Feel the Beat: The Lisa Lisa Story",

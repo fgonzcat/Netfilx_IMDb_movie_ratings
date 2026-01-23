@@ -5910,6 +5910,23 @@
       "Country": "United Kingdom, France, Japan, United States, Colombia"
     },
     {
+      "title": "A Royal Date for Christmas",
+      "netflix_url": "https://www.netflix.com/title/81779945",
+      "year": "2023",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt28188089",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQzMWYwZDgtZTg0ZC00MTEwLWJlMDYtYmUzMGRmMGQwMWVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bella Sparks, runs Bella's Boutique. Stefan needs to be outfitted for a week of high-stakes meetings after his luggage goes missing. She accidentally discovers Stefan is actually Stefan William Francis Brown, the Duke of Tangford.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Bradley Walsh",
+      "Writer": "Cara J. Russell",
+      "Actors": "Danica McKellar, Damon Runyan, Nigel Hamer",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Love Untangled",
       "netflix_url": "https://www.netflix.com/title/81785333",
       "year": "2025",
@@ -6061,6 +6078,23 @@
       "SkipTitle": true
     },
     {
+      "title": "Cora Bora",
+      "netflix_url": "https://www.netflix.com/title/81968072",
+      "year": "2023",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt20221208",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTNiMTliMDktZWQzNi00NWU2LWE3OTktZGM5OGY0MWI2OTBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows Cora, who feels that her relationship is not going well. She goes back home to win her girlfriend back but she will realize that it's much more than her love life that needs salvaging.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Hannah Pearl Utt",
+      "Writer": "Rhianon Jones",
+      "Actors": "Ayden Mayeri, Manny Jacinto, Chelsea Peretti",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Dog Man",
       "netflix_url": "https://www.netflix.com/title/81975712",
       "year": "2024",
@@ -6203,6 +6237,40 @@
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
+    },
+    {
+      "title": "No Sleep 'Til Christmas",
+      "netflix_url": "https://www.netflix.com/title/82131935",
+      "year": "2018",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt2043993",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ3ZjgxN2MtOGY1Ny00YzIzLTgxYTItNTI2OGVkMDRiYTgwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A bartender and a businesswoman find they only have one thing in common; insomnia.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Phil Traill",
+      "Writer": "Steve Smith, Phil Traill",
+      "Actors": "Odette Annable, Dave Annable, Charles Michael Davis",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Same Time, Next Christmas",
+      "netflix_url": "https://www.netflix.com/title/82131936",
+      "year": "2019",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt10650924",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTRkOWQyMzktM2I3Zi00MmZmLTlhYjQtMTcwNGZjODc5OGQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Circumstances conspire to keep apart a young woman and her childhood sweetheart, whom she first met during her family's annual Christmas visit to Hawaii.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Stephen Herek",
+      "Writer": "Karen Bloch Morse",
+      "Actors": "Lea Michele, Charles Michael Davis, Bryan Greenberg",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "An Unexpected Valentine",

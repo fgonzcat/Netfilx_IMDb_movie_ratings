@@ -673,6 +673,23 @@
       "Country": "United States, Hong Kong, Canada"
     },
     {
+      "title": "STAND BY ME Doraemon",
+      "netflix_url": "https://www.netflix.com/title/80158156",
+      "year": "2014",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt3331846",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDM2NmNiZWYtMGRlYy00NGM4LTliZGUtMzE1ZWZmMTllMjUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "What will happen to Nobita's life after Doraemon leaves?",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Animation, Comedy, Drama",
+      "Director": "Tony Oliver, Ryuichi Yagi, Takashi Yamazaki",
+      "Writer": "Fujio F. Fujiko, Takashi Yamazaki",
+      "Actors": "Wasabi Mizuta, Megumi Ôhara, Satoshi Tsumabuki",
+      "Language": "Japanese",
+      "Country": "Japan, United States"
+    },
+    {
       "title": "A Christmas Prince",
       "netflix_url": "https://www.netflix.com/title/80160759",
       "year": "2017",
@@ -2701,6 +2718,23 @@
       "Actors": "Acha Septriasa, Ryan Delon, Makayla Rose Hilli",
       "Language": "Indonesian",
       "Country": "Indonesia"
+    },
+    {
+      "title": "Erax",
+      "netflix_url": "https://www.netflix.com/title/81349232",
+      "year": "2022",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt17162512",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGQzMjU0MTUtNWI0OS00ODMwLTg4ZmMtODdmMzhjZDVkODI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "During a sleepover, Auntie Opal and her niece Nina accidentally release the mythical and dangerous Erax creatures that must be returned to the storybook from which they escaped.",
+      "Type": "movie",
+      "RunTime": "13 min",
+      "Genre": "Short, Family, Mystery",
+      "Director": "Hebru Brantley",
+      "Writer": "Henry G.M. Jones, Hebru Brantley",
+      "Actors": "Jasmine Cephas Jones, Genesis White, Lance Gross",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Dog Gone Trouble",

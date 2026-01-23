@@ -2034,6 +2034,23 @@
       "Country": "United States"
     },
     {
+      "title": "Gunpowder Milkshake",
+      "netflix_url": "https://www.netflix.com/title/81457469",
+      "year": "2021",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt8368408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmFhNTYwODItOTRhZi00MzJkLWIyNjAtYWRlMGVhODIyZmQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Three generations of women fight back against those who could take everything from them.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Navot Papushado",
+      "Writer": "Navot Papushado, Ehud Lavski",
+      "Actors": "Karen Gillan, Lena Headey, Carla Gugino",
+      "Language": "English, Russian",
+      "Country": "France, Germany, United States"
+    },
+    {
       "title": "My Name Is Vendetta",
       "netflix_url": "https://www.netflix.com/title/81458368",
       "year": "2022",
@@ -2399,6 +2416,23 @@
       "Country": "India"
     },
     {
+      "title": "Believer 2",
+      "netflix_url": "https://www.netflix.com/title/81594923",
+      "year": "2023",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt26258204",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjA0OGJhMjYtNTQ3YS00ZGE5LTg5YzAtOGRlMTA1NWJkMTM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A determined detective continues his search for the truth behind Asia's largest drug organization and its elusive boss he has unfinished business with.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Jong-Yeol Baek",
+      "Writer": "Cheol-Hong Jeon",
+      "Actors": "Kim Dong-young, Andreas Fronk, Han Hyo-joo",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Kalagathalaivan",
       "netflix_url": "https://www.netflix.com/title/81597751",
       "year": "2022",
@@ -2421,6 +2455,40 @@
       "Writer": "G.R. Indugopan",
       "Actors": "Prithviraj Sukumaran, Asif Ali, Anna Ben",
       "Language": "Malayalam",
+      "Country": "India"
+    },
+    {
+      "title": "Dasara",
+      "netflix_url": "https://www.netflix.com/title/81604816",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt15440322",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzkxNmQ5NGItZDFiZi00MTFiLWFmZTktODAxODliZDkzZTY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A brutal act sends an irresponsible small-time criminal on a mission of revenge.",
+      "Type": "movie",
+      "RunTime": "156 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Srikanth Odela",
+      "Writer": "Srikanth Odela, Thota Srinivas",
+      "Actors": "Nani, Keerthy Suresh, Shine Tom Chacko",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
+      "title": "The Ghost",
+      "netflix_url": "https://www.netflix.com/title/81614454",
+      "year": "2022",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt15309632",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTI1YjNhZGMtYjg0MC00YTU5LTkyMjctNGQwMGViNzYyOTljXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An ex-Interpol officer wreaks havoc and sends shock waves across the global underworld but goes missing in action, only to remerge years later, for his beloved family.",
+      "Type": "movie",
+      "RunTime": "138 min",
+      "Genre": "Action, Thriller",
+      "Director": "Praveen Sattaru",
+      "Writer": "Ali Lucknowi, Abhijeeth Poondla, Praveen Sattaru",
+      "Actors": "Nagarjuna Akkineni, Sonal Chauhan, Gul Panag",
+      "Language": "Telugu",
       "Country": "India"
     },
     {
@@ -2557,6 +2625,14 @@
       "Actors": "Sukollawat Kanarot, Sanya Kunakorn, Atitaya Tribudarak",
       "Language": "Thai",
       "Country": "Thailand"
+    },
+    {
+      "title": "Thunivu (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81672761",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Den of Thieves 2: Pantera",

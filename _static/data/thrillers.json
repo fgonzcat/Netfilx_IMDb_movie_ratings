@@ -173,6 +173,23 @@
       "Country": "Finland, France"
     },
     {
+      "title": "Bhool Bhulaiyaa",
+      "netflix_url": "https://www.netflix.com/title/70082633",
+      "year": "2007",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0995031",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGI1Y2UwNmQtMmE4MS00ZmVhLTg3YzgtYTg3NGUzOTI5NjdjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An NRI and his wife decide to stay in his ancestral home, paying no heed to the warnings about ghosts. Soon, inexplicable occurrences cause him to call a psychiatrist to help solve the mystery.",
+      "Type": "movie",
+      "RunTime": "159 min",
+      "Genre": "Comedy, Horror, Mystery",
+      "Director": "Priyadarshan",
+      "Writer": "Neeraj Vora, Manisha Korde, Madhu Muttam",
+      "Actors": "Akshay Kumar, Vidya Balan, Shiney Ahuja",
+      "Language": "Hindi, Bengali",
+      "Country": "India"
+    },
+    {
       "title": "New York",
       "netflix_url": "https://www.netflix.com/title/70121511",
       "year": "2009",
@@ -205,6 +222,23 @@
       "Actors": "Luis Tosar, Alberto Ammann, Antonio Resines",
       "Language": "Spanish, Basque, English",
       "Country": "Spain, France"
+    },
+    {
+      "title": "Carancho",
+      "netflix_url": "https://www.netflix.com/title/70139527",
+      "year": "2010",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt1542852",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTA3MDgwMTY0NV5BMl5BanBnXkFtZTcwNzk4NzEzNA@@._V1_SX300.jpg",
+      "Plot": "An ambulance chaser/carancho falls for an ER/ambulance doctor, he meets one night \"at work\" in Buenos Aires.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Crime, Drama, Romance",
+      "Director": "Pablo Trapero",
+      "Writer": "Alejandro Fadel, Martín Mauregui, Santiago Mitre",
+      "Actors": "Ricardo Darín, Federico Silva, Cristian De Asís",
+      "Language": "Spanish",
+      "Country": "Argentina, Chile, France, South Korea, Spain"
     },
     {
       "title": "Silent House",
@@ -791,6 +825,23 @@
       "Actors": "Sul Kyung-gu, Go Soo, Kang Hye-jeong",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "The Most Assassinated Woman in the World",
+      "netflix_url": "https://www.netflix.com/title/80159586",
+      "year": "2018",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt6186696",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2EyODRiODktMmU3OS00OTlmLWFlYmItOWM2ZjFiYzlmM2U3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Paula Maxa is the Parisian Grand Guignol Theatre's leading lady, famous for being murdered on stage every day. But is there a link between the theatre and a series of gruesome real-life murders?",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Biography, Drama, Mystery",
+      "Director": "Franck Ribière",
+      "Writer": "James Charkow, Vérane Frédiani, David Murdoch",
+      "Actors": "Anna Mouglalis, Niels Schneider, Jean-Michel Balthazar",
+      "Language": "French",
+      "Country": "Belgium, United Kingdom, United States"
     },
     {
       "title": "Small Crimes",
@@ -1796,6 +1847,23 @@
       "Country": "United States"
     },
     {
+      "title": "Under Her Control",
+      "netflix_url": "https://www.netflix.com/title/81085817",
+      "year": "2022",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt15006754",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTIyNTVjOGItYzA1ZC00NmNkLWFhYzUtZDRhNTIzMmVhOWQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a fashion employee thinks she will have to end her promising career after getting pregnant, her boss offers to adopt the child.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Drama",
+      "Director": "Fran Torres",
+      "Writer": "Laura Sarmiento Pallarés",
+      "Actors": "Aitana Sánchez-Gijón, Cumelén Sanz, Younes Bachir",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "We Have Always Lived in the Castle",
       "netflix_url": "https://www.netflix.com/title/81089941",
       "year": "2018",
@@ -2006,6 +2074,23 @@
       "Actors": "Riccardo Scamarcio, Annabelle Wallis, Massimiliano Gallo",
       "Language": "Italian, English",
       "Country": "Italy"
+    },
+    {
+      "title": "The Silent War",
+      "netflix_url": "https://www.netflix.com/title/81164288",
+      "year": "2020",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt2078768",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDliZjE3MmQtZWM0NS00MzM0LTgyYmYtZjNmZTdiY2M2ZTg3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An espionage thriller set in the 1950s and adapted from the novel \"Year Suan/Plot Against\" by May Jia. Tony Leung Chiu Wai plays a blind man who works for a piano tuner. He is recruited for a spy mission because of his exceptional...",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Felix Chong, Alan Mak",
+      "Writer": "Felix Chong, Si Luo, Jia Mai",
+      "Actors": "Tony Leung Chiu-wai, Xun Zhou, Xuebing Wang",
+      "Language": "Mandarin",
+      "Country": "Hong Kong, China"
     },
     {
       "title": "Don't Let Go",
@@ -2499,6 +2584,23 @@
       "Actors": "Kostja Ullmann, Corinna Kirchhoff, Marlene Tanczik",
       "Language": "German, English",
       "Country": "Germany"
+    },
+    {
+      "title": "Prime Time",
+      "netflix_url": "https://www.netflix.com/title/81296779",
+      "year": "2021",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt11460976",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQyMWM2OTktODdkZC00MWI4LWIzMDYtNTUwMjQwNTBkZTIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "On New Year's Eve 1999, an armed man enters a TV studio during a broadcast, takes the host hostage and makes one demand: to give a message live on air.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Jakub Piatek",
+      "Writer": "Lukasz Czapski, Jakub Piatek",
+      "Actors": "Bartosz Bielenia, Magdalena Poplawska, Andrzej Klak",
+      "Language": "Polish",
+      "Country": "Poland"
     },
     {
       "title": "Chor Nikal Ke Bhaga",
@@ -3009,6 +3111,23 @@
       "Actors": "Avantika, Prasanna Balachandran, Madhuri Jain",
       "Language": "Tamil",
       "Country": "India"
+    },
+    {
+      "title": "The Crime",
+      "netflix_url": "https://www.netflix.com/title/81435718",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt15613514",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTBjYWU4M2MtZjA1MC00NzVmLThlODUtM2JhNjRjODIwZTYzXkEyXkFqcGdeQXVyMTA4MjY5ODE@._V1_SX300.jpg",
+      "Plot": "A man named Adel. He is an elderly man who lives in a psychiatric clinic. The story talks about the period of Adel's life in the seventies . He is married to a girl called Nadia . The events revolve around the disappearance of Nadia.",
+      "Type": "movie",
+      "RunTime": "127 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Sherif Arafa",
+      "Writer": "Sherif Arafa",
+      "Actors": "Ahmed Ezz, Menna Shalabi, Maged El-Kidwani",
+      "Language": "Arabic",
+      "Country": "Egypt"
     },
     {
       "title": "30. March",
