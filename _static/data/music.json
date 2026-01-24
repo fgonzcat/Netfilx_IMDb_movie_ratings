@@ -598,6 +598,23 @@
       "Country": "United States"
     },
     {
+      "title": "ReMastered: Massacre at the Stadium",
+      "netflix_url": "https://www.netflix.com/title/80191048",
+      "year": "2019",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt9046562",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWU2M2M3ZjQtNmE5My00MTY4LTliMDItOWQwNDhjYjkzZmIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This documentary questions who killed Victor Jara, Chilean musician and activist who died during the dictatorship in his country.",
+      "Type": "movie",
+      "RunTime": "64 min",
+      "Genre": "Documentary, Drama",
+      "Director": "B.J. Perlmutt, Bent-Jorgen Perlmutt",
+      "Writer": "Catalina Ausin, John Meroney, Jeff Zimbalist",
+      "Actors": "Víctor Jara, Joan Jara, Pascale Bonnefoy",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "ReMastered: Devil at the Crossroads",
       "netflix_url": "https://www.netflix.com/title/80191049",
       "year": "2019",
@@ -1948,6 +1965,23 @@
       "Country": "Brazil"
     },
     {
+      "title": "Angèle",
+      "netflix_url": "https://www.netflix.com/title/81313522",
+      "year": "2021",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt15820298",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODEzODMzZjktZjdhZi00NzU0LTk3YmItMjMwNjhmZDRjZDg1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Belgian pop star Angèle reflects on her life and hopes as she finds balance amid the tears, joys and loneliness of fame. Told through her own words.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Sébastien Rensonnet, Brice Vdh",
+      "Writer": "N/A",
+      "Actors": "Angèle",
+      "Language": "French",
+      "Country": "France"
+    },
+    {
       "title": "Rainbow",
       "netflix_url": "https://www.netflix.com/title/81351145",
       "year": "2022",
@@ -2014,6 +2048,23 @@
       "Actors": "Shango Johnson",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Heroes: Silence and Rock & Roll",
+      "netflix_url": "https://www.netflix.com/title/81393720",
+      "year": "2021",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt14354838",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTBlYTQ3ZjktMTQ4OC00ZDM5LTgzMWMtNDRkOGExNzk5N2YxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "\"HEROES: SILENCIO Y ROCK AND ROLL\" tells the story of spanish rock band Héroes del Silencio since their very begining to their rise to stardom. It's a movie about friendship, music and compromise. It's the story of their lives, th...",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary",
+      "Director": "Alexis Morante",
+      "Writer": "Alexis Morante, Nacho Blasco",
+      "Actors": "Pedro Andreu, Enrique Bunbury, Joaquín Cardiel",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Edis Starlight",
@@ -2724,6 +2775,23 @@
       "Actors": "Diljit Dosanjh, Parineeti Chopra, Apinderdeep Singh",
       "Language": "Punjabi, Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Rebellion",
+      "netflix_url": "https://www.netflix.com/title/81667472",
+      "year": "2022",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt15344424",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTc4Nzk2MmItNTkxNS00Y2I0LWFhMzktYzllYmY5YzY1NWMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "La película retrata a un vulnerable y anónimo Joe Arroyo, quizás el cantante colombiano de salsa más importante de la historia, en su viaje claustrofóbico por diferentes momentos de su vida. Un genio musical, cantante y compositor...",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "José Luis Rugeles",
+      "Writer": "Chucky García, Martín Mauregui, José Luis Rugeles",
+      "Actors": "Angie Cepeda, Roger Duguay, Jhon Narváez",
+      "Language": "Spanish",
+      "Country": "Colombia, Argentina, United States"
     },
     {
       "title": "Fujii Kaze Love All Serve All Stadium Live",

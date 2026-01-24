@@ -71,6 +71,23 @@
       "Country": "United States"
     },
     {
+      "title": "Double Team",
+      "netflix_url": "https://www.netflix.com/title/1153229",
+      "year": "1997",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt0119013",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDhiNmU0OWMtN2I3YS00MWU3LWI4YTktMjQxMzJhYjQzMDRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An international spy teams up with an arms dealer to escape from a penal colony and rescue his family from a terrorist.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Action, Comedy, Sci-Fi",
+      "Director": "Hark Tsui",
+      "Writer": "Don Jakoby, Paul Mones",
+      "Actors": "Jean-Claude Van Damme, Dennis Rodman, Mickey Rourke",
+      "Language": "English, Italian",
+      "Country": "United States, Hong Kong"
+    },
+    {
       "title": "Anaconda",
       "netflix_url": "https://www.netflix.com/title/1153328",
       "year": "1997",
@@ -955,6 +972,23 @@
       "Country": "United States"
     },
     {
+      "title": "Sniper: Reloaded",
+      "netflix_url": "https://www.netflix.com/title/70170562",
+      "year": "2010",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt1571243",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODExYzQyOWItZTgwMi00MDFlLWIwM2EtYjdiZTM2Y2Y0M2JlXkEyXkFqcGdeQXVyNDA4OTExNDU@._V1_SX300.jpg",
+      "Plot": "The son of a renowned sniper decides to track down the sniper who ambushed his squad when they were sent to rescue a white planter in the Congo.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Action, Drama, Thriller, War",
+      "Director": "Claudio Fäh",
+      "Writer": "Michael Frost Beckner (based on characters created by), Crash Leyland (based on characters created by), John Fasano (screenplay by), Ross Helford (story by), John Fasano (story by)",
+      "Actors": "Chad Michael Collins, Richard Sammel, Annabel Wright, Billy Zane",
+      "Language": "English",
+      "Country": "South Africa, USA, Germany"
+    },
+    {
       "title": "Colombiana",
       "netflix_url": "https://www.netflix.com/title/70178640",
       "year": "2011",
@@ -1191,6 +1225,23 @@
       "Actors": "Arnold Schwarzenegger, Sam Worthington, Terrence Howard",
       "Language": "English, Spanish",
       "Country": "United States"
+    },
+    {
+      "title": "Dhoom: 3",
+      "netflix_url": "https://www.netflix.com/title/70287293",
+      "year": "2013",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt1833673",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDIxODBmZjYtYWM3Ny00N2U1LWI3M2ItMzZkNmQ4NWYyNDFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Jai and Ali return to catch the clown thief, Sahir, who has targeted various branches of the Western Bank of Chicago.",
+      "Type": "movie",
+      "RunTime": "172 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Vijay Krishna Acharya",
+      "Writer": "Vijay Krishna Acharya, Aditya Chopra",
+      "Actors": "Aamir Khan, Katrina Kaif, Abhishek Bachchan",
+      "Language": "Hindi, English",
+      "Country": "India, United States"
     },
     {
       "title": "Rurouni Kenshin: Origins",
@@ -1966,6 +2017,23 @@
       "Country": "United States, Colombia"
     },
     {
+      "title": "The Climb",
+      "netflix_url": "https://www.netflix.com/title/80194671",
+      "year": "2017",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt5157682",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDUwMWU1NWUtNmI2ZS00NmUwLTg0MjgtYWZiODU5Njk1ZmY4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young man from the suburbs with no mountaineering experience decides to climb Mt Everest to show a woman he'd do anything for her.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Ludovic Bernard",
+      "Writer": "Ludovic Bernard, Nadir Dendoune, Olivier Ducray",
+      "Actors": "Ahmed Sylla, Alice Belaïdi, Kévin Razy",
+      "Language": "French, English, German, Nepali",
+      "Country": "France"
+    },
+    {
       "title": "GODZILLA The Planet Eater",
       "netflix_url": "https://www.netflix.com/title/80198623",
       "year": "2018",
@@ -2687,6 +2755,23 @@
       "Country": "United States"
     },
     {
+      "title": "Overhaul",
+      "netflix_url": "https://www.netflix.com/title/81058338",
+      "year": "2023",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt16427938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWZlMjQ3NjMtMTFlNi00OGYyLWI1MWQtOWI3M2RkODNlYmQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When truck racer Roger loses everything, he receives a tempting but dangerous offer: to work as the getaway driver for a gang of thieves.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Tomas Portella",
+      "Writer": "Tomas Portella, Leandro Soares",
+      "Actors": "Milhem Cortaz, Raphael Logam, Thiago Martins",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
       "title": "Sweet Girl",
       "netflix_url": "https://www.netflix.com/title/81058613",
       "year": "2021",
@@ -2872,6 +2957,23 @@
       "Actors": "N/A",
       "Language": "N/A",
       "Country": "N/A"
+    },
+    {
+      "title": "Lost Bullet",
+      "netflix_url": "https://www.netflix.com/title/81108579",
+      "year": "2020",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt10456740",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2M0MDA2MDAtYTUyNC00NGFlLTllYTEtMDE3NTlkMWM4ZTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Guillaume Pierret",
+      "Writer": "Guillaume Pierret, Alban Lenoir, Kamel Guemra",
+      "Actors": "Alban Lenoir, Nicolas Duvauchelle, Ramzy Bedia",
+      "Language": "French, English",
+      "Country": "France"
     },
     {
       "title": "Against The Ice",
@@ -3136,6 +3238,22 @@
       "imdb_id": null
     },
     {
+      "title": "Major (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81242574",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Major (Telugu)",
+      "netflix_url": "https://www.netflix.com/title/81242575",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Dostana (1980)",
       "netflix_url": "https://www.netflix.com/title/81244365",
       "year": "1980",
@@ -3252,6 +3370,23 @@
       "Actors": "Ryôsuke Yamada, Tsubasa Honda, Mackenyu",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Fullmetal Alchemist The Final Alchemy",
+      "netflix_url": "https://www.netflix.com/title/81266981",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34266128",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "N/A",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "Enola Holmes",
@@ -4154,6 +4289,23 @@
       "Country": "Poland"
     },
     {
+      "title": "The Takeover",
+      "netflix_url": "https://www.netflix.com/title/81488967",
+      "year": "2022",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt18082758",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDNmZDFjZTktNTE2NC00Yzc1LTgzNDUtYWJhM2U3NzQxMjY5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Framed for murder after uncovering a privacy scandal, an ethical hacker must evade the police while trying to track down the criminals blackmailing her.",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Annemarie van de Mond",
+      "Writer": "Hans Bot, Hans Erik Kraan, Tijs van Marle",
+      "Actors": "Holly Mae Brood, Géza Weisz, Frank Lammers",
+      "Language": "English, Dutch",
+      "Country": "Netherlands"
+    },
+    {
       "title": "Jawan: Extended Cut",
       "netflix_url": "https://www.netflix.com/title/81493411",
       "year": "2023",
@@ -4508,6 +4660,23 @@
       "Actors": "Anahita Afshar, Ali Shadman, Aida Mahiani",
       "Language": "Persian",
       "Country": "Iran"
+    },
+    {
+      "title": "Heart of the Hunter",
+      "netflix_url": "https://www.netflix.com/title/81579704",
+      "year": "2024",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt28943278",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjhiMWM3NjEtNzkxNy00NTNjLWEyNzQtYjdiZTFkODczNWYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A retired assassin is pulled back into action when his friend uncovers a dangerous conspiracy at the heart of the South African government.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Action, Thriller",
+      "Director": "Mandla Dube",
+      "Writer": "Deon Meyer, Willem Grobler",
+      "Actors": "Bonko Khoza, Connie Ferguson, Masasa Mbangeni",
+      "Language": "English",
+      "Country": "South Africa"
     },
     {
       "title": "The Great Flood",
@@ -5044,6 +5213,23 @@
       "Country": "India"
     },
     {
+      "title": "House of Ga'a",
+      "netflix_url": "https://www.netflix.com/title/81681233",
+      "year": "2024",
+      "imdb_rating": "3.9",
+      "imdb_id": "tt31691318",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGMzOTBkYTYtYzc3Ny00ZmExLTkwNTctZTc2MDA0MGM2ZGU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A ruthless Prime Minister desperate for revenge ferociously rises to power, stopping at nothing to become more powerful than the kings he served.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Bolanle Austen-Peters",
+      "Writer": "Tunde Babalola",
+      "Actors": "Femi Branch, Mike Afolarin, Funke Akindele",
+      "Language": "English",
+      "Country": "Nigeria"
+    },
+    {
       "title": "Jewel Thief - The Heist Begins",
       "netflix_url": "https://www.netflix.com/title/81688854",
       "year": "2025",
@@ -5110,6 +5296,23 @@
       "Actors": "Philip Seymour Hoffman, Rachel McAdams, Daniel Brühl",
       "Language": "English, Turkish, Arabic",
       "Country": "United Kingdom, United States, Germany"
+    },
+    {
+      "title": "The Black Book",
+      "netflix_url": "https://www.netflix.com/title/81698992",
+      "year": "2023",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt24083908",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDBlNzU1NWItZmZkOC00YTI5LWJkMDQtZTJiMGVkYjJkNjZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After his son is framed for a kidnapping, a bereaved deacon takes justice into his own hands and fights a corrupt police gang to absolve him.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Thriller",
+      "Director": "Editi Effiong",
+      "Writer": "Editi Effiong, Bunmi Ajakaiye",
+      "Actors": "Richard Mofe-Damijo, Ade Laoye, Sam Dede",
+      "Language": "English",
+      "Country": "Nigeria"
     },
     {
       "title": "Freelance",
@@ -5337,6 +5540,23 @@
       "Writer": "Rajkumar Periasamy",
       "Actors": "Sivakarthikeyan, Sai Pallavi, Bhuvan Arora",
       "Language": "Tamil",
+      "Country": "India"
+    },
+    {
+      "title": "Devara",
+      "netflix_url": "https://www.netflix.com/title/81728598",
+      "year": "2024",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt11821912",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI5NTljYWItMDhjMC00NDQwLWFhMjQtNWNjNDYzYzkwNGQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A mighty sea warrior takes a violent stand against the criminal deeds of his village. Years later, his mild-mannered son walks a path of his own.",
+      "Type": "movie",
+      "RunTime": "176 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Koratala Siva",
+      "Writer": "Koratala Siva",
+      "Actors": "N.T. Rama Rao Jr., Saif Ali Khan, Janhvi Kapoor",
+      "Language": "Telugu",
       "Country": "India"
     },
     {
@@ -5862,6 +6082,14 @@
       "Country": "India"
     },
     {
+      "title": "Pushpa 2: The Rule (Reloaded Version)",
+      "netflix_url": "https://www.netflix.com/title/82006666",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Sniper: The Last Stand",
       "netflix_url": "https://www.netflix.com/title/82027214",
       "year": "2025",
@@ -6004,6 +6232,14 @@
       "Actors": "David A.R. White, Cuba Gooding Jr., Jason Patric",
       "Language": "N/A",
       "Country": "United States"
+    },
+    {
+      "title": "Akhanda 2: Thaandavam",
+      "netflix_url": "https://www.netflix.com/title/82180284",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Border Hunters",

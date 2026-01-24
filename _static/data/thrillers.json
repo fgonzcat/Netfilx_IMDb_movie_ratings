@@ -810,6 +810,23 @@
       "Country": "United States"
     },
     {
+      "title": "Pandora",
+      "netflix_url": "https://www.netflix.com/title/80158577",
+      "year": "2016",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt6302160",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjRkMjAxMjgtZTUwMC00MDI0LWI3YTYtYzVjZDFkMWQ1YTkyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The explosion of a nuclear power plant caused by an earthquake leads to a disaster which no one other than its workers can stop from spreading further.",
+      "Type": "movie",
+      "RunTime": "136 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Jeong-woo Park",
+      "Writer": "Jeong-woo Park",
+      "Actors": "Kim Nam-gil, Kim Joo-Hyun, Jung Jin-young",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Lucid Dream",
       "netflix_url": "https://www.netflix.com/title/80158750",
       "year": "2017",
@@ -1350,6 +1367,23 @@
       "Director": "Gonzalo Bendala",
       "Writer": "Gonzalo Bendala",
       "Actors": "Julián Villagrán, Marian Álvarez, Ester Expósito",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
+      "title": "Solo",
+      "netflix_url": "https://www.netflix.com/title/80245041",
+      "year": "2018",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt6699860",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2ZDExYTEtMDhmMy00ZDc5LWIyZGItNDBlNzI0YWY3OGMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After falling by a cliff on a desert beach, a seriously injured surfer starts a lonely fight to survive against the merciless nature.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Adventure, Biography, Drama",
+      "Director": "Hugo Stuven",
+      "Writer": "Santiago Lallana, Hugo Stuven",
+      "Actors": "Alain Hernández, Aura Garrido, Ben Temple",
       "Language": "Spanish",
       "Country": "Spain"
     },
@@ -1915,6 +1949,23 @@
       "Country": "France, Belgium"
     },
     {
+      "title": "Badla",
+      "netflix_url": "https://www.netflix.com/title/81112446",
+      "year": "2019",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt8130968",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDEyNjI2NTktZmJlMy00Njk5LTk2OGQtMjI5NTAwNWRiZmFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A dynamic young entrepreneur finds herself locked in a hotel room with the corpse of her dead lover. She hires a prestigious lawyer to defend her and they work together to figure out what actually happened.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Sujoy Ghosh",
+      "Writer": "Oriol Paulo, Sujoy Ghosh, Raj Vasant",
+      "Actors": "Amitabh Bachchan, Taapsee Pannu, Antonio Aakeel",
+      "Language": "Hindi, English",
+      "Country": "India"
+    },
+    {
       "title": "Rogue City",
       "netflix_url": "https://www.netflix.com/title/81115400",
       "year": "2020",
@@ -2015,6 +2066,14 @@
       "Actors": "George MacKay, Jannis Niewöhner, Jeremy Irons",
       "Language": "English, German",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Game Over (Tamil Version)",
+      "netflix_url": "https://www.netflix.com/title/81151877",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Game Over (Hindi Version)",
@@ -2142,6 +2201,23 @@
       "Actors": "Adrian Titieni, Elena Purea, Judith State",
       "Language": "Romanian",
       "Country": "Romania, Sweden"
+    },
+    {
+      "title": "Thambi",
+      "netflix_url": "https://www.netflix.com/title/81176204",
+      "year": "2019",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt10468636",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzdhMjNkZDQtMmZjMC00ZWY5LWIyN2UtNDM3NWY2Yjc3ZWE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Parvathy is elated when she finds out that her brother, Saravanan, who has been missing for 15 years, is in Goa. However, somebody has already hatched a plan to kill him.",
+      "Type": "movie",
+      "RunTime": "149 min",
+      "Genre": "Action, Thriller",
+      "Director": "Jeethu Joseph",
+      "Writer": "Sameer Arora, Nani Challagulla, Renzil D'Silva",
+      "Actors": "Karthi, Jyotika, Sathyaraj",
+      "Language": "Tamil",
+      "Country": "India"
     },
     {
       "title": "Aaviri",
@@ -2584,6 +2660,23 @@
       "Actors": "Kostja Ullmann, Corinna Kirchhoff, Marlene Tanczik",
       "Language": "German, English",
       "Country": "Germany"
+    },
+    {
+      "title": "Kappela",
+      "netflix_url": "https://www.netflix.com/title/81289659",
+      "year": "2020",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt11230868",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2FmNTJjZGUtZGRiYS00ZjU5LWFhZTktYjE1MjFiZjcxYTAwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set in the village areas of Wayanad, Malappuram and Kannur, Kappela revolves around an ordinary, innocent girl who comes to Kozhikode city from a high range area called Poovarmala.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Muhammed Musthafa",
+      "Writer": "Muhammed Musthafa, Sudhas, Nikhil Vahid",
+      "Actors": "Anna Ben, Sreenath Bhasi, Roshan Mathew",
+      "Language": "Malayalam",
+      "Country": "India"
     },
     {
       "title": "Prime Time",
@@ -3351,6 +3444,23 @@
       "Country": "Argentina"
     },
     {
+      "title": "Noise",
+      "netflix_url": "https://www.netflix.com/title/81455885",
+      "year": "2023",
+      "imdb_rating": "3.5",
+      "imdb_id": "tt21326658",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjhiM2VjODItY2EyMS00ODFkLThkZjktZDk2N2EyOTkxYjZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After moving his family into his childhood home, a man's investigation into a local factory accident connected to his father unveils dark family secrets.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "Steffen Geypens",
+      "Writer": "Robin Kerremans, Hasse Steenssens, Steffen Geypens",
+      "Actors": "Ward Kerremans, Sallie Harmsen, Johan Leysen",
+      "Language": "Dutch",
+      "Country": "Belgium, Netherlands"
+    },
+    {
       "title": "Nayattu",
       "netflix_url": "https://www.netflix.com/title/81457107",
       "year": "2021",
@@ -3979,6 +4089,14 @@
       "Country": "India"
     },
     {
+      "title": "Maamannan (Tamil)",
+      "netflix_url": "https://www.netflix.com/title/81597747",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Murder at Yellowstone City",
       "netflix_url": "https://www.netflix.com/title/81609709",
       "year": "2022",
@@ -4182,6 +4300,57 @@
       "SkipTitle": true
     },
     {
+      "title": "Butta Bomma",
+      "netflix_url": "https://www.netflix.com/title/81641429",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt23490324",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjdhOGM0YjMtYmZkYy00NjdhLWJjMzItYTVkZGE3Y2RhMGY5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Satya, a girl from a village in Araku who falls in love with Murali, an auto driver she has never met, over the phone.",
+      "Type": "movie",
+      "RunTime": "122 min",
+      "Genre": "Drama, Romance",
+      "Director": "Chandrasekhar T. Ramesh",
+      "Writer": "Ganesh Kumar Ravuri",
+      "Actors": "Arjun Das, Nanajee Karri, Charan Kurugonda",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
+      "title": "Jolly Roger",
+      "netflix_url": "https://www.netflix.com/title/81641731",
+      "year": "2022",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt22740250",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTZhZGJkZDctMDJiNC00MzVkLWIxMTMtYzNkN2YwZjlmMTM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "One fateful night, an encounter at a police checkpoint manned by two drunk Officers sets off a chain of events that turns Brume and Najite's blissful lives upside down and leads them on a journey of greed, deception and murder.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Thriller",
+      "Director": "Walter Taylaur",
+      "Writer": "Babatunde Apalowo",
+      "Actors": "Daniel Etim Effiong, Toni Tones, Deyemi Okanlawon",
+      "Language": "N/A",
+      "Country": "N/A"
+    },
+    {
+      "title": "Broken Wings",
+      "netflix_url": "https://www.netflix.com/title/81644088",
+      "year": "2022",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt18938680",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmI2NTM3NGItYTllZi00OWRiLWIyMDItYzVlZDQ3ZGRlYWQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When violence erupts at a detention center, a police officer combats armed prisoners - as his wife goes into labor without him. Inspired by real events.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Action, Drama, Romance",
+      "Director": "Rudy Soedjarwo",
+      "Writer": "Monty Tiwa, Erik Tiwa, Alim Sudio",
+      "Actors": "Nicholas Saputra, Ariel Tatum, Iwa K.",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Borderless Fog",
       "netflix_url": "https://www.netflix.com/title/81644947",
       "year": "2024",
@@ -4197,6 +4366,40 @@
       "Actors": "Putri Marino, Yoga Pratama, Lukman Sardi",
       "Language": "Indonesian",
       "Country": "Indonesia"
+    },
+    {
+      "title": "11:11",
+      "netflix_url": "https://www.netflix.com/title/81647073",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt14443572",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjYzViY2QtMWE0Yi00MWQ4LWJjY2EtMzQ5MTc2N2RlZGU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A struggling addict in recovery visits his sister instead of a dealer following an unexpected memory from childhood.",
+      "Type": "movie",
+      "RunTime": "13 min",
+      "Genre": "Short, Drama",
+      "Director": "Lisa Singletary",
+      "Writer": "L.E. Flinders",
+      "Actors": "Fadhia Carmelle Marcelin, L.A. Williams",
+      "Language": "N/A",
+      "Country": "United States"
+    },
+    {
+      "title": "THE VILLAGE",
+      "netflix_url": "https://www.netflix.com/title/81652131",
+      "year": "2023",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt21882650",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDY3NzlkNzgtZTJmMi00ODE5LWIwZjItNTY4NzNlMzA3NmFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A stranded urbanite and his three unlikely companions brave an eerie village with a sinister past to rescue his missing family in one night.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Horror, Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Arya, Aadukalam Naren, Muthukumar",
+      "Language": "Tamil",
+      "Country": "India"
     },
     {
       "title": "Delicious",
@@ -4373,6 +4576,23 @@
       "year": "2024",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "The Big Fake",
+      "netflix_url": "https://www.netflix.com/title/81679860",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36741457",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmYzMDhiZTgtNzYxZi00YTMwLWJlMjAtYjljNmZkMTRkN2M0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Rome, 1970s. When Toni arrives in the city with the dream of becoming a great artist. But his hunger for life, destiny and perhaps even History will lead him to become the greatest of all forgers.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Drama, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "Italian",
+      "Country": "Italy"
     },
     {
       "title": "Do Patti",
@@ -4627,6 +4847,40 @@
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
+    },
+    {
+      "title": "Pulimada",
+      "netflix_url": "https://www.netflix.com/title/81726744",
+      "year": "2023",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt28337918",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDg4NDgzNDQtZDcyYy00ZWJjLTg5MGMtMTNjNDgyOGJhNjBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After being left at the altar, an embittered police officer preys on a stranded tourist - while a deadly tiger in the area adds another layer of menace.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "A.K. Sajan",
+      "Writer": "A.K. Sajan",
+      "Actors": "Joju George, Aishwarya Rajesh, Chemban Vinod Jose",
+      "Language": "Malayalam",
+      "Country": "India"
+    },
+    {
+      "title": "Villains in the Metropolis",
+      "netflix_url": "https://www.netflix.com/title/81727022",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt30796949",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGVmMWE1MGMtYTMxOC00NjE2LWJmMmQtZWYzNWVkNTgzMThlXkEyXkFqcGdeQXVyNzc5NDg5Mjc@._V1_SX300.jpg",
+      "Plot": "With her unfaithful boyfriend in tow, a young physician embarks on a bloody crime spree after a fateful encounter with a violent criminal.",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Thriller",
+      "Director": "Dancurf Brown",
+      "Writer": "Dancurf Brown",
+      "Actors": "Lonex Agwenge, Belinda Aswes, Mwaura Bilal",
+      "Language": "Swahili",
+      "Country": "Kenya"
     },
     {
       "title": "Non Negotiable",

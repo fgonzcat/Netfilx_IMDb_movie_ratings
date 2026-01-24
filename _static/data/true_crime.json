@@ -801,6 +801,23 @@
       "Country": "United States"
     },
     {
+      "title": "1994",
+      "netflix_url": "https://www.netflix.com/title/80991872",
+      "year": "2019",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt8736278",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmY5NDQ5NmUtMjcxOS00ZDYxLTliZWQtZDM0ZDZhZWRhNDE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Italian drama based in the turbulent political landscape of 1990s Italy.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "Alessandro Fabbri, Ludovica Rampoldi, Stefano Sardo",
+      "Actors": "Stefano Accorsi, Guido Caprino, Miriam Leone",
+      "Language": "Italian",
+      "Country": "Italy, Germany"
+    },
+    {
       "title": "Crime Diaries: Night Out",
       "netflix_url": "https://www.netflix.com/title/80994596",
       "year": "2019",
@@ -841,6 +858,23 @@
       "Actors": "Bo Butterworth, Bri Bryant, Edward Craig",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Crime Stories: India Detectives",
+      "netflix_url": "https://www.netflix.com/title/81000068",
+      "year": "2021",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt14178956",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjYwYjM0M2QtZjRmMC00OWI1LWFmY2EtNjQzOTIxODFjYmQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows major criminal investigations from the time the crime is reported until the suspect gets captured.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N. Shashi Kumar, Roopa K.S., Gopala Nayak",
+      "Language": "Kannada",
+      "Country": "India"
     },
     {
       "title": "Abducted in Plain Sight",
@@ -1378,6 +1412,23 @@
       "Country": "United States"
     },
     {
+      "title": "A Kidnapping Scandal: The Florence Cassez Affair",
+      "netflix_url": "https://www.netflix.com/title/81134165",
+      "year": "2022",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt21388530",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmE0MDBiYTQtMjhjYi00MjcyLWIzM2QtZjg0N2U0NjJmZDZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Was Florence Cassez the mastermind of a kidnapping ring? Or a victim of corruption? This documentary examines one of Mexico's most controversial cases.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Pamela Almanza, Humberto Busto, Axel Arenas",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
       "title": "The Indrani Mukerjea Story: Buried Truth",
       "netflix_url": "https://www.netflix.com/title/81150989",
       "year": "2024",
@@ -1546,6 +1597,23 @@
       "Actors": "Dale Wayne Sigler, Carole Whitworth, Forest Allen Zeltner",
       "Language": "English",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Indian Predator: The Butcher of Delhi",
+      "netflix_url": "https://www.netflix.com/title/81252894",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt14178824",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGJjOWQxMTAtOWQ0Ny00MzQyLWJlZjktODNjNTM2MjQyZjNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Uncovering the details of gruesome killings, people who were at the epicentre talk about what went down.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Altaf Hussain, Bunny Adhikari, Sanjay Bansal",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "The Tinder Swindler",
@@ -1837,6 +1905,23 @@
       "Country": "United States, United Kingdom"
     },
     {
+      "title": "The Outreau Case: A French Nightmare",
+      "netflix_url": "https://www.netflix.com/title/81368117",
+      "year": "2024",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt31358077",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjkzZjAxYTEtMThmYi00ZWNiLWI5ZDktMmE0NmI5ZGEyNWUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A tragic affair of child abuse and judicial disaster, this docuseries revisits the Outreau case, one of the biggest scandals in French history.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jonathan Delay, Fabienne Roy-Nansion, Fabrice Burgaud",
+      "Language": "French",
+      "Country": "France"
+    },
+    {
       "title": "Ghislaine Maxwell: Filthy Rich",
       "netflix_url": "https://www.netflix.com/title/81380539",
       "year": "2022",
@@ -1980,6 +2065,40 @@
       "Country": "Germany"
     },
     {
+      "title": "Vjeran Tomic: The Spider-Man of Paris",
+      "netflix_url": "https://www.netflix.com/title/81446275",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt29274601",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWMzMmQ2YjEtYjFjMC00MDQ1LWE2ZTgtZGM1MWJiZWZiZjQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In his own words, the burglar behind the 2010 robbery of the Paris Museum of Modern Art tells how he pulled off the biggest art heist in French history.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Jamie Roberts",
+      "Writer": "N/A",
+      "Actors": "Louis Deleegher, Maxime Canat, Derek Simon Robin",
+      "Language": "French",
+      "Country": "N/A"
+    },
+    {
+      "title": "Gladbeck: The Hostage Crisis",
+      "netflix_url": "https://www.netflix.com/title/81446276",
+      "year": "2022",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt20420316",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTY5NWVlZWMtMWVlYy00NTQyLWFlYWEtYTlkMmUwZTAxMzE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In August 1988, two armed bank robbers keep German and Dutch police at bay for 54 hours during a hostage-taking drama that ends badly.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Volker Heise",
+      "Writer": "N/A",
+      "Actors": "Marion Löblich, Dieter Degowski, Hans-Jürgen Rösner",
+      "Language": "German",
+      "Country": "Germany"
+    },
+    {
       "title": "I Am Vanessa Guillen",
       "netflix_url": "https://www.netflix.com/title/81460514",
       "year": "2022",
@@ -2046,6 +2165,23 @@
       "Actors": "Dale, Fristian Griec, Otto Hasibuan",
       "Language": "Indonesian, English",
       "Country": "Indonesia, Singapore"
+    },
+    {
+      "title": "Bad Vegan: Fame. Fraud. Fugitives.",
+      "netflix_url": "https://www.netflix.com/title/81470938",
+      "year": "2022",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt18260538",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDk3MDZhOWQtZGIzYS00MThlLWI2YzYtM2EzNzgyM2Q3YmJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After marrying a mysterious man who claimed he could make her dog immortal, a celebrated vegan restaurateur finds her life veering off the rails.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Sarma Melngailis, Allen Salkin, Ilze Melngailis",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Nurse",
@@ -2122,6 +2258,23 @@
       "Actors": "David Glatzel, Alan Glatzel, Carl Glatzel Jr.",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "In the Name of God: A Holy Betrayal",
+      "netflix_url": "https://www.netflix.com/title/81493078",
+      "year": "2023",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt26340363",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWI4ZGNiYmMtODQ2OS00YTQyLWI4YWUtMDczNDNlZjRmMjc3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This docuseries examining the chilling true stories of four Korean leaders claiming to be prophets exposes the dark side of unquestioning belief.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Andrew Lee, Keisuke Hoashi, June Yoon",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "When Missing Turns to Murder",
@@ -2241,6 +2394,23 @@
       "Actors": "Charles Cullen, Amy Loughren, Donna Hargreaves",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Caught in the Web: The Murders Behind Zona Divas",
+      "netflix_url": "https://www.netflix.com/title/81517594",
+      "year": "2024",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt33246792",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODg3ODdlNjQtZjMyNi00NzljLTg4YjEtYjk5OWM0NjcwOWRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In Mexico City's seedy underworld, impoverished women get trapped in an online escort ring, oblivious to the tragic femicides awaiting them.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Brenda Stewart, Candace Miller, Karla Casillas",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "From Rock Star to Killer",
@@ -2377,6 +2547,23 @@
       "Actors": "Christophe Haddad, Roberto Gomes, Dario Scott",
       "Language": "Portuguese",
       "Country": "Brazil"
+    },
+    {
+      "title": "Don't Pick Up the Phone",
+      "netflix_url": "https://www.netflix.com/title/81576846",
+      "year": "2022",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt23826740",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzUwYzg5MzEtNWMzZi00ZGFiLWE1ZDgtYjUwNmZmMjVjZTk0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows the investigation into a hoax caller who convinced managers to strip-search employees at fast food businesses across the United States.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Susan Spano, Buddy Stump, Connie Leonard",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Crime Diaries: The Celebrity Stylist",
@@ -2598,6 +2785,40 @@
       "Actors": "Ángel Moya, Beatriz de Vicente, F. Javier Barroso",
       "Language": "Spanish",
       "Country": "Spain"
+    },
+    {
+      "title": "Indian Predator: The Diary of a Serial Killer",
+      "netflix_url": "https://www.netflix.com/title/81610333",
+      "year": "2022",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt21811888",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDE3NzYyNzktNWYyOC00ZjY2LWI1MDMtMjlhZTg2OGQ1NWYzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a suspect is found in a journalist's murder, the case is considered closed until a secret diary suggests 13 more victims and possible cannibalism.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Shardanand Singh, Ravi Shah",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Beast of Bangalore: Indian Predator",
+      "netflix_url": "https://www.netflix.com/title/81610578",
+      "year": "2022",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt23751640",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjliZDQ0MGYtYTAwYS00MWNjLWEzMjMtYmIwNzZiNzcyMjJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A dangerous predator on the streets of Bangalore, lurking in the shadows leaving women feeling unsafe. He changed the whole landscape of this city.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Raj Kumar Singh",
+      "Language": "N/A",
+      "Country": "India"
     },
     {
       "title": "Lover, Stalker, Killer",

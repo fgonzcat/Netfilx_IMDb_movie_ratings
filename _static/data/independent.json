@@ -887,6 +887,23 @@
       "Country": "United States"
     },
     {
+      "title": "Spivak",
+      "netflix_url": "https://www.netflix.com/title/80117736",
+      "year": "2017",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt6342110",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWJjYmIzY2UtM2YwYi00MmM4LTkyNDMtYzFiYWM0NzcxZjNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Struggling writer Wally Spivak is stuck in a rut--until he meets an engaged couple and starts to see life in a whole new way.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Comedy",
+      "Director": "Anthony Abrams, Adam Larson Broder",
+      "Writer": "Anthony Abrams, Adam Larson Broder",
+      "Actors": "Michael Bacall, Maggie Lawson, Elden Henson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Blue Jay",
       "netflix_url": "https://www.netflix.com/title/80117746",
       "year": "2016",
@@ -2295,6 +2312,23 @@
       "Country": "United States, United Kingdom"
     },
     {
+      "title": "Tammy's Always Dying",
+      "netflix_url": "https://www.netflix.com/title/81177512",
+      "year": "2019",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt9386648",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2I5NjcwMGMtZGU2NS00MzgwLWJkMDItYjM0YjNiNGQ2Zjg5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Catherine, a young woman forced to care for her embarrassing alcoholic mother, decides to flee her life of poverty and appear on a sleazy talk show after her mother is diagnosed with terminal cancer.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Drama",
+      "Director": "Amy Jo Johnson",
+      "Writer": "Joanne Sarazen",
+      "Actors": "Felicity Huffman, Anastasia Phillips, Clark Johnson",
+      "Language": "English, French, Spanish",
+      "Country": "Canada"
+    },
+    {
       "title": "The Wretched",
       "netflix_url": "https://www.netflix.com/title/81178839",
       "year": "2019",
@@ -3143,6 +3177,14 @@
       "Country": "Tunisia"
     },
     {
+      "title": "Ariyippu/Declaration",
+      "netflix_url": "https://www.netflix.com/title/81631026",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Starfish",
       "netflix_url": "https://www.netflix.com/title/81634640",
       "year": "2023",
@@ -3260,6 +3302,23 @@
       "Actors": "Alex Roe, Maddie Hasson, Marco Pigossi",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "How to Have Sex",
+      "netflix_url": "https://www.netflix.com/title/81716895",
+      "year": "2023",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt22890246",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODEyY2ZjZGUtNzE1MS00YjhlLTkwYTctMTNkZDVlZWZmOWQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Three British teenage girls go on a rites-of-passage holiday - drinking, clubbing and hooking up, in what should be the best summer of their lives.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Drama",
+      "Director": "Molly Manning Walker",
+      "Writer": "Molly Manning Walker",
+      "Actors": "Anna Antoniades, Mia McKenna-Bruce, Lara Peake",
+      "Language": "English",
+      "Country": "United Kingdom, Greece, France, Belgium"
     },
     {
       "title": "Shastry Virudh Shastry",

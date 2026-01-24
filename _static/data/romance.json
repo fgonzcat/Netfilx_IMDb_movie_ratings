@@ -173,6 +173,23 @@
       "Country": "United States"
     },
     {
+      "title": "Silsila",
+      "netflix_url": "https://www.netflix.com/title/60001659",
+      "year": "1981",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0083081",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTZhNGIwNzktOWFmNy00NzNhLWFkNGItNGQ2ZTMwYmQ4ZTczXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "SILSILA is a love story, thwarted by society's demands, which reappears as adultery but can it survive in the face of society?",
+      "Type": "movie",
+      "RunTime": "182 min",
+      "Genre": "Drama, Family, Romance",
+      "Director": "Yash Chopra",
+      "Writer": "Mrs. Preeti Bedi, Yash Chopra, Sagar Sarhadi",
+      "Actors": "Amitabh Bachchan, Rekha, Jaya Bachchan",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Kabhi Kabhie",
       "netflix_url": "https://www.netflix.com/title/60001663",
       "year": "1976",
@@ -1931,6 +1948,23 @@
       "Country": "Australia"
     },
     {
+      "title": "Tara VS. Bilal",
+      "netflix_url": "https://www.netflix.com/title/80993401",
+      "year": "2022",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt14398454",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzcwNTY1NmItYjgxZC00MWQ4LTlkMjAtMDA0YmQ2YmUwYmFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set in London, a romantic comedy where the leading character enter a fake marriage and later fall in love.",
+      "Type": "movie",
+      "RunTime": "126 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Samar Iqbal",
+      "Writer": "Sanyuktha Chawla Shaikh",
+      "Actors": "Sonia Rathee, Harshvardhan Rane, Shammi Aulakh",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Us and Them",
       "netflix_url": "https://www.netflix.com/title/80993655",
       "year": "2018",
@@ -2558,6 +2592,23 @@
       "Actors": "Larissa Manoela, Erasmo Carlos, Katiuscia Canoro",
       "Language": "Portuguese",
       "Country": "Brazil, Mexico"
+    },
+    {
+      "title": "Isi & Ossi",
+      "netflix_url": "https://www.netflix.com/title/81058435",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt9806322",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDVjY2JhYWQtNjZkMi00NWU1LTljZTctNWEzYWExOTFiMjJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "To realize their culinary and boxing dreams, the daughter of a billionaire forms a mutually beneficial alliance with the son of a struggling single mom.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Oliver Kienle",
+      "Writer": "Oliver Kienle",
+      "Actors": "Livia Renner, Nayla Sophie Brehmer, Christina Hecke",
+      "Language": "German, English",
+      "Country": "Germany"
     },
     {
       "title": "Crazy About Her",
@@ -4240,6 +4291,23 @@
       "Country": "United States"
     },
     {
+      "title": "Dreamy Eyes",
+      "netflix_url": "https://www.netflix.com/title/81463445",
+      "year": "2019",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt10622410",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTg0ZmQ3OTUtZDY0MC00M2MyLWIzZDktZjA2ZWM1NmRiZGJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The movie tells the one-sided love story of a young man, Ngan, for his girlfriend from childhood, Ha Lan.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Drama, Romance",
+      "Director": "Victor Vu",
+      "Writer": "Trieu Hoang My, Kay Nguyen, Victor Vu",
+      "Actors": "Trúc Anh, Tran Nghia, Tran Phong",
+      "Language": "Vietnamese",
+      "Country": "Vietnam"
+    },
+    {
       "title": "Student of the Year 2",
       "netflix_url": "https://www.netflix.com/title/81464996",
       "year": "2019",
@@ -4799,6 +4867,23 @@
       "Country": "Ireland, United States"
     },
     {
+      "title": "Story of Dinda: Second Chance of Happiness",
+      "netflix_url": "https://www.netflix.com/title/81597204",
+      "year": "2021",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt14807282",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU2YzVmY2YtZDY5Zi00ZTA4LTgyOWItYTY5NDliYmY5MTJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dinda believes that there is a kind of love that doesn't hurt, and Pram is the proof. Meeting Pram makes his world that almost collapsed back into one.",
+      "Type": "movie",
+      "RunTime": "59 min",
+      "Genre": "Drama, Romance",
+      "Director": "Ginanti Rona",
+      "Writer": "Marchella F.P., Mohammad Irfan Ramly",
+      "Actors": "Aurélie Moeremans, Abimana Aryasatya, Ardhito Pramono",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "The Entitled",
       "netflix_url": "https://www.netflix.com/title/81597575",
       "year": "2022",
@@ -5241,6 +5326,23 @@
       "Country": "Australia"
     },
     {
+      "title": "A Soweto Love Story",
+      "netflix_url": "https://www.netflix.com/title/81675070",
+      "year": "2024",
+      "imdb_rating": "4.4",
+      "imdb_id": "tt28943323",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjVjZjYwNTMtZGUxYy00MDJkLWIzYmEtNzkzZWEyNGNhNmQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When her three grown sons show no signs of settling down and starting their own families, a mother uses the coveted family home to entice them into doing the right thing- the first to get married before the New Year wins the home.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Rolie Nikiwe",
+      "Writer": "Darrel Bristow-Bovey, Zelipa Zulu",
+      "Actors": "Lunga Shabalala, Duduzile Ngcobo, Sparky Xulu",
+      "Language": "English",
+      "Country": "South Africa"
+    },
+    {
       "title": "Mad",
       "netflix_url": "https://www.netflix.com/title/81678103",
       "year": "2023",
@@ -5341,6 +5443,23 @@
       "Actors": "Carlo Aquino, Lovi Poe, Sarah Edwards",
       "Language": "Tagalog, Filipino",
       "Country": "Philippines"
+    },
+    {
+      "title": "Dream Girl 2",
+      "netflix_url": "https://www.netflix.com/title/81687159",
+      "year": "2023",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt22086334",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzNzYzNzctNWIyNC00NDRhLWFkNGMtMzYxOTA2ZjgwYzFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Karam, who is trying to live a serious life in Mathura and falls in love with Pari but life is hell bent on not taking him seriously. In a turn of events Karam becomes Pooja which creates further chaos in his already chaotic life.",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Gauri Joshi, Raaj Shaandilyaa",
+      "Writer": "Naresh Kathooria, Ishrat R. Khan, Raaj Shaandilyaa",
+      "Actors": "Ayushmann Khurrana, Ananya Panday, Paresh Rawal",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Rewind",
@@ -5562,6 +5681,23 @@
       "Actors": "Ajay Devgn, Neha Sharma, Tabu",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Miss Shampoo",
+      "netflix_url": "https://www.netflix.com/title/81717580",
+      "year": "2023",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt27671269",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDUxODRjNzAtOWEwYS00ZmQ2LWIwNmYtNTE3MjA4MDZmZmZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A mafia member is chased by a gang into a hair salon, a young apprentice save his life. He returns the favour by making all his gang members have their hair done by her but put in danger when they try to find a traitor.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Giddens Ko",
+      "Writer": "Giddens Ko",
+      "Actors": "Yu-hong Hong, Vivian Sung, Kai Ko",
+      "Language": "Mandarin, Min Nan",
+      "Country": "Taiwan"
     },
     {
       "title": "The Quintessential Quintuplets Movie",
@@ -5857,6 +5993,23 @@
       "Director": "Angga Dwimas Sasongko",
       "Writer": "Ika Natassa, Angga Dwimas Sasongko, Alim Sudio",
       "Actors": "Laura Basuki, Reza Rahadian, Chicco Jerikho",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
+      "title": "Ali Topan",
+      "netflix_url": "https://www.netflix.com/title/81755772",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt26923485",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2RmM2NkMmYtNjdiNS00ZTcxLWFmNzAtYWI2Zjg2ODNiNzA1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ali Topan, from a chaotic family, finds love with Anna Karenina, sparking a forbidden romance that leads them on a perilous journey across Java, facing opposition and accusations.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Adventure, Comedy, Crime",
+      "Director": "Sidharta Tata",
+      "Writer": "Ifan Ismail, Sidharta Tata, Teguh Esha",
+      "Actors": "Jefri Nichol, Lutesha, Ari Sihasale",
       "Language": "Indonesian",
       "Country": "Indonesia"
     },
@@ -6966,6 +7119,23 @@
       "Writer": "Lisa Hepner",
       "Actors": "McKenzie Westmore, Gail O'Grady, Lorenzo Lamas",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "A Sprinkle of Christmas",
+      "netflix_url": "https://www.netflix.com/title/82141894",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36923925",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDVhOTE0ZGUtN2U1NS00M2RjLThlYmQtOWU3ZjdjOTc4NjgyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Short",
+      "Director": "Marquis Sewell",
+      "Writer": "Marquis Sewell",
+      "Actors": "Giorgio Johnson, Jazmin D. Johnson",
+      "Language": "N/A",
       "Country": "United States"
     },
     {

@@ -902,6 +902,23 @@
       "SkipTitle": true
     },
     {
+      "title": "Tammy's Always Dying",
+      "netflix_url": "https://www.netflix.com/title/81177512",
+      "year": "2019",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt9386648",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2I5NjcwMGMtZGU2NS00MzgwLWJkMDItYjM0YjNiNGQ2Zjg5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Catherine, a young woman forced to care for her embarrassing alcoholic mother, decides to flee her life of poverty and appear on a sleazy talk show after her mother is diagnosed with terminal cancer.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Drama",
+      "Director": "Amy Jo Johnson",
+      "Writer": "Joanne Sarazen",
+      "Actors": "Felicity Huffman, Anastasia Phillips, Clark Johnson",
+      "Language": "English, French, Spanish",
+      "Country": "Canada"
+    },
+    {
       "title": "The House",
       "netflix_url": "https://www.netflix.com/title/81178338",
       "year": "2022",
@@ -1774,6 +1791,23 @@
       "Actors": "Onadio Leonardo, Enzy Storia, Indro Warkop",
       "Language": "Indonesian",
       "Country": "Indonesia"
+    },
+    {
+      "title": "Masameer Junior",
+      "netflix_url": "https://www.netflix.com/title/81711834",
+      "year": "2025",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt31408343",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmZmZDMzYjQtNTg1Ni00OWUzLWJkNjQtZTEyODg5ZmY3MGJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a dire lesson on bad behavior, three unruly six-year-olds embark on a chaotic quest for the ultimate \"good deed\" unleashing mayhem at every turn.",
+      "Type": "movie",
+      "RunTime": "71 min",
+      "Genre": "Animation, Comedy",
+      "Director": "Malik Nejer",
+      "Writer": "Abdulaziz Ghonem",
+      "Actors": "N/A",
+      "Language": "Arabic",
+      "Country": "Saudi Arabia"
     },
     {
       "title": "Miss Shampoo",

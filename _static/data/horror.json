@@ -1286,6 +1286,14 @@
       "Country": "Poland"
     },
     {
+      "title": "Game Over (Tamil Version)",
+      "netflix_url": "https://www.netflix.com/title/81151877",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Game Over (Hindi Version)",
       "netflix_url": "https://www.netflix.com/title/81151880",
       "year": "2019",
@@ -1445,6 +1453,23 @@
       "Actors": "Michael Caine, Katharine Ross, Richard Widmark",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Bridge Curse",
+      "netflix_url": "https://www.netflix.com/title/81224632",
+      "year": "2020",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt11242242",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRkOGU2NGUtZjRjOS00YjU5LThkZTMtNjNmNDZjNmNiMmVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "University students, planning a bravery initiation test for their fellow classmates, choose a campus bridge rumored to be haunted by a vengeful female ghost.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Lester Hsi",
+      "Writer": "Keng-Ming Chang, Po-Hsiang Hao",
+      "Actors": "Ning Chang, Joe Hsieh, Cheng Ko",
+      "Language": "Chinese",
+      "Country": "Taiwan"
     },
     {
       "title": "His House",
@@ -2885,6 +2910,40 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Kampon",
+      "netflix_url": "https://www.netflix.com/title/81754265",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt29544860",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjY3ZGMxZDItY2FlMi00MDQ1LWIwZTQtOWQ5MDQzNTM4ODJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Movie about married couple who takes in girl claiming to be husband's child. Wife bonds with her as husband probes girl's past. Tension builds over child's mysterious behavior and unclear origins.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Action, Drama, Horror",
+      "Director": "King Palisoc",
+      "Writer": "Dodo Dayao, King Palisoc",
+      "Actors": "Derek Ramsay, Beauty Gonzalez, Erin Espiritu",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
+    },
+    {
+      "title": "Wanita Ahli Neraka",
+      "netflix_url": "https://www.netflix.com/title/81755763",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt33771507",
+      "Poster": "N/A",
+      "Plot": "The life of a woman named Farah. After officially getting married and having the status of a wife, Farah was suddenly possessed by a dark power until she slowly lost control of herself.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Horror",
+      "Director": "Farishad I. Latjuba",
+      "Writer": "N/A",
+      "Actors": "Febby Rastanty, Oka Antara, Ashira Zamita",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Kuyang",
       "netflix_url": "https://www.netflix.com/title/81755768",
       "year": "2024",
@@ -3188,6 +3247,14 @@
       "Actors": "Jodi Sta. Maria, Joem Bascon, Juan Karlos Labajo",
       "Language": "Filipino",
       "Country": "Philippines"
+    },
+    {
+      "title": "The Redemption of Sin",
+      "netflix_url": "https://www.netflix.com/title/82018121",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Heart Eyes",

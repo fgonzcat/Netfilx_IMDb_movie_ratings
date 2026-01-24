@@ -1650,6 +1650,23 @@
       "Country": "India"
     },
     {
+      "title": "Pulang",
+      "netflix_url": "https://www.netflix.com/title/81020161",
+      "year": "2018",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt8595708",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjM5NGI1NDMtM2ZkNC00NTJiLWI4ZTgtZDFkMzEyMDllOTAxXkEyXkFqcGdeQXVyODQ0NDE3MjM@._V1_SX300.jpg",
+      "Plot": "PULANG is about a man from a village who sails around the world hoping for riches as his wife waits for his promised return for - 61 years.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Adventure, Drama, Romance",
+      "Director": "Kabir Bhatia",
+      "Writer": "Mira Mustaffa, Ahmad Izham Omar",
+      "Actors": "Remy Ishak, Puteri Aishah, Alvin Wong",
+      "Language": "Malay, English",
+      "Country": "Malaysia"
+    },
+    {
       "title": "Lady J",
       "netflix_url": "https://www.netflix.com/title/81024044",
       "year": "2019",
@@ -1868,6 +1885,23 @@
       "Writer": "Deepti Naval",
       "Actors": "Rajit Kapoor, Manisha Koirala, Sanaj Naval",
       "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Maska",
+      "netflix_url": "https://www.netflix.com/title/81082537",
+      "year": "2020",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt11953628",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGI2NGE4YjctNjYzNS00OGU5LThiZTUtMzZkMjk3ZmRmYTUzXkEyXkFqcGdeQXVyNjk3OTEwNTk@._V1_SX300.jpg",
+      "Plot": "Determined to make it in showbiz, an aspiring young actor considers turning his back on the beloved Irani café run by his family for generations.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Neeraj Udhwani, Jaspal Singh",
+      "Writer": "Ishita Moitra, Neeraj Udhwani",
+      "Actors": "Prit Kamani, Manisha Koirala, Shirley Setia",
+      "Language": "English, Hindi, Parsee",
       "Country": "India"
     },
     {
@@ -2123,6 +2157,23 @@
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
+    },
+    {
+      "title": "Bhangra Paa Le",
+      "netflix_url": "https://www.netflix.com/title/81177341",
+      "year": "2019",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt9766280",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzA2YzI5OWYtODBjOC00OGJhLTg4NjMtMGJkMGU3ZDZmNWEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Determined to bring traditional bhangra to the world stage, a dancer preps for an international competition against a rival with dreams of her own.",
+      "Type": "movie",
+      "RunTime": "131 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Sneha Taurani",
+      "Writer": "Dheeraj Rattan",
+      "Actors": "Sunny Kaushal, Rukshar Dhillon, Shriya Pilgaonkar",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Mehandi Circus",
@@ -2515,6 +2566,23 @@
       "Country": "India"
     },
     {
+      "title": "Chief Daddy 2 - Going for Broke",
+      "netflix_url": "https://www.netflix.com/title/81323628",
+      "year": "2021",
+      "imdb_rating": "3.2",
+      "imdb_id": "tt16760592",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODc5MmU1MWQtNmYxYy00YmNkLTlkNGUtMzA4NzM4ZjQ2NGE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Beecroft family are ready to spend all of Chief Daddy's inheritance, but not if the CEO of his company has anything to do with it.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Comedy",
+      "Director": "Niyi Akinmolayan",
+      "Writer": "Mo Abudu, Salah Sabiti, Heidi Uys",
+      "Actors": "Chika Agwuike, Dakore Akande, Violet Akhator",
+      "Language": "English",
+      "Country": "Nigeria"
+    },
+    {
       "title": "Chandigarh Kare Aashiqui",
       "netflix_url": "https://www.netflix.com/title/81323993",
       "year": "2021",
@@ -2598,6 +2666,23 @@
       "Actors": "Angelica Panganiban, Coco Martin, Gelli De Belen",
       "Language": "Tagalog, Filipino",
       "Country": "Philippines"
+    },
+    {
+      "title": "C/O Kaadhal",
+      "netflix_url": "https://www.netflix.com/title/81346055",
+      "year": "2021",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt11803618",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODYwNWFkZjktOGYxMS00ZWRlLTlkNGItZDdiODU2ZTEwMjM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A heart warming film that explores the concept of romance with episodes involving four sets of people of different age group.",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Drama",
+      "Director": "Jasti Hemambar",
+      "Writer": "Venkatesh Maha, Sekar Neelan",
+      "Actors": "Aayira, Deepann, Sonia Giri",
+      "Language": "Tamil",
+      "Country": "India"
     },
     {
       "title": "Badhaai Do",
@@ -3616,6 +3701,23 @@
       "Actors": "Mandisa Constable, Llewellyn Cordier, Nyaniso Dzedze",
       "Language": "English",
       "Country": "South Africa"
+    },
+    {
+      "title": "Biko",
+      "netflix_url": "https://www.netflix.com/title/81631031",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt14571020",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzBlNGU1OWUtZmVkZi00ZTIzLTk5NjAtZTI5YTBmMjlhNWQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Izwan is a single father raising his son Biko. They get kicked out of their house for failure to pay rent. Irfan's best friend Sherry takes Biko for an audition with a famous singer, Sara. But who is Sara?",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Drama, Family, Romance",
+      "Director": "Teng Bee",
+      "Writer": "Tommy Loh, Puovin Sandera",
+      "Actors": "Azrel Ismail, Baby Shima, Syed Irfan",
+      "Language": "Malay",
+      "Country": "Malaysia"
     },
     {
       "title": "Nitham Oru Vaanam",
@@ -4712,6 +4814,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Mr. Bachchan",
+      "netflix_url": "https://www.netflix.com/title/81918754",
+      "year": "2024",
+      "imdb_rating": "3.6",
+      "imdb_id": "tt28282872",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDU0YzM2ZmUtMmQyMC00YjQ3LThjMjYtNTBhZTFmYWQ5MWEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A straight-laced income tax officer suspended due to his unwavering honesty returns to his hometown and falls in love with a woman who reciprocates his feelings, before he is reinstated and tasked with raiding the home of a powerf...",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Harish Shankar",
+      "Writer": "Harish Shankar",
+      "Actors": "Jagapathi Babu, Vennela Kishore, Ravi Teja",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
       "title": "Maple Leaf Dreams",
       "netflix_url": "https://www.netflix.com/title/81919477",
       "year": "2024",
@@ -4752,6 +4871,23 @@
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
+    },
+    {
+      "title": "Firecracker",
+      "netflix_url": "https://www.netflix.com/title/81923251",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt16393028",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjJiNzBlMjgtN2FkMS00NDhlLWE3MGMtN2JmMWUwYTkyZGNlXkEyXkFqcGdeQXVyODI1Mzk2ODg@._V1_SX300.jpg",
+      "Plot": "On the night of their anniversary, a Chinese woman must decide whether to keep her Asian-American girlfriend a secret from her traditional family with the upcoming Chinese New Year or live out her dream as her true self.",
+      "Type": "movie",
+      "RunTime": "15 min",
+      "Genre": "Short, Comedy, Drama",
+      "Director": "Caroline Guo",
+      "Writer": "Caroline Guo",
+      "Actors": "Lydia Jialu Li, Faye Nightingale",
+      "Language": "English, Mandarin",
+      "Country": "United States"
     },
     {
       "title": "The Time That Remains",

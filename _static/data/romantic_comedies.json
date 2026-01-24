@@ -343,6 +343,23 @@
       "Country": "United States, India"
     },
     {
+      "title": "Jhoom Barabar Jhoom",
+      "netflix_url": "https://www.netflix.com/title/70072686",
+      "year": "2007",
+      "imdb_rating": "3.7",
+      "imdb_id": "tt0833476",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDAxNjU1MmUtNjBhYS00ZDhhLTljNDMtYjFlOWU0MDY2NzMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A crazy love story full of lies, deceits and a complicated quadrangle where each one has to think quickly and dance around each other's emotions.",
+      "Type": "movie",
+      "RunTime": "138 min",
+      "Genre": "Comedy, Drama, Musical",
+      "Director": "Shaad Ali",
+      "Writer": "Habib Faisal, Tigmanshu Dhulia, Anurag Kashyap",
+      "Actors": "Abhishek Bachchan, Preity G Zinta, Bobby Deol",
+      "Language": "English, Hindi, Punjabi",
+      "Country": "India"
+    },
+    {
       "title": "Aaja Nachle",
       "netflix_url": "https://www.netflix.com/title/70077538",
       "year": "2007",
@@ -2568,6 +2585,23 @@
       "Country": "United States"
     },
     {
+      "title": "Friendzone",
+      "netflix_url": "https://www.netflix.com/title/81306350",
+      "year": "2021",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt14700948",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzM1ODgxMzktMDliMS00ZDg2LTg5NTctZWU5YjNlMTZjYjVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Hopeful romantic Thibault believes his luck could change when sparks fly between him and Rose. But can he go from bestie to boyfriend.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Charles Van Tieghem",
+      "Writer": "Stanislas Carré de Malberg, Charles Van Tieghem",
+      "Actors": "Mickaël Lumière, Manon Azem, Fadily Camara",
+      "Language": "French, English",
+      "Country": "France"
+    },
+    {
       "title": "Trippin' with the Kandasamys",
       "netflix_url": "https://www.netflix.com/title/81307032",
       "year": "2021",
@@ -3035,6 +3069,23 @@
       "Country": "Taiwan, China"
     },
     {
+      "title": "A Naija Christmas",
+      "netflix_url": "https://www.netflix.com/title/81434660",
+      "year": "2021",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt15565704",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDI0MTIxM2ItNzAzNy00ZjMyLTlkNzUtNGJjOGFlNmU4MzRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A mother's Christmas wish - and the grand prize that comes with it - sets off a fierce competition between her sons.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Kunle Afolayan",
+      "Writer": "Kemi Adesoye",
+      "Actors": "Onikosi Bukola Abisoye, Lateef Adedimeji, Soledayo Adegbite",
+      "Language": "English",
+      "Country": "Nigeria"
+    },
+    {
       "title": "Cheers to Life",
       "netflix_url": "https://www.netflix.com/title/81436780",
       "year": "2025",
@@ -3120,6 +3171,23 @@
       "Country": "United States"
     },
     {
+      "title": "Rich in Love 2",
+      "netflix_url": "https://www.netflix.com/title/81459281",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt23144234",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWYwNjdiM2QtMzUwNy00MTY4LWIzYjItM2E1NzdkYzg4OWFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Paula leaves Rio de Janeiro to resume her work as a volunteer doctor in the Amazon, Teto hatches an impulsive plan to follow her and chaos ensues.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Bruno Garotti, Jessica Blue",
+      "Writer": "Bruno Garotti, Sylvio Gonçalves, Maíra Oliveira",
+      "Actors": "Adanilo, Kevin Andrew Rivera, Jaffar Bambirra",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
       "title": "Good Grief",
       "netflix_url": "https://www.netflix.com/title/81462549",
       "year": "2024",
@@ -3169,6 +3237,23 @@
       "Actors": "Giuseppe Maggio, Ludovica Francesconi, Jozef Gjura",
       "Language": "Italian",
       "Country": "Italy"
+    },
+    {
+      "title": "I Believe in Santa",
+      "netflix_url": "https://www.netflix.com/title/81477797",
+      "year": "2022",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt23722792",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGZkNWJmOWUtN2M4YS00YTg3LTliMWQtZTFhMDBjOWY3YzRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Love is a gift. But when you find out the man you've fallen for still believes in Santa, do you accept it - or send it back?",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Alex Ranarivelo",
+      "Writer": "John Ducey",
+      "Actors": "Christina Moore, John Ducey, Violet McGraw",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "That's Amor",
@@ -3237,6 +3322,23 @@
       "Actors": "Magdalena Lamparska, Mikolaj Roznerski, Piotr Cyrwus",
       "Language": "Polish",
       "Country": "Poland"
+    },
+    {
+      "title": "Four to Dinner",
+      "netflix_url": "https://www.netflix.com/title/81486147",
+      "year": "2021",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt14247286",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjMwZmY5MjEtMjI3Zi00NjRjLThlYzctMjQ1YzNhNDIxODVjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this rom-com challenging the concept of soulmates, parallel storylines portray four single friends as they pair up in different couple combinations.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Alessio Maria Federici",
+      "Writer": "Martino Coli",
+      "Actors": "Ilenia Pastorelli, Matilde Gioli, Giuseppe Maggio",
+      "Language": "Italian",
+      "Country": "Italy"
     },
     {
       "title": "The Hating Game",
@@ -3475,6 +3577,23 @@
       "Actors": "Nat Kitcharit, Urassaya Sperbund, Anusara Korsamphan",
       "Language": "Thai, English",
       "Country": "Thailand"
+    },
+    {
+      "title": "The Storied Life of A.J. Fikry",
+      "netflix_url": "https://www.netflix.com/title/81615175",
+      "year": "2022",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt10643926",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmRmZTY5ZTAtOGRjZC00NTZmLWE5N2YtYjkzNWQzZWVkZjAyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A.J. Fikry's wife has died, his bookstore is in trouble, and now his prized rare edition of Poe poems has been stolen. However, when a mysterious package appears, its arrival gives him the chance to start his life over and see thi...",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Hans Canosa",
+      "Writer": "Gabrielle Zevin",
+      "Actors": "Christina Hendricks, Scott Foley, Lucy Hale",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Love at First Stream",
@@ -3976,6 +4095,23 @@
       "Actors": "Ajay Devgn, Neha Sharma, Tabu",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Miss Shampoo",
+      "netflix_url": "https://www.netflix.com/title/81717580",
+      "year": "2023",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt27671269",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDUxODRjNzAtOWEwYS00ZmQ2LWIwNmYtNTE3MjA4MDZmZmZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A mafia member is chased by a gang into a hair salon, a young apprentice save his life. He returns the favour by making all his gang members have their hair done by her but put in danger when they try to find a traitor.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Giddens Ko",
+      "Writer": "Giddens Ko",
+      "Actors": "Yu-hong Hong, Vivian Sung, Kai Ko",
+      "Language": "Mandarin, Min Nan",
+      "Country": "Taiwan"
     },
     {
       "title": "Love and Wine",
