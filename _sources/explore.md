@@ -67,7 +67,7 @@ Interpretation
 
   <label>
     Year to:
-    <input id="yearTo" type="number" value="2025" style="width:4em;">
+    <input id="yearTo" type="number" value="2026" style="width:4em;">
   </label>
 
   <label>
