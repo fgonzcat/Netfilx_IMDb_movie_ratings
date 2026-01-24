@@ -1,66 +1,204 @@
 #List of moves in genre "Crime Documentaries" :  https://www.netflix.com/browse/genre/9875
 
-"30 for 30: The Two Escobars"                                           2010      https://www.netflix.com/title/70137756
-"A Cop Movie"                                                           2021      https://www.netflix.com/title/81314321
-"A Life Too Short: The Isabella Nardoni Case"                           2023      https://www.netflix.com/title/81506051
-"Aileen: Queen of the Serial Killers"                                   2025      https://www.netflix.com/title/81673047
+"1994"                                                                  2019      https://www.netflix.com/title/80991872
+"30 for 30: The Life and Trials of Oscar Pistorius"                     2020      https://www.netflix.com/title/81753675
+"30 for 30: O.J.: Made in America"                                      2016      https://www.netflix.com/title/80118958
+"A Tragedy Foretold: Flight 3054"                                       2025      https://www.netflix.com/title/81572416
 "A Deadly American Marriage"                                            2025      https://www.netflix.com/title/81588273
-"American Murder: The Family Next Door"                                 2020      https://www.netflix.com/title/81130130
-"An Invisible Victim: The Eliza Samudio Case"                           2024      https://www.netflix.com/title/81645273
+"Aileen: Queen of the Serial Killers"                                   2025      https://www.netflix.com/title/81673047
+"A Cop Movie"                                                           2021      https://www.netflix.com/title/81314321
+"50 Seconds: The Fernando Báez Sosa Case"                              2025      https://www.netflix.com/title/81699731
+"A Perfect Crime"                                                       2020      https://www.netflix.com/title/81022994
+"A Life Too Short: The Isabella Nardoni Case"                           2023      https://www.netflix.com/title/81506051
+"30 for 30: The Two Escobars"                                           2010      https://www.netflix.com/title/70137756
+"A Kidnapping Scandal: The Florence Cassez Affair"                      2022      https://www.netflix.com/title/81134165
 "Amanda Knox"                                                           2016      https://www.netflix.com/title/80081155
+"American Conspiracy: The Octopus Murders"                              2024      https://www.netflix.com/title/81168725
+"American Manhunt: O.J. Simpson"                                        2025      https://www.netflix.com/title/81700899
+"Amy Bradley Is Missing"                                                2025      https://www.netflix.com/title/81741332
+"American Nightmare"                                                    2024      https://www.netflix.com/title/81620852
+"An Invisible Victim: The Eliza Samudio Case"                           2024      https://www.netflix.com/title/81645273
 "Athlete A"                                                             2020      https://www.netflix.com/title/81034185
-"Big Mäck: Gangsters and Gold"                                         2023      https://www.netflix.com/title/81495571
+"Bad Influence: The Dark Side of Kidfluencing"                          2025      https://www.netflix.com/title/81728889
+"American Murder: Gabby Petito"                                         2025      https://www.netflix.com/title/81733793
+"American Manhunt: The Boston Marathon Bombing"                         2023      https://www.netflix.com/title/81580822
+"American Murder: The Family Next Door"                                 2020      https://www.netflix.com/title/81130130
+"American Murder: Laci Peterson"                                        2024      https://www.netflix.com/title/81582794
+"Bad Vegan: Fame. Fraud. Fugitives."                                    2022      https://www.netflix.com/title/81470938
+"Bad Surgeon: Love Under the Knife"                                     2023      https://www.netflix.com/title/81607097
+"Bank Robbers: The Last Great Heist"                                    2022      https://www.netflix.com/title/81248392
+"Bad Sport"                                                             2021      https://www.netflix.com/title/81084829
 "Biggest Heist Ever"                                                    2024      https://www.netflix.com/title/81600031
 "Bikram: Yogi, Guru, Predator"                                          2019      https://www.netflix.com/title/80221584
-"Bitconned"                                                             2024      https://www.netflix.com/title/81507283
-"Broken Idol: The Undoing of Diomedes Díaz"                            2022      https://www.netflix.com/title/81294594
-"Casting JonBenet"                                                      2017      https://www.netflix.com/title/80142316
-"Breaking the Silence: The Maria Soledad Case"                          2024      https://www.netflix.com/title/81623231
+"Beauty and the Bester"                                                 2025      https://www.netflix.com/title/81713096
 "Capturing the Killer Nurse"                                            2022      https://www.netflix.com/title/81512108
-"Cocaine Cowboys 2"                                                     2008      https://www.netflix.com/title/70100553
-"Eloá the Hostage: Live on TV"                                         2025      https://www.netflix.com/title/81481358
+"Captive"                                                               2016      https://www.netflix.com/title/80065491
+"Casting JonBenet"                                                      2017      https://www.netflix.com/title/80142316
+"Bitconned"                                                             2024      https://www.netflix.com/title/81507283
+"Caught in the Web: The Murders Behind Zona Divas"                      2024      https://www.netflix.com/title/81517594
+"Can I Tell You A Secret?"                                              2024      https://www.netflix.com/title/81637286
+"Chaos: The Manson Murders"                                             2025      https://www.netflix.com/title/81482892
+"Cocaine Air: Smugglers at 30,000 Ft."                                  2025      https://www.netflix.com/title/81614967
+"Catching Killers"                                                      2023      https://www.netflix.com/title/81264650
+"Cold Case: Who Killed JonBenét Ramsey"                                2024      https://www.netflix.com/title/81705443
+"Cold Case: The Tylenol Murders"                                        2025      https://www.netflix.com/title/81757969
+"Conversations with a Killer: The Jeffrey Dahmer Tapes"                 2022      https://www.netflix.com/title/81173345
+"Attack on London: Hunting The 7/7 Bombers"                             2025      https://www.netflix.com/title/81715711
+"Cooking Up Murder: Uncovering the Story of César Román"              2024      https://www.netflix.com/title/81711038
+"Crime Scene: The Vanishing at the Cecil Hotel"                         2021      https://www.netflix.com/title/81183727
+"Conversations with a Killer: The Son of Sam Tapes"                     2025      https://www.netflix.com/title/81721775
 "Curry & Cyanide - The Jolly Joseph Case"                               2023      https://www.netflix.com/title/81564452
-"Fugitive: The Curious Case of Carlos Ghosn"                            2022      https://www.netflix.com/title/81227167
+"Conversations with a Killer: The Ted Bundy Tapes"                      2019      https://www.netflix.com/title/80226612
+"Crime Scene: The Texas Killing Fields"                                 2022      https://www.netflix.com/title/81555750
+"Dig Deeper: The Disappearance of Birgit Meier"                         2021      https://www.netflix.com/title/81040563
+"Dirty Money"                                                           2020      https://www.netflix.com/title/80118100
+"Don't F**k with Cats: Hunting an Internet Killer"                      2019      https://www.netflix.com/title/81031373
+"Conversations with a Killer: The John Wayne Gacy Tapes"                2022      https://www.netflix.com/title/81298614
+"Crime Scene: The Times Square Killer"                                  2021      https://www.netflix.com/title/81405883
+"Cocaine Cowboys: The Kings of Miami"                                   2021      https://www.netflix.com/title/80996810
+"Dope"                                                                  2019      https://www.netflix.com/title/80178726
+"Drug Lords"                                                            2018      https://www.netflix.com/title/80177803
 "Evil Influencer: The Jodi Hildebrandt Story"                           2025      https://www.netflix.com/title/81925846
-"Ghislaine Maxwell: Filthy Rich"                                        2022      https://www.netflix.com/title/81380539
+"Evil Genius: the True Story of America's Most Diabolical Bank Heist"   2018      https://www.netflix.com/title/80158319
+"Exhibit A"                                                             2019      https://www.netflix.com/title/80245117
+"Elize Matsunaga: Once Upon a Crime"                                    2021      https://www.netflix.com/title/81043160
+"Eloá the Hostage: Live on TV"                                         2025      https://www.netflix.com/title/81481358
+"Fear City: New York vs The Mafia"                                      2020      https://www.netflix.com/title/80218338
+"Fortune Seller: A TV Scam"                                             2022      https://www.netflix.com/title/81417724
+"Fred and Rose West: A British Horror Story"                            2025      https://www.netflix.com/title/81707030
+"Get Gotti"                                                             2023      https://www.netflix.com/title/81628150
+"Files of the Unexplained"                                              2024      https://www.netflix.com/title/81593881
+"Gone Girls: The Long Island Serial Killer"                             2025      https://www.netflix.com/title/81729869
+"Happy Jail"                                                            2019      https://www.netflix.com/title/80223113
 "Girl in the Picture"                                                   2022      https://www.netflix.com/title/81212487
+"Dirty Pop: The Boy Band Scam"                                          2024      https://www.netflix.com/title/81476403
+"House of Secrets: The Burari Deaths"                                   2021      https://www.netflix.com/title/81095095
+"How to Become a Cult Leader"                                           2023      https://www.netflix.com/title/81596972
+"Ghislaine Maxwell: Filthy Rich"                                        2022      https://www.netflix.com/title/81380539
+"I AM A STALKER"                                                        2022      https://www.netflix.com/title/81087537
+"Homicide"                                                              2024      https://www.netflix.com/title/81562383
+"I Am Vanessa Guillen"                                                  2022      https://www.netflix.com/title/81460514
+"I Just Killed My Dad"                                                  2022      https://www.netflix.com/title/81290894
+"Heist"                                                                 2021      https://www.netflix.com/title/81087195
 "How to Rob a Bank"                                                     2024      https://www.netflix.com/title/81427740
 "Icarus"                                                                2017      https://www.netflix.com/title/80168079
-"I Am Vanessa Guillen"                                                  2022      https://www.netflix.com/title/81460514
-"Jailbreak: Love on the Run"                                            2024      https://www.netflix.com/title/81654970
+"In the Name of God: A Holy Betrayal"                                   2023      https://www.netflix.com/title/81493078
+"Ice Cold: Murder, Coffee and Jessica Wongso"                           2023      https://www.netflix.com/title/81467099
+"Into the Fire: The Lost Daughter"                                      2024      https://www.netflix.com/title/81769165
+"Inside the Criminal Mind"                                              2018      https://www.netflix.com/title/80185065
+"Inside the World’s Toughest Prisons"                                 2023      https://www.netflix.com/title/80116922
+"I AM A KILLER: RELEASED"                                               2020      https://www.netflix.com/title/81227743
+"Jimmy Savile: A British Horror Story"                                  2022      https://www.netflix.com/title/81520549
+"Keep Sweet: Pray and Obey"                                             2022      https://www.netflix.com/title/81292539
 "Into the Deep: The Submarine Murder Case"                              2022      https://www.netflix.com/title/80239100
+"Jailbreak: Love on the Run"                                            2024      https://www.netflix.com/title/81654970
+"Jeffrey Epstein: Filthy Rich"                                          2020      https://www.netflix.com/title/80224905
+"I AM A KILLER"                                                         2025      https://www.netflix.com/title/80202283
+"Killer Sally"                                                          2022      https://www.netflix.com/title/81331076
+"Killer Ratings"                                                        2019      https://www.netflix.com/title/80217946
+"La Línea: Shadow of Narco"                                            2020      https://www.netflix.com/title/81095075
 "Long Shot"                                                             2017      https://www.netflix.com/title/80182115
+"Making a Murderer"                                                     2018      https://www.netflix.com/title/80000770
+"Killer Inside: The Mind of Aaron Hernandez"                            2020      https://www.netflix.com/title/81062828
 "Memories of a Murderer: The Nilsen Tapes"                              2021      https://www.netflix.com/title/81097791
-"Lover, Stalker, Killer"                                                2024      https://www.netflix.com/title/81611991
+"Mafia: Most Wanted"                                                    2025      https://www.netflix.com/title/82080840
+"Missing: Dead or Alive?"                                               2025      https://www.netflix.com/title/80217818
 "Missing: The Lucie Blackman Case"                                      2023      https://www.netflix.com/title/81671836
+"Mob War: Philadelphia vs. The Mafia"                                   2025      https://www.netflix.com/title/81763602
+"Monsters Inside: The 24 Faces of Billy Milligan"                       2021      https://www.netflix.com/title/81006619
+"MADOFF: The Monster of Wall Street"                                    2023      https://www.netflix.com/title/81466159
+"Murder Among the Mormons"                                              2021      https://www.netflix.com/title/81226889
+"Murdaugh Murders: A Southern Scandal"                                  2023      https://www.netflix.com/title/81519789
 "Murder in Monaco"                                                      2025      https://www.netflix.com/title/81767764
+"Myth & Mogul: John DeLorean"                                           2021      https://www.netflix.com/title/80219915
+"Murder Mountain"                                                       2018      https://www.netflix.com/title/80217475
+"Lover, Stalker, Killer"                                                2024      https://www.netflix.com/title/81611991
 "Murder to Mercy: The Cyntoia Brown Story"                              2020      https://www.netflix.com/title/81074065
+"My Lover My Killer"                                                    2022      https://www.netflix.com/title/81497580
 "My Father, the BTK Killer"                                             2025      https://www.netflix.com/title/81678043
+"Love Con Revenge"                                                      2025      https://www.netflix.com/title/81685732
+"Night Stalker: The Hunt for a Serial Killer"                           2021      https://www.netflix.com/title/81025701
+"November 13: Attack on Paris"                                          2018      https://www.netflix.com/title/80190097
 "Operation Varsity Blues: The College Admissions Scandal"           2021      https://www.netflix.com/title/81130691
-"Our Father"                                                            2022      https://www.netflix.com/title/81227735
+"Sean Combs: The Reckoning"                                             2025      https://www.netflix.com/title/81906780
 "Oklahoma City Bombing: American Terror"                                2025      https://www.netflix.com/title/81704384
-"ReMastered: The Two Killings of Sam Cooke"                             2019      https://www.netflix.com/title/80191045
+"Our Father"                                                            2022      https://www.netflix.com/title/81227735
 "Running with the Devil: The Wild World of John McAfee"                 2022      https://www.netflix.com/title/81327515
-"Scouts Honor: The Secret Files of the Boy Scouts of America"           2023      https://www.netflix.com/title/81477233
-"Shiny_Flakes: The Teenage Drug Lord"                                   2021      https://www.netflix.com/title/81207826
+"Nisman: The Prosecutor, the President, and the Spy"                    2020      https://www.netflix.com/title/80197991
+"Paparazzi King"                                                        2026      https://www.netflix.com/title/81707342
+"Narcoworld: Dope Stories"                                              2019      https://www.netflix.com/title/81169145
+"Sins of Our Mother"                                                    2022      https://www.netflix.com/title/81300060
+"ReMastered: The Two Killings of Sam Cooke"                             2019      https://www.netflix.com/title/80191045
+"SanPa: Sins of the Savior"                                             2020      https://www.netflix.com/title/81010965
+"State of Alabama vs. Brittany Smith"                                   2022      https://www.netflix.com/title/81346376
 "Stolen: Heist of the Century"                                          2025      https://www.netflix.com/title/81733898
+"Sophie: A Murder in West Cork"                                         2021      https://www.netflix.com/title/81094755
 "Strong Island"                                                         2017      https://www.netflix.com/title/80168230
-"The Carman Family Deaths"                                              2025      https://www.netflix.com/title/81664825
+"Start Up, Fall Down: From Billionaire to Convict"                      2025      https://www.netflix.com/title/81659325
+"The Billionaire, The Butler, and the Boyfriend"                        2023      https://www.netflix.com/title/81306326
+"The 43"                                                                2019      https://www.netflix.com/title/81045551
+"Tell Them You Love Me"                                                 2023      https://www.netflix.com/title/81783064
+"The Alcàsser Murders"                                                 2019      https://www.netflix.com/title/80213115
+"The Confession Killer"                                                 2019      https://www.netflix.com/title/80213588
+"The Devil Next Door"                                                   2019      https://www.netflix.com/title/80201488
+"Terrorism Close Calls"                                                 2018      https://www.netflix.com/title/80185048
 "The Devil on Trial"                                                    2023      https://www.netflix.com/title/81487924
-"The Hatchet Wielding Hitchhiker"                                       2023      https://www.netflix.com/title/81436777
+"The Echoes of Survivors: Inside Korea’s Tragedies"                   2025      https://www.netflix.com/title/81740073
+"The Day I Met El Chapo"                                                2017      https://www.netflix.com/title/80184569
 "The Darkness within La Luz del Mundo"                                  2023      https://www.netflix.com/title/81404182
-"The Lady of Silence: The Mataviejitas Murders"                         2023      https://www.netflix.com/title/81511776
-"The Legend of Cocaine Island"                                          2019      https://www.netflix.com/title/80999977
+"The Carman Family Deaths"                                              2025      https://www.netflix.com/title/81664825
+"The Hunt for Veerappan"                                                2023      https://www.netflix.com/title/81111279
+"The Diamond Heist"                                                     2025      https://www.netflix.com/title/81701502
+"The Innocent Man"                                                      2018      https://www.netflix.com/title/80187030
+"The Hatchet Wielding Hitchhiker"                                       2023      https://www.netflix.com/title/81436777
+"The Keepers"                                                           2017      https://www.netflix.com/title/80122179
+"The Disappearance of Madeleine McCann"                                 2019      https://www.netflix.com/title/80194956
+"The Innocence Files"                                                   2020      https://www.netflix.com/title/80214563
+"The Many Deaths of Nora Dalmasso"                                      2025      https://www.netflix.com/title/81752476
 "The Menendez Brothers"                                                 2024      https://www.netflix.com/title/81506509
+"The Kings of Tupelo: A Southern Crime Saga"                            2024      https://www.netflix.com/title/81903247
 "The Perfect Neighbor"                                                  2025      https://www.netflix.com/title/82018736
-"The Three Deaths of Marisela Escobedo"                                 2020      https://www.netflix.com/title/81002192
-"The Tinder Swindler"                                                   2022      https://www.netflix.com/title/81254340
+"The Motive"                                                            2021      https://www.netflix.com/title/81449754
+"The Confession Tapes"                                                  2019      https://www.netflix.com/title/80161702
+"The Legend of Cocaine Island"                                          2019      https://www.netflix.com/title/80999977
+"The Pharmacist"                                                        2020      https://www.netflix.com/title/81002576
+"The Program: Cons, Cults and Kidnapping"                               2024      https://www.netflix.com/title/81579761
+"The Real Bling Ring: Hollywood Heist"                                  2022      https://www.netflix.com/title/81349491
+"The Lady of Silence: The Mataviejitas Murders"                         2023      https://www.netflix.com/title/81511776
+"The Raincoat Killer: Chasing a Predator in Korea"                      2021      https://www.netflix.com/title/81087760
+"The Sons of Sam: A Descent into Darkness"                              2021      https://www.netflix.com/title/81059887
+"The Trials of Gabriel Fernandez"                                       2020      https://www.netflix.com/title/80220207
+"The Ripper"                                                            2020      https://www.netflix.com/title/81006684
 "The Truth About Jussie Smollett?"                                      2025      https://www.netflix.com/title/81758844
+"The Staircase"                                                         2018      https://www.netflix.com/title/80233441
+"Tiger King: The Doc Antle Story"                                       2021      https://www.netflix.com/title/81464793
+"The Three Deaths of Marisela Escobedo"                                 2020      https://www.netflix.com/title/81002192
 "Trainwreck: The Cult of American Apparel"                              2025      https://www.netflix.com/title/81763680
-"Turn of the Tide: The Surreal Story of Rabo de Peixe"                  2025      https://www.netflix.com/title/81776871
+"The Most Hated Man on the Internet"                                    2022      https://www.netflix.com/title/81387065
+"Tiger King"                                                            2021      https://www.netflix.com/title/81115994
+"Trial By Media"                                                        2020      https://www.netflix.com/title/80198329
+"The Tinder Swindler"                                                   2022      https://www.netflix.com/title/81254340
+"Trust No One: The Hunt for the Crypto King"                            2022      https://www.netflix.com/title/81349029
 "Unknown Number: The High School Catfish"                               2025      https://www.netflix.com/title/81690512
+"Unsolved Mysteries"                                                    2024      https://www.netflix.com/title/81026055
+"This Is the Zodiac Speaking"                                           2024      https://www.netflix.com/title/81681626
+"Trial 4"                                                               2020      https://www.netflix.com/title/80202347
+"This Is a Robbery: The World's Biggest Art Heist"                      2021      https://www.netflix.com/title/81032570
+"Untold: Malice at the Palace"                                          2021      https://www.netflix.com/title/81026439
+"Untold: The Murder of Air McNair"                                      2024      https://www.netflix.com/title/81582388
 "Untold: Deal With the Devil"                                           2021      https://www.netflix.com/title/81026437
-"What Jennifer Did"                                                     2024      https://www.netflix.com/title/81586385
+"Vatican Girl: The Disappearance of Emanuela Orlandi"                   2022      https://www.netflix.com/title/81117191
+"Web of Make Believe: Death, Lies and the Internet"                     2022      https://www.netflix.com/title/81122462
 "Victim/Suspect"                                                        2023      https://www.netflix.com/title/81288561
+"What Jennifer Did"                                                     2024      https://www.netflix.com/title/81586385
+"Who Killed Malcolm X?"                                                 2020      https://www.netflix.com/title/80217478
 "Untold: Shooting Guards"                                               2025      https://www.netflix.com/title/81582390
+"Vendetta: Truth, Lies and The Mafia"                                   2021      https://www.netflix.com/title/81399651
+"Wild Wild Country"                                                     2018      https://www.netflix.com/title/80145240
+"World's Most Wanted"                                                   2020      https://www.netflix.com/title/81013210
+"Worst Ex Ever"                                                         2024      https://www.netflix.com/title/81666858
+"Worst Roommate Ever"                                                   2024      https://www.netflix.com/title/81031682
+"Wormwood"                                                              2017      https://www.netflix.com/title/80059446
+"Waco: American Apocalypse"                                             2023      https://www.netflix.com/title/81396979
+"Who Killed Little Gregory?"                                            2019      https://www.netflix.com/title/80222157
 "Why Did You Kill Me?"                                                  2021      https://www.netflix.com/title/80991050

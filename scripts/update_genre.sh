@@ -62,8 +62,25 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 
 
-GENRE_NAME="${1:-}"
-GENRE_URL="${2:-}"
+GENRE_NAME=""
+GENRE_URL=""
+APIKEY=""
+for arg in "$@"; do
+ case "$arg" in
+  --apikey=*)
+      APIKEY="${arg#--apikey=}"
+      ;;
+  *)
+      if [[ -z "$GENRE_NAME" ]]; then
+          GENRE_NAME="$arg"
+      elif [[ -z "$GENRE_URL" ]]; then
+          GENRE_URL="$arg"
+      fi
+      ;;
+ esac
+done
+
+
 if [[ -z "$GENRE_NAME" ]]; then
     echo "ERROR: genre name required"
     echo "Usage: $0 <genre> [netflix_genre_url]"
@@ -240,13 +257,16 @@ echo "... years fetched in $CACHE_JSON_FILE"
 ##########################################
 echo -e "\nSTEP 4: OMDb"
 
-#APIKEY="1a8c9011"
-#APIKEY="d7e16fa4"
-#APIKEY="ed6cc44c"
-#APIKEY="14cf7f93"
-APIKEY="b79f4081"
+if [ "$APIKEY" == "" ]; then
+ APIKEY="1a8c9011"
+ #APIKEY="d7e16fa4"
+ #APIKEY="ed6cc44c"
+ #APIKEY="14cf7f93"
+ #APIKEY="b79f4081"
+fi
 
 echo "Fetching missing IMDb ratings, IDs, Poster, and Plot for new movies..."
+echo "APIKEY= $APIKEY"
 TMP_TSV=$(mktemp)
 TMP_OUT=$(mktemp)
 
@@ -284,13 +304,13 @@ while IFS=$'\t' read -r title year url; do
     fi
 
     echo "Processing OMDb: $title ($year)"   >&2
-
     safe_title=$(printf '%s' "$title" \
       | perl -CS -MUnicode::Normalize -pe '$_=NFD($_); s/\pM//g' \
-      | sed -e "s/’/'/g; s/–/-/g; s/—/-/g" \
+      | sed -e "s/’/'/g; s/–/-/g; s/—/+/g; s/-/+/g;" \
             -e 's/%/%25/g; s/#/%23/g; s/&/%26/g; s/?/%3F/g' \
             -e 's/‘//g; s/!//g; s/¡//g' \
-            -e 's/\xC2\xA0/%20/g; s/ /%20/g')
+            -e 's/\xC2\xA0/ /g; s/[[:space:]]\+/+/g; s/ /+/g')
+
 
     omdb_url=$(echo "http://www.omdbapi.com/?t=$safe_title&y=$year&apikey=$APIKEY")
     json=$(curl -s "$omdb_url") 
@@ -351,18 +371,56 @@ while IFS=$'\t' read -r title year url; do
     Language=$(echo "$json" | jq -r '.Language // empty')
     Country=$(echo "$json" | jq -r '.Country // empty')
     omdbError=$(echo "$json" | jq -r '.Error // empty')
-    
     if [[ "$Country" == *USA* ]]; then  Country=$(echo "$Country" | sed 's/USA/United States/g'); fi
 
-    if [[ -n "$omdbError"  ]]; then
+    # First, let's check whether the title from Netflix ($title) is the same I found in OMDb after the search ($Title)
+    if [[ -n "$Title" ]]; then
+     norm_title=$(echo      "$title"  | LC_ALL=C tr '[:upper:]' '[:lower:]' | LC_ALL=C sed -E 's/[^a-z0-9]+/ /g; s/^ +| +$//g') 
+     norm_omdb_title=$(echo "$Title"  | LC_ALL=C tr '[:upper:]' '[:lower:]' | LC_ALL=C sed -E 's/[^a-z0-9]+/ /g; s/^ +| +$//g')
+    fi
+
+    if [[ -n "$omdbError" ]] || [[ -n "$Title" && "$norm_title" != "$norm_omdb_title" ]]; then
       if [[ "$omdbError"  == *limit* ]]; then
        echo "⚠️  OMDb rate limit reached — skipping $title" >&2
        #continue
        touch "$TMP_OUT.limit"
        exit
       fi
-      # Retry without a year
-      omdb_url=$(echo "http://www.omdbapi.com/?t=$safe_title&apikey=$APIKEY")
+
+      ## Retry without a year
+      #omdb_url=$(echo "http://www.omdbapi.com/?t=$safe_title&apikey=$APIKEY")
+
+      ## Fetch Info from Netflix JSON
+      #netflix_json=$(wget -q -O - --user-agent="Mozilla/5.0" "$url"    | tr '<>' '\n\n'   | grep actors | grep -m 1 context   | jq '.')
+      #netflix_title=$(echo "$netflix_json" | jq -r '.name')
+      #netflix_type=$(echo "$netflix_json" | jq -r '.["@type"]')
+      #netflix_year=$(echo "$netflix_json" | jq -r '.dateCreated' | cut -d- -f1)
+
+
+      # Retry using the first search result by OMDb rather than with no year
+      echo " ❌ CAN'T FIND $title. Originally:   safe_title= $safe_title"    >&2
+      safe_title=$(echo "$safe_title" | sed -E 's/[Tt]he\+Movie:?//g; s/\+\+/+/g; s/^\+//; s/\+$//')  # Remove literal “the+Movie”, collapse “++” into “+”, and trim leading/trailing “+”
+      omdb_url="http://www.omdbapi.com/?s=$safe_title&apikey=$APIKEY"                                        # No year, and Switch from exact title match (?t=) to search mode (?s=)
+      search0=$(curl -s "$omdb_url" | jq -r '.Search[0]')      
+      omdb_search0_title=$(echo $search0 | jq -r '.Title // empty')                   # Extract the Title of the first search result (or empty if none)
+      imdb_id_from_search0=$(echo $search0 | jq -r '.imdbID // empty')      
+      if [ -n "$omdb_search0_title" ]; then                                          # If OMDb returned at least one result...
+          safe_title=$(printf '%s' "$omdb_search0_title" \
+            | perl -CS -MUnicode::Normalize -pe '$_=NFD($_); s/\pM//g' \
+            | sed -E \
+                  -e "s/’/'/g; s/–/-/g; s/—/+/g; s/-/+/g" \
+                  -e 's/[[:space:]]\+/+/g; s/^\+//; s/\+$//' \
+                  -e 's/[(]/%28/g' -e 's/[)]/%29/g')
+      fi
+      safe_title=$(echo "$safe_title"   | sed -e 's/ /+/g' -e 's/://g' -e 's/&/%26/g' -e 's/(/%28/g' -e 's/)/%29/g')  # Final URL-escaping / cleanup pass
+
+
+      echo " 🔍 I'm gonna try to search (?s=) rather than to match (?t=) title for '$title':  $omdb_url" >&2
+      echo " 🔍 For '$title', the OMDb search returned title= '$omdb_search0_title'"     >&2
+      # Back to  exact title match (?t=), but with $safe_title from the $omdb_search0_title.
+      #omdb_url=$(echo "http://www.omdbapi.com/?t=$safe_title&apikey=$APIKEY")
+      omdb_url=$(echo "http://www.omdbapi.com/?i=$imdb_id_from_search0&apikey=$APIKEY")
+      echo "   ---> New safe title: $safe_title searched with:  $omdb_url"         >&2
       json=$(curl -s "$omdb_url") 
       rating=$(echo "$json" | jq -r '.imdbRating // empty')
       imdbid=$(echo "$json" | jq -r '.imdbID // empty')
@@ -377,6 +435,7 @@ while IFS=$'\t' read -r title year url; do
       Actors=$(echo "$json" | jq -r '.Actors // empty')
       Language=$(echo "$json" | jq -r '.Language // empty')
       Country=$(echo "$json" | jq -r '.Country // empty')
+      if [[ "$Country" == *USA* ]]; then  Country=$(echo "$Country" | sed 's/USA/United States/g'); fi
       # Did it work?
       if [[ -z "$imdbid" ]]; then
         echo "⚠️  OMDb lookup FAILED after retry: $title   $omdbError  :  $title  'http://www.omdbapi.com/?t=$safe_title&apikey=$APIKEY' " >&2
@@ -454,3 +513,7 @@ echo "IMDb ratings and IDs filled in $CACHE_JSON_FILE"
 wait
 echo -e "\nFINISHED"
 echo "Updated cache: $CACHE_JSON_FILE"
+echo ""
+echo "📝 Reminder: update the corresponding Markdown file:"
+MD_FILE="$REPO_ROOT/website_jupyter_book/${GENRE_NAME}.md"
+echo "./scripts/json_to_md.py  "${CACHE_JSON_FILE#$REPO_ROOT/}"   >   ${MD_FILE#$REPO_ROOT/}"    # ${VAR#PREFIX} removes PREFIX from the start of VAR, if it's there. 
