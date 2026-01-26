@@ -351,6 +351,14 @@
       "Country": "United States"
     },
     {
+      "title": "Jeff Foxworthy and Larry the Cable Guy: We’ve Been Thinking...",
+      "netflix_url": "https://www.netflix.com/title/80097431",
+      "year": "2016",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Sofía Niño de Rivera: Exposed",
       "netflix_url": "https://www.netflix.com/title/80097641",
       "year": "2016",
@@ -4427,6 +4435,23 @@
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
+    },
+    {
+      "title": "Joe Rogan: Burn the Boats",
+      "netflix_url": "https://www.netflix.com/title/81771853",
+      "year": "2024",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt32875161",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWNhYjBmZDMtNmNjNi00N2JhLWE5YmEtODQzYmU4ODJjMjJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Renowned comedian and podcast host Joe Rogan delivers a live stand-up set at the Majestic Theatre in San Antonio, Texas, for his third Netflix special.",
+      "Type": "movie",
+      "RunTime": "67 min",
+      "Genre": "Comedy",
+      "Director": "Anthony Giordano",
+      "Writer": "N/A",
+      "Actors": "Neil Downanlich, Ari Matti Mustonen, Joe Rogan",
+      "Language": "N/A",
+      "Country": "United States"
     },
     {
       "title": "Marcello Hernández: American Boy",

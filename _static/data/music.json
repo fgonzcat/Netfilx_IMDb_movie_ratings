@@ -1353,6 +1353,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "We Are One",
+      "netflix_url": "https://www.netflix.com/title/81034018",
+      "year": "2020",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt12588398",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjBhM2ZmMGUtYjMwMS00ZDcxLThkNWQtZjc1ZDY0ODM1NWZiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Activists around the world fight injustice and drive social change in this documentary that follows their participation in the music video Solidarité.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Documentary",
+      "Director": "Stéphane de Freitas",
+      "Writer": "N/A",
+      "Actors": "Afaq, Panmela Castro, Stéphane de Freitas",
+      "Language": "French",
+      "Country": "France"
+    },
+    {
       "title": "Parchís: the Documentary",
       "netflix_url": "https://www.netflix.com/title/81036520",
       "year": "2019",

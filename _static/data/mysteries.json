@@ -462,6 +462,23 @@
       "Country": "United Kingdom, Sweden, China, United States"
     },
     {
+      "title": "Anon",
+      "netflix_url": "https://www.netflix.com/title/80195964",
+      "year": "2018",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt5397194",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0MjIwMDE2MV5BMl5BanBnXkFtZTgwMzM5MDQzNTM@._V1_SX300.jpg",
+      "Plot": "In a world without anonymity or crime, a detective meets a woman who threatens their security.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Crime, Mystery, Sci-Fi",
+      "Director": "Andrew Niccol",
+      "Writer": "Andrew Niccol",
+      "Actors": "Clive Owen, Afiya Bennett, Morgan Allen",
+      "Language": "English",
+      "Country": "United Kingdom, Canada, United States, Germany"
+    },
+    {
       "title": "Forgotten",
       "netflix_url": "https://www.netflix.com/title/80223050",
       "year": "2017",
@@ -1089,6 +1106,23 @@
       "Actors": "Idris Elba, Cynthia Erivo, Andy Serkis",
       "Language": "English, Estonian, Portuguese",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Forensic",
+      "netflix_url": "https://www.netflix.com/title/81289660",
+      "year": "2020",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt10187680",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWM1NDA5YzAtZWJjMC00ZjE3LWIyNjEtYjhlZTdjZGRhZTI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Samuel uses his forensic skills and discovers breakthroughs in a serial killing case as further victims are added to the list. Shikha teams up with Samuel and uncovers evidence that might lead to the killer's identity.",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Crime, Mystery, Thriller",
+      "Director": "Anas Khan, Akhil Paul",
+      "Writer": "Anas Khan, Akhil Paul, P. Shijith",
+      "Actors": "Tovino Thomas, Mamta Mohandas, Saiju Kurup",
+      "Language": "Malayalam",
+      "Country": "India"
     },
     {
       "title": "Bordertown: Mural Murders",
@@ -1969,7 +2003,8 @@
       "netflix_url": "https://www.netflix.com/title/81713665",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "ManSuang",

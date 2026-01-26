@@ -1427,6 +1427,23 @@
       "Country": "India, United Kingdom"
     },
     {
+      "title": "Happy Birthday",
+      "netflix_url": "https://www.netflix.com/title/81551312",
+      "year": "2022",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt21149558",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmMyZGI3ZDQtZDNjYy00ZTZiLWIzMGUtN2ZiMWFkZjA0MWI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Defense Minister Ritwik Sodhi passes a gun amendment bill that enables one to own a gun. This is the story of how Happy, Lucky, Max Pain, Uncle Fixit, Serena and William's stories intertwine among themselves amidst passing of the ...",
+      "Type": "movie",
+      "RunTime": "154 min",
+      "Genre": "Comedy",
+      "Director": "Ritesh Rana",
+      "Writer": "Ritesh Rana",
+      "Actors": "Lavanya Tripathi, Naresh Agastya, Baaji",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
       "title": "Meter",
       "netflix_url": "https://www.netflix.com/title/81551313",
       "year": "2023",

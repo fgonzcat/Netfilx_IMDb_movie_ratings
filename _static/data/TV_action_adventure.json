@@ -292,6 +292,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Marco Polo: One Hundred Eyes",
+      "netflix_url": "https://www.netflix.com/title/80083594",
+      "year": "2015",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt5235348",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDFhYWQ0YzAtZTFhZC00ZGUyLTkxY2MtZWE3MmYzZTg1MDkxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Before he lost his sight. Before he pledged his service to Kublai Khan. Hundred Eyes saw what made him into the deadly assassin who trains Marco Polo.",
+      "Type": "movie",
+      "RunTime": "28 min",
+      "Genre": "Action, Drama, History",
+      "Director": "Alik Sakharov",
+      "Writer": "John Fusco",
+      "Actors": "Benedict Wong, Tom Wu, Lorenzo Richelmy",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Disenchantment",
       "netflix_url": "https://www.netflix.com/title/80095697",
       "year": "2023",
@@ -717,6 +734,23 @@
       "Country": "United States"
     },
     {
+      "title": "Battlefish",
+      "netflix_url": "https://www.netflix.com/title/80195173",
+      "year": "2018",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt8893566",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzgyZDRhMzktMzYxMi00NWExLTg3MDMtNzBlOTRlNmYxYzIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Over the course of the fishing season, a group of fishing boats pursues the lucrative albacore tuna in the competitive waters off the Oregon coast.",
+      "Type": "series",
+      "RunTime": "42 min",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Justin Bradbury, Karl Travenshek, Bill Rehmke",
+      "Language": "N/A",
+      "Country": "N/A"
+    },
+    {
       "title": "Daybreak",
       "netflix_url": "https://www.netflix.com/title/80197462",
       "year": "2019",
@@ -1105,6 +1139,23 @@
       "Writer": "Albert Kim",
       "Actors": "Gordon Cormier, Kiawentiio, Ian Ousley",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Age of Samurai: Battle for Japan",
+      "netflix_url": "https://www.netflix.com/title/80237990",
+      "year": "2021",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt10551256",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTIyOGYxMjktZjliZC00NTc3LTkzNDYtYjk0MWFiMjBlNzgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An exploration of the warring kingdoms of feudal Japan when several powerful warlords fought to become absolute ruler.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Hiro Kanagawa, Hayate Masao, Michael Auslin",
+      "Language": "Korean, Japanese, English",
       "Country": "United States"
     },
     {
@@ -1567,6 +1618,23 @@
       "Country": "United States"
     },
     {
+      "title": "Betaal",
+      "netflix_url": "https://www.netflix.com/title/81061789",
+      "year": "2020",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt10651790",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTZjZjJiNmItYWVlZC00ZDY5LWI3ZDMtMzU4N2UzODdlMzBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A remote village becomes the arena of a breathless battle when an undead East India Company officer and his battalion of zombie redcoats attack a squad of modern-day soldiers.",
+      "Type": "series",
+      "RunTime": "46 min",
+      "Genre": "Horror",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kumar Sidhharth, Vineet Kumar Singh, Aahana Kumra",
+      "Language": "Hindi",
+      "Country": "India, United States"
+    },
+    {
       "title": "Senna",
       "netflix_url": "https://www.netflix.com/title/81068725",
       "year": "2024",
@@ -1786,6 +1854,23 @@
       "Actors": "Sylvia Hoeks, Stuart Martin, Rahul Kohli",
       "Language": "English",
       "Country": "United States, France"
+    },
+    {
+      "title": "Masters of the Universe: Revelation",
+      "netflix_url": "https://www.netflix.com/title/81154670",
+      "year": "2021",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt10826054",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTcwZDZmMmQtNTJiNi00NGZlLTljOGItZjFkMzgzZGI3ZDY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The war for Eternia begins again in what may be the final battle between He-Man and Skeletor. A new animated series from writer-director Kevin Smith.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "Kevin Smith",
+      "Actors": "Sarah Michelle Gellar, Lena Headey, Mark Hamill",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Scissor Seven",
@@ -2193,6 +2278,22 @@
       "Actors": "Ha Jung-woo, Hwang Jung-min, Park Hae-soo",
       "Language": "Korean, English",
       "Country": "South Korea"
+    },
+    {
+      "title": "Cobra Kai - The Afterparty",
+      "netflix_url": "https://www.netflix.com/title/81344331",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Shadow and Bone - The Afterparty",
+      "netflix_url": "https://www.netflix.com/title/81351076",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Belascoarán, PI",
@@ -2705,6 +2806,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Masters of the Universe: Revolution",
+      "netflix_url": "https://www.netflix.com/title/81588208",
+      "year": "2024",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt27052533",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWE0NDY3YTMtMDQ4NS00ZmFmLWJhNzQtMzZmNmE1OTY0ODhlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Teela joins forces with He-Man and the other Masters in their quest to save Eternia from the grip of darkness.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Melissa Benoist, Liam Cunningham, Mark Hamill",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Last Samurai Standing",
       "netflix_url": "https://www.netflix.com/title/81607397",
       "year": "2025",
@@ -2728,6 +2846,23 @@
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
+    },
+    {
+      "title": "Gold & Greed: The Hunt for Fenn's Treasure",
+      "netflix_url": "https://www.netflix.com/title/81636832",
+      "year": "2025",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt15789898",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjQzNTc2NmItMGI3ZC00ZmU0LTgyN2UtMTZhYmM2YzM3NzhmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows the story of Forrest Fenn, an art collector, who buried a $2 million treasure in 2010 filled with rare gold coins in an unknown location with 24 cryptic verses offering the only hint to its whereabouts.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Forrest Fenn, Justin Posey, Cynthia Meachum",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Gringo Hunters",
@@ -3290,6 +3425,47 @@
       "Country": "United States"
     },
     {
+      "title": "WWE The Wrestling Classic",
+      "netflix_url": "https://www.netflix.com/title/81930585",
+      "year": "1985",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "WWE This Tuesday in Texas",
+      "netflix_url": "https://www.netflix.com/title/81930588",
+      "year": "1991",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "WWE St. Valentine's Day Massacre",
+      "netflix_url": "https://www.netflix.com/title/81930591",
+      "year": "1999",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "WWE Stomping Grounds",
+      "netflix_url": "https://www.netflix.com/title/81930594",
+      "year": "2019",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt10437520",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzY3ZjhlYjgtZmJiZi00NTU2LWE5M2YtYWY1YzJlYmI0ZmFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Held at Tacoma, Washington, the superstars of RAW and Smackdown fight each other to see who is the best in the WWE.",
+      "Type": "movie",
+      "RunTime": "197 min",
+      "Genre": "Action, Sport",
+      "Director": "Kevin Dunn",
+      "Writer": "Michael James Nelson",
+      "Actors": "Colby Lopez, Tom Pestock, Kofi Kingston",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "WWE Greatest Royal Rumble",
       "netflix_url": "https://www.netflix.com/title/81930597",
       "year": "2018",
@@ -3305,6 +3481,121 @@
       "Actors": "Adam Scherr, Brock Lesnar, AJ Styles",
       "Language": "English",
       "Country": "Saudi Arabia"
+    },
+    {
+      "title": "WWE Roadblock: End of the Line",
+      "netflix_url": "https://www.netflix.com/title/81930612",
+      "year": "2016",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt6329734",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTk4MWNhNDktN2Y1MC00ZWNhLTlmMjQtYTUxYzcyMzI1ZDFmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzQwNDk2ODM@._V1_SX300.jpg",
+      "Plot": "Roadblock: End of the Line was a professional wrestling pay-per-view (PPV) event and WWE Network event produced by WWE for the Raw brand and the new cruiserweight-exclusive brand, 205 Live. It took place on December 18, 2016, at t...",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Action, Sport",
+      "Director": "Kevin Dunn",
+      "Writer": "N/A",
+      "Actors": "Kevin Steen, Joe Anoa'i, Colby Lopez",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "WWE Rock Bottom",
+      "netflix_url": "https://www.netflix.com/title/81930615",
+      "year": "1998",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "WWE One Night Only",
+      "netflix_url": "https://www.netflix.com/title/81930617",
+      "year": "1997",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "WWE No Mercy (UK)",
+      "netflix_url": "https://www.netflix.com/title/81930620",
+      "year": "1999",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "WWE Invasion",
+      "netflix_url": "https://www.netflix.com/title/81930623",
+      "year": "2001",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "WWE Great Balls of Fire",
+      "netflix_url": "https://www.netflix.com/title/81930626",
+      "year": "2017",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt6985572",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTg5MDI5ZDAtYzgwMy00Nzc0LTljYzQtN2U3ZDVlZDYwYmZmXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+      "Plot": "WWE Great Balls of Fire is a professional wrestling Pay Per View event consisting of WWE wrestlers who are under the RAW brand. It will take/took place at the American Airlines Center in Dallas, Texas on July 9,2017. The match car...",
+      "Type": "movie",
+      "RunTime": "175 min",
+      "Genre": "Sport",
+      "Director": "Kevin Dunn",
+      "Writer": "N/A",
+      "Actors": "Brock Lesnar, Joe Seanoa, Adam Scherr",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "WWE The Bash",
+      "netflix_url": "https://www.netflix.com/title/81930629",
+      "year": "2009",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt1452633",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxNDEzMjc0Ml5BMl5BanBnXkFtZTcwMzY2NjQ3Mg@@._V1_SX300.jpg",
+      "Plot": "Triple threat tag title match: Edge &amp; Y2J vs The Colons vs The Legacy. Intercontinental title match: Mysterio vs Y2J. World title match: CM punk vs Jeff Hardy. 3 stages of hell WWE title match: Orton vs HHH.",
+      "Type": "movie",
+      "RunTime": "180 min",
+      "Genre": "Action, Sport",
+      "Director": "Kevin Dunn",
+      "Writer": "Christopher DeJoseph, Brian Gewirtz, Ed Koskey",
+      "Actors": "Randy Orton, Paul Levesque, John Cena",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "WWE Breaking Point",
+      "netflix_url": "https://www.netflix.com/title/81930752",
+      "year": "2009",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt1706674",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTBiMGZlYzQtM2E2ZC00Y2NiLWI0OTUtMGY5YjZiYTA3OWVlXkEyXkFqcGdeQXVyOTA0NzE2MzA@._V1_SX300.jpg",
+      "Plot": "US title: Kofi Kingston vs Miz. Submissions count anywhere: DX vs Legacy. Singapore cane match: Kane vs Khali. I quit WWE title match: Orton vs Cena. Submission world title match: CM punk vs Undertaker.",
+      "Type": "movie",
+      "RunTime": "171 min",
+      "Genre": "Action, Sport",
+      "Director": "Kevin Dunn",
+      "Writer": "Christopher DeJoseph",
+      "Actors": "Phil Brooks, Mark Calaway, Randy Orton",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
+      "title": "WWE Breakdown",
+      "netflix_url": "https://www.netflix.com/title/81930755",
+      "year": "1998",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "WWE Capital Carnage",
+      "netflix_url": "https://www.netflix.com/title/81930758",
+      "year": "1998",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "WWE Clash at the Castle",
@@ -3324,6 +3615,48 @@
       "Country": "N/A"
     },
     {
+      "title": "WWE Capitol Punishment",
+      "netflix_url": "https://www.netflix.com/title/81930764",
+      "year": "2011",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "WWE Day 1",
+      "netflix_url": "https://www.netflix.com/title/81930767",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt15614516",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmMxZWYwOWItZGYzZS00NmYzLWI2MDQtMTU5MGI3MDc3NWE4XkEyXkFqcGdeQXVyODAzNzAwOTU@._V1_SX300.jpg",
+      "Plot": "The inaugural WWE Day 1 Premium Live Event. Big E puts the WWE Title on the line against Brock Lesnar, Seth Rollins, Kevin Owens and Bobby Lashley in a Fatal 5-Way Match. Becky Lynch defends the Raw Women's Title against Liv Morgan.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Action, Sport",
+      "Director": "Kevin Dunn",
+      "Writer": "Derick Brown, Kevin Eis",
+      "Actors": "Brock Lesnar, Ettore Ewen, Bobby Lashley",
+      "Language": "English",
+      "Country": "N/A"
+    },
+    {
+      "title": "ECW December to Dismember",
+      "netflix_url": "https://www.netflix.com/title/81930770",
+      "year": "2006",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt0855787",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODIxMzQ5MjItYjRhZS00NjkzLTk1Y2QtZTliZGViZGIxY2I0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "ECW World Champion the Big Show defends his gold in the first ever Extreme Elimination Chamber match against 5 other competitors, And two great tag teams meet for the first time ever when The Hardys take on MNM and much more.",
+      "Type": "movie",
+      "RunTime": "210 min",
+      "Genre": "Sport",
+      "Director": "Kevin Dunn",
+      "Writer": "Christopher DeJoseph, Tommy Dreamer, Paul Heyman",
+      "Actors": "Paul Wight, Bobby Lashley, Rob Van Dam",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "WWE Evolution",
       "netflix_url": "https://www.netflix.com/title/81930845",
       "year": "2025",
@@ -3337,6 +3670,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Bianca Belair, Demi Bennett, Chelsea Green",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Bash In Berlin",
+      "netflix_url": "https://www.netflix.com/title/81940791",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt29703025",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2VmZmQyOTYtYjI0YS00ZDhjLWIxODYtOTNjMTQ4YzhlMmYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two of the best in the world will go one-on-one when World Heavyweight Champion Gunther returns home to Europe to face Randy Orton. Undisputed WWE Champion Cody Rhodes will defend his title against staunch ally Kevin Owens. CM Pun...",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Action, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Walter Hahn, Randy Orton, Cody Rhodes",
       "Language": "English",
       "Country": "United States"
     },
@@ -3356,6 +3706,31 @@
       "Actors": "Yûji Oda, Toshirô Yanagiba, Eri Fukatsu",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "WWE Superstar Profiles",
+      "netflix_url": "https://www.netflix.com/title/81949185",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35288922",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ3MmViNzctODFiNS00NWI2LTk0OGEtYzllMGY1ZmIwNjAzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "WWE Superstars step inside the squared circle in pursuit of championships and glory in front of the WWE Universe.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Short, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Joe Anoa'i, Shayna Andrea Baszler, Bianca Belair",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "WWE Best of Raw 2024 Special",
+      "netflix_url": "https://www.netflix.com/title/81949224",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Adventures of the Super Monkey -Journey to the West-",

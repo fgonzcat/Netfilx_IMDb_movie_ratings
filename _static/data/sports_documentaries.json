@@ -23,7 +23,8 @@
       "netflix_url": "https://www.netflix.com/title/70144640",
       "year": "2010",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "30 for 30: The U",
@@ -38,7 +39,8 @@
       "netflix_url": "https://www.netflix.com/title/70170088",
       "year": "2010",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "30 for 30: Once Brothers",
@@ -423,6 +425,23 @@
       "Director": "Chapman Way, Maclain Way",
       "Writer": "N/A",
       "Actors": "Mardy Fish, Kevin O'Connor, Tom Fish",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Untold: The Race of the Century",
+      "netflix_url": "https://www.netflix.com/title/81026435",
+      "year": "2022",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt21811526",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2JjNTAzOTctZTVlMi00NGIzLWIwNGItZTIyYzgyODllMTMzXkEyXkFqcGdeQXVyMzIxNzIwNjU@._V1_SX300.jpg",
+      "Plot": "The Australia II yacht crew looks back on the motivation, dedication and innovation that led to their historic victory at the 1983 America's Cup.",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Chapman Way, Maclain Way",
+      "Writer": "N/A",
+      "Actors": "John Bertrand, Rasa Bertrand, Alan Bond",
       "Language": "English",
       "Country": "United States"
     },

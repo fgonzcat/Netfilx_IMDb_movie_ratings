@@ -172,6 +172,22 @@
       "SkipTitle": true
     },
     {
+      "title": "30 for 30: June 17th, 1994",
+      "netflix_url": "https://www.netflix.com/title/70144640",
+      "year": "2010",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "30 for 30: The U",
+      "netflix_url": "https://www.netflix.com/title/70144811",
+      "year": "2009",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "30 for 30: Once Brothers",
       "netflix_url": "https://www.netflix.com/title/70170093",
       "year": "2010",
@@ -235,6 +251,23 @@
       "Director": "Richard Michaels",
       "Writer": "Jeff Andrus",
       "Actors": "Mario Van Peebles, Susan Ruttan, Lane R. Davis",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Venus and Serena",
+      "netflix_url": "https://www.netflix.com/title/70259674",
+      "year": "2012",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt2376024",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzM0MDQyMzc3OF5BMl5BanBnXkFtZTcwNTA0NDcyOQ@@._V1_SX300.jpg",
+      "Plot": "Ever since Venus and Serena Williams started playing in tennis tournaments, they've provoked strong reactions - from awe and admiration to suspicion and resentment. They've been winning championships for over a decade, pushing the...",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Maiken Baird, Michelle Major",
+      "Writer": "N/A",
+      "Actors": "Raul Arevalo, Arthur Ashe, Victoria Azarenka",
       "Language": "English",
       "Country": "United States"
     },
@@ -394,6 +427,23 @@
       "Director": "Jon Greenhalgh",
       "Writer": "N/A",
       "Actors": "John du Pont, Dave Schultz, Mike Gostigian",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "30 for 30: Sole Man",
+      "netflix_url": "https://www.netflix.com/title/80049801",
+      "year": "2015",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt4450678",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
       "Language": "English",
       "Country": "United States"
     },
@@ -797,6 +847,23 @@
       "Country": "France"
     },
     {
+      "title": "Stay on Board: The Leo Baker Story",
+      "netflix_url": "https://www.netflix.com/title/81018205",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt21100124",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWQyODBiNTEtYWE3MS00Zjg4LWIzNTgtOTg1N2VkMjkzYzIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows celebrated competitive skating icon Leo Baker as they try to make space for themselves in the gendered world of pro sports and build a more inclusive skate culture, which leads them to doing the punkest thing imaginable.",
+      "Type": "movie",
+      "RunTime": "72 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Nicola Marsh, Giovanni Reda",
+      "Writer": "N/A",
+      "Actors": "Leo Baker, Melissa Bueno-Woerner, Alexis Sablone",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Main Event",
       "netflix_url": "https://www.netflix.com/title/81024153",
       "year": "2020",
@@ -814,6 +881,23 @@
       "Country": "United States"
     },
     {
+      "title": "Untold: Breaking Point",
+      "netflix_url": "https://www.netflix.com/title/81026434",
+      "year": "2021",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt15101938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiMWExMmMtNmUwMy00YzQyLTgzY2YtMDM5M2JiYzZmMTNkXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg",
+      "Plot": "Tennis star Mardy Fish's battles with anxiety and mental health.",
+      "Type": "movie",
+      "RunTime": "68 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Chapman Way, Maclain Way",
+      "Writer": "N/A",
+      "Actors": "Mardy Fish, Kevin O'Connor, Tom Fish",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Untold: The Race of the Century",
       "netflix_url": "https://www.netflix.com/title/81026435",
       "year": "2022",
@@ -827,6 +911,23 @@
       "Director": "Chapman Way, Maclain Way",
       "Writer": "N/A",
       "Actors": "John Bertrand, Rasa Bertrand, Alan Bond",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Untold: Caitlyn Jenner",
+      "netflix_url": "https://www.netflix.com/title/81026436",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt15101946",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ3ZDQ0NzItNTI5MC00N2UyLTljMmMtYjYzOWI4Y2Q0M2RkXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg",
+      "Plot": "After a failed attempt in 1972, Caitlyn Jenner made it her mission to win decathlon gold in Montreal in 1976.",
+      "Type": "movie",
+      "RunTime": "69 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Crystal Moselle",
+      "Writer": "Chapman Way, Maclain Way",
+      "Actors": "Caitlyn Jenner, Esther Jenner, Chrystie Scott",
       "Language": "English",
       "Country": "United States"
     },
@@ -961,6 +1062,14 @@
       "title": "The Lonely Island Presents: The Unauthorized Bash Brothers Experience",
       "netflix_url": "https://www.netflix.com/title/81036190",
       "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Guillermo Vilas: Settling the Score",
+      "netflix_url": "https://www.netflix.com/title/81037873",
+      "year": "2020",
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
@@ -1212,6 +1321,23 @@
       "Country": "India, United States"
     },
     {
+      "title": "Torbaaz",
+      "netflix_url": "https://www.netflix.com/title/81264422",
+      "year": "2020",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt7805960",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzZkOGY1ZDQtZjJmNC00OGMwLThiMGYtZmQzMDg1NTk1YmFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man rises from personal tragedy to lead a group of children from a refugee camp to victory, transforming their lives through the game of cricket.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Action, Drama, Sport",
+      "Director": "Girish Malik",
+      "Writer": "Girish Malik, Bharti Jakhar, Humayoon Shams Khan",
+      "Actors": "Sanjay Dutt, Nargis Fakhri, Rahul Dev",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Bartkowiak",
       "netflix_url": "https://www.netflix.com/title/81265968",
       "year": "2021",
@@ -1320,6 +1446,23 @@
       "Actors": "Malin Akerman, Bella Thorne, Dulcé Sloan",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Jersey",
+      "netflix_url": "https://www.netflix.com/title/81350340",
+      "year": "2022",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt5301942",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDIxMjk1MGQtYjBiOS00YTNjLWFkNGEtMzMzYzVmYmUwYjQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A cricketer who quits cricket decides to revive his career at the age of 36 for his sons dream and prove his ability.",
+      "Type": "movie",
+      "RunTime": "170 min",
+      "Genre": "Drama, Sport",
+      "Director": "Gowtam Tinnanuri",
+      "Writer": "Mayank Jain, Wajid Shaikh, Siddharth Singh",
+      "Actors": "Shahid Kapoor, Mrunal Thakur, Pankaj Kapur",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "A Second Chance:  Rivals!",
@@ -1611,6 +1754,23 @@
       "Country": "Germany"
     },
     {
+      "title": "Mark Cavendish: Never Enough",
+      "netflix_url": "https://www.netflix.com/title/81568626",
+      "year": "2023",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt28290216",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGIyMTZhN2QtM2QzYy00NzQwLWJiODMtMzc0NmNkMTkwY2NhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An intimate and captivating documentary follows pro cyclist Mark Cavendish's fast road to the top, tragic setback and incredible comeback.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Documentary, Biography, Sport",
+      "Director": "Alex Kiehl",
+      "Writer": "N/A",
+      "Actors": "Mark Cavendish",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Untold: The Girlfriend Who Didn't Exist",
       "netflix_url": "https://www.netflix.com/title/81580141",
       "year": "2022",
@@ -1848,6 +2008,14 @@
       "Country": "Mexico"
     },
     {
+      "title": "Sesham Mike-il Fathima",
+      "netflix_url": "https://www.netflix.com/title/81643044",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Pattathu Arasan",
       "netflix_url": "https://www.netflix.com/title/81644286",
       "year": "2022",
@@ -1990,6 +2158,23 @@
       "Actors": "John Arcilla, Paolo Contis, Khalil Ramos",
       "Language": "Tagalog, Filipino",
       "Country": "Philippines"
+    },
+    {
+      "title": "Full Circle",
+      "netflix_url": "https://www.netflix.com/title/81691263",
+      "year": "2023",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt15303234",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjEyNTA1OWMtZjQ4Zi00ODE0LWFmN2ItMmMyNzgwY2YwYjRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An investigation into a botched kidnapping uncovers long-held secrets connecting multiple characters and cultures in present day New York City.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Ed Solomon",
+      "Actors": "Zazie Beetz, Claire Danes, Jim Gaffigan",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Happy Gilmore 2",
@@ -2152,6 +2337,14 @@
       "Country": "France, Belgium"
     },
     {
+      "title": "30 for 30: Nature Boy",
+      "netflix_url": "https://www.netflix.com/title/81748052",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Untold: The Fall of Favre",
       "netflix_url": "https://www.netflix.com/title/81748451",
       "year": "2025",
@@ -2213,6 +2406,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Connor Stalions",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Sue Bird: In the Clutch",
+      "netflix_url": "https://www.netflix.com/title/81758143",
+      "year": "2024",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt17042382",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTJmODhmMzMtZjMzMy00ZGNiLTk2YjAtNzA0YTM1ODQ0NzQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows the life of WNBA star Sue Bird, capturing the final chapter of her 19-year career in basketball.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Documentary",
+      "Director": "Sarah Dowland",
+      "Writer": "N/A",
+      "Actors": "Sue Bird, Megan Rapinoe, Diana Taurasi",
       "Language": "English",
       "Country": "United States"
     },
@@ -2325,6 +2535,23 @@
       "Actors": "Erdem Kaynarca, Deniz Isin, Aslihan Malbora",
       "Language": "Turkish",
       "Country": "Turkey"
+    },
+    {
+      "title": "Saucedo",
+      "netflix_url": "https://www.netflix.com/title/81902565",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35068211",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzIxMmZiMGYtZjQ3ZS00YWVjLWIwMWItYTA1NjFjNGI0NmY5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows boxer Alex Saucedo and his journey to find a new purpose after a career-ending brain injury.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "Emmett Berg",
+      "Writer": "N/A",
+      "Actors": "Alex Saucedo",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Fantasy Football Ruined Our Lives",

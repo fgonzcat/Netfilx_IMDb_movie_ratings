@@ -2500,6 +2500,23 @@
       "Country": "India"
     },
     {
+      "title": "All Because of You",
+      "netflix_url": "https://www.netflix.com/title/81272069",
+      "year": "2020",
+      "imdb_rating": "4.1",
+      "imdb_id": "tt13106900",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGU3NmE1NDYtNjkxZC00MDI3LTgxMWYtMGY1MDUyZDE3MzNkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After falling for a guest, an unsuspecting hotel staff becomes embroiled in a hostage scheme and discovers true love in an unlikely place.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Action, Comedy, Romance",
+      "Director": "Adrian Teh",
+      "Writer": "Hairul Azreen, Shamaine Othman, Nazri Vovinski",
+      "Actors": "Hairul Azreen, Janna Nick, Amerul Affendi",
+      "Language": "Malay",
+      "Country": "Malaysia"
+    },
+    {
       "title": "Love in the Villa",
       "netflix_url": "https://www.netflix.com/title/81275215",
       "year": "2022",
@@ -2532,6 +2549,23 @@
       "Actors": "Susanna Skaggs, Tobia De Angelis, Owen McDonnell",
       "Language": "English, Italian",
       "Country": "United States"
+    },
+    {
+      "title": "Whipped",
+      "netflix_url": "https://www.netflix.com/title/81278481",
+      "year": "2020",
+      "imdb_rating": "4.1",
+      "imdb_id": "tt11754464",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2FiNTg2ZTItMTFjMC00OTI1LThkZWQtYTNkMWE0MmQ0M2NiXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg",
+      "Plot": "Four young men - each with their own love issues - enrol in an ‘anti-whipped’ class to break free from being enslaved by love.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Chandra Liow",
+      "Writer": "Jovial Da Lopez",
+      "Actors": "Andovi Da Lopez, Jovial Da Lopez, Tommy Limm",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "Seriously Single",
@@ -2753,6 +2787,23 @@
       "Actors": "Bensu Soral, Halit Özgür Sari, Helin Kandemir",
       "Language": "Turkish",
       "Country": "Turkey"
+    },
+    {
+      "title": "The Heartbreak Club",
+      "netflix_url": "https://www.netflix.com/title/81341141",
+      "year": "2020",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt11841144",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWVjMGViYTgtZDQzYy00ZjA0LWE1YzYtZWNjMmI3ZTUzMWJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Coping with heartbreak, the shy owner of floundering cafe find solace in the Javanese love songs of Didi Kempot.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Bagus Bramanti, Charles Gozali",
+      "Writer": "Bagus Bramanti, Gea Rexy",
+      "Actors": "Bhisma Mulia, Denira Wiraguna, Sisca Saras",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "Ante Sundaraniki",
@@ -3016,6 +3067,23 @@
       "Actors": "Richard E. Grant, Henry Golding, Ben Bailey Smith",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Sweet & Sour",
+      "netflix_url": "https://www.netflix.com/title/81413901",
+      "year": "2021",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt14599938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWE1MTNlMzQtMjExNy00YmNlLWFhZWItNjhhNzhmMDEwZTFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Faced with real-world opportunities and challenges, a couple endures the highs and lows of trying to make a long-distance relationship survive.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Kae-Byeok Lee, Kate Jopson",
+      "Writer": "Lee Gye-Wook, Kurumi Inui",
+      "Actors": "Jang Ki-yong, Chae Soo-bin, Krystal Jung",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Falling for Christmas",
@@ -3409,6 +3477,23 @@
       "Country": "United States, United Kingdom"
     },
     {
+      "title": "AI Love You",
+      "netflix_url": "https://www.netflix.com/title/81495715",
+      "year": "2022",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt11182810",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjVlMTZiNzEtNjliYy00NDhiLWEyYzUtZDEzZTY4NjQwY2M5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A modern love story set in the near future where an AI building is powered by human feelings. Due to a software glitch, it falls in love with a real girl, escapes the building into the body of a real man, and tries to win her affe...",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Drama, Romance, Sci-Fi",
+      "Director": "David Asavanond, Stephan Zlotescu",
+      "Writer": "Philip Gelatt, Ratapong Pinyosophon, Stephan Zlotescu",
+      "Actors": "Pimchanok Luevisadpaibul, Mario Maurer, Sahajak Boonthanakit",
+      "Language": "English, Thai",
+      "Country": "United States, Thailand"
+    },
+    {
       "title": "Our Little Secret",
       "netflix_url": "https://www.netflix.com/title/81498404",
       "year": "2024",
@@ -3424,6 +3509,23 @@
       "Actors": "Lindsay Lohan, Ian Harding, Kristin Chenoweth",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "In Love and Deep Water",
+      "netflix_url": "https://www.netflix.com/title/81502828",
+      "year": "2023",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt21211474",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTI0YjgyYjMtMWY2ZS00ODYyLTgxYzctYzcwNjRkNjBlY2Y2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "On a massive luxury cruise ship while at sea, the loyal butler Suguru, and a mysterious woman named Chizuru cross paths as they try to uncover a murder-mystery that occurs on the ship.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Comedy, Mystery, Romance",
+      "Director": "Yûsuke Taki",
+      "Writer": "Yûji Sakamoto",
+      "Actors": "Rinko Kikuchi, Rosie Okumura, Yuuki Luna",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Looop Lapeta",
@@ -3460,6 +3562,30 @@
       "Country": "Denmark"
     },
     {
+      "title": "Princess 'Daya'Reese",
+      "netflix_url": "https://www.netflix.com/title/81507670",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Only You",
+      "netflix_url": "https://www.netflix.com/title/81510755",
+      "year": "2021",
+      "imdb_rating": "3.6",
+      "imdb_id": "tt16161362",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWFlZTI4OTMtZWUyMy00ZDUzLTkzNDctYzQzMjQ1MjYyYjliXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Veronica (Isabelle Daza), Valerie (Beauty Gonzales) and Venus (Elisse Joson) are three adventurous and sometimes mischievous sisters with their own Vlog channel. Together with their friends: Abi (Aiko Climaco), Gina (Sunshine Garc...",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Comedy, Horror",
+      "Director": "Barry Gonzalez",
+      "Writer": "Ays De Guzman, Erwin Blanco, Barry Gonzalez",
+      "Actors": "Paolo Contis, Archie Alemania, Beauty Gonzalez",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
+    },
+    {
       "title": "Squared Love All Over Again",
       "netflix_url": "https://www.netflix.com/title/81513251",
       "year": "2023",
@@ -3492,6 +3618,14 @@
       "Actors": "Adrianna Chlebicka, Mateusz Banasiuk, Ina Sobala",
       "Language": "Polish",
       "Country": "Poland"
+    },
+    {
+      "title": "Love Is Colorblind",
+      "netflix_url": "https://www.netflix.com/title/81553952",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "One More Time",
@@ -3681,6 +3815,23 @@
       "Country": "Philippines"
     },
     {
+      "title": "An Inconvenient Love",
+      "netflix_url": "https://www.netflix.com/title/81615943",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt21801648",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTcwY2Q0NTYtZDFlMy00MjE1LWEwZmYtZDJiYTBkMGI4NDUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It follows Ayef. She has no time for love because of her dream of becoming an animator. She meets Manny, and they agree to a convenient relationship that will expire on the month she is set to leave for Singapore.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Petersen Vargas",
+      "Writer": "Daisy Cayanan, Enrico C. Santos",
+      "Actors": "Belle Mariano, Donny Pangilinan, Tirso Cruz III",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
+    },
+    {
       "title": "Love Tactics 2",
       "netflix_url": "https://www.netflix.com/title/81616015",
       "year": "2023",
@@ -3713,6 +3864,23 @@
       "Actors": "Serkan Çayoglu, Katja Riemann, Anja Karmanski",
       "Language": "German, Turkish",
       "Country": "Germany"
+    },
+    {
+      "title": "To Russia with Love",
+      "netflix_url": "https://www.netflix.com/title/81620694",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt23143150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWY3YzAyMTktZmY0YS00ODk5LWI1ZWYtNmM5OWM5YjQ1MzkxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "As a devoted entrepreneur wins the affection of a free-spirited traveler, he must also win over her stern and disapproving father.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Veronica Velasco",
+      "Writer": "Biboy Calleja, Erwin Blanco",
+      "Actors": "Gerald Anderson, Elena Kozlova, Scott Alexander Young",
+      "Language": "Visayan, Russian, English",
+      "Country": "Philippines"
     },
     {
       "title": "Make Me Believe",
@@ -3789,6 +3957,23 @@
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
+    },
+    {
+      "title": "Love Destiny The Movie",
+      "netflix_url": "https://www.netflix.com/title/81639974",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt13446128",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGM3MjcxY2EtZTRmMS00OWY0LWExMTYtYTM3MzZmMzI4MDlkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Destined couple, Bhop and Gaysorn, have their love and beliefs challenged in the midst of savage threats during the expansion of colonial rule.",
+      "Type": "movie",
+      "RunTime": "166 min",
+      "Genre": "Comedy, History, Romance",
+      "Director": "Adisorn Tresirikasem",
+      "Writer": "Pattaranad Bhiboonsawade, Benjamaporn Srabua, Thodsapon Thiptinnakorn",
+      "Actors": "Thanavat Vattanaputi, Ranee Campen, Paris Intarakomalyasut",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "Love Today",
@@ -3893,6 +4078,23 @@
       "Country": "Nigeria"
     },
     {
+      "title": "Labyu With An Accent",
+      "netflix_url": "https://www.netflix.com/title/81665491",
+      "year": "2022",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt22170224",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODk2ZTI3NmEtZjNhYS00NWIwLTkwZmYtY2Y4MDM1MzQ1ZTFhXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SX300.jpg",
+      "Plot": "Gabo and Trisha come from different backgrounds: Trisha has spent 20 years living in the United States, while Gabo has been working different jobs to make ends meet in the Philippines. The two cross paths when Trish returns to the...",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Coco Martin, Malu Sevilla",
+      "Writer": "Coco Martin, Patrick John Valencia",
+      "Actors": "Coco Martin, Jodi Sta. Maria, Michael De Mesa",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
+    },
+    {
       "title": "In Good Hands 2",
       "netflix_url": "https://www.netflix.com/title/81670880",
       "year": "2024",
@@ -3993,6 +4195,23 @@
       "Actors": "Ayushmann Khurrana, Ananya Panday, Paresh Rawal",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Long Live Love!",
+      "netflix_url": "https://www.netflix.com/title/81688728",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt28298504",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzk1YTc0NTMtMTkwZC00MGUxLWJiZDAtNzQ0ZjUyZGYzZWI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A story about a party-animal Sati, a man whose attitude has left a broken family at home. Meta, his wife, is preparing to leave him. At age 15, his daughter, Namo is already jaded from a lifetime of broken promises.",
+      "Type": "movie",
+      "RunTime": "135 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Piyakarn Butprasert",
+      "Writer": "Piyakarn Butprasert, Pongsuang Choop",
+      "Actors": "Sunny Suwanmethanont, Araya A. Hargate, Rebecca Patricia 'Becky' Armstrong",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "Nadaaniyan",
@@ -4462,6 +4681,23 @@
       "Country": "United States"
     },
     {
+      "title": "Pasutri Gaje",
+      "netflix_url": "https://www.netflix.com/title/81770884",
+      "year": "2024",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt28131321",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDViOWM5ZDItYjc0MC00NGY1LTkxNzUtMmZmMzIyYjk1YzYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The hustle and bustle of the newlyweds, Adimas and Adelia, is full of domestic drama mixed with hilarious behavior from both of them.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Fajar Bustomi",
+      "Writer": "Alim Sudio, Annisa Nisfihani",
+      "Actors": "Reza Rahadian, Bunga Citra Lestari, Indro Warkop",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Metro... In Dino",
       "netflix_url": "https://www.netflix.com/title/81772317",
       "year": "2025",
@@ -4657,6 +4893,23 @@
       "Country": "South Africa"
     },
     {
+      "title": "My Boo",
+      "netflix_url": "https://www.netflix.com/title/81908841",
+      "year": "2024",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt32380407",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTJiYzM5YzYtMmExNS00M2M3LWEyZjMtYTNjYjZmNjUxMjIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Very Thai and very romantic story about love between a boy and a ghost girl.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Comedy, Drama, Horror",
+      "Director": "Komgrit Triwimol",
+      "Writer": "Kirati Kumsat",
+      "Actors": "Punyawee Jungcharoen, Phuang Keawprasert, Jorin Khumpiraphan",
+      "Language": "Thai",
+      "Country": "Thailand"
+    },
+    {
       "title": "Premante: Thrillu Prapthirasthu",
       "netflix_url": "https://www.netflix.com/title/81920591",
       "year": "2025",
@@ -4680,6 +4933,23 @@
       "Actors": "Olivia Holt, Connor Swindells, Lucy Punch",
       "Language": "English",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "Fruitcake",
+      "netflix_url": "https://www.netflix.com/title/81928495",
+      "year": "2024",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt29536038",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmM4NDQ0NzktODkzYi00MDBmLThiYjctM2Y5NjcwNzE1YzgyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In modern-day Metro Manila, a diverse group of Filipinos faces life's lows as their destinies collide on a fateful train ride, unfolding a heartwarming and comedic tapestry of interconnected stories.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Joel Ferrer",
+      "Writer": "Joel Ferrer, Miko Livelo, Pamela L. Reyes",
+      "Actors": "Joshua Garcia, Empoy Marquez, Jane Oineza",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
     },
     {
       "title": "Our Times",
@@ -4707,6 +4977,14 @@
       "SkipTitle": true
     },
     {
+      "title": "Kang Mak from Pee Mak",
+      "netflix_url": "https://www.netflix.com/title/81971170",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "My Love Will Make You Disappear",
       "netflix_url": "https://www.netflix.com/title/81974048",
       "year": "2025",
@@ -4722,6 +5000,23 @@
       "Actors": "Paulo Avelino, Lovely Abella, Karina Bautista",
       "Language": "Filipino",
       "Country": "Philippines"
+    },
+    {
+      "title": "Bat War",
+      "netflix_url": "https://www.netflix.com/title/81987261",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37045101",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2U1ZTA4OTItY2U2Mi00NGNhLWFlMTktMTU1YzFiZjhlMWI1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bat War follows Colonel Phao, who is tasked with shutting down unauthorized traditional Thai music at music schools. However, he harbors a personal vendetta against Khao, the head of one such school, stemming from a childhood grudge.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy",
+      "Director": "Panupan Jantanawong",
+      "Writer": "N/A",
+      "Actors": "Pachara Chirathivat, Greg Matt Garcia, Jirayu La-ongmanee",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "Kadhalikka Neramillai",
@@ -4741,6 +5036,14 @@
       "Country": "India"
     },
     {
+      "title": "The Husbands of Rosario",
+      "netflix_url": "https://www.netflix.com/title/82007611",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Heart Eyes",
       "netflix_url": "https://www.netflix.com/title/82018999",
       "year": "2025",
@@ -4756,6 +5059,23 @@
       "Actors": "Mason Gooding, Olivia Holt, Gigi Zumbado",
       "Language": "English",
       "Country": "United States, New Zealand"
+    },
+    {
+      "title": "The Cliche",
+      "netflix_url": "https://www.netflix.com/title/82020758",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35616822",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTA4MzlkNWQtMjY3Ny00OTM4LWIxM2UtMGM2YmQ1OTY3YTU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man down on his luck is forced to take a role in a lakorn he doesn't like. Unexpectedly, he finds his real life and the lakorn overlapping.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Comedy",
+      "Director": "Chadchawal Wisawabumrungchai",
+      "Writer": "N/A",
+      "Actors": "Itkron Pungkiatrussamee, Atitaya Tribudarak, Sanya Kunakorn",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "The Last Goodbye",
@@ -4790,6 +5110,31 @@
       "Actors": "Loisa Andalio, Marvin Agustin, Jolina Magdangal",
       "Language": "N/A",
       "Country": "N/A"
+    },
+    {
+      "title": "C 4 Cinta",
+      "netflix_url": "https://www.netflix.com/title/82028366",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "A Business Proposal",
+      "netflix_url": "https://www.netflix.com/title/82041378",
+      "year": "2025",
+      "imdb_rating": "1.1",
+      "imdb_id": "tt35295730",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2U4MDg0NTItOTI3MS00ZDdlLTkyNmEtN2JjMzliZGU2ZmEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Faced with financial difficulties, Sari agrees to be a blind date stand-in for Yasmin, her best friend unaware that her date turns out to be none other than Utama, the owner of the company where Sari works, whom she dislikes.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Rako Prijanto",
+      "Writer": "Hae Hwa, Adhitya Mulya",
+      "Actors": "Ariel Tatum, Caitlin Halderman, Abidzar Al Ghifari",
+      "Language": "Indonesian, English",
+      "Country": "Indonesia"
     },
     {
       "title": "Joy for Christmas",

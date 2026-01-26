@@ -2465,6 +2465,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Fanatyk",
+      "netflix_url": "https://www.netflix.com/title/81232964",
+      "year": "2017",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt7786346",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmUyYmE0NzctMzhkZS00YzQ2LWIzY2MtNTQ4ZjJhY2Q4M2M3XkEyXkFqcGdeQXVyNzQyNjcwNDk@._V1_SX300.jpg",
+      "Plot": "A short film based on famous copy-paste text by Malcolm XD about a father - fanatic fisherman and his internet addicted son.",
+      "Type": "movie",
+      "RunTime": "33 min",
+      "Genre": "Short, Comedy",
+      "Director": "Michal Tylka",
+      "Writer": "Jan Stola, Michal Tylka, Malcolm Xd",
+      "Actors": "Juliusz Chrzastowski, Piotr Cyrwus, Marian Dziedziel",
+      "Language": "Polish",
+      "Country": "Poland"
+    },
+    {
       "title": "The Last Bomb of the Second World War",
       "netflix_url": "https://www.netflix.com/title/81248141",
       "year": "2019",
@@ -3363,6 +3380,23 @@
       "Country": "United States"
     },
     {
+      "title": "Raven Song",
+      "netflix_url": "https://www.netflix.com/title/81675919",
+      "year": "2023",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt17827194",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5Y2RkZTEtY2Y0OC00MTM0LTg3YmMtMjk5NWE0MGFjMjBmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Nasser, an unexceptional washout, is diagnosed with a brain tumor when he meets an enigmatic and peculiar young woman. Infatuated by her and sick of being a failure, he must quickly figure out what he wants to do in life before he...",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Comedy, Drama, Mystery",
+      "Director": "Mohamed al Salman",
+      "Writer": "Mohamed al Salman",
+      "Actors": "Asem Alawad, Ibraheem Alkhairallah, Abdullah Aljafal",
+      "Language": "Arabic",
+      "Country": "Saudi Arabia"
+    },
+    {
       "title": "The Outrun",
       "netflix_url": "https://www.netflix.com/title/81700122",
       "year": "2023",
@@ -3378,6 +3412,23 @@
       "Actors": "Saoirse Ronan, Paapa Essiedu, Nabil Elouahabi",
       "Language": "English",
       "Country": "United Kingdom, Germany"
+    },
+    {
+      "title": "Strawman",
+      "netflix_url": "https://www.netflix.com/title/81713154",
+      "year": "2023",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt28366799",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRlZjFkNTAtYzRmNy00MzNkLWFmMWItNGRkZmE0M2VmMGFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Budny, a secret service officer, secretly surveils Bishop Karol Wojtyla for 20 years. An unreciprocated bond forms between Budny and the unaware Wojtyla, leading to an obsessive, pathological relationship from Budny's perspective.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Drama, History",
+      "Director": "Robert Glinski",
+      "Writer": "Andrzej Golda",
+      "Actors": "Mateusz Wieclawek, Marianna Zydek, Adrian Brzakala",
+      "Language": "Polish",
+      "Country": "Poland"
     },
     {
       "title": "Bone Lake",

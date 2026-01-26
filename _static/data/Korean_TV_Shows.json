@@ -987,6 +987,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Beauty Inside",
+      "netflix_url": "https://www.netflix.com/title/81029990",
+      "year": "2018",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt8801708",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTNjNzk3YTYtZTJmMC00NDUwLTk4ZTYtNGE4NWM1ZWY3ZmU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The series tells the love story of Han Se Gye, an actress who must spend one week out of each month living in someone else's body, and Seo Do Jae, a man who suffers from Prosopagnosia.",
+      "Type": "series",
+      "RunTime": "70 min",
+      "Genre": "Drama, Fantasy, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Seo Hyeon-jin, Lee Min-ki, Lee Da-hee",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Clean With Passion For Now",
       "netflix_url": "https://www.netflix.com/title/81030008",
       "year": "2018",
@@ -1556,6 +1573,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "The Light in Your Eyes",
+      "netflix_url": "https://www.netflix.com/title/81211166",
+      "year": "2019",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt9466968",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDY4MzUwOGYtN2ZhNy00MDg3LTkxNjgtYzc5NTZiNjEwNmM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This story is about a woman who loses all her time before she can use it up and a man who gives up all of his radiant moments and lives a lethargic life.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Han Ji-min, Kim Hye-ja, Nam Joo-hyuk",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Moment of Eighteen",
       "netflix_url": "https://www.netflix.com/title/81211266",
       "year": "2019",
@@ -1568,7 +1602,8 @@
       "netflix_url": "https://www.netflix.com/title/81211284",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Flower Crew: Joseon Marriage Agency",
@@ -1749,6 +1784,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Hi Bye, Mama!",
+      "netflix_url": "https://www.netflix.com/title/81243996",
+      "year": "2020",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt11804034",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ2NTQ5ZWItZWRhZi00NGIwLTk1MjUtYmU1ZGM3OTFkY2FjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It's the story of a mother who died and begins a 49-day long project of reincarnation and a husband who has barely begun to live a new life after overcoming the pain of losing his wife.",
+      "Type": "series",
+      "RunTime": "70 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kim Tae-hee, Lee Kyoo-hyung, Ko Bo-gyeol",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Hellbound",
       "netflix_url": "https://www.netflix.com/title/81256675",
       "year": "2024",
@@ -1919,6 +1971,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "When the Weather Is Fine",
+      "netflix_url": "https://www.netflix.com/title/81296714",
+      "year": "2020",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt11535086",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzZTkzMWUtZDg2ZS00ODllLWJmNzYtYmIxZGMyNjk1NzA3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A story about forgiveness, healing and love taking place around a small book store in the countryside.",
+      "Type": "series",
+      "RunTime": "60 min",
+      "Genre": "Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Park Min-young, Seo Kang-joon, Moon Jeong-Hee",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Paik's Spirit",
       "netflix_url": "https://www.netflix.com/title/81299230",
       "year": "2021",
@@ -1950,6 +2019,23 @@
       "Writer": "N/A",
       "Actors": "Song Chae-Yoon, Han Su-ah, Shim So-Young",
       "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Kingdom: Ashin of the North",
+      "netflix_url": "https://www.netflix.com/title/81312457",
+      "year": "2021",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt13412252",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzc5ZDMzNzItODY2MC00MzBiLWJjODgtNmVmMGM5ZWYyYmM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Tragedy, betrayal and a mysterious discovery fuel a woman's vengeance for the loss of her tribe and family in this special episode of \"Kingdom.\"",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Action, Drama, Fantasy",
+      "Director": "Kim Seong-hun",
+      "Writer": "Kim Eun-hee",
+      "Actors": "Jun Ji-hyun, Kim Si-Ah, Park Byeong-eun",
+      "Language": "Korean, Japanese, More",
       "Country": "South Korea"
     },
     {
@@ -2589,6 +2675,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Reflection of You",
+      "netflix_url": "https://www.netflix.com/title/81473219",
+      "year": "2021",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt14684086",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ0NDlmMDYtNzc0Ni00NWU4LWE2MzctMjg3MzFmM2U1YmRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A thriving painter's enviable life begins to fray at the edges when a bright young woman she once befriended resurfaces as a shell of her former self.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Go Hyun-jung, Shin Hyeon-bin, Yang Jo-ah",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Korean Cold Noodle Rhapsody",
       "netflix_url": "https://www.netflix.com/title/81473619",
       "year": "2021",
@@ -2737,6 +2840,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Andrew Lee, Keisuke Hoashi, June Yoon",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Love After Divorce",
+      "netflix_url": "https://www.netflix.com/title/81502033",
+      "year": "2023",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt28665617",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTllYTFkZGItNzBlNi00MWQwLTg0NWUtZTNjMTMzODY5NzY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Divorced individuals cohabit, sharing stories and forging bonds. As emotions intertwine, they navigate past complexities, seeking new connections and love after divorce, amidst laughter, tears, and unexpected twists.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Yoon, Lee Hye-young, Jung Gyu-woon",
       "Language": "Korean",
       "Country": "South Korea"
     },
@@ -4037,6 +4157,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Super Rich in Korea",
+      "netflix_url": "https://www.netflix.com/title/81720895",
+      "year": "2024",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt31038436",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjBkYzFlYWYtNGViOC00YTk0LTk0NTctOWRhM2E2ZWI1MWQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Singaporean tycoons, Italian luxury brand heirs, and Pakistani nobles. Explore the lavish lives of multibillionaires living in Korea, and why they came.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mimi, BamBam, Cho Sae-ho",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Bebefinn Playtime",
       "netflix_url": "https://www.netflix.com/title/81726679",
       "year": "2023",
@@ -4092,6 +4229,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Lee Hyeri, Kim Do-hoon, Karina",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Frankly Speaking",
+      "netflix_url": "https://www.netflix.com/title/81738948",
+      "year": "2024",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt32138907",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjIzOWJiZDQtODIzNi00YzY1LWI3ZDctM2IxYjAwNjNhYzRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A well-respected announcer suddenly loses his ability to self-censor on air, catching the attention of a TV writer who invites him on her variety show.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Go Kyung-pyo, Kang Han-na, Joo Jong-hyuk",
       "Language": "Korean",
       "Country": "South Korea"
     },
@@ -4282,6 +4436,23 @@
       "Country": "Korea, South Korea"
     },
     {
+      "title": "A-List to Playlist",
+      "netflix_url": "https://www.netflix.com/title/81752352",
+      "year": "2024",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt33038099",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmZkYmZmOTAtOWMwOC00MzczLWE2ZWQtMDIzMjliZTM3NmQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After two decades working as an actor, Cho Jung-seok challenges himself to make his debut as a pop star in 100 days.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "June Yoon, Kim Eana, Jo Jung-suk",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Eve",
       "netflix_url": "https://www.netflix.com/title/81754357",
       "year": "2022",
@@ -4380,6 +4551,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Kim So-yeon, Yeon Woo-jin, Kim Sung-ryung",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
+      "title": "Better Late Than Single",
+      "netflix_url": "https://www.netflix.com/title/81788026",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35668156",
+      "Poster": "N/A",
+      "Plot": "Singles live together for 9 days, getting makeovers and dating guidance while seeking real connections. They experience emotional moments as they pursue romance through flirtations and dates.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
       "Language": "Korean",
       "Country": "South Korea"
     },

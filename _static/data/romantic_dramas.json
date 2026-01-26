@@ -2914,6 +2914,23 @@
       "SkipTitle": true
     },
     {
+      "title": "Happiness Ever After",
+      "netflix_url": "https://www.netflix.com/title/81387787",
+      "year": "2021",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt14307694",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1NzRiNGMtZDZmYi00NjMyLWFiNjMtOTM0OWY1YzNmMWU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Five years later from where we left our characters, again tackling sisterhood and friendship, this time with the inclusion of a new romantic arc.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Drama, Romance",
+      "Director": "Thabang Moleya",
+      "Writer": "N/A",
+      "Actors": "Richard Lukunku, Daniel Etim Effiong, Khanyi Mbau",
+      "Language": "English",
+      "Country": "South Africa"
+    },
+    {
       "title": "Namaste Wahala",
       "netflix_url": "https://www.netflix.com/title/81397313",
       "year": "2021",
@@ -4102,6 +4119,23 @@
       "Country": "Philippines"
     },
     {
+      "title": "One Night Stand",
+      "netflix_url": "https://www.netflix.com/title/81671924",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15788948",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTlhOGQzMTQtNGViZS00ZDM0LWIzNGQtMjlhMWZhYjMxYTk3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young man's trip to attend a funeral and a wedding on the same day leads to a journey of self-discovery when he's captivated by a chance encounter.",
+      "Type": "movie",
+      "RunTime": "80 min",
+      "Genre": "Drama, Romance",
+      "Director": "Adriyanto Dewo",
+      "Writer": "Adriyanto Dewo",
+      "Actors": "Jourdy Pranata, Putri Marino, Elang El Gibran",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Arini by Love.inc",
       "netflix_url": "https://www.netflix.com/title/81671925",
       "year": "2022",
@@ -4321,6 +4355,23 @@
       "Actors": "Simone Baldasseroni, Caterina Ferioli, Sabrina Paravicini",
       "Language": "Italian",
       "Country": "Italy"
+    },
+    {
+      "title": "The Cheating Game",
+      "netflix_url": "https://www.netflix.com/title/81712030",
+      "year": "2023",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt28262037",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTU4OWNiNzgtMjU3ZC00NjBjLTk0YWEtZGNjYjg3YjBjZDBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After her cheating boyfriend's sex tape goes viral, a content creator starts over with the seemingly perfect guy - who may be hiding secrets of his own.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Drama, Romance",
+      "Director": "Rod Marmol",
+      "Writer": "Rod Marmol, Jessie Villabrille, Sharon Masula",
+      "Actors": "Julie Anne San Jose, Rayver Cruz, Martin Del Rosario",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
     },
     {
       "title": "Mr. & Mrs. Mahi",

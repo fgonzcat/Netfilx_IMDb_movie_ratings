@@ -665,6 +665,23 @@
       "SkipTitle": true
     },
     {
+      "title": "Dawn of the Croods",
+      "netflix_url": "https://www.netflix.com/title/80049870",
+      "year": "2017",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt5193172",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjMzOGU5YjEtY2YyYS00MzVjLTk3NjAtNjkwZjQ0MGRiZTBhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Eep, Grug, Thunk, Ugga, Sandy and Gran are back. Follow them as they meet new friends, outrun new creatures and encounter \"firsts\" the world has never seen - such as school, slumber parties, hiccups and elections.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Dan Milano, A.J. LoCascio, Laraine Newman",
+      "Language": "English",
+      "Country": "United States, South Korea, Canada, Philippines"
+    },
+    {
       "title": "Dinotrux",
       "netflix_url": "https://www.netflix.com/title/80049903",
       "year": "2017",
@@ -747,6 +764,23 @@
       "Actors": "Jason Griffith, Marc Thompson, Rebecca Soler",
       "Language": "Korean, Spanish, Chinese, Japanese, English, Portuguese",
       "Country": "South Korea, Slovakia"
+    },
+    {
+      "title": "True and the Rainbow Kingdom",
+      "netflix_url": "https://www.netflix.com/title/80063599",
+      "year": "2019",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt5607658",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjYxMzAzYjktZTgwYy00YjMwLWJlYWQtNDk0YjUyNWYyYjQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Fearless eight-year old guardian True uses wishes from the Wishing Tree to help protect the citizens of the colorful land of the Rainbow Kingdom.",
+      "Type": "series",
+      "RunTime": "22 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "Jeff Borkin, Samuel Borkson, Arturo Sandoval",
+      "Actors": "Michela Luci, Nicolas Aqui, Jamie Watson",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Word Party",
@@ -934,6 +968,23 @@
       "Actors": "Kate McKinnon, Gabby Clarke, Lynsey Pham",
       "Language": "English",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "StoryBots Super Songs",
+      "netflix_url": "https://www.netflix.com/title/80113144",
+      "year": "2016",
+      "imdb_rating": "8.8",
+      "imdb_id": "tt6163070",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2EwY2M4NjgtN2NiMC00MzUwLWFmMjctMDkzODEwZmVhYmRhXkEyXkFqcGdeQXVyNjgxOTE3Njc@._V1_SX300.jpg",
+      "Plot": "Based on the award-winning educational apps, \"StoryBots Super Songs\" centers on the StoryBots, the curious little creatures who live in the world beneath our screens and help answer humans' biggest questions.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Family, Musical",
+      "Director": "N/A",
+      "Writer": "Evan Spiridellis, Gregg Spiridellis",
+      "Actors": "Judy Greer, Erin Fitzgerald, Fred Tatasciore",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Skylanders Academy",
@@ -1418,6 +1469,23 @@
       "Actors": "Addison Holley, Juan Luis Bonilla, Kyle Breitkopf",
       "Language": "French, English, Spanish",
       "Country": "France, United Kingdom, Canada, United States"
+    },
+    {
+      "title": "America: The Motion Picture",
+      "netflix_url": "https://www.netflix.com/title/80189631",
+      "year": "2021",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt6733874",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTIyYzFlMzgtODA2MS00YThhLTg0OGUtZmM2MWQ0MDQxNmQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Matt Thompson",
+      "Writer": "Dave Callaham",
+      "Actors": "Channing Tatum, Jason Mantzoukas, Olivia Munn",
+      "Language": "English, French, Spanish",
+      "Country": "Brazil, Mexico, United States, Czech Republic"
     },
     {
       "title": "Paradise PD",
@@ -2142,6 +2210,13 @@
       "Country": "United Kingdom, France"
     },
     {
+      "title": "True: Wonderful Wishes",
+      "netflix_url": "https://www.netflix.com/title/80243473",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Maya and the Three",
       "netflix_url": "https://www.netflix.com/title/80244283",
       "year": "2021",
@@ -2718,6 +2793,31 @@
       "Actors": "Evan LeFeuvre, Michela Luci, Tyler James Nathan",
       "Language": "English",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "True: Tricky Treat Day",
+      "netflix_url": "https://www.netflix.com/title/81035117",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "True: Terrific Tales",
+      "netflix_url": "https://www.netflix.com/title/81035124",
+      "year": "2020",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt12140808",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGY3MmU2ODYtMWE2Ni00MzlkLWE0ZjUtOTJhZTI2MjQyOTYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Through the magic of the Story Spinner, True and her friends create their own versions of Pinocchio, Little Red Riding Hood and other classic tales.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Family",
+      "Director": "N/A",
+      "Writer": "Jeff Borkin, Samuel Borkson, Mary Bredin",
+      "Actors": "Michela Luci, Anna Claire Bartlam, Manny Templer",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "My Dad the Bounty Hunter",
@@ -5540,6 +5640,23 @@
       "Country": "United States"
     },
     {
+      "title": "Morphle",
+      "netflix_url": "https://www.netflix.com/title/81689583",
+      "year": "2023",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt10087694",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzI5YzM0MTQtM2MxOS00NTYxLWE4ODEtYzVlMmU1NzQ1MmJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mila's dad runs the only magic pet store in the city - a fantastical place where you can find all sorts of cute and quirky pets who each have their own unique magic powers, and he has gifted Mila the most magic pet of all, Morphle.",
+      "Type": "series",
+      "RunTime": "43 min",
+      "Genre": "Animation, Adventure, Family",
+      "Director": "N/A",
+      "Writer": "Edward Kay, Arthur van Merwijk",
+      "Actors": "Sabrina Glow, Arthur van Merwijk, Cassie Glow",
+      "Language": "English, Spanish, French, German, Portuguese",
+      "Country": "Netherlands, United Kingdom, United States"
+    },
+    {
       "title": "Lucas the Spider",
       "netflix_url": "https://www.netflix.com/title/81691739",
       "year": "2021",
@@ -5555,6 +5672,14 @@
       "Actors": "Simon Webster, Antonina Battrick, Christian Campbell",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Chota Bheem Zuhu Ka Zalzala",
+      "netflix_url": "https://www.netflix.com/title/81701050",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Krish, Trish & Baltiboy Bharat Hain Hum",

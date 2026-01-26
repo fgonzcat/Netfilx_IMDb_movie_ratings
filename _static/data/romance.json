@@ -88,6 +88,23 @@
       "Country": "India"
     },
     {
+      "title": "Chandni",
+      "netflix_url": "https://www.netflix.com/title/20254789",
+      "year": "1989",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt0097045",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjAwNjFmNjktOGIxYy00MGE1LWIzNjYtZGZjOGYyZDZkNWM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Fate leaves Chandni shattered as her love Rohit disappears from her life. She meets Lalit and they befriend each other until Rohit knocks on her door.",
+      "Type": "movie",
+      "RunTime": "186 min",
+      "Genre": "Drama, Musical, Romance",
+      "Director": "Yash Chopra",
+      "Writer": "Kamna Chandra, Umesh Kalbagh, Arun Kaul",
+      "Actors": "Sridevi, Rishi Kapoor, Vinod Khanna",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Aaina",
       "netflix_url": "https://www.netflix.com/title/20257870",
       "year": "1993",
@@ -547,6 +564,23 @@
       "Country": "India"
     },
     {
+      "title": "Faasle",
+      "netflix_url": "https://www.netflix.com/title/70041993",
+      "year": "1985",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt0089119",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTVjYmE5OTgtZmY2MC00ZDQzLTk1ZGItYzQ2MWFmNTQwYzA0XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_SX300.jpg",
+      "Plot": "A story of the blind sense of duty of the elders and the self-confidence and arrogance of the young. Both think they are right for the sake of love.",
+      "Type": "movie",
+      "RunTime": "146 min",
+      "Genre": "Drama, Romance",
+      "Director": "Yash Chopra",
+      "Writer": "Sachin Bhowmick, Sagar Sarhadi",
+      "Actors": "Sunil Dutt, Rekha, Rohan Kapoor",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "The Illusionist",
       "netflix_url": "https://www.netflix.com/title/70043951",
       "year": "2006",
@@ -579,6 +613,23 @@
       "Actors": "Aamir Khan, Kajol, Rishi Kapoor",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Solo Con Tu Pareja",
+      "netflix_url": "https://www.netflix.com/title/70055221",
+      "year": "1991",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt0896833",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxYjQ5OTgtMjU1ZC00MzQzLTkwNGEtODcwOWVkNDlhYTZmXkEyXkFqcGdeQXVyMzI5NjUyMDM@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "29 min",
+      "Genre": "Documentary, Short",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Alfonso Cuarón, Carlos Cuarón, Daniel Giménez Cacho",
+      "Language": "English, Spanish",
+      "Country": "United States, Mexico"
     },
     {
       "title": "Kabhi Alvida Naa Kehna",
@@ -1507,6 +1558,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Duck Butter",
+      "netflix_url": "https://www.netflix.com/title/80115118",
+      "year": "2018",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt6958014",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4MTMxMTM4NV5BMl5BanBnXkFtZTgwNjAzNjAxNTM@._V1_SX300.jpg",
+      "Plot": "Dissatisfied with the dishonesty they see in dating and relationships, two women make a pact to spend 24 hours together, hoping to find a new way to create intimacy.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Miguel Arteta",
+      "Writer": "Miguel Arteta, Alia Shawkat",
+      "Actors": "Alia Shawkat, Drew Langer, Marc Maron",
+      "Language": "English, Catalan, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "When We First Met",
       "netflix_url": "https://www.netflix.com/title/80117531",
       "year": "2018",
@@ -1914,6 +1982,23 @@
       "Country": "United States"
     },
     {
+      "title": "Desperados",
+      "netflix_url": "https://www.netflix.com/title/80238203",
+      "year": "2020",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt1545304",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjYwZGM2MTQtOTdlZi00MmEzLTk5ZjYtMTA4YTFiYjQ2ODk5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A panicked young woman, with her reluctant friends in tow, rushes to Mexico to try and delete a ranting email she sent to her new boyfriend.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Romance",
+      "Director": "LP",
+      "Writer": "Ellen Rapoport",
+      "Actors": "Nasim Pedrad, Anna Camp, Lamorne Morris",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "A Christmas Prince: The Royal Wedding",
       "netflix_url": "https://www.netflix.com/title/80238204",
       "year": "2018",
@@ -2048,6 +2133,23 @@
       "Actors": "Osamah Sami, Don Hany, Helana Sawires",
       "Language": "English, Arabic, Persian",
       "Country": "Australia"
+    },
+    {
+      "title": "Lust Stories",
+      "netflix_url": "https://www.netflix.com/title/80991033",
+      "year": "2018",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt8439854",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTgwNTQ4NDAyN15BMl5BanBnXkFtZTgwNjMwMzQ3NTM@._V1_SX300.jpg",
+      "Plot": "Four short films by four of India's biggest directors exploring love, sex and relationships in modern India.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Drama, Romance",
+      "Director": "Zoya Akhtar, Dibakar Banerjee, Karan Johar",
+      "Writer": "Radhika Apte, Dibakar Banerjee, Anurag Kashyap",
+      "Actors": "Kiara Advani, Vicky Kaushal, Bhumi Pednekar",
+      "Language": "Hindi, English",
+      "Country": "India"
     },
     {
       "title": "Tara VS. Bilal",
@@ -2999,6 +3101,23 @@
       "Actors": "Pallavi Sharda, Suraj Sharma, Arianna Afsar",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Archies",
+      "netflix_url": "https://www.netflix.com/title/81134807",
+      "year": "2023",
+      "imdb_rating": "4.2",
+      "imdb_id": "tt15979666",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM5NDIyNDUtM2U5NC00ZTM4LTg5ZGQtMmFkYTQwZTcwNTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set in 1960s India, Archie and the gang navigate romance, friendship and the future of Riverdale as developers threaten to destroy a beloved park.",
+      "Type": "movie",
+      "RunTime": "141 min",
+      "Genre": "Comedy, Drama, Musical",
+      "Director": "Zoya Akhtar",
+      "Writer": "Farhan Akhtar, Zoya Akhtar, Ayesha DeVitre",
+      "Actors": "Agastya Nanda, Khushi Kapoor, Suhana Khan",
+      "Language": "Hindi, English",
+      "Country": "India"
     },
     {
       "title": "Single All The Way",
@@ -3966,6 +4085,23 @@
       "Actors": "Asli Enver, Kaan Urgancioglu, Mert Ege Ak",
       "Language": "Turkish",
       "Country": "Turkey"
+    },
+    {
+      "title": "Under the Amalfi Sun",
+      "netflix_url": "https://www.netflix.com/title/81354012",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt15311262",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDIwMzhhMzktMmVjYS00NzdmLTg1M2UtZDRjODU4OTI4YmQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "One year after Riccione, Vincenzo invites Camilla and Furio to his father's home on the mythical Amalfi Coast.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Martina Pastori, Valeria Zunzun",
+      "Writer": "Caterina Salvadori, Enrico Vanzina, Ciro Zecca",
+      "Actors": "Lorenzo Zurzolo, Isabella Ferrari, Ludovica Martino",
+      "Language": "Italian",
+      "Country": "Italy"
     },
     {
       "title": "A Family Affair",
@@ -5530,6 +5666,23 @@
       "Country": "India"
     },
     {
+      "title": "Dilan 1983",
+      "netflix_url": "https://www.netflix.com/title/81678776",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt31070645",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEyYTc3ZWUtYzg0Ny00YTRiLWE4MTEtNDNiNDk0MGY2YWEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1983, Dilan reunites with his elementary school friends after a year and a half away and tries to impress a transfer student.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Drama, Romance",
+      "Director": "Pidi Baiq, Fajar Bustomi",
+      "Writer": "Pidi Baiq, Alim Sudio",
+      "Actors": "M. Adhiyat, Malea Emma Tjandrawidjaja, Ira Wibowo",
+      "Language": "Indonesian, Chinese, Mandarin",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Hi Nanna",
       "netflix_url": "https://www.netflix.com/title/81682028",
       "year": "2023",
@@ -6311,6 +6464,23 @@
       "Country": "United States"
     },
     {
+      "title": "Pasutri Gaje",
+      "netflix_url": "https://www.netflix.com/title/81770884",
+      "year": "2024",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt28131321",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDViOWM5ZDItYjc0MC00NGY1LTkxNzUtMmZmMzIyYjk1YzYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The hustle and bustle of the newlyweds, Adimas and Adelia, is full of domestic drama mixed with hilarious behavior from both of them.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Fajar Bustomi",
+      "Writer": "Alim Sudio, Annisa Nisfihani",
+      "Actors": "Reza Rahadian, Bunga Citra Lestari, Indro Warkop",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Mango",
       "netflix_url": "https://www.netflix.com/title/81772077",
       "year": "2025",
@@ -6773,6 +6943,23 @@
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
+    },
+    {
+      "title": "Love Child",
+      "netflix_url": "https://www.netflix.com/title/81946499",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32915305",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWFhNGQ5YzgtNmE2Yy00ZWM1LTkyNTItZTFmMjIxOWVjYjY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young couple navigates the challenges of raising their autistic son in an increasingly unforgiving world, testing their love and resilience.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama",
+      "Director": "Jonathan Jurilla",
+      "Writer": "Jonathan Jurilla, Arden Rod Condez, Ayu Martinez",
+      "Actors": "Jane Oineza, RK Bagatsing, John Tyrron Ramos",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
     },
     {
       "title": "Kang Mak from Pee Mak",

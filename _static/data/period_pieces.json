@@ -1923,6 +1923,23 @@
       "Country": "France"
     },
     {
+      "title": "Mat Kilau",
+      "netflix_url": "https://www.netflix.com/title/81577427",
+      "year": "2022",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt11347146",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmMzZTRlY2UtMTIzNy00N2MzLTlkMWQtN2IwMmY1OTI4MjM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The film is inspired by the epic Malaysian historical figure Mat Kilau who had fought against the British colonists in Pahang before independence.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Syamsul Yusof",
+      "Writer": "Shahruddin Dali, Syamsul Yusof",
+      "Actors": "Adi Putra, Beto Kusyairy, Fattah Amin",
+      "Language": "Malay, Gujarati, English",
+      "Country": "Malaysia"
+    },
+    {
       "title": "Who Rules the World",
       "netflix_url": "https://www.netflix.com/title/81605075",
       "year": "2022",
@@ -2033,6 +2050,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Here",
+      "netflix_url": "https://www.netflix.com/title/81680566",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt18272208",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ5ZDQ5YWQtMThiMS00MGM4LTk2NjktYTllYzg2NTRiNTMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A generational story about families and the special place they inhabit, sharing in love, loss, laughter, and life.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Drama",
+      "Director": "Robert Zemeckis",
+      "Writer": "Eric Roth, Robert Zemeckis, Richard McGuire",
+      "Actors": "Tom Hanks, Robin Wright, Paul Bettany",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "House of Ga'a",
       "netflix_url": "https://www.netflix.com/title/81681233",
       "year": "2024",
@@ -2047,6 +2081,23 @@
       "Writer": "Tunde Babalola",
       "Actors": "Femi Branch, Mike Afolarin, Funke Akindele",
       "Language": "English",
+      "Country": "Nigeria"
+    },
+    {
+      "title": "Jagun Jagun",
+      "netflix_url": "https://www.netflix.com/title/81681240",
+      "year": "2023",
+      "imdb_rating": "3.9",
+      "imdb_id": "tt28546464",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDY0ODU1NjktM2MxZi00MzE5LWE2ZjktNGEzNWMzMDJmYjk5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young man determined to become a mighty warrior joins an elite army, encountering the wrath of a maniacal warlord and the love of a woman.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Drama, History",
+      "Director": "Tope Adebayo, Adebayo Tijani",
+      "Writer": "Femi Adebayo, Adebayo Tijani",
+      "Actors": "Femi Adebayo, Tope Adebayo, Adebowale Adedayo",
+      "Language": "Yoruba",
       "Country": "Nigeria"
     },
     {
@@ -2277,6 +2328,14 @@
       "Actors": "Naymaps Maphalala, Lungelo Madondo, Sibongile Andy Mnguni",
       "Language": "Zulu",
       "Country": "South Africa"
+    },
+    {
+      "title": "Warrior Awang and Master Tok Gajah",
+      "netflix_url": "https://www.netflix.com/title/81940274",
+      "year": "2024",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "The Story of Pearl Girl",

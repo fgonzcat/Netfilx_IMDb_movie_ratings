@@ -1403,6 +1403,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "Under Suspicion: Uncovering the Wesphael Case",
+      "netflix_url": "https://www.netflix.com/title/81149020",
+      "year": "2021",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt14078186",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTc0ZGFhYjctNTc5Zi00NTNiLWI3YTgtZmMwYzcxZTQxYjRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This docuseries examines the story of Belgian politician Bernard Wesphael, who was accused of murdering his wife, Véronique Pirotton, in 2013. She had been found dead in a hotel room in Ostend.",
+      "Type": "series",
+      "RunTime": "180 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "Georges Huercano, Pascal Vrebos",
+      "Actors": "Nadine Pirotton, Bernard Sohet, Bernard Wesphael",
+      "Language": "French, English",
+      "Country": "Belgium"
+    },
+    {
       "title": "The Indrani Mukerjea Story: Buried Truth",
       "netflix_url": "https://www.netflix.com/title/81150989",
       "year": "2024",
@@ -2343,6 +2360,23 @@
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
+    },
+    {
+      "title": "The King Who Never Was",
+      "netflix_url": "https://www.netflix.com/title/81495974",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt28091734",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODY1MWQ4ZTctZDU3OS00OGE5LWFkZTMtMmJlNDViYmM1ODcwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This docuseries sheds light on the killing of a German teenager in '78 through the accounts of his sister and the royal family involved in the case.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Vittorio Emanuele di Savoia, Birgit Hamer, Stacy Ines",
+      "Language": "Italian",
+      "Country": "Italy"
     },
     {
       "title": "When Missing Turns to Murder",

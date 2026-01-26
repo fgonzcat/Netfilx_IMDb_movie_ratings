@@ -122,6 +122,23 @@
       "Country": "United Kingdom, United States, Spain"
     },
     {
+      "title": "Dil Se",
+      "netflix_url": "https://www.netflix.com/title/17671454",
+      "year": "1998",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0164538",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGU3NGY5ZWUtMWQxOS00ZTMzLWJjNTEtMjkyZDVlY2E4OGZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A radio broadcaster's intense attraction to a mysterious woman opens the door to a tidal wave of powerful emotions and desires.",
+      "Type": "movie",
+      "RunTime": "163 min",
+      "Genre": "Drama, Romance",
+      "Director": "Mani Ratnam",
+      "Writer": "Mani Ratnam, Sujatha, Tigmanshu Dhulia",
+      "Actors": "Shah Rukh Khan, Manisha Koirala, Preity G Zinta",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Darr",
       "netflix_url": "https://www.netflix.com/title/20704518",
       "year": "1993",
@@ -1924,6 +1941,23 @@
       "Country": "Italy, Brazil"
     },
     {
+      "title": "Eye For An Eye",
+      "netflix_url": "https://www.netflix.com/title/80997602",
+      "year": "2019",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt7967412",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDg3NTVmYjctZGUxOC00ZTI1LTk3MjUtNjA4ZTMzNDkyY2FjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A drug dealer looking for rest. A nurse looking for revenge. A crossroads where no one is safe.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Paco Plaza",
+      "Writer": "Juan Galiñanes, Jorge Guerricaechevarría",
+      "Actors": "Luis Tosar, Xan Cejudo, Ismael Martínez",
+      "Language": "Spanish",
+      "Country": "Spain, France, United States"
+    },
+    {
       "title": "Secret Obsession",
       "netflix_url": "https://www.netflix.com/title/80998968",
       "year": "2019",
@@ -2262,6 +2296,23 @@
       "Actors": "Ting-hu Zhang, Sing Hom, He-Hsuan Lin",
       "Language": "Chinese",
       "Country": "Taiwan"
+    },
+    {
+      "title": "Intuition",
+      "netflix_url": "https://www.netflix.com/title/81034677",
+      "year": "2020",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt12282598",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTE0NDdkNGItM2JhMi00NTZmLWFkOTgtNmIzNzlmNjI1MmYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Pipa begins her career as a police detective alongside her mentor, the controversial detective Francisco Juánez. Together they must solve the violent murder of a 19-year-old girl.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Alejandro Montiel",
+      "Writer": "Florencia Etcheves, Alejandro Montiel, Mili Roque Pitt",
+      "Actors": "Luisana Lopilato, Joaquín Furriel, Rafael Ferro",
+      "Language": "Spanish",
+      "Country": "Argentina"
     },
     {
       "title": "The Witcher: Nightmare of the Wolf",
@@ -2944,6 +2995,23 @@
       "Country": "Denmark"
     },
     {
+      "title": "Dobaaraa",
+      "netflix_url": "https://www.netflix.com/title/81210705",
+      "year": "2022",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt14042066",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGI4ZjVjYzgtNjM5My00YmFmLWE4Y2MtY2I0NTFmYmY0ZDgzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman gets an opportunity to save the life of a 12-year old boy who witnessed a death during a thunderstorm which happened 25 years ago, by getting connected through the television set during a similar storm in the present.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Drama, Fantasy, Mystery",
+      "Director": "Anurag Kashyap",
+      "Writer": "Nihit Bhave, Oriol Paulo",
+      "Actors": "Taapsee Pannu, Pavail Gulati, Nassar",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Under Paris",
       "netflix_url": "https://www.netflix.com/title/81210788",
       "year": "2024",
@@ -3146,6 +3214,23 @@
       "Actors": "Mustapha Aarab, Elsa Öhrn, Jonay Pineda Skallak",
       "Language": "Swedish",
       "Country": "Sweden"
+    },
+    {
+      "title": "Khufiya",
+      "netflix_url": "https://www.netflix.com/title/81252372",
+      "year": "2023",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt15433600",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjdmMWZhNjItMjExZi00OGM3LWJiNzgtNjlkZmNlYjU1OGI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Krishna Mehra is an operative at Indian spy agency known as R&amp;AW. She is assigned to track down the mole selling India's defense secrets, while all along grappling with her dual identity as a spy and a lover.",
+      "Type": "movie",
+      "RunTime": "157 min",
+      "Genre": "Action, Biography, Crime",
+      "Director": "Vishal Bhardwaj",
+      "Writer": "Vishal Bhardwaj, Amar Bhushan, Rohan Narula",
+      "Actors": "Tabu, Ali Fazal, Wamiqa Gabbi",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Robbing Mussolini",
@@ -5318,6 +5403,23 @@
       "Country": "Norway"
     },
     {
+      "title": "Ìjọ̀gbọ̀n",
+      "netflix_url": "https://www.netflix.com/title/81671712",
+      "year": "2023",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt29168830",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjVkOWIxYjQtOGIxOC00ZGMxLWJkZDMtY2E4NDA4NWY0YmY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four teenagers from a rural village in South West Nigeria stumble upon a pouch of uncut diamonds but before long, others come looking for the bounty.",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Kunle Afolayan",
+      "Writer": "Kunle Afolayan, Tunde Babalola",
+      "Actors": "Fawas Aina, Ebiesuwa Oluwaseyi, Ruby Akubueze",
+      "Language": "English, Yoruba",
+      "Country": "Nigeria"
+    },
+    {
       "title": "The Blackening",
       "netflix_url": "https://www.netflix.com/title/81672086",
       "year": "2023",
@@ -5467,6 +5569,23 @@
       "Actors": "Shailene Woodley, Ben Mendelsohn, Jovan Adepo",
       "Language": "English",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "Ulajh",
+      "netflix_url": "https://www.netflix.com/title/81685896",
+      "year": "2024",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt19838634",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDEwZjRlYzMtNDc2Ny00Y2Q4LTk1NmQtYmU3NzZhMzNiZWI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The journey of a young IFS officer, belonging to a prominent family of patriots, who gets embroiled in a dangerous personal conspiracy while far from her home turf, at a career-defining post.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Sudhanshu Saria",
+      "Writer": "Parveez Shaikh, Sudhanshu Saria, Atika Chohan",
+      "Actors": "Janhvi Kapoor, Gulshan Devaiah, Roshan Mathew",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "A Very Good Girl",
@@ -6104,6 +6223,23 @@
       "Actors": "Jodie Comer, Aaron Taylor-Johnson, Ralph Fiennes",
       "Language": "English, Swedish",
       "Country": "United Kingdom, Canada, United States"
+    },
+    {
+      "title": "M3GAN 2.0",
+      "netflix_url": "https://www.netflix.com/title/82000745",
+      "year": "2025",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt26342662",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzFmNjVjZWQtZjI5Zi00YThiLTg0ZWItZDdjYzhhZDE1NTE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two years after M3GAN's rampage, her creator, Gemma, resorts to resurrecting her infamous creation in order to take down Amelia, the military-grade weapon who was built by a defense contractor who stole M3GAN's underlying tech.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Sci-Fi, Thriller",
+      "Director": "Gerard Johnstone",
+      "Writer": "Gerard Johnstone, Akela Cooper, James Wan",
+      "Actors": "Allison Williams, Violet McGraw, Amie Donald",
+      "Language": "English, Turkish",
+      "Country": "United States, New Zealand, Canada"
     },
     {
       "title": "Uninvited",
