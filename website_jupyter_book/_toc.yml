@@ -56,19 +56,32 @@ parts:
           - file: true_crime 
           - file: crime_true_crime_documentaries
       - file: cult
+
       - file: documentaries 
         sections:
           - file: biographical_documentaries 
           - file: crime_documentaries_in_documentaries
           - file: historical_documentaries 
+          - file: science_nature_documentaries
+          - file: social_cultural_documentaries
+          - file: sports_documentaries
 
       - file: dramas 
+        sections:
+          - file: period_pieces 
+          - file: social_issue_dramas
       - file: family 
         sections:
           - file: animal_tales
           - file: children_and_family
       - file: film_noir 
+      - file: gangster_movies 
+
       - file: horror
+        sections:
+          - file: horror_comedy 
+          - file: monster_movies 
+
       - file: independent 
       - file: korean 
 
@@ -91,14 +104,28 @@ parts:
           - file: scifi_action
           - file: scifi_alien
           - file: scifi_fantasy 
+
       - file: spanish_movies_and_TV_shows 
+      - file: sports 
       - file: standup_comedy 
       - file: suspenseful
       - file: thrillers
+        sections:
+          - file: mysteries 
+          - file: psychological_thrillers 
 
 
   - caption: 📺 Series 
     chapters:
+      - file: TV_action_adventure
       - file: anime_series
-      - file: TV_dramas 
+      - file: British_TV_shows
+      - file: Crime_TV_shows
+      - file: TV_documentaries
       - file: Korean_TV_Shows
+      - file: reality_TV 
+      - file: TV_comedies
+      - file: TV_dramas 
+      - file: TV_horror
+      - file: TV_mysteries
+      - file: TV_shows  

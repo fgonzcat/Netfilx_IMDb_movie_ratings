@@ -470,6 +470,23 @@
       "Country": "India"
     },
     {
+      "title": "Mojave",
+      "netflix_url": "https://www.netflix.com/title/80053475",
+      "year": "2015",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt2322517",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM1OTE1OTUwN15BMl5BanBnXkFtZTgwMjA3NTkzNzE@._V1_SX300.jpg",
+      "Plot": "A suicidal artist goes into the desert, where he finds his doppelgänger, a homicidal drifter.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Action, Adventure, Crime",
+      "Director": "William Monahan",
+      "Writer": "William Monahan",
+      "Actors": "Oscar Isaac, Garrett Hedlund, Louise Bourgoin",
+      "Language": "English, Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "Kill Your Friends",
       "netflix_url": "https://www.netflix.com/title/80057441",
       "year": "2015",
@@ -1014,6 +1031,23 @@
       "Country": "United States"
     },
     {
+      "title": "Calibre",
+      "netflix_url": "https://www.netflix.com/title/80198478",
+      "year": "2018",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt6218358",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTZhMzBmZTktNmMzOS00ZDY0LThhYWItOTMyMmVmMGM0NmU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A shocking deed turned their weekend trip into a nightmare. Now their only hope is to swallow their paranoia and act normal.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Matt Palmer",
+      "Writer": "Matt Palmer",
+      "Actors": "Jack Lowden, Martin McCann, Tony Curran",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Gun City",
       "netflix_url": "https://www.netflix.com/title/80199806",
       "year": "2018",
@@ -1470,6 +1504,23 @@
       "Writer": "Luiso Berdejo, Dolores Redondo",
       "Actors": "Marta Etura, Carlos Librado 'Nene', Leonardo Sbaraglia",
       "Language": "Spanish, English, Basque",
+      "Country": "Spain, Germany"
+    },
+    {
+      "title": "Offering to the Storm",
+      "netflix_url": "https://www.netflix.com/title/80990328",
+      "year": "2020",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt7304824",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTgyYWEzNWYtN2FlNy00NTc3LWI1ZDktNjQyNjk5MzM0Njc0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Inspector Amaia Salazar confronts the origins of her nightmares as she unfolds the darkest secrets of the Baztan valley.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Crime, Mystery, Thriller",
+      "Director": "Fernando González Molina",
+      "Writer": "Luiso Berdejo, Dolores Redondo",
+      "Actors": "Marta Etura, Leonardo Sbaraglia, Carlos Librado 'Nene'",
+      "Language": "Spanish, French, English",
       "Country": "Spain, Germany"
     },
     {
@@ -2070,6 +2121,14 @@
     {
       "title": "Game Over (Tamil Version)",
       "netflix_url": "https://www.netflix.com/title/81151877",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "Game Over (Telugu Version)",
+      "netflix_url": "https://www.netflix.com/title/81151878",
       "year": "2019",
       "imdb_rating": null,
       "imdb_id": null,
@@ -3002,6 +3061,23 @@
       "Country": "N/A"
     },
     {
+      "title": "Love",
+      "netflix_url": "https://www.netflix.com/title/81365135",
+      "year": "2020",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt12573294",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ2N2U2MzEtNDExOC00NzhmLWE0OTItMzhlMWE4MTQwNGIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A family and the various situations navigated by a husband and wife.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Khalid Rahman",
+      "Writer": "Noufal Abdullah, Khalid Rahman",
+      "Actors": "Shine Tom Chacko, Rajisha Vijayan, Gokulan",
+      "Language": "Malayalam",
+      "Country": "India"
+    },
+    {
       "title": "Ek Villain Returns",
       "netflix_url": "https://www.netflix.com/title/81382262",
       "year": "2022",
@@ -3155,6 +3231,23 @@
       "Country": "China, Taiwan"
     },
     {
+      "title": "NAGA",
+      "netflix_url": "https://www.netflix.com/title/81424192",
+      "year": "2023",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt28554013",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2YwODk4ZGQtMGZjZi00MDg3LTkyYzktYjhjNWUzNmFlZTEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Stranded amid Riyadh's desert dunes, Sarah, a local Saudi girl, escapes heartaches and the vengeance of a vigorous camel after discreetly sneaking out of her parent's home for a romantic date that landed her astray.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Meshal Al Jaser",
+      "Writer": "Nawaf Alshubaili, Meshal Al Jaser",
+      "Actors": "Adwa Bader, Yazeed Almajyul, Khalid Bin Shaddad",
+      "Language": "Arabic",
+      "Country": "Saudi Arabia"
+    },
+    {
       "title": "10 Days of a Good Man",
       "netflix_url": "https://www.netflix.com/title/81426851",
       "year": "2023",
@@ -3181,6 +3274,23 @@
       "Plot": "Follows Sadik, an ex-lawyer who is working as a private investigator. He takes up a complicated case, and his simple life starts to unravel.",
       "Type": "movie",
       "RunTime": "123 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Uluç Bayraktar",
+      "Writer": "Mehmet Eroglu, Damla Serim",
+      "Actors": "Nejat Isler, Riza Kocaoglu, Kadir Çermik",
+      "Language": "Turkish",
+      "Country": "Turkey"
+    },
+    {
+      "title": "10 Days of a Curious Man",
+      "netflix_url": "https://www.netflix.com/title/81428004",
+      "year": "2024",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt28713370",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2FkZDhkM2QtOGI5OS00MzkzLTg0ODctM2IzMDZkN2I2ZjQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a young woman goes missing in Istanbul, a jaded writer gets tangled up in a deadly chain of events as he sets out to find her and a good story.",
+      "Type": "movie",
+      "RunTime": "110 min",
       "Genre": "Crime, Drama, Mystery",
       "Director": "Uluç Bayraktar",
       "Writer": "Mehmet Eroglu, Damla Serim",
@@ -3238,6 +3348,23 @@
       "Actors": "Ahmad El-Fishawi, Dina El Sherbiny, Khaled El-Sawi",
       "Language": "Arabic",
       "Country": "Egypt"
+    },
+    {
+      "title": "HIT: The First Case",
+      "netflix_url": "https://www.netflix.com/title/81436989",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt13130760",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2Q2Nzk0OGYtNzE1Yy00NTA2LTg4ZWUtM2QyZWZlOGYwYTdiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Vikram is a 32-year-old cop. While he is battling with his own traumatic past, the stakes get high when a girl called Preethi mysteriously disappears in Hyderabad and Vikram has to solve the case at any cost.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Sailesh Kolanu",
+      "Writer": "Girish Kohli, Sailesh Kolanu",
+      "Actors": "Rajkummar Rao, Sanya Malhotra, Akhil Iyer",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Quarantine Tales",
@@ -4173,6 +4300,23 @@
       "Country": "Poland"
     },
     {
+      "title": "Attention Please",
+      "netflix_url": "https://www.netflix.com/title/81621373",
+      "year": "2022",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt13423468",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmVmMmIyYjQtOWVjMy00MzdmLThjZTctMjNmMDcwZDc5MTYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An aspiring script writer narrating his plots over booze to his 4 flat-mates.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Thriller",
+      "Director": "Jithin Issac Thomas",
+      "Writer": "Jithin Issac Thomas",
+      "Actors": "Vishnu Govindhan, Athira Kallingal, Sreejith",
+      "Language": "Malayalam",
+      "Country": "India"
+    },
+    {
       "title": "The Stranger",
       "netflix_url": "https://www.netflix.com/title/81621414",
       "year": "2022",
@@ -4629,6 +4773,23 @@
       "Country": "South Africa"
     },
     {
+      "title": "Phir Aayi Hasseen Dillruba",
+      "netflix_url": "https://www.netflix.com/title/81683052",
+      "year": "2024",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt26225118",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM5Zjc2ZmMtOWIwMy00OWY4LTkzZmQtODA5NTVlNDFlNGZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "While evading the cops in Agra, Rani and Rishu scheme to run away together. But when their plans go awry, Rani asks a mild-mannered admirer for help.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Jayprad Desai",
+      "Writer": "Kanika Dhillon, Anaya Mazumdar, Anuj Kumar Pandey",
+      "Actors": "Taapsee Pannu, Vikrant Massey, Sunny Kaushal",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "To Catch a Killer",
       "netflix_url": "https://www.netflix.com/title/81684514",
       "year": "2023",
@@ -4763,6 +4924,23 @@
       "Actors": "Bo-Chieh Wang, Jing-Hua Tseng, Shih-ling Hsueh",
       "Language": "Mandarin",
       "Country": "Taiwan, Hong Kong"
+    },
+    {
+      "title": "Lumberjack the Monster",
+      "netflix_url": "https://www.netflix.com/title/81708886",
+      "year": "2023",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt28090490",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTM3MTVlYTQtNGI2Mi00MTUzLWJhNDktM2E5Njc4ZGQzM2IyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After surviving an attack by a masked serial killer, ruthless lawyer Akira Ninomiya sets out on a path of revenge.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Crime, Thriller",
+      "Director": "Takashi Miike",
+      "Writer": "Hiroyoshi Koiwai, Mayusuke Kurai",
+      "Actors": "Kazuya Kamenashi, Nanao, Riho Yoshioka",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Faceless",
@@ -5594,6 +5772,23 @@
       "imdb_rating": null,
       "imdb_id": null,
       "SkipTitle": true
+    },
+    {
+      "title": "M3GAN 2.0",
+      "netflix_url": "https://www.netflix.com/title/82000745",
+      "year": "2025",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt26342662",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzFmNjVjZWQtZjI5Zi00YThiLTg0ZWItZDdjYzhhZDE1NTE2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two years after M3GAN's rampage, her creator, Gemma, resorts to resurrecting her infamous creation in order to take down Amelia, the military-grade weapon who was built by a defense contractor who stole M3GAN's underlying tech.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Sci-Fi, Thriller",
+      "Director": "Gerard Johnstone",
+      "Writer": "Gerard Johnstone, Akela Cooper, James Wan",
+      "Actors": "Allison Williams, Violet McGraw, Amie Donald",
+      "Language": "English, Turkish",
+      "Country": "United States, New Zealand, Canada"
     },
     {
       "title": "Uninvited",

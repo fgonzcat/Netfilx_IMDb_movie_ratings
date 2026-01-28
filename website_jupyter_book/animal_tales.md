@@ -119,6 +119,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/5507" target="_blan
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Minions & More Volume 2*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81589565" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*My Little Pony: A New Generation: Sing-Along*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81597959" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Pinkfong & Hogi Mini-Movie: The Tricky Three Cars*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81748104" target="_blank">Netflix_link</a> |
+| N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*My Sesame Street Friends: My Sesame Music*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82118699" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Sealook*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82151512" target="_blank">Netflix_link</a> |
 
  
@@ -158,6 +159,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/5507" target="_blan
 
  
 ---
-*Page last updated on: 2026-01-24*
+*Page last updated on: 2026-01-26*
 
  

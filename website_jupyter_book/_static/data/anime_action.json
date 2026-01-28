@@ -851,6 +851,23 @@
       "Country": "Japan"
     },
     {
+      "title": "Cannon Busters",
+      "netflix_url": "https://www.netflix.com/title/80195357",
+      "year": "2019",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt5066664",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGRmM2UxZTMtNzJmYi00NmFhLWJlMGItYzlhOTY5MDk0Yzc4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Explore fantastic land of Gearbolt as we follow a motley crew of travelers on an unforgettable journey to reunite 2 best friends.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Fantasy",
+      "Director": "Lesean Thomas",
+      "Writer": "Lesean Thomas",
+      "Actors": "Stephanie Sheh, Kenny Blank, Kamali Minter",
+      "Language": "English",
+      "Country": "United States, Japan"
+    },
+    {
       "title": "One Piece Film Z",
       "netflix_url": "https://www.netflix.com/title/80198443",
       "year": "2012",
@@ -1274,6 +1291,23 @@
       "Actors": "Ray Chase, Doug Stone, Kaiji Tang",
       "Language": "Japanese",
       "Country": "Japan, United States"
+    },
+    {
+      "title": "The Idhun Chronicles",
+      "netflix_url": "https://www.netflix.com/title/81002001",
+      "year": "2021",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt9731266",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODk5MzE2NTgtZDBkNy00YmQzLTg0NzItM2FkMTQ5MmI5MjdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The day the three Suns and three Moons came together in alignment over Idhun, Ashran the necromancer seized power and the reign of the winged snakes started.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "Andrés Carrión, Laura Gallego",
+      "Actors": "Itzan Escamilla, Michelle Jenner, Sergio Mur",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Pacific Rim: The Black",

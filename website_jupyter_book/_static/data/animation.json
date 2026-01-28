@@ -538,6 +538,23 @@
       "Country": "United States, United Kingdom, Australia"
     },
     {
+      "title": "Kong: King of the Apes",
+      "netflix_url": "https://www.netflix.com/title/80023612",
+      "year": "2018",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt5462936",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQyOTU4NDc5M15BMl5BanBnXkFtZTgwNzE3MTU3ODE@._V1_SX300.jpg",
+      "Plot": "Kong is saved as a young ape by a young boy, Lucas. Lucas and his family raise kong but Lucas' twin brother is jealous and tries to get rid of Kong.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Lee Tockar, Viv Leacock, Vincent Tong",
+      "Language": "English, Spanish, French, German, Mandarin",
+      "Country": "United States, Japan, Canada"
+    },
+    {
       "title": "Peppa Pig",
       "netflix_url": "https://www.netflix.com/title/80025494",
       "year": "2025",
@@ -648,6 +665,23 @@
       "SkipTitle": true
     },
     {
+      "title": "Dawn of the Croods",
+      "netflix_url": "https://www.netflix.com/title/80049870",
+      "year": "2017",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt5193172",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjMzOGU5YjEtY2YyYS00MzVjLTk3NjAtNjkwZjQ0MGRiZTBhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Eep, Grug, Thunk, Ugga, Sandy and Gran are back. Follow them as they meet new friends, outrun new creatures and encounter \"firsts\" the world has never seen - such as school, slumber parties, hiccups and elections.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Dan Milano, A.J. LoCascio, Laraine Newman",
+      "Language": "English",
+      "Country": "United States, South Korea, Canada, Philippines"
+    },
+    {
       "title": "Dinotrux",
       "netflix_url": "https://www.netflix.com/title/80049903",
       "year": "2017",
@@ -730,6 +764,23 @@
       "Actors": "Jason Griffith, Marc Thompson, Rebecca Soler",
       "Language": "Korean, Spanish, Chinese, Japanese, English, Portuguese",
       "Country": "South Korea, Slovakia"
+    },
+    {
+      "title": "True and the Rainbow Kingdom",
+      "netflix_url": "https://www.netflix.com/title/80063599",
+      "year": "2019",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt5607658",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjYxMzAzYjktZTgwYy00YjMwLWJlYWQtNDk0YjUyNWYyYjQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Fearless eight-year old guardian True uses wishes from the Wishing Tree to help protect the citizens of the colorful land of the Rainbow Kingdom.",
+      "Type": "series",
+      "RunTime": "22 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "Jeff Borkin, Samuel Borkson, Arturo Sandoval",
+      "Actors": "Michela Luci, Nicolas Aqui, Jamie Watson",
+      "Language": "English",
+      "Country": "United States, Canada"
     },
     {
       "title": "Word Party",
@@ -895,6 +946,40 @@
       "Type": "series",
       "RunTime": "1 min",
       "Genre": "Animation, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "Evan Spiridellis, Gregg Spiridellis",
+      "Actors": "Judy Greer, Erin Fitzgerald, Fred Tatasciore",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Magic School Bus Rides Again",
+      "netflix_url": "https://www.netflix.com/title/80108373",
+      "year": "2018",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt3869122",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0MjA5Mjc4Ml5BMl5BanBnXkFtZTgwNDE2NDMzNTM@._V1_SX300.jpg",
+      "Plot": "Ms. Frizzle and her class along with an inventive high-tech bus that invites children on high-flying hijinks that introduce the incredible world of science.",
+      "Type": "series",
+      "RunTime": "26 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kate McKinnon, Gabby Clarke, Lynsey Pham",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
+      "title": "StoryBots Super Songs",
+      "netflix_url": "https://www.netflix.com/title/80113144",
+      "year": "2016",
+      "imdb_rating": "8.8",
+      "imdb_id": "tt6163070",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2EwY2M4NjgtN2NiMC00MzUwLWFmMjctMDkzODEwZmVhYmRhXkEyXkFqcGdeQXVyNjgxOTE3Njc@._V1_SX300.jpg",
+      "Plot": "Based on the award-winning educational apps, \"StoryBots Super Songs\" centers on the StoryBots, the curious little creatures who live in the world beneath our screens and help answer humans' biggest questions.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Family, Musical",
       "Director": "N/A",
       "Writer": "Evan Spiridellis, Gregg Spiridellis",
       "Actors": "Judy Greer, Erin Fitzgerald, Fred Tatasciore",
@@ -1087,6 +1172,23 @@
       "Actors": "Laura Haddock, Kathryn Drysdale, Simon Callow, Adam James",
       "Language": "English",
       "Country": "UK"
+    },
+    {
+      "title": "Neo Yokio",
+      "netflix_url": "https://www.netflix.com/title/80152350",
+      "year": "2018",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt7343832",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3MjM4MjExOV5BMl5BanBnXkFtZTgwMDk0OTY0MzI@._V1_SX300.jpg",
+      "Plot": "Mourning the death of a recent relationship, an elegant and fashionable demon hunter struggles to stay afloat in the elite society of Neo Yokio.",
+      "Type": "series",
+      "RunTime": "23 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "Ezra Koenig",
+      "Actors": "Richard Ayoade, Jude Law, Jaden Smith",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Sonic Boom",
@@ -1367,6 +1469,23 @@
       "Actors": "Addison Holley, Juan Luis Bonilla, Kyle Breitkopf",
       "Language": "French, English, Spanish",
       "Country": "France, United Kingdom, Canada, United States"
+    },
+    {
+      "title": "America: The Motion Picture",
+      "netflix_url": "https://www.netflix.com/title/80189631",
+      "year": "2021",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt6733874",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTIyYzFlMzgtODA2MS00YThhLTg0OGUtZmM2MWQ0MDQxNmQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A chainsaw-wielding George Washington teams with beer-loving bro Sam Adams to take down the Brits in a tongue-in-cheek riff on the American Revolution.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Matt Thompson",
+      "Writer": "Dave Callaham",
+      "Actors": "Channing Tatum, Jason Mantzoukas, Olivia Munn",
+      "Language": "English, French, Spanish",
+      "Country": "Brazil, Mexico, United States, Czech Republic"
     },
     {
       "title": "Paradise PD",
@@ -2091,6 +2210,13 @@
       "Country": "United Kingdom, France"
     },
     {
+      "title": "True: Wonderful Wishes",
+      "netflix_url": "https://www.netflix.com/title/80243473",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Maya and the Three",
       "netflix_url": "https://www.netflix.com/title/80244283",
       "year": "2021",
@@ -2276,6 +2402,40 @@
       "Actors": "Matt Damon, Gylfi Zoega, Andri Snær Magnason",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Charming",
+      "netflix_url": "https://www.netflix.com/title/80998752",
+      "year": "2021",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt1835977",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWIyYjZkZDUtM2ZiYi00OWMzLWI2ZGQtZTU3NTcxY2NhZWEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "To win a school popularity contest, a high school diva permits a film club classmate to record her popular life, but the film starts documenting her decline instead.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Comedy, Drama, Family",
+      "Director": "Jeffrey Hornaday",
+      "Writer": "Robin Palmer, Elizabeth Hackett, Hilary Galanoy",
+      "Actors": "Sarah Hyland, Matt Prokop, Sasha Pieterse",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
+      "title": "Super Monsters Save Halloween",
+      "netflix_url": "https://www.netflix.com/title/80999063",
+      "year": "2018",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt9085726",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjVhOTUwMDItNGY0MS00OWVkLWI5MWEtYjBiMGY2ODljMjNkXkEyXkFqcGdeQXVyMzY1NjYzMDA@._V1_SX300.jpg",
+      "Plot": "The Super Monsters use their powers to get their neighbors in the Halloween spirit, then help a nervous friend see there's nothing to be afraid of.",
+      "Type": "movie",
+      "RunTime": "24 min",
+      "Genre": "Animation, Short, Family",
+      "Director": "N/A",
+      "Writer": "Evan Gore, Kaaren Lee Brown (story editor), Kaaren Lee Brown, Heather Lombard",
+      "Actors": "Elyse Maloway, Erin Matthews, Vincent Tong",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "Spider-Man: Into the Spider-Verse",
@@ -2633,6 +2793,31 @@
       "Actors": "Evan LeFeuvre, Michela Luci, Tyler James Nathan",
       "Language": "English",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "True: Tricky Treat Day",
+      "netflix_url": "https://www.netflix.com/title/81035117",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
+      "title": "True: Terrific Tales",
+      "netflix_url": "https://www.netflix.com/title/81035124",
+      "year": "2020",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt12140808",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGY3MmU2ODYtMWE2Ni00MzlkLWE0ZjUtOTJhZTI2MjQyOTYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Through the magic of the Story Spinner, True and her friends create their own versions of Pinocchio, Little Red Riding Hood and other classic tales.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Family",
+      "Director": "N/A",
+      "Writer": "Jeff Borkin, Samuel Borkson, Mary Bredin",
+      "Actors": "Michela Luci, Anna Claire Bartlam, Manny Templer",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "My Dad the Bounty Hunter",
@@ -3007,6 +3192,23 @@
       "Country": "South Korea, United States"
     },
     {
+      "title": "He-Man and the Masters of the Universe",
+      "netflix_url": "https://www.netflix.com/title/81092958",
+      "year": "2022",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt0126158",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzAxYzg1YmUtMzJkOS00NGEyLTkyM2MtNTk1NzE4MTQ1MDUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The most powerful man in the universe, He-Man, goes against the evil forces of Skeletor to save the planet Eternia and to protect the secrets of Castle Grayskull.",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "John Erwin, Alan Oppenheimer, Linda Gary",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Human Resources",
       "netflix_url": "https://www.netflix.com/title/81092963",
       "year": "2023",
@@ -3258,6 +3460,23 @@
       "Director": "N/A",
       "Writer": "Michael Green, Amber Noizumi",
       "Actors": "Maya Erskine, George Takei, Masi Oka",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Spirit Riding Free: Spirit of Christmas",
+      "netflix_url": "https://www.netflix.com/title/81146370",
+      "year": "2019",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt11313068",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2E4YjQ1N2YtODRmOS00YTUwLWJjNDYtYWI2YjE4MDMxZTIwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Plot": "Lucky and her friends embark on a Christmas Eve adventure into the city to find the perfect gift, but their return to Miradero for the holiday festivities are ruined when an avalanche derails their plans",
+      "Type": "movie",
+      "RunTime": "45 min",
+      "Genre": "Animation, Short, Action",
+      "Director": "Allan Jacobsen, Kevin Wotton, Stephen Cooper",
+      "Writer": "Aury Wallington, May Chan, Nicole Belisle",
+      "Actors": "Amber Frank, Bailey Gambertoglio, Sydney Park",
       "Language": "English",
       "Country": "United States"
     },
@@ -3627,6 +3846,14 @@
       "Country": "Hong Kong, Austria, United States"
     },
     {
+      "title": "Rabbids Invasion Special: Mission to Mars",
+      "netflix_url": "https://www.netflix.com/title/81201048",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
+    },
+    {
       "title": "Mulligan",
       "netflix_url": "https://www.netflix.com/title/81214194",
       "year": "2024",
@@ -3831,6 +4058,23 @@
       "Country": "Russia, United States, Cyprus"
     },
     {
+      "title": "Bombay Rose",
+      "netflix_url": "https://www.netflix.com/title/81270289",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt8435324",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODlmZTJjMDUtMGMxNy00Nzc4LWFlNDgtNGQxZTAxNTM3NjE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "BOMBAY ROSE is a beautiful hand-painted animation created by award winning animator Gitanjali Rao. Amidst the bustle of a magnetic and multifaceted city, the budding love between two dreamers is tested by duty and religious divides.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Animation, Drama, Romance",
+      "Director": "Gitanjali Rao",
+      "Writer": "Asad Hussain, Gitanjali Rao, Nadja Dumouchel",
+      "Actors": "Cyli Khare, Amit Deondi, Gargi Shitole",
+      "Language": "Hindi",
+      "Country": "India, United Kingdom, France, Qatar"
+    },
+    {
       "title": "Numberblocks",
       "netflix_url": "https://www.netflix.com/title/81272431",
       "year": "2021",
@@ -3914,6 +4158,23 @@
       "Actors": "Sara Garcia, Kolton Stewart, Sadie Laflamme-Snow",
       "Language": "English",
       "Country": "United States, Canada"
+    },
+    {
+      "title": "LEGO: City Adventures",
+      "netflix_url": "https://www.netflix.com/title/81280732",
+      "year": "2023",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt10332322",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzIzYWQ5YzAtZTc5Ni00ZjAzLTkxMTItM2NmYjhkOTYzZGQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Welcome to LEGO City. A modern metropolis filled with the fiercest firefighters, the cream of the crop cops, and so many BLOCKHEADS. Every citizen will assemble together for the most awesomely awesome adventures.",
+      "Type": "series",
+      "RunTime": "22 min",
+      "Genre": "Animation, Short, Action",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Gabriella Graves, Jack Fisher, Joe Zieja",
+      "Language": "English",
+      "Country": "United States, France, Denmark, United Kingdom"
     },
     {
       "title": "LEGO Ninjago",
@@ -4016,6 +4277,23 @@
       "Actors": "N/A",
       "Language": "None",
       "Country": "France"
+    },
+    {
+      "title": "Bad Exorcist",
+      "netflix_url": "https://www.netflix.com/title/81297404",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt30629210",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTFhM2QyZjQtNmUwMi00OGYwLWExMzktZGJkZTQwODY3MTc3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Boner and his crew must rescue Santa on Christmas Eve when a demon determined to steal all of his presents raids a school assembly and kidnaps him.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Short, Comedy",
+      "Director": "Bartosz Walaszek",
+      "Writer": "Bartosz Walaszek",
+      "Actors": "Bartosz Walaszek",
+      "Language": "Polish",
+      "Country": "Poland"
     },
     {
       "title": "Bad Dinosaurs",
@@ -4287,6 +4565,23 @@
       "Actors": "Ben Whitehead, Peter Kay, Lauren Patel",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Xico's Journey",
+      "netflix_url": "https://www.netflix.com/title/81354432",
+      "year": "2021",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt12481806",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmYzMzRkZmItMmUzYS00YmIxLTljNTQtNjg3Y2JiMDA3YmM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A girl, a dog and her best pal set out to save a mountain from a gold-hungry corporation. But the key lies closer to home, with her sidekick pup, Xico.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Animation, Adventure, Family",
+      "Director": "Eric Cabello, Wayne Dearing",
+      "Writer": "Mayra Gabriela Aldana Castro, Adrian Guerra, Carlos Pascual",
+      "Actors": "Verónica Jalil, Luis Angel Jaramillo, Pablo Gama Iturrarán",
+      "Language": "English, Spanish",
+      "Country": "Mexico, Philippines"
     },
     {
       "title": "Seal Team",
@@ -4584,6 +4879,23 @@
       "Actors": "Ibrahim Al Hajjaj, Belen Enguidanos, Abdulbaset Abdulsamad",
       "Language": "Arabic, English",
       "Country": "Saudi Arabia"
+    },
+    {
+      "title": "The Summit of the Gods",
+      "netflix_url": "https://www.netflix.com/title/81439550",
+      "year": "2021",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt7014378",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWRjZjc5MWYtZWE2Zi00MmExLWFmZmQtOGZlMzUxZjAwM2RjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A photojournalist's obsessive quest for the truth about the first expedition to Mt. Everest leads him to search for an esteemed climber who went missing.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Animation, Adventure, Drama",
+      "Director": "Patrick Imbert",
+      "Writer": "Jirô Taniguchi, Baku Yumemakura, Magali Pouzol",
+      "Actors": "Lazare Herson-Macarel, Eric Herson-Macarel, Damien Boisseau",
+      "Language": "French",
+      "Country": "France, Luxembourg"
     },
     {
       "title": "My Little Pony: Make Your Mark",
@@ -4958,6 +5270,23 @@
       "Country": "United States"
     },
     {
+      "title": "Barbie Mysteries",
+      "netflix_url": "https://www.netflix.com/title/81572564",
+      "year": "2025",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt33130884",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg3MDg2ZTYtMjgzNy00MmViLWJjOWItYzQ4YWNmOWQ1ZGM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Barbie \"Brooklyn\" Roberts and Barbie \"Malibu\" Roberts embark on an adventure-packed journey across Europe to rescue two stolen horses.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Diedrich Bader, Kari Wahlgren, Bobby Moynihan",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Strawberry Shortcake: Berry in the Big City",
       "netflix_url": "https://www.netflix.com/title/81580433",
       "year": "2022",
@@ -5088,6 +5417,23 @@
       "Actors": "Virginia Weidler, Gene Reynolds, Guy Kibbee",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Dongeng Sang Kancil",
+      "netflix_url": "https://www.netflix.com/title/81644368",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt33839105",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTIwMDE4YzktZjI3NS00NWQ0LWFkOTgtYmI2ODNjMTc0MzA1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A mouse-deer, Sang Kancil, small in figure but cunning and wise. With his intelligence, Sang Kancil often escapes dangers and sometimes helps other animals that are in trouble with bigger and more fierce animals.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Ahmad Razuri bin Roseli, Nik Ahmad Rasyidi bin Nik Othman",
+      "Writer": "Hjh. Ainon Ariff, Nur Naquyah bt Burhanuddin",
+      "Actors": "Nini Razali, Amir Masdi, Loke Keng Sun",
+      "Language": "Malay",
+      "Country": "Malaysia"
     },
     {
       "title": "Bebefinn",
@@ -5294,6 +5640,23 @@
       "Country": "United States"
     },
     {
+      "title": "Morphle",
+      "netflix_url": "https://www.netflix.com/title/81689583",
+      "year": "2023",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt10087694",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzI5YzM0MTQtM2MxOS00NTYxLWE4ODEtYzVlMmU1NzQ1MmJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mila's dad runs the only magic pet store in the city - a fantastical place where you can find all sorts of cute and quirky pets who each have their own unique magic powers, and he has gifted Mila the most magic pet of all, Morphle.",
+      "Type": "series",
+      "RunTime": "43 min",
+      "Genre": "Animation, Adventure, Family",
+      "Director": "N/A",
+      "Writer": "Edward Kay, Arthur van Merwijk",
+      "Actors": "Sabrina Glow, Arthur van Merwijk, Cassie Glow",
+      "Language": "English, Spanish, French, German, Portuguese",
+      "Country": "Netherlands, United Kingdom, United States"
+    },
+    {
       "title": "Lucas the Spider",
       "netflix_url": "https://www.netflix.com/title/81691739",
       "year": "2021",
@@ -5309,6 +5672,14 @@
       "Actors": "Simon Webster, Antonina Battrick, Christian Campbell",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Chota Bheem Zuhu Ka Zalzala",
+      "netflix_url": "https://www.netflix.com/title/81701050",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Krish, Trish & Baltiboy Bharat Hain Hum",
@@ -5360,6 +5731,23 @@
       "Actors": "Rachel Zegler, John Lithgow, Jenifer Lewis",
       "Language": "English",
       "Country": "Spain, United States"
+    },
+    {
+      "title": "Mantra Warrior: The Legend of the Eight Moons",
+      "netflix_url": "https://www.netflix.com/title/81745953",
+      "year": "2023",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt28959712",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTI1YzVmZjctNTYxOC00MDMxLWFhMWMtMWVjOWNjNWVjMjQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A story inspired by the original RAMAYANA, retold in a futuristic universe, involving brave warriors who possess ancient powers from another dimension",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Veerapatra Jinanavin, Manassavin Malevong",
+      "Writer": "Sornperes Subsermsri",
+      "Actors": "Ranee Campen, Tachaya Prathumwan, Sorrawid Tongtheng",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "Pinkfong & Hogi Mini-Movie: The Tricky Three Cars",

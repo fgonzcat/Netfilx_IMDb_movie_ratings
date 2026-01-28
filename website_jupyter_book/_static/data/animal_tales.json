@@ -1628,7 +1628,8 @@
       "netflix_url": "https://www.netflix.com/title/81589565",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "My Little Pony: A New Generation: Sing-Along",
@@ -1849,6 +1850,14 @@
       "Actors": "Sofía Vergara, Sebastián Villalobos, Evaluna Montaner",
       "Language": "English",
       "Country": "Mexico, United States, United Kingdom, Denmark, Spain"
+    },
+    {
+      "title": "My Sesame Street Friends: My Sesame Music",
+      "netflix_url": "https://www.netflix.com/title/82118699",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null,
+      "SkipTitle": true
     },
     {
       "title": "Sealook",
