@@ -57,18 +57,18 @@
       "title": "Nashville",
       "netflix_url": "https://www.netflix.com/title/70242086",
       "year": "2018",
-      "imdb_rating": "7.1",
-      "imdb_id": "tt7365526",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4ZDA3NTctOGY4ZS00ZDE3LWI0YjYtM2FkOTFiZjExZTA1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Page Turner and DeRon Jenkins aren't just house flippers in Nashville, they're also exes. With a decade of partnership, this driven team takes on big, small and dirty jobs to get top dollar on their investments.",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt2281375",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTEzNDE2Mjg0MTdeQTJeQWpwZ15BbWU4MDUxNTczNzAy._V1_SX300.jpg",
+      "Plot": "Follows the lives and tragedies of rising and fading country music stars in Nashville, Tennessee.",
       "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Comedy, Drama, Reality-TV",
+      "RunTime": "43 min",
+      "Genre": "Drama, Music, Romance",
       "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Page Turner, DeRon Jenkins",
-      "Language": "N/A",
-      "Country": "N/A"
+      "Writer": "Callie Khouri",
+      "Actors": "Hayden Panettiere, Clare Bowen, Charles Esten",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Justin Bieber's Believe",
@@ -292,6 +292,23 @@
       "Country": "Japan"
     },
     {
+      "title": "Frank and Cindy",
+      "netflix_url": "https://www.netflix.com/title/80085438",
+      "year": "2007",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt0986354",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTMzNjQ4Ml5BMl5BanBnXkFtZTcwMDAyMzU0MQ@@._V1_SX300.jpg",
+      "Plot": "\"Frank and Cindy\" is a deeply-personal documentary about Frank Garcia, an '80s one-hit wonder musician, and his blonde bombshell wife Cindy, who makes him live in the basement.",
+      "Type": "movie",
+      "RunTime": "73 min",
+      "Genre": "Documentary, Biography, Drama",
+      "Director": "G.J. Echternkamp",
+      "Writer": "N/A",
+      "Actors": "Cynthia Brown, Frank Garcia",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Quincy",
       "netflix_url": "https://www.netflix.com/title/80102952",
       "year": "2018",
@@ -326,23 +343,6 @@
       "Country": "United Kingdom, United States, Canada"
     },
     {
-      "title": "Reggie Watts: Spatial",
-      "netflix_url": "https://www.netflix.com/title/80115673",
-      "year": "2016",
-      "imdb_rating": "6.0",
-      "imdb_id": "tt5861260",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA1NDBmNjItNWVjZi00YzhhLWIxZmUtZjZlYjRhYjJlNjcyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Completely improvised show weaving together sketches, short stories, and dream sequences, filmed live on a soundstage in Los Angeles, Watts waxes poetic about flight, grits, and guns.",
-      "Type": "movie",
-      "RunTime": "61 min",
-      "Genre": "Comedy, Music",
-      "Director": "Benjamin Dickinson",
-      "Writer": "N/A",
-      "Actors": "Rory Scovel, Reggie Watts",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "I'll Sleep When I'm Dead",
       "netflix_url": "https://www.netflix.com/title/80118930",
       "year": "2016",
@@ -375,23 +375,6 @@
       "Actors": "Idris Elba, Piper Perabo, Frankie Hervey",
       "Language": "English",
       "Country": "United Kingdom"
-    },
-    {
-      "title": "Justin Timberlake + the Tennessee Kids",
-      "netflix_url": "https://www.netflix.com/title/80127559",
-      "year": "2016",
-      "imdb_rating": "7.6",
-      "imdb_id": "tt5001772",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQyNzRkNWItOWRmOS00YTk0LWIyYWYtZDcxMGIyMmQwNTU0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The final performance of Justin Timberlake and the Tennessee Kids' 20/20 Experience World Tour, filmed in 2015 at the MGM Grand Garden Arena in Las Vegas.",
-      "Type": "movie",
-      "RunTime": "90 min",
-      "Genre": "Documentary, Music",
-      "Director": "Jonathan Demme",
-      "Writer": "N/A",
-      "Actors": "Adam Blackstone, Aaron Camper, Devine Evans",
-      "Language": "English",
-      "Country": "United States"
     },
     {
       "title": "Hip-Hop Evolution",
@@ -856,18 +839,18 @@
       "title": "Rhythm + Flow",
       "netflix_url": "https://www.netflix.com/title/80216665",
       "year": "2024",
-      "imdb_rating": "7.8",
-      "imdb_id": "tt31974344",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTFkYzY5OTAtYjhmNy00MTRhLWFiZGEtYTliYmYwMmY4NzNmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Follow the artistic growth of the participants throughout the competition and will crown a rising star on the Brazilian rap and trap scene.",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt9278032",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1M2FlMjctNDNiZi00ODhkLTlmMmMtNTA3MjlhNTFjMWY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Global superstars Cardi B, Chance the Rapper, and T.I. search for the next breakout hip-hop star.",
       "Type": "series",
       "RunTime": "N/A",
-      "Genre": "Game-Show, Music, Reality-TV",
+      "Genre": "Music, Reality-TV",
       "Director": "N/A",
       "Writer": "N/A",
-      "Actors": "Kamau, DJ Miya B, Djonga",
-      "Language": "Portuguese",
-      "Country": "Brazil"
+      "Actors": "DJ Khaled, Latto, Ludacris",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Sintonia",
@@ -908,8 +891,7 @@
       "netflix_url": "https://www.netflix.com/title/80221016",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Nicky Jam: El Ganador",
@@ -963,37 +945,18 @@
       "Country": "United States"
     },
     {
-      "title": "Springsteen on Broadway",
-      "netflix_url": "https://www.netflix.com/title/80232329",
-      "year": "2018",
-      "imdb_rating": "8.5",
-      "imdb_id": "tt8716334",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAyMjY3MjkyNzZeQTJeQWpwZ15BbWU4MDY4MjUzODYz._V1_SX300.jpg",
-      "Plot": "The intimate, final performance of Bruce Springsteen's 236-show run at Jujamcyn's Walter Kerr Theatre on Broadway.",
-      "Type": "movie",
-      "RunTime": "153 min",
-      "Genre": "Documentary, Music",
-      "Director": "Thom Zimny",
-      "Writer": "Bruce Springsteen",
-      "Actors": "Bruce Springsteen, Patti Scialfa",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Camarón: The Film",
       "netflix_url": "https://www.netflix.com/title/80232891",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Camarón Revolution",
       "netflix_url": "https://www.netflix.com/title/80233223",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Paradox",
@@ -2016,6 +1979,13 @@
       "Country": "France"
     },
     {
+      "title": "Ratones Paranoicos: The Band that Rocked Argentina",
+      "netflix_url": "https://www.netflix.com/title/81319065",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Rainbow",
       "netflix_url": "https://www.netflix.com/title/81351145",
       "year": "2022",
@@ -2070,18 +2040,18 @@
       "title": "The Disciple",
       "netflix_url": "https://www.netflix.com/title/81387783",
       "year": "2021",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt14444016",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTM0YjkzYTQtZjgxYS00ZDM3LTk1MDktNTYwMjk2YTAzNDM1XkEyXkFqcGdeQXVyMjI4Njg0MDM@._V1_SX300.jpg",
-      "Plot": "N/A",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt11423784",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWMxMjQ4YTAtNWI1OS00MTIzLWJjNTItNGY1ZmNhYzlkMTdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Self-doubt, sacrifice and struggle converge into an existential crisis for a devoted classical vocalist as the mastery he strives for remains elusive.",
       "Type": "movie",
-      "RunTime": "14 min",
-      "Genre": "Documentary, Short",
-      "Director": "Kamelya Alexan",
-      "Writer": "N/A",
-      "Actors": "Shango Johnson",
-      "Language": "English",
-      "Country": "United States"
+      "RunTime": "129 min",
+      "Genre": "Drama, Music",
+      "Director": "Chaitanya Tamhane",
+      "Writer": "Chaitanya Tamhane",
+      "Actors": "Aditya Modak, Arun Dravid, Sumitra Bhave",
+      "Language": "Marathi",
+      "Country": "India"
     },
     {
       "title": "Heroes: Silence and Rock & Roll",
@@ -2105,8 +2075,7 @@
       "netflix_url": "https://www.netflix.com/title/81403031",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "A Jazzman's Blues",
@@ -2147,40 +2116,35 @@
       "netflix_url": "https://www.netflix.com/title/81406126",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Wave of Cinema: Filosofi Kopi",
       "netflix_url": "https://www.netflix.com/title/81408819",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Wave of Cinema: One Day We'll Talk About Today",
       "netflix_url": "https://www.netflix.com/title/81408820",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Wave of Cinema: 90's Generation",
       "netflix_url": "https://www.netflix.com/title/81408821",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Wave of Cinema: Surat dari Timur",
       "netflix_url": "https://www.netflix.com/title/81408822",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Sing Again",
@@ -2255,8 +2219,7 @@
       "netflix_url": "https://www.netflix.com/title/81424958",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "I Used to Be Famous",
@@ -2348,8 +2311,7 @@
       "netflix_url": "https://www.netflix.com/title/81445807",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Adam by Eve: A live in Animation",
@@ -2384,23 +2346,6 @@
       "Actors": "Tyler Dean Flores, Emma Ferreira, Jordan Mendoza",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "Flip a Coin -ONE OK ROCK Documentary-",
-      "netflix_url": "https://www.netflix.com/title/81450779",
-      "year": "2021",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt15478858",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNGMxMjBiYmItM2ZiNS00MzM5LWEyNjUtMzk0NDk1YjU4ZGEyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Unable to tour in 2020, the members of ONE OK ROCK work for months to put on an online concert that matches the energy of their in-person shows.",
-      "Type": "movie",
-      "RunTime": "105 min",
-      "Genre": "Documentary, Music",
-      "Director": "Naoto Amazutsumi",
-      "Writer": "N/A",
-      "Actors": "Tomoya Kanki, Ryota Kohama, Takahiro Moriuchi",
-      "Language": "Japanese",
-      "Country": "Japan"
     },
     {
       "title": "Return of the King: The Fall and Rise of Elvis Presley",
@@ -2441,25 +2386,7 @@
       "netflix_url": "https://www.netflix.com/title/81479739",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "ONEFOUR: Against All Odds",
-      "netflix_url": "https://www.netflix.com/title/81485425",
-      "year": "2023",
-      "imdb_rating": "6.7",
-      "imdb_id": "tt28703558",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDYwM2FmMjQtNzU3ZC00NzU4LWJmZWEtMmNjZjUxNGFlZjcwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This documentary traces the meteoric rise of Australia's first drill rap stars, defiant in the face of police's efforts to stop them from performing.",
-      "Type": "movie",
-      "RunTime": "82 min",
-      "Genre": "Documentary, Crime, Music",
-      "Director": "Gabriel Gasparinatos",
-      "Writer": "Gabriel Gasparinatos, Erin Moy, Joseph Nizeti",
-      "Actors": "The Kid Laroi",
-      "Language": "English",
-      "Country": "Australia"
+      "imdb_id": null
     },
     {
       "title": "LiSA Another Great Day",
@@ -2789,15 +2716,15 @@
       "netflix_url": "https://www.netflix.com/title/81661226",
       "year": "2023",
       "imdb_rating": "N/A",
-      "imdb_id": "tt28280697",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmVjMDIyYTYtNzFkNC00MzcyLWJhYzQtYTZiZjc2YzE3ZmU4XkEyXkFqcGdeQXVyMTUxMzQ1MjIx._V1_SX300.jpg",
+      "imdb_id": "tt3823916",
+      "Poster": "N/A",
       "Plot": "N/A",
       "Type": "series",
       "RunTime": "N/A",
-      "Genre": "News",
+      "Genre": "Talk-Show",
       "Director": "N/A",
       "Writer": "N/A",
-      "Actors": "E.R. Fightmaster, Justin Tranter, Jaren Merrell",
+      "Actors": "Lark Voorhies",
       "Language": "English",
       "Country": "United States"
     },
@@ -2857,8 +2784,7 @@
       "netflix_url": "https://www.netflix.com/title/81668040",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "What If",
@@ -2882,8 +2808,7 @@
       "netflix_url": "https://www.netflix.com/title/81684256",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "One Hit Wonder",
@@ -2924,8 +2849,7 @@
       "netflix_url": "https://www.netflix.com/title/81687374",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Kaulitz & Kaulitz",
@@ -3017,8 +2941,7 @@
       "netflix_url": "https://www.netflix.com/title/81708832",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Greatest Night in Pop",
@@ -3059,8 +2982,7 @@
       "netflix_url": "https://www.netflix.com/title/81726435",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Rhythm + Flow: Brazil",
@@ -3288,16 +3210,14 @@
       "netflix_url": "https://www.netflix.com/title/81754670",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Cosmic Princess Kaguya!",
       "netflix_url": "https://www.netflix.com/title/81756595",
       "year": "2026",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "TLC Forever",
@@ -3423,8 +3343,7 @@
       "netflix_url": "https://www.netflix.com/title/81778080",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Aitana: Metamorphosis",
@@ -3448,16 +3367,14 @@
       "netflix_url": "https://www.netflix.com/title/81786830",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "aiko Love Like Aloha vol.7",
       "netflix_url": "https://www.netflix.com/title/81787452",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Harta Tahta Raisa",
@@ -3511,6 +3428,23 @@
       "Country": "Japan"
     },
     {
+      "title": "Take That",
+      "netflix_url": "https://www.netflix.com/title/81901625",
+      "year": "2026",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt1763289",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjZlOWNlOTgtNjI4ZC00MWZhLThkNjktNGQ4NjYxNmUyMTRjXkEyXkFqcGdeQXVyNDE4NzM2MTI@._V1_SX300.jpg",
+      "Plot": "A documentary telling the story of the newly reformed Take That. Global mega star 'Robbie Williams' rejoins his former band mates for the first time in over 15 years to record Take That's sixth studio album 'Progress'. 'Look Back,...",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Documentary",
+      "Director": "Nick Davies, Fred Scott",
+      "Writer": "N/A",
+      "Actors": "Gary Barlow, Howard Donald, Jason Orange",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "Karol G: Tomorrow was Beautiful",
       "netflix_url": "https://www.netflix.com/title/81909018",
       "year": "2025",
@@ -3532,8 +3466,7 @@
       "netflix_url": "https://www.netflix.com/title/81909527",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "A Nonsense Christmas with Sabrina Carpenter",
@@ -3642,14 +3575,6 @@
       "netflix_url": "https://www.netflix.com/title/81940759",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "LIM YOUNG WOONG│IM HERO THE STADIUM",
-      "netflix_url": "https://www.netflix.com/title/81942257",
-      "year": "2024",
-      "imdb_rating": null,
       "imdb_id": null
     },
     {
@@ -3698,8 +3623,7 @@
       "netflix_url": "https://www.netflix.com/title/81977112",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "WHAM!: Last Christmas Unwrapped",
@@ -3804,23 +3728,6 @@
       "Country": "India"
     },
     {
-      "title": "FireAid Benefit Concert",
-      "netflix_url": "https://www.netflix.com/title/82027106",
-      "year": "2025",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt35471898",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmE5YWU0YTItNmJlOC00NjQyLWIxZDUtYmQzZTk4ZjBkMGM3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A",
-      "Type": "movie",
-      "RunTime": "360 min",
-      "Genre": "Music",
-      "Director": "Martin Pasetta, Joe DeMaio, Joel Gallen",
-      "Writer": "N/A",
-      "Actors": "Gracie Abrams, Jessica Alba, Lil Baby",
-      "Language": "N/A",
-      "Country": "United States"
-    },
-    {
       "title": "Qaidi Band",
       "netflix_url": "https://www.netflix.com/title/82027370",
       "year": "2017",
@@ -3842,8 +3749,7 @@
       "netflix_url": "https://www.netflix.com/title/82028788",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Ya Boy Kongming!",
@@ -3866,35 +3772,18 @@
       "title": "DEVO",
       "netflix_url": "https://www.netflix.com/title/82052197",
       "year": "2025",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt36435547",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU1YjNmNzgtMzU1ZC00N2QzLWIzNzUtOTY5NDFhMmI1ZThmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt27210519",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTlmM2U5ZDItMzUzMC00YzViLThhYTQtM2MyNTFmOTdkYzg5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1980, new wave band Devo scored a hit with \"Whip It\" and gained mainstream success with their message of societal \"de-evolution\", formed in response to the 1970 Kent State shootings.",
       "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "Drama",
-      "Director": "Vishwaa",
-      "Writer": "Vishwaa",
-      "Actors": "Prasad Oak, Khushi Hajare, Prarthana Behere",
-      "Language": "Marathi",
-      "Country": "India"
-    },
-    {
-      "title": "Pagtatag! The Documentary",
-      "netflix_url": "https://www.netflix.com/title/82052782",
-      "year": "2024",
-      "imdb_rating": "7.5",
-      "imdb_id": "tt32985238",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmYxMDdmYTEtMDJkNS00NGI2LTlhMTctOWNjYjQ5MzNkZmFiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "An eye-opener not only being an artists but more on in real life journey. People tend to forget the behind the scenes in everything. They easily judge people on how they see them or portray them in public.",
-      "Type": "movie",
-      "RunTime": "73 min",
+      "RunTime": "90 min",
       "Genre": "Documentary, Music",
-      "Director": "Jed Regala",
+      "Director": "Chris Smith",
       "Writer": "N/A",
-      "Actors": "SB19, Pablo Nase, Josh Cullen Santos",
-      "Language": "Tagalog, Filipino",
-      "Country": "Philippines"
+      "Actors": "Mark Mothersbaugh, Bob Casale, Gerald Casale",
+      "Language": "English",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "Snow Man 1st Stadium Live Snow World",
@@ -3918,40 +3807,35 @@
       "netflix_url": "https://www.netflix.com/title/82111864",
       "year": "2026",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "ONE SHOT with Ed Sheeran",
       "netflix_url": "https://www.netflix.com/title/82123114",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "KPop Demon Hunters Sing-Along",
       "netflix_url": "https://www.netflix.com/title/82125877",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "KPop Demon Hunters Lyric Videos",
       "netflix_url": "https://www.netflix.com/title/82174859",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Cocktail Ever Live Concert",
       "netflix_url": "https://www.netflix.com/title/82188034",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Depeche Mode: M",
@@ -3992,16 +3876,14 @@
       "netflix_url": "https://www.netflix.com/title/82641412",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Snoop’s Holiday Halftime Party",
       "netflix_url": "https://www.netflix.com/title/82645182",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Starto Countdown 2025→2026",

@@ -194,8 +194,7 @@
       "netflix_url": "https://www.netflix.com/title/70044596",
       "year": "2006",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Over the Hedge",
@@ -372,16 +371,14 @@
       "netflix_url": "https://www.netflix.com/title/70208102",
       "year": "2012",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "A Holiday Engagement",
       "netflix_url": "https://www.netflix.com/title/70209267",
       "year": "2011",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Despicable Me 2",
@@ -469,6 +466,23 @@
       "Country": "United States, Iraq, Canada"
     },
     {
+      "title": "Silent",
+      "netflix_url": "https://www.netflix.com/title/70304298",
+      "year": "2014",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt3583608",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQxNDE3MTk4NV5BMl5BanBnXkFtZTgwMzQzOTczMTE@._V1_SX300.jpg",
+      "Plot": "Two street performers dream of bringing their 'Picture and Sound Show'to life. When they discover a magical contraption inside an old theatre, they embark on a cinematic adventure of sight and sound, traveling through movie histor...",
+      "Type": "movie",
+      "RunTime": "3 min",
+      "Genre": "Animation, Short, Adventure",
+      "Director": "Limbert Fabian, Brandon Oldenburg",
+      "Writer": "Limbert Fabian, William Joyce, Brandon Oldenburg",
+      "Actors": "N/A",
+      "Language": "None",
+      "Country": "United States"
+    },
+    {
       "title": "Annie",
       "netflix_url": "https://www.netflix.com/title/70305931",
       "year": "2014",
@@ -541,8 +555,7 @@
       "netflix_url": "https://www.netflix.com/title/80045860",
       "year": "2007",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Becoming Santa",
@@ -594,23 +607,6 @@
       "Actors": "Charlize Theron, Art Parkinson, Matthew McConaughey",
       "Language": "English",
       "Country": "United States, United Kingdom"
-    },
-    {
-      "title": "The Mars Generation",
-      "netflix_url": "https://www.netflix.com/title/80117263",
-      "year": "2017",
-      "imdb_rating": "6.5",
-      "imdb_id": "tt6333096",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQxMzE4MTAxMV5BMl5BanBnXkFtZTgwNTYyMjUyMjI@._V1_SX300.jpg",
-      "Plot": "Aspiring teenage astronauts reveal that a journey to Mars is closer than you think.",
-      "Type": "movie",
-      "RunTime": "97 min",
-      "Genre": "Documentary",
-      "Director": "Michael Barnett",
-      "Writer": "Michael Barnett, Michael Mahaffie",
-      "Actors": "Bob Behnken, Alayna Bidlack, Niko Blanks",
-      "Language": "N/A",
-      "Country": "United States"
     },
     {
       "title": "Sing",
@@ -838,8 +834,7 @@
       "netflix_url": "https://www.netflix.com/title/80185876",
       "year": "2017",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Barbie Dolphin Magic",
@@ -978,23 +973,6 @@
       "Country": "United Kingdom"
     },
     {
-      "title": "Dance Dreams: Hot Chocolate Nutcracker",
-      "netflix_url": "https://www.netflix.com/title/80217229",
-      "year": "2020",
-      "imdb_rating": "7.1",
-      "imdb_id": "tt8741182",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzdhNmMzZjctOWQzYi00ZTVkLTkyMGMtMWViOTJkMzQwOTAyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Behind-the-scenes at the Debbie Allen Dance Academy and their award-winning version of The Nutcracker, which blends a variety of dance traditions.",
-      "Type": "movie",
-      "RunTime": "80 min",
-      "Genre": "Documentary, Family",
-      "Director": "Oliver Bokelberg",
-      "Writer": "N/A",
-      "Actors": "Debbie Allen, Tichina Arnold, Ryan Phuong",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "13: The Musical",
       "netflix_url": "https://www.netflix.com/title/80222822",
       "year": "2022",
@@ -1029,38 +1007,38 @@
       "Country": "United States"
     },
     {
-      "title": "Alien Xmas",
-      "netflix_url": "https://www.netflix.com/title/80226040",
-      "year": "2020",
-      "imdb_rating": "6.2",
-      "imdb_id": "tt11332750",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzgzYmQ3NjktNmE1ZS00MGNlLTg2MjMtODcyN2ExZTAzMzRjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When extraterrestrials attempt to steal Earth's gravity, only the gift-giving spirit of Christmas -- and a small Alien named X -- can save the world.",
+      "title": "The Soccer Football Movie",
+      "netflix_url": "https://www.netflix.com/title/80228012",
+      "year": "2022",
+      "imdb_rating": "3.1",
+      "imdb_id": "tt22774688",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjkwYmFhNTgtMDQ5MS00MWUwLWI1NjktMjJjZjZiMTEwNmM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four young soccer superfans team up to help their idols regain their abilities after a scheming evil scientist steals their talent.",
       "Type": "movie",
-      "RunTime": "40 min",
-      "Genre": "Animation, Short, Adventure",
-      "Director": "Stephen Chiodo",
-      "Writer": "Kealan O'Rourke, Dan Clark, Noah Kloor",
-      "Actors": "Keythe Farley, Dee Bradley Baker, Kaliayh Rhambo",
+      "RunTime": "73 min",
+      "Genre": "Animation, Comedy, Family",
+      "Director": "Mitch Schauer",
+      "Writer": "Deeki Deke",
+      "Actors": "Zlatan Ibrahimovic, Megan Rapinoe, 'Weird Al' Yankovic",
       "Language": "English",
-      "Country": "United States"
+      "Country": "United States, Thailand, Canada"
     },
     {
-      "title": "Angela's Christmas",
-      "netflix_url": "https://www.netflix.com/title/80230507",
-      "year": "2018",
-      "imdb_rating": "7.0",
-      "imdb_id": "tt7829544",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ1MTgyMWEtMGYzYi00MWU5LTlhYjQtYjA0MjQwMzY4M2FlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Set in Ireland in the 1910s, 'Angela's Christmas' is a funny, heart-warming and poignant story about the power of family and the innocent desire of a child to ensure everyone is safe, warm and loved at Christmas time.",
+      "title": "Kevin Hart's Guide to Black History",
+      "netflix_url": "https://www.netflix.com/title/80231156",
+      "year": "2019",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt6373518",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRhMGYyZDQtM2Y5Ny00MDNkLTkwNDEtZjY1ZjUwZTBhNWI5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Kevin Hart highlights the fascinating contributions of black history's unsung heroes in this entertaining and educational comedy special.",
       "Type": "movie",
-      "RunTime": "30 min",
-      "Genre": "Animation, Short, Adventure",
-      "Director": "Damien O'Connor",
-      "Writer": "Will Collins, Damien O'Connor, Frank McCourt",
-      "Actors": "Malachy McCourt, Ruth Negga, Vivian Drew",
+      "RunTime": "62 min",
+      "Genre": "Comedy",
+      "Director": "Tom Stern",
+      "Writer": "Tim Burns, Brian Volk-Weiss, Evan Waite",
+      "Actors": "Steve Agee, Derek Basco, Brad Berryhill",
       "Language": "English",
-      "Country": "Ireland, Canada"
+      "Country": "United States"
     },
     {
       "title": "Holiday in the Wild",
@@ -1508,18 +1486,18 @@
       "title": "Charming",
       "netflix_url": "https://www.netflix.com/title/80998752",
       "year": "2021",
-      "imdb_rating": "6.3",
-      "imdb_id": "tt1835977",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYWIyYjZkZDUtM2ZiYi00OWMzLWI2ZGQtZTU3NTcxY2NhZWEzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "To win a school popularity contest, a high school diva permits a film club classmate to record her popular life, but the film starts documenting her decline instead.",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt4086018",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTFhNWNjOTMtNTM2Zi00NTIzLWE5NzctMDRmODQyZGY3NjU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Three fairy tale princesses find themselves engaged to the same guy, Prince Charming.",
       "Type": "movie",
-      "RunTime": "94 min",
-      "Genre": "Comedy, Drama, Family",
-      "Director": "Jeffrey Hornaday",
-      "Writer": "Robin Palmer, Elizabeth Hackett, Hilary Galanoy",
-      "Actors": "Sarah Hyland, Matt Prokop, Sasha Pieterse",
+      "RunTime": "85 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Ross Venokur",
+      "Writer": "Ross Venokur",
+      "Actors": "Demi Lovato, Wilmer Valderrama, Sia",
       "Language": "English",
-      "Country": "United States, Canada"
+      "Country": "Canada, United States"
     },
     {
       "title": "Good Sam",
@@ -1577,8 +1555,7 @@
       "netflix_url": "https://www.netflix.com/title/81001413",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Nightbooks",
@@ -1683,23 +1660,6 @@
       "Country": "Japan, United States"
     },
     {
-      "title": "Octonauts & the Caves of Sac Actun",
-      "netflix_url": "https://www.netflix.com/title/81009671",
-      "year": "2020",
-      "imdb_rating": "6.4",
-      "imdb_id": "tt12759408",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmZmMGI0YzAtYTM5Zi00MzM1LThkODYtZDI3Y2FkZDQ1NTQxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The Octonauts embark on an underwater adventure, navigating a set of challenging caves to help a small octopus friend return home to the Caribbean Sea.",
-      "Type": "movie",
-      "RunTime": "72 min",
-      "Genre": "Animation, Adventure, Comedy",
-      "Director": "Blair Simmons",
-      "Writer": "Vicki Wong, Michael Murphy, Gabe Pulliam",
-      "Actors": "Teresa Gallagher, Wayne Grayson, Simon Greenall",
-      "Language": "English",
-      "Country": "United Kingdom, United States, Canada"
-    },
-    {
       "title": "Trollhunters: Rise of the Titans",
       "netflix_url": "https://www.netflix.com/title/81010139",
       "year": "2021",
@@ -1715,6 +1675,23 @@
       "Actors": "Steve Alterman, Kay Bess, Brian Blessed",
       "Language": "English, Mandarin, Portuguese",
       "Country": "United States, Mexico, China, India"
+    },
+    {
+      "title": "A Trash Truck Christmas",
+      "netflix_url": "https://www.netflix.com/title/81010807",
+      "year": "2020",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt13458584",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGU5MTA4MmMtMjdjNC00ZWY3LTlhNTQtOTE3OWZhZTQxNTkwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Santa crash-lands in the junkyard on Christmas Eve, Hank, Trash Truck and their animal friends all have a hand in rescuing the holiday for everyone.",
+      "Type": "movie",
+      "RunTime": "28 min",
+      "Genre": "Animation, Short, Adventure",
+      "Director": "Eddie Rosas, John Kahrs",
+      "Writer": "Max Keane, Angie Sun, Todd Casey",
+      "Actors": "Henry Keane, Glen Keane, Lucas Neff",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "YES DAY",
@@ -1768,23 +1745,6 @@
       "Country": "United States, Canada"
     },
     {
-      "title": "Octonauts & the Great Barrier Reef",
-      "netflix_url": "https://www.netflix.com/title/81012822",
-      "year": "2020",
-      "imdb_rating": "6.7",
-      "imdb_id": "tt13150606",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMmQ3Mjc5NmItN2VhMy00YTQzLWFhN2ItYjNjNjc3OGZjNDY1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Octonauts must find a way to hold back hungry swarms of coral eating starfish to save a new friend's fragile reef home.",
-      "Type": "movie",
-      "RunTime": "47 min",
-      "Genre": "Animation, Action, Adventure",
-      "Director": "Blair Simmons",
-      "Writer": "Vicki Wong, Michael Murphy, Stephanie Simpson",
-      "Actors": "Paul Buckley, Simon Foster, Teresa Gallagher",
-      "Language": "English",
-      "Country": "United Kingdom"
-    },
-    {
       "title": "The Sea Beast",
       "netflix_url": "https://www.netflix.com/title/81018682",
       "year": "2022",
@@ -1800,6 +1760,23 @@
       "Actors": "Karl Urban, Zaris-Angel Hator, Jared Harris",
       "Language": "English, Persian",
       "Country": "United States"
+    },
+    {
+      "title": "A Go! Go! Cory Carson Halloween",
+      "netflix_url": "https://www.netflix.com/title/81021357",
+      "year": "2020",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt13058374",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjBlZTFlZWEtOWMzMi00MTM1LTgzNDEtNzA5MmYyZDU3YmQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Cory, Chrissy and Freddie are on the hunt for king-sized candy bars this Halloween. But are all the treats worth the trek to the spooky side of town?",
+      "Type": "movie",
+      "RunTime": "24 min",
+      "Genre": "Animation, Short, Family",
+      "Director": "Stanley Moore, Alexander Woo",
+      "Writer": "Tone Thyne, Alexander Woo, Tyler Hendrix",
+      "Actors": "Alan C. Lim, Smith Foreman, Maisie Benson",
+      "Language": "English",
+      "Country": "N/A"
     },
     {
       "title": "Finding ‘Ohana",
@@ -1853,23 +1830,6 @@
       "Country": "United States"
     },
     {
-      "title": "Scrooge: A Christmas Carol",
-      "netflix_url": "https://www.netflix.com/title/81028225",
-      "year": "2022",
-      "imdb_rating": "6.2",
-      "imdb_id": "tt20917338",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzBhNGM2ZDYtYTBhMi00NjBjLTg5ZjQtZDAxZDk1MzA2YTcyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A supernatural, time-travelling, musical adaptation of Charles Dickens's cult Christmas story.",
-      "Type": "movie",
-      "RunTime": "96 min",
-      "Genre": "Animation, Adventure, Comedy",
-      "Director": "Stephen Donnelly",
-      "Writer": "Leslie Bricusse, Stephen Donnelly, Charles Dickens",
-      "Actors": "Luke Evans, Olivia Colman, Jessie Buckley",
-      "Language": "English",
-      "Country": "United Kingdom, United States"
-    },
-    {
       "title": "A Boy Called Christmas",
       "netflix_url": "https://www.netflix.com/title/81029733",
       "year": "2021",
@@ -1885,23 +1845,6 @@
       "Actors": "Maggie Smith, Isabella O'Sullivan, Joel Fry",
       "Language": "English",
       "Country": "United Kingdom, France, United States, Czech Republic, Germany"
-    },
-    {
-      "title": "Pachamama",
-      "netflix_url": "https://www.netflix.com/title/81029736",
-      "year": "2019",
-      "imdb_rating": "6.8",
-      "imdb_id": "tt5541002",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmEzZDQ2MTItNWNmZS00ZmU0LWEzMTUtODkyNjU5ZmIyYTAwXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A young boy living in a remote village in the Andes Mountains dreams of becoming shaman.",
-      "Type": "movie",
-      "RunTime": "72 min",
-      "Genre": "Animation, Adventure, Family",
-      "Director": "Juan Antin",
-      "Writer": "Juan Antin, Patricia Valeix, Olivier de Bannes",
-      "Actors": "Andrea Santamaria, India Coenen, Saïd Amadis",
-      "Language": "English, French",
-      "Country": "France, Luxembourg, Canada"
     },
     {
       "title": "A Christmas Prince: The Royal Baby",
@@ -1955,46 +1898,11 @@
       "Country": "South Africa"
     },
     {
-      "title": "Dragons: Rescue Riders: Hunt for the Golden Dragon",
-      "netflix_url": "https://www.netflix.com/title/81046957",
-      "year": "2020",
-      "imdb_rating": "5.4",
-      "imdb_id": "tt11875456",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODk2ZTQ1ZDMtNWMxYy00MzZhLTk2ODUtZjRkOWE3OWIxNjU0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The Rescue Riders have been asked to find a precious golden dragon egg, and keep it safe from evil pirates.",
-      "Type": "movie",
-      "RunTime": "46 min",
-      "Genre": "Animation, Action, Adventure",
-      "Director": "Greg Rankin, T.J. Sullivan",
-      "Writer": "Steven Altiere, Jack C. Thomas",
-      "Actors": "Noah Kaye Bentley, Brennley Brown, Zach Callison",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Dragons: Rescue Riders: Huttsgalor Holiday",
-      "netflix_url": "https://www.netflix.com/title/81046958",
-      "year": "2020",
-      "imdb_rating": "5.8",
-      "imdb_id": "tt13353508",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmNjZjc3YWEtZmMwOC00YWNhLTgzZTctNzFkZmVhY2M3Nzg0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Odinyule, the feast of the Vikings sharing, begins with the snow. But if the Rescue Team does not step in, perhaps the tradition will be canceled due to extreme weather conditions.",
-      "Type": "movie",
-      "RunTime": "46 min",
-      "Genre": "Animation, Family",
-      "Director": "Greg Rankin, T.J. Sullivan",
-      "Writer": "Steven Altiere, Laura Bowes",
-      "Actors": "Noah Kaye Bentley, Brennley Brown, Zach Callison",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Latte and the Magic Waterstone",
       "netflix_url": "https://www.netflix.com/title/81050165",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "True Spirit",
@@ -2014,23 +1922,6 @@
       "Country": "Australia, United States"
     },
     {
-      "title": "The Magic School Bus Rides Again Kids In Space",
-      "netflix_url": "https://www.netflix.com/title/81054979",
-      "year": "2020",
-      "imdb_rating": "6.2",
-      "imdb_id": "tt12730310",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0MjA5Mjc4Ml5BMl5BanBnXkFtZTgwNDE2NDMzNTM@._V1_SX300.jpg",
-      "Plot": "The Magic School Bus kids blast into orbit and onto the International Space Station only to find themselves on the run from a giant tardigrade.",
-      "Type": "movie",
-      "RunTime": "45 min",
-      "Genre": "Animation, Adventure, Comedy",
-      "Director": "Richard Weston",
-      "Writer": "David Skelly, Joanna Cole, Bruce Degen",
-      "Actors": "Kate McKinnon, Matthew Mucci, Mikaela Blake",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "The Magic School Bus Rides Again The Frizz Connection",
       "netflix_url": "https://www.netflix.com/title/81054980",
       "year": "2020",
@@ -2046,23 +1937,6 @@
       "Actors": "Kate McKinnon, Roman Lutterotti, Mikaela Blake",
       "Language": "English",
       "Country": "Canada"
-    },
-    {
-      "title": "The Magic School Bus Rides Again In the Zone",
-      "netflix_url": "https://www.netflix.com/title/81054981",
-      "year": "2020",
-      "imdb_rating": "6.0",
-      "imdb_id": "tt13577224",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzYzk2MjUtMmRjZS00NzVkLTg4ZWQtOTc4ZDhkZmY3OWRlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Ms. Frizzle's class sees every show on a pop star's New Year's Eve tour, learning about time zones as they attend all her concerts on the same night.",
-      "Type": "movie",
-      "RunTime": "46 min",
-      "Genre": "Animation, Adventure, Comedy",
-      "Director": "Richard Weston",
-      "Writer": "Jennifer Skelly, Jocelyn Stevenson, Evan Thaler Hickey",
-      "Actors": "Kate McKinnon, Birva Pandya, Mikaela Blake",
-      "Language": "English",
-      "Country": "Canada, United States"
     },
     {
       "title": "Dragons: Rescue Riders: Secrets of the Songwing",
@@ -2116,23 +1990,6 @@
       "Country": "United States, Philippines, Austria"
     },
     {
-      "title": "Spelling the Dream",
-      "netflix_url": "https://www.netflix.com/title/81069312",
-      "year": "2020",
-      "imdb_rating": "6.9",
-      "imdb_id": "tt6193522",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BN2M0MmQ0Y2MtZDhkYy00MjhjLTkyZDMtNDczYTQzNmE0N2QxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Chronicle of the ups and downs of four Indian-American students as they compete to realize their dream of winning the iconic tournament.",
-      "Type": "movie",
-      "RunTime": "82 min",
-      "Genre": "Documentary",
-      "Director": "Sam Rega",
-      "Writer": "Sam Rega, Chris Weller",
-      "Actors": "Srinivas Ayyagari, Jacques Bailly, Valerie Browning",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "The Princess Switch: Switched Again",
       "netflix_url": "https://www.netflix.com/title/81084350",
       "year": "2020",
@@ -2165,23 +2022,6 @@
       "Actors": "Richard Steven Horvitz, Rikki Simons, Andy Berman",
       "Language": "English, Korean",
       "Country": "South Korea, United States"
-    },
-    {
-      "title": "Chico Bon Bon and the Very Berry Holiday",
-      "netflix_url": "https://www.netflix.com/title/81097741",
-      "year": "2020",
-      "imdb_rating": "5.8",
-      "imdb_id": "tt13411942",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjcyNTdmZTEtN2Y3YS00MTg2LTgyMjItYTRjMDAzMDc5YTZmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When Barry is not shown to deliver the Blunderberry Cakes when the traditional holiday called Blunderberry, which the whole town has had so fun and happy, comes to the door, Blunderberry jeopardizes the nature and beauty of the day.",
-      "Type": "movie",
-      "RunTime": "25 min",
-      "Genre": "Animation, Family",
-      "Director": "Darragh O'Connell",
-      "Writer": "Chris Monroe, Michael J. Goldberg, Gabe Pulliam",
-      "Actors": "Robbie Daymond, Andy Abbott, Dayci Brookshire",
-      "Language": "English",
-      "Country": "United States"
     },
     {
       "title": "John Mulaney & The Sack Lunch Bunch",
@@ -2239,8 +2079,7 @@
       "netflix_url": "https://www.netflix.com/title/81128934",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Cats",
@@ -2260,6 +2099,23 @@
       "Country": "United Kingdom, United States, Canada, Australia, China, Japan"
     },
     {
+      "title": "Spirit Riding Free: Spirit of Christmas",
+      "netflix_url": "https://www.netflix.com/title/81146370",
+      "year": "2019",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt11313068",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2E4YjQ1N2YtODRmOS00YTUwLWJjNDYtYWI2YjE4MDMxZTIwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Plot": "Lucky and her friends embark on a Christmas Eve adventure into the city to find the perfect gift, but their return to Miradero for the holiday festivities are ruined when an avalanche derails their plans",
+      "Type": "movie",
+      "RunTime": "45 min",
+      "Genre": "Animation, Short, Action",
+      "Director": "Allan Jacobsen, Kevin Wotton, Stephen Cooper",
+      "Writer": "Aury Wallington, May Chan, Nicole Belisle",
+      "Actors": "Amber Frank, Bailey Gambertoglio, Sydney Park",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Hilda and the Mountain King",
       "netflix_url": "https://www.netflix.com/title/81150180",
       "year": "2021",
@@ -2275,14 +2131,6 @@
       "Actors": "Bella Ramsey, Ameerah Falzon, Oliver Nelson",
       "Language": "English",
       "Country": "United Kingdom, United States, Canada"
-    },
-    {
-      "title": "Angela's Christmas 2",
-      "netflix_url": "https://www.netflix.com/title/81151926",
-      "year": "2020",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
     },
     {
       "title": "Wish Dragon",
@@ -2434,23 +2282,6 @@
       "Director": "Roman White",
       "Writer": "Alan Powell, Kali Bailey, Gabe Vasquez",
       "Actors": "Kevin Quinn, Bailee Madison, Jahbril Cook",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Spookley and the Christmas Kittens",
-      "netflix_url": "https://www.netflix.com/title/81183595",
-      "year": "2019",
-      "imdb_rating": "4.5",
-      "imdb_id": "tt13445242",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYWMwOGJiYzUtNTExZS00NmU3LTlmNzAtM2M3YjI2MzBlODM2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Spookley the Square Pumpkin helps a special green cat and three stray kittens find a home and teaches us that it’s never wrong to do the right thing.",
-      "Type": "movie",
-      "RunTime": "44 min",
-      "Genre": "Animation, Short, Adventure",
-      "Director": "Pierre Coffin, Bill Schultz, Bernie Denk",
-      "Writer": "Joe Troiano, Jim Lewis, Sigfrid Jacob",
-      "Actors": "Vlasta Vrana, Sonja Ball, Craig Francis",
       "Language": "English",
       "Country": "United States"
     },
@@ -2710,23 +2541,6 @@
       "Country": "Canada"
     },
     {
-      "title": "Ivy + Bean: Doomed to Dance",
-      "netflix_url": "https://www.netflix.com/title/81241013",
-      "year": "2021",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt21836576",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzk5ODU1ODEtZmRkZi00MTUyLTg0YjYtMmRjMjc5YzllNGI0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Ivy and Bean are ecstatic to sign up for ballet class until they realize there will be no sword-fighting, kicking or \"dancing to the death\". When Bean's parents won't let her quit, Ivy agrees to stick it out with Bean.",
-      "Type": "movie",
-      "RunTime": "53 min",
-      "Genre": "Comedy, Family",
-      "Director": "Elissa Down",
-      "Writer": "Annie Barrows, Kathy Waugh",
-      "Actors": "Madison Skye Validum, Keslee Blalock, Elizabeth Irving",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Fearless",
       "netflix_url": "https://www.netflix.com/title/81252403",
       "year": "2020",
@@ -2748,8 +2562,7 @@
       "netflix_url": "https://www.netflix.com/title/81262270",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Secret Magic Control Agency",
@@ -2973,57 +2786,6 @@
       "Country": "United States"
     },
     {
-      "title": "Elf Pets: A Fox Cub’s Christmas Tale",
-      "netflix_url": "https://www.netflix.com/title/81343752",
-      "year": "2020",
-      "imdb_rating": "4.7",
-      "imdb_id": "tt10485928",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzY0MDFhOTItNDcyNi00MTcxLWJkNTUtNWNkYTVjZTJiN2M1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Set against the backdrop of the mystical Northern Lights, Scout Elf Newsey investigates how Santa travels the world at night.",
-      "Type": "movie",
-      "RunTime": "28 min",
-      "Genre": "Animation, Short, Comedy",
-      "Director": "Chanda Bell",
-      "Writer": "Chanda Bell",
-      "Actors": "Leslie Bellair, Tommas Oden, Brad Hyland",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Elf Pets: Santa’s Reindeer Rescue",
-      "netflix_url": "https://www.netflix.com/title/81343753",
-      "year": "2020",
-      "imdb_rating": "4.3",
-      "imdb_id": "tt13020758",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTM2ODhhMTUtMGJlNy00YTYwLTk0ZGUtNDQwYWM5YjA5YWYxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "It's almost Christmas and Santa's test flights have run into trouble. Can The Elf on the Shelf, a crew of adorable Elf Pets Reindeer and Santa's gang of trusted Scout Elf friends help him find the answer before it's too late? Join...",
-      "Type": "movie",
-      "RunTime": "26 min",
-      "Genre": "Short, Family",
-      "Director": "Chanda Bell",
-      "Writer": "Chanda Bell",
-      "Actors": "Brad Hyland, Drew Barber, Ashley Roberts",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Pokémon the Movie: Secrets of the Jungle",
-      "netflix_url": "https://www.netflix.com/title/81346307",
-      "year": "2021",
-      "imdb_rating": "6.4",
-      "imdb_id": "tt11819890",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2NlMTFlNjMtNTg2Yi00MzkwLTk2NDUtMWNjZjU2MmEwOTkzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The story of Koko, a young boy raised by Pokémon, and the creation of a new bond between humans and Pokémon.",
-      "Type": "movie",
-      "RunTime": "99 min",
-      "Genre": "Animation, Action, Adventure",
-      "Director": "Tetsuo Yajima",
-      "Writer": "Satoshi Tajiri, Atsuhiro Tomioka, Tetsuo Yajima",
-      "Actors": "Sarah Natochenny, Kimlinh Tran, Edward Bosco",
-      "Language": "Japanese",
-      "Country": "Japan"
-    },
-    {
       "title": "Monster Hunter: Legends of the Guild",
       "netflix_url": "https://www.netflix.com/title/81346827",
       "year": "2021",
@@ -3062,8 +2824,7 @@
       "netflix_url": "https://www.netflix.com/title/81349324",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Wallace & Gromit: Vengeance Most Fowl",
@@ -3081,6 +2842,23 @@
       "Actors": "Ben Whitehead, Peter Kay, Lauren Patel",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Xico's Journey",
+      "netflix_url": "https://www.netflix.com/title/81354432",
+      "year": "2021",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt12481806",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmYzMzRkZmItMmUzYS00YmIxLTljNTQtNjg3Y2JiMDA3YmM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A girl, a dog and her best pal set out to save a mountain from a gold-hungry corporation. But the key lies closer to home, with her sidekick pup, Xico.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Animation, Adventure, Family",
+      "Director": "Eric Cabello, Wayne Dearing",
+      "Writer": "Mayra Gabriela Aldana Castro, Adrian Guerra, Carlos Pascual",
+      "Actors": "Verónica Jalil, Luis Angel Jaramillo, Pablo Gama Iturrarán",
+      "Language": "English, Spanish",
+      "Country": "Mexico, Philippines"
     },
     {
       "title": "Seal Team",
@@ -3122,7 +2900,7 @@
       "year": "2019",
       "imdb_rating": "4.4",
       "imdb_id": "tt11727004",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BM2JkYTM0OTUtYTBhMi00YzVkLWIzNWEtMjE3ZTc3MWE4OTNlXkEyXkFqcGdeQXVyODcxOTE0Mzc@._V1_SX300.jpg",
+      "Poster": "https://occ-0-1339-1340.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXBgNVb3yPWqEhos6-MWZL3F4zboU7ENgdlfpsb85dsrLxDpb7Hxbq6jqL95Lo7uXDrG-_JXTyjE35qjT51ZCWuNlQ_7UYM-qqie.jpg?r=b70",
       "Plot": "Follow PinkFong and Baby Shark's space journey as they visit mysterious planets to help find the special star for PinkFong.",
       "Type": "movie",
       "RunTime": "66 min",
@@ -3134,29 +2912,11 @@
       "Country": "South Korea, United States"
     },
     {
-      "title": "Kangaroo Valley",
-      "netflix_url": "https://www.netflix.com/title/81362829",
-      "year": "2022",
-      "imdb_rating": "7.3",
-      "imdb_id": "tt15553758",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYmI4MjJmNzEtNjA0Zi00YjM4LTljYTMtNjViM2RjYmFiMWYyXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Coming-of-age story of a young kangaroo joey called Mala, learning what it takes to survive her incredible first year. Only one in five joeys make it to their first birthday. Mala's greatest enemy is the dingo pack that stalks her...",
-      "Type": "movie",
-      "RunTime": "76 min",
-      "Genre": "Documentary",
-      "Director": "Kylie Stott",
-      "Writer": "Phil Lott, Ari Mark, Tab Murphy",
-      "Actors": "Sarah Snook",
-      "Language": "English",
-      "Country": "United States, Australia"
-    },
-    {
       "title": "Firedrake the Silver Dragon",
       "netflix_url": "https://www.netflix.com/title/81370442",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Jungle Beat: The Movie",
@@ -3295,23 +3055,6 @@
       "Country": "United States"
     },
     {
-      "title": "Best. Christmas. Ever!",
-      "netflix_url": "https://www.netflix.com/title/81416268",
-      "year": "2023",
-      "imdb_rating": "4.4",
-      "imdb_id": "tt7038762",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM1MTdkYjUtMzQxNS00NzAxLWI3OWMtNjIyNTgyMzViNGE5XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Friendships are put to the ultimate test over a boastful holiday newsletter.",
-      "Type": "movie",
-      "RunTime": "82 min",
-      "Genre": "Comedy, Romance",
-      "Director": "Mary Lambert",
-      "Writer": "Todd Calgi Gallicano, Charles Shyer",
-      "Actors": "Heather Graham, Brandy Norwood, Jason Biggs",
-      "Language": "Spanish, English",
-      "Country": "United States"
-    },
-    {
       "title": "Paw Patrol: The Movie",
       "netflix_url": "https://www.netflix.com/title/81416774",
       "year": "2021",
@@ -3327,23 +3070,6 @@
       "Actors": "Tyler Perry, Ron Pardo, Will Brisbin",
       "Language": "English",
       "Country": "Canada, United States"
-    },
-    {
-      "title": "Thomas & Friends: The Mystery of Lookout Mountain",
-      "netflix_url": "https://www.netflix.com/title/81422855",
-      "year": "2022",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt21171418",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTNkOWRkN2UtNmIxNi00NmMzLTk0NzAtMjM4YjIyNjBiZDYxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After Thomas and Percy get spooked by a suspicious rumbling, the engines set off to figure out the secrets of the old mine inside Lookout Mountain.",
-      "Type": "movie",
-      "RunTime": "75 min",
-      "Genre": "Animation",
-      "Director": "Campbell Bryer, Sean V. Jeffrey",
-      "Writer": "Britt Allcroft, Wilbert Awdry, Craig Carlisle",
-      "Actors": "Aaron Barashi, Jessica Carroll, Henri Charles",
-      "Language": "English",
-      "Country": "United States, Canada"
     },
     {
       "title": "My Little Pony: A New Generation",
@@ -3380,23 +3106,6 @@
       "Country": "United States, United Kingdom, France"
     },
     {
-      "title": "Inside the Mind of a Cat",
-      "netflix_url": "https://www.netflix.com/title/81447086",
-      "year": "2022",
-      "imdb_rating": "6.9",
-      "imdb_id": "tt21340412",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDVkZGU3NjEtMjFhZC00NDZmLWIwYmEtZjViODc3N2I1YTJjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Cat experts dive into the mind of the feline to reveal the true capabilities of the pouncing pet in this captivating and cuddly documentary.",
-      "Type": "movie",
-      "RunTime": "67 min",
-      "Genre": "Documentary",
-      "Director": "Andy Mitchell",
-      "Writer": "N/A",
-      "Actors": "Neil Wilson, Bruce Kornriech, Kristyn Vitale",
-      "Language": "Japanese, Ukrainian, English",
-      "Country": "United States"
-    },
-    {
       "title": "STAND BY ME Doraemon 2",
       "netflix_url": "https://www.netflix.com/title/81451264",
       "year": "2020",
@@ -3412,6 +3121,23 @@
       "Actors": "Bakarhythm, Brian Beacock, Johnny Yong Bosch",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Heart Parade",
+      "netflix_url": "https://www.netflix.com/title/81452638",
+      "year": "2022",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt20597408",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1ZWI3NjYtNTlkNy00OWRmLWI2MjEtYmJkN2QwNmQxZDE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A careerist from Warsaw, who does not like dogs, has to go to Kraków for professional reasons, where she meets a charming widower, his son and their four-legged pet.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Filip Zylber",
+      "Writer": "Wiktor Piatkowski, Natalia Matuszek, Marianna Pochron",
+      "Actors": "Anna Próchniak, Michal Czernecki, Iwo Rajski",
+      "Language": "Polish",
+      "Country": "Poland"
     },
     {
       "title": "Chickenhare and the Hamster of Darkness",
@@ -3463,23 +3189,6 @@
       "Actors": "Pierce Brosnan, Sam Hardy, Hannah Herman",
       "Language": "English",
       "Country": "United Kingdom, Ireland, Canada, United States"
-    },
-    {
-      "title": "Elf Pets: Santa’s St. Bernards Save Christmas",
-      "netflix_url": "https://www.netflix.com/title/81488496",
-      "year": "2021",
-      "imdb_rating": "5.4",
-      "imdb_id": "tt9233904",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjYyMGJjOGQtZTljNC00YjRhLWIzOTktMjdhYWMwY2QwMWE1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Scout Elves, a slew of St. Bernard pups and a big-hearted family change their community for the better and ensure Santa's yuletide mission to bring more Christmas spirit succeeds.",
-      "Type": "movie",
-      "RunTime": "26 min",
-      "Genre": "Animation, Fantasy",
-      "Director": "Chanda Bell, Zach Lamplugh",
-      "Writer": "Chanda Bell",
-      "Actors": "Lauren Revard, Tommas Oden, Brad Hyland",
-      "Language": "English",
-      "Country": "United States"
     },
     {
       "title": "An Elf's Story: The Elf on the Shelf",
@@ -3584,23 +3293,6 @@
       "Country": "Japan"
     },
     {
-      "title": "Too Old for Fairy Tales",
-      "netflix_url": "https://www.netflix.com/title/81570889",
-      "year": "2022",
-      "imdb_rating": "6.2",
-      "imdb_id": "tt15575356",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOGU3ZDc3OTctYWMzMS00MmM0LWExZGUtY2YzYjIzY2YxMGRkXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The life of Waldek is filled mainly with computer games. When his mother needs to go away for a while, he stays under the care of a crazy and unpredictable aunt, who introduces him to discipline and new duties.",
-      "Type": "movie",
-      "RunTime": "106 min",
-      "Genre": "Comedy, Family",
-      "Director": "Kristoffer Rus",
-      "Writer": "Agnieszka Dabrowska",
-      "Actors": "Maciej Karas, Amelia Fijalkowska, Patryk Siemek",
-      "Language": "Polish",
-      "Country": "Poland"
-    },
-    {
       "title": "My Oni Girl",
       "netflix_url": "https://www.netflix.com/title/81582442",
       "year": "2024",
@@ -3656,16 +3348,14 @@
       "netflix_url": "https://www.netflix.com/title/81589564",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Minions & More Volume 2",
       "netflix_url": "https://www.netflix.com/title/81589565",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Cemara's Family 2",
@@ -3689,8 +3379,7 @@
       "netflix_url": "https://www.netflix.com/title/81597959",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Habaddi",
@@ -3778,6 +3467,13 @@
       "Country": "United States"
     },
     {
+      "title": "Abboud at Home",
+      "netflix_url": "https://www.netflix.com/title/81660255",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Bad Guys: A Very Bad Holiday",
       "netflix_url": "https://www.netflix.com/title/81662920",
       "year": "2023",
@@ -3827,23 +3523,6 @@
       "Actors": "Mudit Gupta, Celina Meyer Hovland, Jan Sælid",
       "Language": "Norwegian",
       "Country": "Norway, United States"
-    },
-    {
-      "title": "Inside the Mind of a Dog",
-      "netflix_url": "https://www.netflix.com/title/81681888",
-      "year": "2024",
-      "imdb_rating": "7.2",
-      "imdb_id": "tt32907397",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjA3ZjA5MWMtYTNkMi00NTU3LWJjNzYtZjk1M2YzZDI2YWNhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Embark on a delightful journey into the world of dogs in this documentary that reveals scientific and emotional insights about our lovable BFFs.",
-      "Type": "movie",
-      "RunTime": "75 min",
-      "Genre": "Documentary",
-      "Director": "Andy Mitchell",
-      "Writer": "N/A",
-      "Actors": "Joelle Andres, Bastian the Talking Terrier, Sascha Crasnow",
-      "Language": "English",
-      "Country": "United States"
     },
     {
       "title": "The Bad Guys: Haunted Heist",
@@ -3897,23 +3576,6 @@
       "Country": "Poland"
     },
     {
-      "title": "Chhota Bheem Yamlok Ki Khoj",
-      "netflix_url": "https://www.netflix.com/title/81700181",
-      "year": "2023",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt30218991",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4NzcyY2YtM2VmMy00MmM5LWFjYWItZjRhZDNkYjc5NTAzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "When Jaggu's accidentally sent to Yamaloka, Bheem and his friends must embark on a daring journey to rescue him before his soul is lost forever.",
-      "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "Animation, Action, Adventure",
-      "Director": "N/A",
-      "Writer": "Kaushik Karra",
-      "Actors": "N/A",
-      "Language": "Hindi",
-      "Country": "India"
-    },
-    {
       "title": "Pangolin: Kulu’s Journey",
       "netflix_url": "https://www.netflix.com/title/81708252",
       "year": "2025",
@@ -3946,132 +3608,6 @@
       "Actors": "David Gasman, Khaled Alenzi",
       "Language": "English",
       "Country": "Saudi Arabia"
-    },
-    {
-      "title": "Anpanman: Adventure of Happie",
-      "netflix_url": "https://www.netflix.com/title/81719798",
-      "year": "2005",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt15684228",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ4NzQ0ZWEtMWZlZS00NjAzLTlkOWQtMDAwNGQxNGRjODU1XkEyXkFqcGdeQXVyNTM3NDk5MTg@._V1_SX300.jpg",
-      "Plot": "Anpanman gets a new apprentice named Happie who starts getting influenced from their enemy Baikinman, which Anpanman must stop to save their village.",
-      "Type": "movie",
-      "RunTime": "51 min",
-      "Genre": "Animation",
-      "Director": "Hiroyuki Yano",
-      "Writer": "N/A",
-      "Actors": "Ghia Burns, Andrio Chavarro, Jason Kesser",
-      "Language": "English, Japanese",
-      "Country": "Japan"
-    },
-    {
-      "title": "Anpanman: Star-Spirited Dollie",
-      "netflix_url": "https://www.netflix.com/title/81719799",
-      "year": "2006",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt15685194",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTJhMzg4M2ItYTIxOS00MjY5LTg0MDUtYzc4MmU3YzQ0ODhlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The beloved children's superhero has his hands full after he saves Dollie, who comes to life and annoys others with her non-stop search for fun times.",
-      "Type": "movie",
-      "RunTime": "51 min",
-      "Genre": "Animation",
-      "Director": "Hiroyuki Yano",
-      "Writer": "Tomoko Konparu",
-      "Actors": "Keiko Toda, Ryûsei Nakao, Hiroshi Masuoka",
-      "Language": "English",
-      "Country": "Japan"
-    },
-    {
-      "title": "Anpanman: Purun, The Soap Bubble",
-      "netflix_url": "https://www.netflix.com/title/81719801",
-      "year": "2007",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt15192154",
-      "Poster": "N/A",
-      "Plot": "Purun struggles to find the confidence to perform in the bubble flute show while Anpanman must help her rid the palace of Baikinman's evil bubbles. Meanwhile Baikinman, Horror, and Dokin must think fast and take on new identities in ",
-      "Type": "movie",
-      "RunTime": "51 min",
-      "Genre": "Animation",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Ghia Burns, Andrio Chavarro, Jason Kesser",
-      "Language": "English",
-      "Country": "Japan"
-    },
-    {
-      "title": "Anpanman: The Secret of Fairy Rin-Rin",
-      "netflix_url": "https://www.netflix.com/title/81719804",
-      "year": "2008",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt1260507",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZWFkMWY1ZmItNTViYy00OGI4LWJjMzEtMzFhNzAwMzZhN2UzXkEyXkFqcGdeQXVyNjgwNTk4Mg@@._V1_SX300.jpg",
-      "Plot": "N/A",
-      "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "Animation",
-      "Director": "Akinori Nagaoka",
-      "Writer": "Takashi Yanase, Shôji Yonemura",
-      "Actors": "Keiko Toda, Ryûsei Nakao, Ghia Burns",
-      "Language": "English, Japanese",
-      "Country": "Japan"
-    },
-    {
-      "title": "Anpanman: The Blacknose with Magical Song",
-      "netflix_url": "https://www.netflix.com/title/81719808",
-      "year": "2010",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Anpanman: Apple Boy And Everyone's Hope",
-      "netflix_url": "https://www.netflix.com/title/81719818",
-      "year": "2014",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt15041652",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NGFiNjctM2JlZC00Njc5LThkZTQtNDVjMDVmZjg4MjAxXkEyXkFqcGdeQXVyMTEwMDc4OTU@._V1_SX300.jpg",
-      "Plot": "N/A",
-      "Type": "movie",
-      "RunTime": "46 min",
-      "Genre": "Animation, Adventure, Family",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Mauriett Chayeb, Ghia Burns, Andrio Chavarro",
-      "Language": "English, Japanese",
-      "Country": "Japan"
-    },
-    {
-      "title": "Anpanman: Nanda and Runda from Star of Toys",
-      "netflix_url": "https://www.netflix.com/title/81719826",
-      "year": "2016",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt5923102",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZmRiYTFhMjItM2FhNy00OGEwLWI4MjUtNDU2NDU1MzkwNjBlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "N/A",
-      "Type": "movie",
-      "RunTime": "62 min",
-      "Genre": "Animation, Adventure, Family",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Tesshô Genda, Haru, Mika Kanai",
-      "Language": "Japanese",
-      "Country": "Japan"
-    },
-    {
-      "title": "Anpanman: Shine! Kulun and the Stars of Life",
-      "netflix_url": "https://www.netflix.com/title/81719828",
-      "year": "2018",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Anpanman: Twinkle! Princess Vanilla of Ice Cream Land",
-      "netflix_url": "https://www.netflix.com/title/81719829",
-      "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
     },
     {
       "title": "PAW Patrol: The Mighty Movie",
@@ -4108,37 +3644,11 @@
       "Country": "Spain, United States"
     },
     {
-      "title": "Pinkfong & Hogi Mini-Movie: The Tricky Three Cars",
-      "netflix_url": "https://www.netflix.com/title/81748104",
-      "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Backyard Wilderness",
-      "netflix_url": "https://www.netflix.com/title/81752453",
-      "year": "2018",
-      "imdb_rating": "7.0",
-      "imdb_id": "tt4076648",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwMTI4NjA4Ml5BMl5BanBnXkFtZTgwMDU4Njk2NDM@._V1_SX300.jpg",
-      "Plot": "This large format digital film follows the daily dramas of common animals - like the turtle, heron, frog, raccoon and dragonfly - juxtaposed with the activities of nearby humans more concerned with their computer screens, mobile d...",
-      "Type": "movie",
-      "RunTime": "42 min",
-      "Genre": "Documentary, Short, Drama",
-      "Director": "Susan Todd, Andrew Young",
-      "Writer": "Andrew Young, Susan Todd, Wendy MacKeigan",
-      "Actors": "Christian Ryan, Susan Todd, Andrew Young",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Miraculous World: New York, United Heroez",
       "netflix_url": "https://www.netflix.com/title/81754915",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Miraculous World: Shanghai, The Legend of LadyDragon",
@@ -4162,8 +3672,7 @@
       "netflix_url": "https://www.netflix.com/title/81760566",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Garfield Movie",
@@ -4198,6 +3707,23 @@
       "Actors": "Hugh Bonneville, Emily Mortimer, Ben Whishaw",
       "Language": "English, Spanish, French",
       "Country": "United Kingdom, France, Japan, United States, Colombia"
+    },
+    {
+      "title": "Justin Willman: Magic Lover",
+      "netflix_url": "https://www.netflix.com/title/81779564",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36959502",
+      "Poster": "N/A",
+      "Plot": "Follows an entertaining show that combines between performing magic tricks and delivering comedic commentary on different themes.",
+      "Type": "movie",
+      "RunTime": "64 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Justin Willman",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Wild Robot",
@@ -4306,8 +3832,7 @@
       "netflix_url": "https://www.netflix.com/title/82125877",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Same Time, Next Christmas",
@@ -4484,8 +4009,7 @@
       "netflix_url": "https://www.netflix.com/title/82174859",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "My Favorite Christmas Tree",

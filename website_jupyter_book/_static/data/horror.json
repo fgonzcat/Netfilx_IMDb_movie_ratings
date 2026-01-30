@@ -40,18 +40,18 @@
       "title": "The Texas Chainsaw Massacre",
       "netflix_url": "https://www.netflix.com/title/15815343",
       "year": "1974",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt34081214",
-      "Poster": "N/A",
-      "Plot": "N/A",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt0324216",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY0MDQwMTctYzQ1Mi00ODIwLThlMWQtODQ0NzA2ZTg3ZDFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After picking up a traumatized young hitchhiker, five friends find themselves stalked and hunted by a deformed chainsaw-wielding loon and his family of equally psychopathic killers.",
       "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "N/A",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "N/A",
-      "Language": "N/A",
-      "Country": "N/A"
+      "RunTime": "98 min",
+      "Genre": "Horror",
+      "Director": "Marcus Nispel",
+      "Writer": "Kim Henkel, Tobe Hooper, Scott Kosar",
+      "Actors": "Jessica Biel, Jonathan Tucker, Andrew Bryniarski",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Night of the Living Dead",
@@ -171,23 +171,6 @@
       "Actors": "Keith Gordon, John Stockwell, Alexandra Paul",
       "Language": "English, Spanish, French",
       "Country": "United States"
-    },
-    {
-      "title": "Kaal",
-      "netflix_url": "https://www.netflix.com/title/70037493",
-      "year": "2005",
-      "imdb_rating": "4.7",
-      "imdb_id": "tt0415908",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQyNmQ4MTgtMTUyYS00ZjE0LTk2ODItZTdjMDJkYmNjNDZlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A tiger expert, his wife, two tourists and a village chief engage in a battle for survival against supernatural beasts within Jim Corbett National Wildlife Park.",
-      "Type": "movie",
-      "RunTime": "126 min",
-      "Genre": "Adventure, Horror, Mystery",
-      "Director": "Soham Shah",
-      "Writer": "Soham Shah",
-      "Actors": "Ajay Devgn, Vivek Oberoi, John Abraham",
-      "Language": "Hindi",
-      "Country": "India"
     },
     {
       "title": "Wind Chill",
@@ -426,6 +409,23 @@
       "Actors": "Vinessa Shaw, Kevin Rahm, India Eisley",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Ludo",
+      "netflix_url": "https://www.netflix.com/title/80107037",
+      "year": "2015",
+      "imdb_rating": "2.8",
+      "imdb_id": "tt3724898",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzkzNGNhODctODdlNS00YWJjLWJlZDAtZjIyNzA0NzFjNmRkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Needing a secluded place for a late-night tryst, two couples stow away in a mall after hours, but are quickly ensnared in a gruesome and deadly game.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Fantasy, Horror, Thriller",
+      "Director": "Qaushiq Mukherjee, Nikon",
+      "Writer": "Nikon Basu, Qaushiq Mukherjee, Waleed Nesyif",
+      "Actors": "Kamalika Banerjee, Joyraj Bhattacharya, Soumendra Bhattacharya",
+      "Language": "Bengali",
+      "Country": "India"
     },
     {
       "title": "Veronica",
@@ -806,25 +806,24 @@
       "netflix_url": "https://www.netflix.com/title/80239565",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Animas",
       "netflix_url": "https://www.netflix.com/title/80239629",
       "year": "2018",
-      "imdb_rating": "4.9",
-      "imdb_id": "tt3954646",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjRlYTIxZGItNDAwMi00MzQ1LTkxMTMtYzY0YTRhYzZhMzM1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "This time, horror comes fron the other side.",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt5961142",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ4OWFlYjItYjVkMS00ZWQ2LTk3MTItNzQ0Mjc4YmJiZDdkXkEyXkFqcGdeQXVyNDM1MDAxNzg@._V1_SX300.jpg",
+      "Plot": "Fredo is an actor, TV MC, writer and very famous bolero's singer. Once raining night when he goes back home .",
       "Type": "movie",
-      "RunTime": "83 min",
-      "Genre": "Horror, Thriller",
-      "Director": "Laura Alvea, José Ortuño",
-      "Writer": "Laura Alvea, José Ortuño",
-      "Actors": "Clare Durant, Iván Pellicer, Luis Bermejo",
+      "RunTime": "15 min",
+      "Genre": "Short",
+      "Director": "Daniel Ortiz Entrambasaguas",
+      "Writer": "Daniel Ortiz Entrambasaguas",
+      "Actors": "Tony Zenet, Paul Naschy, Pepe Salas",
       "Language": "Spanish",
-      "Country": "Spain, Belgium"
+      "Country": "Spain"
     },
     {
       "title": "There's Someone Inside Your House",
@@ -1014,23 +1013,6 @@
       "Country": "Indonesia"
     },
     {
-      "title": "Eerie",
-      "netflix_url": "https://www.netflix.com/title/81028404",
-      "year": "2019",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt10962002",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZTVlYzEyZTItZTdmMi00OTZmLTliMTMtMmRlNmVjODkxZmZlXkEyXkFqcGdeQXVyMjYyMjIyNzM@._V1_SX300.jpg",
-      "Plot": "N/A",
-      "Type": "movie",
-      "RunTime": "1 min",
-      "Genre": "Short, Fantasy",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Iuliana Erofei",
-      "Language": "N/A",
-      "Country": "Romania"
-    },
-    {
       "title": "Bulbbul",
       "netflix_url": "https://www.netflix.com/title/81029150",
       "year": "2020",
@@ -1167,23 +1149,6 @@
       "Country": "Malaysia"
     },
     {
-      "title": "Suzzanna: Buried Alive",
-      "netflix_url": "https://www.netflix.com/title/81062674",
-      "year": "2018",
-      "imdb_rating": "5.5",
-      "imdb_id": "tt9044128",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY5OTMxN2YtY2E4OS00NjZmLTkxNmYtY2MwMWQwZWRlZWQ3XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "After a pregnant woman is murdered, her spirit seeks revenge against her increasingly terrified killers, who are determined to finish her off for good.",
-      "Type": "movie",
-      "RunTime": "125 min",
-      "Genre": "Drama, Fantasy, Horror",
-      "Director": "Rocky Soraya, Anggy Umbara",
-      "Writer": "Ferry Lesmana, Bene Dion Rajagukguk, Sunil Soraya",
-      "Actors": "Luna Maya, Herjunot Ali, T. Rifnu Wikana",
-      "Language": "Indonesian",
-      "Country": "Indonesia"
-    },
-    {
       "title": "Till Death",
       "netflix_url": "https://www.netflix.com/title/81075469",
       "year": "2021",
@@ -1216,23 +1181,6 @@
       "Actors": "Rodolfo Sancho, Ana Fernández, Ramón Barea",
       "Language": "Spanish",
       "Country": "Spain"
-    },
-    {
-      "title": "Ghost Stories",
-      "netflix_url": "https://www.netflix.com/title/81088083",
-      "year": "2020",
-      "imdb_rating": "4.4",
-      "imdb_id": "tt10230404",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTk1ZjFiM2EtZGQ1My00MjRjLWEwZDYtMTI1YTlhMmIzZjk0XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The winning team of \"Lust Stories\" reunites to tell some spine-chilling tales. \"Ghost Stories\" is a 2020 Indian anthology horror film consisting of four short film segments.",
-      "Type": "movie",
-      "RunTime": "144 min",
-      "Genre": "Horror, Thriller",
-      "Director": "Zoya Akhtar, Dibakar Banerjee, Karan Johar",
-      "Writer": "Zoya Akhtar, Dibakar Banerjee, Niranjan Iyengar",
-      "Actors": "Janhvi Kapoor, Surekha Sikri, Amruta Subhash",
-      "Language": "Hindi",
-      "Country": "India"
     },
     {
       "title": "The 3rd Eye 2",
@@ -1286,28 +1234,11 @@
       "Country": "Poland"
     },
     {
-      "title": "Game Over (Tamil Version)",
-      "netflix_url": "https://www.netflix.com/title/81151877",
-      "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
-      "title": "Game Over (Telugu Version)",
-      "netflix_url": "https://www.netflix.com/title/81151878",
-      "year": "2019",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Game Over (Hindi Version)",
       "netflix_url": "https://www.netflix.com/title/81151880",
       "year": "2019",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Aaviri",
@@ -1739,24 +1670,21 @@
       "netflix_url": "https://www.netflix.com/title/81325689",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Fear Street Part 2: 1978",
       "netflix_url": "https://www.netflix.com/title/81334749",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Fear Street Part 3: 1666",
       "netflix_url": "https://www.netflix.com/title/81334750",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Viking Wolf",
@@ -1774,23 +1702,6 @@
       "Actors": "Elli Rhiannon Müller Osborne, Liv Mjönes, Ívar Örn Sverrisson",
       "Language": "Norwegian, Swedish",
       "Country": "Norway"
-    },
-    {
-      "title": "Hospital",
-      "netflix_url": "https://www.netflix.com/title/81341307",
-      "year": "2020",
-      "imdb_rating": "3.3",
-      "imdb_id": "tt14288764",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ0YzVjNDEtYzRmZS00MDI3LTljNDUtODc1ZDgzZDVjZGRmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A grieving wife and the sister of of a nurse paid two Tao priests to commune with the spirits of their deceased loved ones in a famous haunted hospital.",
-      "Type": "movie",
-      "RunTime": "89 min",
-      "Genre": "Horror",
-      "Director": "Chia-Lin Chu",
-      "Writer": "Chia-Lin Chu",
-      "Actors": "Li-Chi Hsu, Lei Hung, Samuel Ku",
-      "Language": "Chinese",
-      "Country": "Taiwan"
     },
     {
       "title": "The Trip",
@@ -2116,31 +2027,6 @@
       "Country": "United Kingdom"
     },
     {
-      "title": "Don't Kill Me",
-      "netflix_url": "https://www.netflix.com/title/81490650",
-      "year": "2022",
-      "imdb_rating": "4.3",
-      "imdb_id": "tt11116374",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMGEzZGJlYzItZmE3NS00YTY1LWIzNGUtNzNjNmE0NDEyYjliXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "19-year-old Mirta dies of drug overdose with her lover Robin. She then resuscitates alone and finds out that, in order to keep living, she must eat living humans.",
-      "Type": "movie",
-      "RunTime": "90 min",
-      "Genre": "Fantasy, Horror, Romance",
-      "Director": "Andrea De Sica",
-      "Writer": "Chiara Palazzolo, Gianni Romoli, Andrea De Sica",
-      "Actors": "Alice Pagani, Rocco Fasano, Silvia Calderoni",
-      "Language": "Italian",
-      "Country": "Italy"
-    },
-    {
-      "title": "Boomika (Hindi)",
-      "netflix_url": "https://www.netflix.com/title/81496130",
-      "year": "2021",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "The Girl Who Got Away",
       "netflix_url": "https://www.netflix.com/title/81500351",
       "year": "2021",
@@ -2196,8 +2082,7 @@
       "netflix_url": "https://www.netflix.com/title/81510752",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Fear Street: Prom Queen",
@@ -2255,8 +2140,7 @@
       "netflix_url": "https://www.netflix.com/title/81580574",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Mononoke The Movie: Chapter II - The Ashes of Rage",
@@ -2416,8 +2300,7 @@
       "netflix_url": "https://www.netflix.com/title/81632774",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Chandramukhi 2",
@@ -2434,23 +2317,6 @@
       "Writer": "P. Vasu",
       "Actors": "Raghava Lawrence, Kangana Ranaut, Aathmika",
       "Language": "Tamil",
-      "Country": "India"
-    },
-    {
-      "title": "Kumari",
-      "netflix_url": "https://www.netflix.com/title/81644920",
-      "year": "2022",
-      "imdb_rating": "6.4",
-      "imdb_id": "tt13531020",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQxNDdhYTUtZDJhNC00NjgyLTk1NDAtZDFhZTZmODdiN2QyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg",
-      "Plot": "The world of Kumari, who is married off far away in Kanhirangat, a cursed land beyond Illymala, in the west. A naive Kumari arrives in the cursed land, where people are ready to sacrifice their lives to preserve tradition",
-      "Type": "movie",
-      "RunTime": "137 min",
-      "Genre": "Horror, Thriller",
-      "Director": "Nirmal Sahadev",
-      "Writer": "Fazal Hameed, Nirmal Sahadev",
-      "Actors": "Prithviraj Sukumaran, Aishwarya Lekshmi, Shine Tom Chacko",
-      "Language": "Malayalam",
       "Country": "India"
     },
     {
@@ -2471,12 +2337,28 @@
       "Country": "United States"
     },
     {
+      "title": "The Womb",
+      "netflix_url": "https://www.netflix.com/title/81655100",
+      "year": "2022",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt14954636",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmViY2E5ZmUtZDllMi00YTYxLThiMDgtZGU0ZjAxM2VmYWZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Grappling with an unplanned pregnancy, a woman turns in desperation to a mysterious older couple who promise to take care of her baby.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Drama, Horror, Mystery",
+      "Director": "Fajar Nugros",
+      "Writer": "Deo Mahameru",
+      "Actors": "Naysila Mirdad, Dimas Anggara, Lydia Kandou",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Ile Owo",
       "netflix_url": "https://www.netflix.com/title/81663120",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Run Rabbit Run",
@@ -2499,18 +2381,18 @@
       "title": "The Blackening",
       "netflix_url": "https://www.netflix.com/title/81672086",
       "year": "2023",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt31379549",
-      "Poster": "N/A",
-      "Plot": "N/A",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt11703244",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDI3NTRjNmItYjBkMS00OGRhLTk2MTEtNWM4OTA1MGU5NWExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Seven friends go away for the weekend and end up trapped in a cabin with a killer who has a vendetta. Will their street smarts and knowledge of horror movies help them stay alive? Probably not.",
       "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "N/A",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "N/A",
-      "Language": "N/A",
-      "Country": "N/A"
+      "RunTime": "97 min",
+      "Genre": "Comedy, Horror, Mystery",
+      "Director": "Tim Story",
+      "Writer": "Tracy Oliver, Dewayne Perkins",
+      "Actors": "Grace Byers, Jermaine Fowler, Melvin Gregg",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Qorin",
@@ -2605,23 +2487,6 @@
       "Country": "Indonesia"
     },
     {
-      "title": "Asvins",
-      "netflix_url": "https://www.netflix.com/title/81680624",
-      "year": "2023",
-      "imdb_rating": "4.7",
-      "imdb_id": "tt27080643",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDk3NzU5ODMtZDhhMi00OWMwLWFkMzQtNzFmMjIwMGIxNzMwXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_SX300.jpg",
-      "Plot": "A group of Youtubers who accidentally unleash a 1500-year-old evil that crosses over from the realm of darkness to the human world.",
-      "Type": "movie",
-      "RunTime": "111 min",
-      "Genre": "Horror, Thriller",
-      "Director": "Tarun Teja Mallareddy",
-      "Writer": "Tarun Teja Mallareddy, Yogesh Sudhakara Mallineni",
-      "Actors": "Vasanth Ravi, Muralidaran, Vimala Raman",
-      "Language": "Tamil, Telugu, Kannada, Malayalam",
-      "Country": "India"
-    },
-    {
       "title": "Bhool Bhulaiyaa 3",
       "netflix_url": "https://www.netflix.com/title/81686134",
       "year": "2024",
@@ -2705,14 +2570,6 @@
       "Actors": "Faradina Mufti, Reza Rahadian, Widuri Puteri",
       "Language": "Indonesian",
       "Country": "Indonesia"
-    },
-    {
-      "title": "Asvins (Telugu)",
-      "netflix_url": "https://www.netflix.com/title/81711449",
-      "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
     },
     {
       "title": "Bone Lake",
@@ -2804,16 +2661,14 @@
       "netflix_url": "https://www.netflix.com/title/81730153",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Origin: Madam Koi-Koi - Chapter 2: The Spirit of Vengeance",
       "netflix_url": "https://www.netflix.com/title/81730154",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Trinil",
@@ -2867,6 +2722,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Jurnal Risa by Risa Saraswati",
+      "netflix_url": "https://www.netflix.com/title/81738677",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28448409",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjdhMTFhNWQtOGMzOC00YWRkLTgzZTAtNGVmODIyNWFmY2YzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Risa is known to have supernatural abilities that enable her to communicate with supernatural beings. This film will present horror events packaged like Paranormal Activity.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Documentary, Horror, Thriller",
+      "Director": "Rizal Mantovani",
+      "Writer": "Lele Laila",
+      "Actors": "Risa Saraswati, Prinsa Mandagie, Ranggana Purwana",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Outside",
       "netflix_url": "https://www.netflix.com/title/81739319",
       "year": "2024",
@@ -2899,6 +2771,23 @@
       "Actors": "Johnny Anfone, Nuttanicha Dungwattanawanich, Mark Prin Suparat",
       "Language": "Thai",
       "Country": "Thailand"
+    },
+    {
+      "title": "Mantra Surugana",
+      "netflix_url": "https://www.netflix.com/title/81740314",
+      "year": "2023",
+      "imdb_rating": "3.8",
+      "imdb_id": "tt28325746",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDA0Y2I0MWEtMTRkZi00YzRiLWEzOGYtYjc3OWQyYWVlMGJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Revolves around a new female college student in a dormitory filled with mysterious occurrences due to the awakening of a demon through an incantation and curse that still holds a connection to her own past.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Horror",
+      "Director": "Dyan Sunu Prastowo",
+      "Writer": "Budhita Arini, Ervina Isleyen, Dyan Sunu Prastowo",
+      "Actors": "Sitha Marino, Cindy Nirmala, Rania Putri Sari",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "The Haunted Hotel",
@@ -3122,40 +3011,6 @@
       "Country": "Thailand"
     },
     {
-      "title": "The Blue Drum",
-      "netflix_url": "https://www.netflix.com/title/81923256",
-      "year": "2022",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt15421298",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZDk2ODRkMmUtYWVlYy00OTBiLTg0ZDAtMTkyY2U1MTZlNmRhXkEyXkFqcGdeQXVyNDIzMTk5OTA@._V1_SX300.jpg",
-      "Plot": "A woman mourning her father's passing is tormented by memories of a mother she never knew. A presence reveals secrets hidden within her family home.",
-      "Type": "movie",
-      "RunTime": "17 min",
-      "Genre": "Short, Horror",
-      "Director": "Angelita Mendoza",
-      "Writer": "Angelita Mendoza",
-      "Actors": "Crystal Hernandez, Jonathan Medina, Judith Scarpone",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
-      "title": "Mama Retreat",
-      "netflix_url": "https://www.netflix.com/title/81923259",
-      "year": "2021",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt15390994",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYjA2NzE2NDEtOTBmMi00Y2E5LTkyYjktZTdhN2U2ODBmZTRkXkEyXkFqcGdeQXVyNjE3NDY5NDU@._V1_SX300.jpg",
-      "Plot": "A weary mother-to-be attends an all-inclusive glamping retreat in the mountains, only to have her greatest fears about motherhood realized.",
-      "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "Short, Horror",
-      "Director": "Eileen Álvarez",
-      "Writer": "Eileen Álvarez",
-      "Actors": "Madi Bready, Laura Campbell, Ally Davis",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "Janji Darah",
       "netflix_url": "https://www.netflix.com/title/81927385",
       "year": "2024",
@@ -3169,6 +3024,23 @@
       "Director": "Sentot Sahid, Andri Sofyansyah",
       "Writer": "Jujur Prananto",
       "Actors": "Natasha Wilona, Emir Mahira, Fergie Brittany",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
+    },
+    {
+      "title": "Kromoleo",
+      "netflix_url": "https://www.netflix.com/title/81927722",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt29516834",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzFmZDQwOGUtZjc0ZC00MTMzLWIwZjYtZTBkOWE0NmNhZTBmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Zia returns from the city to attend her mother's funeral, even though her grandfather, Danang, forbids her. He wants to know the mystery of his father's disappearance and uncover the dark history of his family.",
+      "Type": "movie",
+      "RunTime": "80 min",
+      "Genre": "Horror",
+      "Director": "Anggy Umbara",
+      "Writer": "Dirmawan Hatta, Cornelio Sunny",
+      "Actors": "Safira Ratu Sofya, Tio Pakusadewo, Abun Sungkar",
       "Language": "Indonesian",
       "Country": "Indonesia"
     },
@@ -3245,8 +3117,7 @@
       "netflix_url": "https://www.netflix.com/title/81971170",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Sumala",
@@ -3287,8 +3158,7 @@
       "netflix_url": "https://www.netflix.com/title/81990562",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Untold",
@@ -3329,8 +3199,7 @@
       "netflix_url": "https://www.netflix.com/title/82018121",
       "year": "2024",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Heart Eyes",
@@ -3353,16 +3222,16 @@
       "title": "Scarecrow",
       "netflix_url": "https://www.netflix.com/title/82020763",
       "year": "2024",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt34080977",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BODJkYTQ3MzEtODcyZi00MzYwLTllMTUtNGViODUzMGE2MzY2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "While decorating for Halloween, a couple is haunted by a scarecrow.",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0070643",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q4ODA2MGUtMDVmNi00YzQzLWIzY2ItOTQ1NzEyMDZkNTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An ex-con drifter with a penchant for brawling is amused by a homeless ex-sailor, so they partner up as they head east together.",
       "Type": "movie",
-      "RunTime": "4 min",
-      "Genre": "Short, Horror",
-      "Director": "Alex Magaña",
-      "Writer": "Alex Magaña",
-      "Actors": "Bella Hamm, Calvin Naraghi, Steffon Palmer",
+      "RunTime": "112 min",
+      "Genre": "Drama",
+      "Director": "Jerry Schatzberg",
+      "Writer": "Garry Michael White",
+      "Actors": "Gene Hackman, Al Pacino, Dorothy Tristan",
       "Language": "English",
       "Country": "United States"
     },

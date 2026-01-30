@@ -44,7 +44,11 @@ parts:
           - file: spy_action_adventure
           - file: westerns 
 
+      - file: arabic_movies
       - file: art_house 
+      - file: bollywood 
+      - file: brazilian_movies
+      - file: canadian_movies
       - file: classics 
       - file: comedy 
         sections:
@@ -105,6 +109,7 @@ parts:
           - file: scifi_alien
           - file: scifi_fantasy 
 
+      - file: short-ass_movies
       - file: spanish_movies_and_TV_shows 
       - file: sports 
       - file: standup_comedy 
@@ -124,8 +129,10 @@ parts:
       - file: TV_documentaries
       - file: Korean_TV_Shows
       - file: reality_TV 
+      - file: Teen_TV_Shows
       - file: TV_comedies
       - file: TV_dramas 
       - file: TV_horror
       - file: TV_mysteries
+      - file: TV_scifi
       - file: TV_shows  

@@ -41,8 +41,7 @@
       "netflix_url": "https://www.netflix.com/title/80019503",
       "year": "2014",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "F is for Family",
@@ -253,8 +252,7 @@
       "netflix_url": "https://www.netflix.com/title/80234491",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Trailer Park Boys: The Animated Series",
@@ -345,16 +343,16 @@
       "title": "Inside Job",
       "netflix_url": "https://www.netflix.com/title/80995819",
       "year": "2022",
-      "imdb_rating": "8.2",
-      "imdb_id": "tt1645089",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MjkyODA2Nl5BMl5BanBnXkFtZTcwNzQxMTU4Mw@@._V1_SX300.jpg",
-      "Plot": "Takes a closer look at what brought about the 2008 financial meltdown.",
-      "Type": "movie",
-      "RunTime": "109 min",
-      "Genre": "Documentary, Crime",
-      "Director": "Charles Ferguson",
-      "Writer": "Charles Ferguson, Chad Beck, Adam Bolt",
-      "Actors": "Matt Damon, Gylfi Zoega, Andri Snær Magnason",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt10231312",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjJkMjhhNzctNjMxOS00M2Y1LWFiMmMtZjQ5ZjllM2UxYjAzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "For employees of the Deep State, conspiracies aren't just theories, they're fact. And keeping them a secret is a full-time job.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "Shion Takeuchi, Alex Hirsch",
+      "Actors": "Lizzy Caplan, Christian Slater, Clark Duke",
       "Language": "English",
       "Country": "United States"
     },
@@ -397,8 +395,7 @@
       "netflix_url": "https://www.netflix.com/title/81008536",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Liberator",
@@ -955,18 +952,18 @@
       "title": "Arcane",
       "netflix_url": "https://www.netflix.com/title/81435684",
       "year": "2024",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt33560027",
-      "Poster": "N/A",
-      "Plot": "N/A",
-      "Type": "movie",
+      "imdb_rating": "9.0",
+      "imdb_id": "tt11126994",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjA2NzhlMDItNWRmZC00MzRjLWE3ZjAtZjBlZDAwOWY2ODdjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+      "Type": "series",
       "RunTime": "N/A",
-      "Genre": "Short, Action",
+      "Genre": "Animation, Action, Adventure",
       "Director": "N/A",
       "Writer": "N/A",
-      "Actors": "Maisa van Zwieten, Charlotte Tol, Laurent Arrabito",
-      "Language": "English",
-      "Country": "Netherlands"
+      "Actors": "Kevin Alejandro, Hailee Steinfeld, Ella Purnell",
+      "Language": "English, French",
+      "Country": "United States, France"
     },
     {
       "title": "Castlevania: Nocturne",
@@ -1381,8 +1378,7 @@
       "netflix_url": "https://www.netflix.com/title/82063102",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Mahavatar Narsimha",

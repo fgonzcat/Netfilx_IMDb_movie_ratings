@@ -309,14 +309,6 @@
       "Country": "United States"
     },
     {
-      "title": "Trailer Park Boys: Say Goodnight to the Bad Guys",
-      "netflix_url": "https://www.netflix.com/title/70304189",
-      "year": "2008",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "The Perfect Dictatorship",
       "netflix_url": "https://www.netflix.com/title/80032640",
       "year": "2014",
@@ -593,8 +585,7 @@
       "netflix_url": "https://www.netflix.com/title/80174434",
       "year": "2017",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Prevenge",
@@ -737,8 +728,7 @@
       "netflix_url": "https://www.netflix.com/title/80992995",
       "year": "2018",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Laundromat",
@@ -898,8 +888,7 @@
       "netflix_url": "https://www.netflix.com/title/81158472",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Tammy's Always Dying",
@@ -1382,8 +1371,7 @@
       "netflix_url": "https://www.netflix.com/title/81418159",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Quarantine Tales",
@@ -1509,8 +1497,7 @@
       "netflix_url": "https://www.netflix.com/title/81510752",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "An Action Hero",
@@ -1738,8 +1725,7 @@
       "netflix_url": "https://www.netflix.com/title/81664300",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Blackening",

@@ -3,14 +3,6 @@
   "genre_url": "https://www.netflix.com/browse/genre/81050",
   "movies": [
     {
-      "title": "30 for 30: June 17th, 1994",
-      "netflix_url": "https://www.netflix.com/title/70144640",
-      "year": "2010",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "Making a Murderer",
       "netflix_url": "https://www.netflix.com/title/80000770",
       "year": "2018",
@@ -65,26 +57,25 @@
       "title": "Dirty Money",
       "netflix_url": "https://www.netflix.com/title/80118100",
       "year": "2020",
-      "imdb_rating": "N/A",
-      "imdb_id": "tt13648444",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNmJmY2IwOWYtN2VhNy00NzEzLTk5ZWMtZWU3ZjFkMGMyMmYxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In 2020, drug runner Robbie Crux will be sent out on his most important job by his boss Nicky Rings to rob one of the biggest crime hot spots. Robbie's job - acquire the DIRTY MONEY.",
-      "Type": "movie",
-      "RunTime": "N/A",
-      "Genre": "Short, Crime",
-      "Director": "Aaron Bahamondes",
-      "Writer": "Aaron Bahamondes",
-      "Actors": "Leonardo Bahamondes, Cooper Brites, Andrew Cugliari",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0960136",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDkwNWM5NzYtNDU4Yi00MDcwLTkwMDktMWM1ODZhYWMzYWQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A lawyer is forced to take care of one of New York City's wealthiest families.",
+      "Type": "series",
+      "RunTime": "16S min",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "Craig Wright",
+      "Actors": "Peter Krause, Donald Sutherland, William Baldwin",
       "Language": "English",
-      "Country": "Australia"
+      "Country": "United States"
     },
     {
       "title": "30 for 30: O.J.: Made in America",
       "netflix_url": "https://www.netflix.com/title/80118958",
       "year": "2016",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Keepers",
@@ -226,18 +217,18 @@
       "title": "Dope",
       "netflix_url": "https://www.netflix.com/title/80178726",
       "year": "2019",
-      "imdb_rating": "6.5",
-      "imdb_id": "tt11215112",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNzI3Yjc3YjEtYzAyZC00Mjk4LWI4NjMtODlmY2Y0YmUzZDNiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Ride with the real players on both sides of the law of the dangerous business of narcotics in different locations around the world.",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt7782022",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWI5NjEzYzAtM2NmMC00ZTI5LWEwNWUtMzdhMjVmZmNkMThkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ride along for an uncompromising look at the lives of those who sell, use and wage a war on drugs in the U.S. and Mexico.",
       "Type": "series",
-      "RunTime": "39 min",
+      "RunTime": "1 min",
       "Genre": "Documentary, Crime",
       "Director": "N/A",
       "Writer": "N/A",
-      "Actors": "Michael Beach, José Luis Fernandez, Sergio Gómez",
+      "Actors": "Ronan Summers, Michael Beach",
       "Language": "English",
-      "Country": "United States"
+      "Country": "United Kingdom"
     },
     {
       "title": "Long Shot",
@@ -255,23 +246,6 @@
       "Actors": "Juan Catalan, Alma Oseguera, Todd Melnik",
       "Language": "English",
       "Country": "United States"
-    },
-    {
-      "title": "Inside the Criminal Mind",
-      "netflix_url": "https://www.netflix.com/title/80185065",
-      "year": "2018",
-      "imdb_rating": "5.4",
-      "imdb_id": "tt6775794",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZjgxYzk0MmYtNmU5MS00NzEzLWE5MTAtNDA3ZTBiOWJjOWNmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Inside the Criminal Mind- a gripping exploration exposing the psychological machinations and immoral behavior that define the most nefarious criminal types. Every episode of the series delves into the ardent backgrounds of infamou...",
-      "Type": "series",
-      "RunTime": "52 min",
-      "Genre": "Documentary, Crime",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Kostas A. Katsavdakis, Antonio Pedro, Eva Ruzickova",
-      "Language": "English",
-      "Country": "United States, Czech Republic"
     },
     {
       "title": "The Innocent Man",
@@ -379,18 +353,18 @@
       "title": "I AM A KILLER",
       "netflix_url": "https://www.netflix.com/title/80202283",
       "year": "2025",
-      "imdb_rating": "6.2",
-      "imdb_id": "tt4303340",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMDBhMzEyNTYtZjk5Yy00ZTljLWFkNDEtM2ZiYjllN2Q1MTRiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In a small Midwestern town, a troubled teen with homicidal tendencies must hunt down and destroy a supernatural killer while keeping his own inner demons at bay.",
-      "Type": "movie",
-      "RunTime": "104 min",
-      "Genre": "Crime, Drama, Horror",
-      "Director": "Billy O'Brien",
-      "Writer": "Billy O'Brien, Christopher Hyde, Dan Wells",
-      "Actors": "Max Records, Christopher Lloyd, Laura Fraser",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt8300324",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2ViMTdkOTUtYTk4Zi00MWFiLWFhNzktNWIzODI4MWNmNTZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows incarcerated killers, who tell the story of how they ended up there.",
+      "Type": "series",
+      "RunTime": "3 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Swaylee Loughnane, Reece Alexander-Putinas, David Galea",
       "Language": "English",
-      "Country": "Ireland, United States, United Kingdom"
+      "Country": "United Kingdom"
     },
     {
       "title": "Trial 4",
@@ -669,8 +643,7 @@
       "netflix_url": "https://www.netflix.com/title/80239100",
       "year": "2022",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Exhibit A",
@@ -722,23 +695,6 @@
       "Actors": "Stefano Accorsi, Guido Caprino, Miriam Leone",
       "Language": "Italian",
       "Country": "Italy, Germany"
-    },
-    {
-      "title": "Examination of Conscience",
-      "netflix_url": "https://www.netflix.com/title/80991879",
-      "year": "2019",
-      "imdb_rating": "7.7",
-      "imdb_id": "tt9584024",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTk1M2ZhMjctMTNlNC00ZjMyLTljZWYtMmI1MTZmNTIwYmQ1XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Through interviews with victims, members of the clergy, journalists and experts, this series looks at the accusations of child abuse against catholic institutions in Spain.",
-      "Type": "series",
-      "RunTime": "154 min",
-      "Genre": "Documentary, Crime, History",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "N/A",
-      "Language": "Spanish",
-      "Country": "Spain"
     },
     {
       "title": "Cocaine Cowboys: The Kings of Miami",
@@ -894,23 +850,6 @@
       "Country": "United States"
     },
     {
-      "title": "Carmel: Who Killed Maria Marta?",
-      "netflix_url": "https://www.netflix.com/title/81017110",
-      "year": "2020",
-      "imdb_rating": "7.0",
-      "imdb_id": "tt13244092",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzViY2FiMzUtZmRiNi00MjRkLTg3NDctZThjODg5ZTExNjJjXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Documentary series on the circumstances surrounding the death of María Marta García Belsunce, one of the most controversial criminal cases in Argentina.",
-      "Type": "series",
-      "RunTime": "229 min",
-      "Genre": "Documentary, Crime, Mystery",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Pablo Duggan, Rolando Barbano, Carlos Carrascosa",
-      "Language": "Spanish",
-      "Country": "Argentina"
-    },
-    {
       "title": "A Perfect Crime",
       "netflix_url": "https://www.netflix.com/title/81022994",
       "year": "2020",
@@ -1017,8 +956,7 @@
       "netflix_url": "https://www.netflix.com/title/81032570",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Athlete A",
@@ -1042,8 +980,7 @@
       "netflix_url": "https://www.netflix.com/title/81040563",
       "year": "2021",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Elize Matsunaga: Once Upon a Crime",
@@ -1199,6 +1136,23 @@
       "Country": "South Korea, Singapore"
     },
     {
+      "title": "Lords of Scam",
+      "netflix_url": "https://www.netflix.com/title/81092697",
+      "year": "2021",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt15711402",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWExODA0MTMtNjg5OS00YzEyLTk1ZjUtMGEyNTllNzVlNTJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This documentary traces the rise and crash of scammers who conned the EU carbon quota system and pocketed millions before turning on one another.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Guillaume Nicloux",
+      "Writer": "Olivier Bouchara",
+      "Actors": "N/A",
+      "Language": "French",
+      "Country": "France"
+    },
+    {
       "title": "Sophie: A Murder in West Cork",
       "netflix_url": "https://www.netflix.com/title/81094755",
       "year": "2021",
@@ -1321,16 +1275,16 @@
       "title": "Tiger King",
       "netflix_url": "https://www.netflix.com/title/81115994",
       "year": "2021",
-      "imdb_rating": "6.2",
-      "imdb_id": "tt16307970",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzU2ZTA4MzktMmEzNi00MGQxLWIzZjQtMjBmZWQwNWZkMzBhXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "It unpacks the truth about Doc Antle, private zoo operator. Witnesses come forward to share their stories of abuse and intimidation that set him at the top of the food chain.",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt11823076",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzVjMzM0MDMtMjFlZS00NTE1LTg1NDAtNDkwNzFiNzk2MWFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A rivalry between big cat eccentrics takes a dark turn when Joe Exotic, a controversial animal park boss, is caught in a murder-for-hire plot.",
       "Type": "series",
-      "RunTime": "1 min",
+      "RunTime": "358 min",
       "Genre": "Documentary, Biography, Crime",
       "Director": "N/A",
       "Writer": "N/A",
-      "Actors": "Bhagavan Antle, Radha Hirsch, Betsy Rogers",
+      "Actors": "Joe Exotic, Carole Baskin, John Reinke",
       "Language": "English",
       "Country": "United States"
     },
@@ -1675,6 +1629,23 @@
       "Country": "United States"
     },
     {
+      "title": "In Broad Daylight: The Narvarte Case",
+      "netflix_url": "https://www.netflix.com/title/81273461",
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt23709118",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDkwYTA0MDctZDE0NC00ZDhmLWI1NTctOWRlY2M4YjY0NzlkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This documentary unveils evidence of corruption in the investigation into the murder of five people in the Narvarte neighborhood of Mexico City in 2015.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Alberto Arnaut Estrada",
+      "Writer": "Alberto Arnaut Estrada, Pedro G. García, Salma Abo Harp",
+      "Actors": "Indira Alfaro, Samantha Olivares Canales, Ignacio Córdoba",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
       "title": "Victim/Suspect",
       "netflix_url": "https://www.netflix.com/title/81288561",
       "year": "2023",
@@ -1777,23 +1748,6 @@
       "Country": "United States"
     },
     {
-      "title": "Where is Marta?",
-      "netflix_url": "https://www.netflix.com/title/81306172",
-      "year": "2021",
-      "imdb_rating": "6.8",
-      "imdb_id": "tt15796898",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2NjA0MGUtODMxMy00N2Y0LTkzYTktYmIzZmVkOGI4MzllXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Teenager Marta del Castillo's disappearance made headlines in Spain. Family, friends, police and more weigh in on a case that is still unresolved.",
-      "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Documentary, Crime, Mystery",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Honey Lauren, Frank Gerrish",
-      "Language": "Spanish",
-      "Country": "Spain"
-    },
-    {
       "title": "Mr. Good: Cop or Crook?",
       "netflix_url": "https://www.netflix.com/title/81311768",
       "year": "2022",
@@ -1879,23 +1833,6 @@
       "Country": "United States, United Kingdom"
     },
     {
-      "title": "D.B. Cooper: Where Are You?!",
-      "netflix_url": "https://www.netflix.com/title/81349547",
-      "year": "2022",
-      "imdb_rating": "5.4",
-      "imdb_id": "tt21063148",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5YjVmMmYtY2FkOC00MjY4LThlODItOGRhZmZmOTMwZmZmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "It follows the 50-year quest to find Cooper, the man who hijacked a Northwest Airlines passenger jet in November 1971 and escaped with $200,000.",
-      "Type": "series",
-      "RunTime": "1 min",
-      "Genre": "Documentary, Crime, History",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Eric Ulis, Tom Colbert, Jonna Mendez",
-      "Language": "English",
-      "Country": "United States"
-    },
-    {
       "title": "My Daughter’s Killer",
       "netflix_url": "https://www.netflix.com/title/81353946",
       "year": "2022",
@@ -1930,23 +1867,6 @@
       "Country": "France"
     },
     {
-      "title": "The Great Robbery of Brazil's Central Bank",
-      "netflix_url": "https://www.netflix.com/title/81374470",
-      "year": "2022",
-      "imdb_rating": "6.4",
-      "imdb_id": "tt18274172",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjg1YzM2ZjYtMWRmNC00YTYyLWJmZmUtOWYyZjgyOGU4YmEzXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In 2005, thieves tunnel into a Fortaleza, Brazil, bank vault and steal over 160 million reais. This docuseries explores that spectacular, historical heist.",
-      "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Documentary, Crime",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "Mark Lewis",
-      "Language": "Portuguese",
-      "Country": "Brazil"
-    },
-    {
       "title": "Ghislaine Maxwell: Filthy Rich",
       "netflix_url": "https://www.netflix.com/title/81380539",
       "year": "2022",
@@ -1962,6 +1882,23 @@
       "Actors": "Ghislaine Maxwell, Jeffrey Epstein, Annie Farmer",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Mumbai Mafia: Police vs The Underworld",
+      "netflix_url": "https://www.netflix.com/title/81384842",
+      "year": "2022",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt24224996",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWQzM2U1MWItYjYwYy00NWE0LWJiODQtYzc4OGRkNTljYjQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1990s Mumbai, a crime boss and his network wield unchecked power over the city - until the rise of 'encounter cops' who brazenly kill their targets.",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Raaghav Dar, Francis Longhurst",
+      "Writer": "N/A",
+      "Actors": "Ravindra Angre, Puja Changoiwala, Gurmeet Kaur",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "The Most Hated Man on the Internet",
@@ -2100,14 +2037,6 @@
       "Country": "United States"
     },
     {
-      "title": "Running for my Truth: Alex Schwazer",
-      "netflix_url": "https://www.netflix.com/title/81428316",
-      "year": "2023",
-      "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
-    },
-    {
       "title": "The Hatchet Wielding Hitchhiker",
       "netflix_url": "https://www.netflix.com/title/81436777",
       "year": "2023",
@@ -2157,40 +2086,6 @@
       "Actors": "Louis Deleegher, Maxime Canat, Derek Simon Robin",
       "Language": "French",
       "Country": "N/A"
-    },
-    {
-      "title": "Gladbeck: The Hostage Crisis",
-      "netflix_url": "https://www.netflix.com/title/81446276",
-      "year": "2022",
-      "imdb_rating": "7.5",
-      "imdb_id": "tt20420316",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTY5NWVlZWMtMWVlYy00NTQyLWFlYWEtYTlkMmUwZTAxMzE2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "In August 1988, two armed bank robbers keep German and Dutch police at bay for 54 hours during a hostage-taking drama that ends badly.",
-      "Type": "movie",
-      "RunTime": "91 min",
-      "Genre": "Documentary, Crime",
-      "Director": "Volker Heise",
-      "Writer": "N/A",
-      "Actors": "Marion Löblich, Dieter Degowski, Hans-Jürgen Rösner",
-      "Language": "German",
-      "Country": "Germany"
-    },
-    {
-      "title": "The Motive",
-      "netflix_url": "https://www.netflix.com/title/81449754",
-      "year": "2021",
-      "imdb_rating": "6.5",
-      "imdb_id": "tt5451244",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzk4OGNkODItMGVmZC00YWUxLWJlYTktNWE4OTdiZTljZThmXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "A man obsessed with the idea of writing \"high literature\" starts to cause conflicts around him to write about it.",
-      "Type": "movie",
-      "RunTime": "112 min",
-      "Genre": "Comedy, Crime, Drama",
-      "Director": "Manuel Martín Cuenca",
-      "Writer": "Javier Cercas, Alejandro Hernández, Manuel Martín Cuenca",
-      "Actors": "Javier Gutiérrez, María León, Adelfa Calvo",
-      "Language": "Spanish, English",
-      "Country": "Spain, Mexico"
     },
     {
       "title": "I Am Vanessa Guillen",
@@ -2299,8 +2194,7 @@
       "netflix_url": "https://www.netflix.com/title/81481358",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Chaos: The Manson Murders",
@@ -2358,8 +2252,7 @@
       "netflix_url": "https://www.netflix.com/title/81495571",
       "year": "2023",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The King Who Never Was",
@@ -2872,23 +2765,6 @@
       "Country": "United Kingdom"
     },
     {
-      "title": "From Dreams to Tragedy: The Fire that Shook Brazilian Football",
-      "netflix_url": "https://www.netflix.com/title/81609462",
-      "year": "2024",
-      "imdb_rating": "7.0",
-      "imdb_id": "tt31491957",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTg3ZTRiODctNGE0ZS00MjZiLTliMjgtMThmMGU0YzJkMGYxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "Careers of young Ninho do Urubu fire survivors are followed as families continue seeking justice three years after the tragedy.",
-      "Type": "series",
-      "RunTime": "N/A",
-      "Genre": "Documentary, Sport",
-      "Director": "N/A",
-      "Writer": "Pedro Asbeg, Renato Fagundes",
-      "Actors": "N/A",
-      "Language": "Portuguese",
-      "Country": "Brazil"
-    },
-    {
       "title": "The Playing Card Killer",
       "netflix_url": "https://www.netflix.com/title/81610240",
       "year": "2023",
@@ -2989,23 +2865,6 @@
       "Actors": "N/A",
       "Language": "French",
       "Country": "France"
-    },
-    {
-      "title": "Illusions for Sale: The Rise and Fall of Generation Zoe",
-      "netflix_url": "https://www.netflix.com/title/81617277",
-      "year": "2024",
-      "imdb_rating": "6.2",
-      "imdb_id": "tt32201656",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZWI5NWEyMDAtM2FlOS00NTUwLWFkOWEtY2ZiYmYxNDJlYmMxXkEyXkFqcGc@._V1_SX300.jpg",
-      "Plot": "The genesis, growth, and fall of the most bizarre and ambitious financial platform in Latin America, which turns out to be, to a large extent, a faithful reflection of its eccentric creator: Leonardo Cositorto.",
-      "Type": "movie",
-      "RunTime": "107 min",
-      "Genre": "Documentary, Crime",
-      "Director": "Matías Gueilburt",
-      "Writer": "Nicolás Gueilburt",
-      "Actors": "Leonardo Cositorto, Maximiliano Batista, Juliana Companys",
-      "Language": "Spanish",
-      "Country": "Argentina"
     },
     {
       "title": "American Nightmare",
@@ -3207,8 +3066,7 @@
       "netflix_url": "https://www.netflix.com/title/81673047",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Rosa Peral's Tapes",
@@ -3232,8 +3090,7 @@
       "netflix_url": "https://www.netflix.com/title/81678043",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "This Is the Zodiac Speaking",
@@ -3291,8 +3148,7 @@
       "netflix_url": "https://www.netflix.com/title/81699731",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "American Manhunt: O.J. Simpson",
@@ -3350,8 +3206,7 @@
       "netflix_url": "https://www.netflix.com/title/81707030",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Cooking Up Murder: Uncovering the Story of César Román",
@@ -3528,8 +3383,7 @@
       "netflix_url": "https://www.netflix.com/title/81744530",
       "year": "2026",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Many Deaths of Nora Dalmasso",
@@ -3553,8 +3407,7 @@
       "netflix_url": "https://www.netflix.com/title/81753675",
       "year": "2020",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Cold Case: The Tylenol Murders",
@@ -3595,16 +3448,14 @@
       "netflix_url": "https://www.netflix.com/title/81763602",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Murder in Monaco",
       "netflix_url": "https://www.netflix.com/title/81767764",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "Into the Fire: The Lost Daughter",
@@ -3628,8 +3479,7 @@
       "netflix_url": "https://www.netflix.com/title/81776871",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Kings of Tupelo: A Southern Crime Saga",
@@ -3687,8 +3537,7 @@
       "netflix_url": "https://www.netflix.com/title/81925846",
       "year": "2025",
       "imdb_rating": null,
-      "imdb_id": null,
-      "SkipTitle": true
+      "imdb_id": null
     },
     {
       "title": "The Perfect Neighbor",
