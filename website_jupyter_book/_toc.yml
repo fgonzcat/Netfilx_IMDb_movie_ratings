@@ -91,6 +91,8 @@ parts:
 
       - file: LGBTQ
         sections:
+          - file: gay_lesbian_comedies
+          - file: gay_lesbian_documentaries
           - file: LGBTQ_dramas
           - file: LGBTQ_Romantic
 

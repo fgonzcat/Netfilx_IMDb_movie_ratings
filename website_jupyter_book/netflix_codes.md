@@ -368,3 +368,146 @@ An even more comprehensive list was provided by the user [x43romp](https://gist.
 | Short-Ass Movie  | https://www.netflix.com/browse/genre/81603903 |
 | 90-Minute Movies  | https://www.netflix.com/browse/genre/81466194 |
 | Two-Hour Movies  | https://www.netflix.com/browse/genre/81396426 |
+| Suspenseful Movies | https://www.netflix.com/browse/genre/448 |
+| Brazilian Movies | https://www.netflix.com/browse/genre/798 |
+| Movies Based on a True Story | https://www.netflix.com/browse/genre/920 |
+| Psychological Movies | https://www.netflix.com/browse/genre/1411 |
+| Movies starring Mark Wahlberg | https://www.netflix.com/browse/genre/1459 |
+| Movies starring Tom Cruise | https://www.netflix.com/browse/genre/1667 |
+| Cerebral Movies | https://www.netflix.com/browse/genre/1813 |
+| Movies starring Jennifer Lopez | https://www.netflix.com/browse/genre/1890 |
+| Steamy Mystery Movies | https://www.netflix.com/browse/genre/2023 |
+| Teen Movies | https://www.netflix.com/browse/genre/2340 |
+| Goofy Movies | https://www.netflix.com/browse/genre/2351 |
+| Movies starring Julia Roberts | https://www.netflix.com/browse/genre/2471 |
+| Spy Movies | https://www.netflix.com/browse/genre/2477 |
+| Witty Movies | https://www.netflix.com/browse/genre/2943 |
+| Imaginative Movies | https://www.netflix.com/browse/genre/2979 |
+| Gritty Movies | https://www.netflix.com/browse/genre/3223 |
+| Watch War Movies | https://www.netflix.com/browse/genre/3373 |
+| Movies starring Brad Pitt | https://www.netflix.com/browse/genre/3891 |
+| TV Sitcoms | https://www.netflix.com/browse/genre/3903 |
+| Critically Acclaimed Films | https://www.netflix.com/browse/genre/3979 |
+| Watch Emotional Movies | https://www.netflix.com/browse/genre/4136 |
+| Quirky Movies | https://www.netflix.com/browse/genre/4444 |
+| Understated Movies | https://www.netflix.com/browse/genre/5066 |
+| Exciting Movies | https://www.netflix.com/browse/genre/5343 |
+| Movies starring Denzel Washington | https://www.netflix.com/browse/genre/5538 |
+| Watch Crime Movies | https://www.netflix.com/browse/genre/5824 |
+| Scary Movies | https://www.netflix.com/browse/genre/6057 |
+| Movies starring Adam Sandler | https://www.netflix.com/browse/genre/6312 |
+| Movies starring Nicole Kidman | https://www.netflix.com/browse/genre/6714 |
+| Movies starring Shahrukh Khan | https://www.netflix.com/browse/genre/7242 |
+| TV Dramedies | https://www.netflix.com/browse/genre/7539 |
+| Critically Acclaimed Documentaries | https://www.netflix.com/browse/genre/8673 |
+| Movies starring Tom Hanks | https://www.netflix.com/browse/genre/8892 |
+| Movies starring Robert De Niro | https://www.netflix.com/browse/genre/9631 |
+| Movies Based on Books | https://www.netflix.com/browse/genre/9889 |
+| Feel-good Movies | https://www.netflix.com/browse/genre/10579 |
+| Inspiring Movies | https://www.netflix.com/browse/genre/10619 |
+| Courtroom Movies | https://www.netflix.com/browse/genre/10714 |
+| Movies starring Jackie Chan | https://www.netflix.com/browse/genre/11565 |
+| Steamy Movies | https://www.netflix.com/browse/genre/11781 |
+| 20th-Century Period Piece Movies | https://www.netflix.com/browse/genre/12739 |
+| Suspenseful TV Shows | https://www.netflix.com/browse/genre/16705 |
+| Hijacking Movies | https://www.netflix.com/browse/genre/20541 |
+| Movies starring Jason Statham | https://www.netflix.com/browse/genre/21448 |
+| Movies starring Ryan Reynolds | https://www.netflix.com/browse/genre/21747 |
+| Movies directed by Tyler Perry | https://www.netflix.com/browse/genre/25508 |
+| Courtroom TV Shows | https://www.netflix.com/browse/genre/25801 |
+| Political TV Shows | https://www.netflix.com/browse/genre/25807 |
+| Spy TV Shows | https://www.netflix.com/browse/genre/25942 |
+| TV Crime Dramas | https://www.netflix.com/browse/genre/26009 |
+| Romantic TV Comedies | https://www.netflix.com/browse/genre/26049 |
+| Romantic TV Dramas | https://www.netflix.com/browse/genre/26056 |
+| Watch Romantic TV Shows | https://www.netflix.com/browse/genre/26156 |
+| Heartfelt Underdog Movies | https://www.netflix.com/browse/genre/27652 |
+| Family Drama Movies | https://www.netflix.com/browse/genre/31901 |
+| Movies | https://www.netflix.com/browse/genre/34399 |
+| Food Shows | https://www.netflix.com/browse/genre/39135 |
+| Supernatural Movies | https://www.netflix.com/browse/genre/42025 |
+| Supernatural TV Shows | https://www.netflix.com/browse/genre/42788 |
+| Nature & Ecology Documentaries | https://www.netflix.com/browse/genre/48768 |
+| Competition Reality TV | https://www.netflix.com/browse/genre/49266 |
+| Music & Musicals | https://www.netflix.com/browse/genre/52852 |
+| Watch Family Adventure Movies | https://www.netflix.com/browse/genre/52855 |
+| Hindi-Language Movies | https://www.netflix.com/browse/genre/58806 |
+| Movies starring Ryan Gosling | https://www.netflix.com/browse/genre/60238 |
+| Japanese TV Shows | https://www.netflix.com/browse/genre/64256 |
+| Movies starring Kevin Hart | https://www.netflix.com/browse/genre/69410 |
+| WWII Movies | https://www.netflix.com/browse/genre/70023 |
+| WWII Documentaries | https://www.netflix.com/browse/genre/70905 |
+| Zombie Movies | https://www.netflix.com/browse/genre/75421 |
+| Irreverent TV Comedies | https://www.netflix.com/browse/genre/75480 |
+| Zombie TV Shows | https://www.netflix.com/browse/genre/76778 |
+| Swedish TV Shows | https://www.netflix.com/browse/genre/76793 |
+| Scandinavian TV Shows | https://www.netflix.com/browse/genre/76802 |
+| International Movies | https://www.netflix.com/browse/genre/78367 |
+| Watch True Crime Documentaries | https://www.netflix.com/browse/genre/81050 |
+| Critically Acclaimed TV Shows | https://www.netflix.com/browse/genre/83193 |
+| Thriller TV Shows | https://www.netflix.com/browse/genre/89811 |
+| Award-Winning TV Shows | https://www.netflix.com/browse/genre/89814 |
+| Award-Winning Movies | https://www.netflix.com/browse/genre/89844 |
+| Hollywood Blockbuster Movies | https://www.netflix.com/browse/genre/90139 |
+| Emmy-Winning TV Shows | https://www.netflix.com/browse/genre/90911 |
+| Gay & Lesbian Movies & TV | https://www.netflix.com/browse/genre/100010 |
+| African Movies & TV | https://www.netflix.com/browse/genre/100369 |
+| Argentinian Movies & TV | https://www.netflix.com/browse/genre/100370 |
+| Australian Movies & TV | https://www.netflix.com/browse/genre/100371 |
+| Belgian Movies & TV | https://www.netflix.com/browse/genre/100372 |
+| Chinese Movies & TV | https://www.netflix.com/browse/genre/100375 |
+| Czech Republic Movies & TV | https://www.netflix.com/browse/genre/100376 |
+| Eastern European Movies & TV | https://www.netflix.com/browse/genre/100377 |
+| French Movies & TV Shows | https://www.netflix.com/browse/genre/100378 |
+| German Movies & TV Shows | https://www.netflix.com/browse/genre/100379 |
+| Indian Movies & TV | https://www.netflix.com/browse/genre/100381 |
+| Israeli Movies & TV | https://www.netflix.com/browse/genre/100383 |
+| Italian Movies & TV Shows | https://www.netflix.com/browse/genre/100384 |
+| Japanese Movies & TV | https://www.netflix.com/browse/genre/100385 |
+| Watch Korean Movies and Shows | https://www.netflix.com/browse/genre/100386 |
+| Latin American Movies & TV | https://www.netflix.com/browse/genre/100387 |
+| Mexican Movies & TV | https://www.netflix.com/browse/genre/100388 |
+| Middle Eastern Movies & TV | https://www.netflix.com/browse/genre/100389 |
+| Dutch Movies & TV | https://www.netflix.com/browse/genre/100390 |
+| Filipino Movies & TV | https://www.netflix.com/browse/genre/100391 |
+| Polish Movies & TV | https://www.netflix.com/browse/genre/100392 |
+| Russian Movies & TV | https://www.netflix.com/browse/genre/100393 |
+| Scandinavian Movies & TV | https://www.netflix.com/browse/genre/100394 |
+| Southeast Asian Movies & TV | https://www.netflix.com/browse/genre/100395 |
+| Spanish Movies & TV Shows | https://www.netflix.com/browse/genre/100396 |
+| British Movies & TV | https://www.netflix.com/browse/genre/100398 |
+| Starring Catherine Deneuve | https://www.netflix.com/browse/genre/101167 |
+| Holiday Movies | https://www.netflix.com/browse/genre/107093 |
+| Oscar® Winners | https://www.netflix.com/browse/genre/107234 |
+| Bengali Movies & TV | https://www.netflix.com/browse/genre/107457 |
+| Cantonese Movies & TV Shows | https://www.netflix.com/browse/genre/107458 |
+| Hindi Movies & TV | https://www.netflix.com/browse/genre/107461 |
+| Malayalam Movies & TV Shows | https://www.netflix.com/browse/genre/107463 |
+| Norwegian Movies & TV | https://www.netflix.com/browse/genre/107464 |
+| Portuguese-Language Movies & TV | https://www.netflix.com/browse/genre/107465 |
+| Punjabi Movies & TV Shows | https://www.netflix.com/browse/genre/107466 |
+| Tamil Movies & TV Shows | https://www.netflix.com/browse/genre/107469 |
+| English Movies & TV | https://www.netflix.com/browse/genre/107548 |
+| Italian Movies & TV Shows | https://www.netflix.com/browse/genre/107553 |
+| Mandarin Movies & TV Shows | https://www.netflix.com/browse/genre/107556 |
+| French Movies & TV | https://www.netflix.com/browse/genre/107562 |
+| German Movies & TV | https://www.netflix.com/browse/genre/107563 |
+| Romanian Movies & TV | https://www.netflix.com/browse/genre/107564 |
+| Greek Movies & TV | https://www.netflix.com/browse/genre/107565 |
+| Irish Movies & TV | https://www.netflix.com/browse/genre/107566 |
+| Spanish Movies & TV | https://www.netflix.com/browse/genre/107569 |
+| Thai Movies & TV | https://www.netflix.com/browse/genre/107570 |
+| Vietnamese Movies & TV | https://www.netflix.com/browse/genre/107571 |
+| Swedish Movies & TV | https://www.netflix.com/browse/genre/107572 |
+| Danish Movies & TV | https://www.netflix.com/browse/genre/107573 |
+| Finnish Movies & TV | https://www.netflix.com/browse/genre/107574 |
+| New Zealand Movies & TV | https://www.netflix.com/browse/genre/107575 |
+| Hong Kong Movies & TV | https://www.netflix.com/browse/genre/107576 |
+| Calling All Trainers! | https://www.netflix.com/browse/genre/107832 |
+| Colombian Movies & TV | https://www.netflix.com/browse/genre/108229 |
+| The Agatha Christie Collection | https://www.netflix.com/browse/genre/108246 |
+| Asian Movies & TV | https://www.netflix.com/browse/genre/108662 |
+| Best Halloween Movies | https://www.netflix.com/browse/genre/108663 |
+| True Crime | https://www.netflix.com/browse/genre/108820 |
+| East Asian Movies & TV | https://www.netflix.com/browse/genre/109007 |
+| European Movies & TV | https://www.netflix.com/browse/genre/109012 |
