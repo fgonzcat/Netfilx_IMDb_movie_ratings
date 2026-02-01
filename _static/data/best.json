@@ -12583,6 +12583,23 @@
       "Country": "Brazil"
     },
     {
+      "title": "Love & Anarchy",
+      "netflix_url": "https://www.netflix.com/title/81069541",
+      "year": "2022",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt10888876",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzhmZjdkMGQtZjM1Ni00YzhhLTkyYTItNTI1MTdjZDc1OWQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Sofie, a career-driven consultant and married mother of two, gets an assignment to modernize an old publishing house, she meets young IT tech Max and an unexpected flirting game begins.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "N/A",
+      "Writer": "Lisa Langseth",
+      "Actors": "Ida Engvoll, Björn Mosten, Gizem Erdogan",
+      "Language": "Swedish",
+      "Country": "Sweden"
+    },
+    {
       "title": "System Crasher",
       "netflix_url": "https://www.netflix.com/title/81071573",
       "year": "2020",
@@ -12768,6 +12785,23 @@
       "Actors": "Jamie Salé, Pino Narducci, Kent Somers",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "ROAD TO ROMA",
+      "netflix_url": "https://www.netflix.com/title/81085934",
+      "year": "2020",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt11763742",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmNkZTMwMGYtZTcyOC00YjM1LThlNWUtZGZjYjhjYTc3NTdiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Director Alfonso Cuaron reflects on the creative decisions behind ROMA.",
+      "Type": "movie",
+      "RunTime": "72 min",
+      "Genre": "Documentary",
+      "Director": "Andres Clariond, Gabriel Nuncio",
+      "Writer": "Pedro G. García",
+      "Actors": "Yalitza Aparicio, Odín Ayala, Eugenio Caballero",
+      "Language": "Spanish, Mixtec",
+      "Country": "Mexico"
     },
     {
       "title": "Our Great National Parks",
@@ -22188,6 +22222,23 @@
       "Country": "United States"
     },
     {
+      "title": "Andragogy",
+      "netflix_url": "https://www.netflix.com/title/81733653",
+      "year": "2023",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt22530172",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTBlMjNjN2EtM2Y3OS00NDBmLTk5ZTgtYTk0MDI4MTc5OTQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a viral altercation, Prani, a guidance counselor, faces backlash endangering her career and family.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Drama",
+      "Director": "Wregas Bhanuteja",
+      "Writer": "Wregas Bhanuteja",
+      "Actors": "Sha Ine Febriyanti, Angga Yunanda, Prilly Latuconsina",
+      "Language": "Indonesian",
+      "Country": "Indonesia, Singapore"
+    },
+    {
       "title": "American Murder: Gabby Petito",
       "netflix_url": "https://www.netflix.com/title/81733793",
       "year": "2025",
@@ -23818,6 +23869,23 @@
       "Actors": "Móglaí Bap, Mo Chara, DJ Próvaí",
       "Language": "English, Irish Gaelic",
       "Country": "Ireland, United Kingdom"
+    },
+    {
+      "title": "Miriam Margolyes Australia Unmasked",
+      "netflix_url": "https://www.netflix.com/title/81967580",
+      "year": "2022",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt21429164",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWVlM2IyYzEtZjgwYy00YzRiLWE0MjktZDEyODA1ZDk2ZWMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Miriam Margolyes is back on the road, heading west along the bottom of Australia, to understand what the Fair Go means in Australia today and how it is playing out in the diverse lives of her fellow citizens.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Miriam Margolyes, Rhys Nicholson, Sanjeev Gupta",
+      "Language": "English",
+      "Country": "Australia"
     },
     {
       "title": "Black Warrant",
