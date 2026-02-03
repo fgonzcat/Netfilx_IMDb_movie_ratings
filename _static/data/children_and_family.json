@@ -2007,6 +2007,23 @@
       "Country": "United Kingdom, France, United States, Czech Republic, Germany"
     },
     {
+      "title": "Pachamama",
+      "netflix_url": "https://www.netflix.com/title/81029736",
+      "year": "2019",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt5541002",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmEzZDQ2MTItNWNmZS00ZmU0LWEzMTUtODkyNjU5ZmIyYTAwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young boy living in a remote village in the Andes Mountains dreams of becoming shaman.",
+      "Type": "movie",
+      "RunTime": "72 min",
+      "Genre": "Animation, Adventure, Family",
+      "Director": "Juan Antin",
+      "Writer": "Juan Antin, Patricia Valeix, Olivier de Bannes",
+      "Actors": "Andrea Santamaria, India Coenen, Saïd Amadis",
+      "Language": "English, French",
+      "Country": "France, Luxembourg, Canada"
+    },
+    {
       "title": "A Christmas Prince: The Royal Baby",
       "netflix_url": "https://www.netflix.com/title/81029841",
       "year": "2019",
@@ -2148,6 +2165,23 @@
       "Actors": "Kate McKinnon, Roman Lutterotti, Mikaela Blake",
       "Language": "English",
       "Country": "Canada"
+    },
+    {
+      "title": "The Magic School Bus Rides Again In the Zone",
+      "netflix_url": "https://www.netflix.com/title/81054981",
+      "year": "2020",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt13577224",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzYzk2MjUtMmRjZS00NzVkLTg4ZWQtOTc4ZDhkZmY3OWRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ms. Frizzle's class sees every show on a pop star's New Year's Eve tour, learning about time zones as they attend all her concerts on the same night.",
+      "Type": "movie",
+      "RunTime": "46 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Richard Weston",
+      "Writer": "Jennifer Skelly, Jocelyn Stevenson, Evan Thaler Hickey",
+      "Actors": "Kate McKinnon, Birva Pandya, Mikaela Blake",
+      "Language": "English",
+      "Country": "Canada, United States"
     },
     {
       "title": "Dragons: Rescue Riders: Secrets of the Songwing",
@@ -3012,6 +3046,23 @@
       "Actors": "Jules Medcraft, Kylian Trouillard, Alexis Victor",
       "Language": "English",
       "Country": "Belgium, France"
+    },
+    {
+      "title": "The Claus Family",
+      "netflix_url": "https://www.netflix.com/title/81316603",
+      "year": "2020",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt12459520",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTdkYTg1ZTQtZjFhNC00NDZjLWEwZGEtNWYxNDU0ZTQxZDlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After discovering his grandfather is Santa Claus, Jules has to help him deliver his presents all around the world. But Jules' hatred for Christmas might make that more difficult than Santa thought.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Comedy, Family, Fantasy",
+      "Director": "Matthias Temmermans",
+      "Writer": "Ruben Vandenborre, Elke de Gezelle, Matthias Temmermans",
+      "Actors": "Jan Decleir, Mo Bakker, Bracha van Doesburgh",
+      "Language": "Dutch",
+      "Country": "Belgium"
     },
     {
       "title": "Drifting Home",
@@ -4093,6 +4144,23 @@
       "Country": "Poland"
     },
     {
+      "title": "Chhota Bheem Yamlok Ki Khoj",
+      "netflix_url": "https://www.netflix.com/title/81700181",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt30218991",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4NzcyY2YtM2VmMy00MmM5LWFjYWItZjRhZDNkYjc5NTAzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Jaggu's accidentally sent to Yamaloka, Bheem and his friends must embark on a daring journey to rescue him before his soul is lost forever.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "Kaushik Karra",
+      "Actors": "N/A",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Pangolin: Kulu’s Journey",
       "netflix_url": "https://www.netflix.com/title/81708252",
       "year": "2025",
@@ -4151,6 +4219,30 @@
       "imdb_id": null
     },
     {
+      "title": "Anpanman: The Blacknose with Magical Song",
+      "netflix_url": "https://www.netflix.com/title/81719808",
+      "year": "2010",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Anpanman: Apple Boy And Everyone's Hope",
+      "netflix_url": "https://www.netflix.com/title/81719818",
+      "year": "2014",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15041652",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NGFiNjctM2JlZC00Njc5LThkZTQtNDVjMDVmZjg4MjAxXkEyXkFqcGdeQXVyMTEwMDc4OTU@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "46 min",
+      "Genre": "Animation, Adventure, Family",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Mauriett Chayeb, Ghia Burns, Andrio Chavarro",
+      "Language": "English, Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Anpanman: Nanda and Runda from Star of Toys",
       "netflix_url": "https://www.netflix.com/title/81719826",
       "year": "2016",
@@ -4180,6 +4272,23 @@
       "year": "2019",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Blippi's Big Dino Adventure",
+      "netflix_url": "https://www.netflix.com/title/81728319",
+      "year": "2023",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt28752706",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDNhOGIxYzYtMTM1NS00YmZhLTg3NTctZDE3ZDA0MTk0MGYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Blippi and Meekah run into Park Ranger Asher and his energetic dinosaur crew at T-Rex Ranch, Park Ranger Asher asks Blippi and Meekah for their help to retrieve the missing dinosaur eggs.",
+      "Type": "movie",
+      "RunTime": "68 min",
+      "Genre": "Family",
+      "Director": "Andrew Pagana",
+      "Writer": "Stevin John",
+      "Actors": "Clayton Grimm, Cashae Monya, Jett Automo",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "PAW Patrol: The Mighty Movie",
@@ -4214,6 +4323,13 @@
       "Actors": "Rachel Zegler, John Lithgow, Jenifer Lewis",
       "Language": "English",
       "Country": "Spain, United States"
+    },
+    {
+      "title": "Pinkfong & Hogi Mini-Movie: The Tricky Three Cars",
+      "netflix_url": "https://www.netflix.com/title/81748104",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Miraculous World: New York, United Heroez",

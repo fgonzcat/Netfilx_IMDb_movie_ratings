@@ -326,6 +326,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "Faasle",
+      "netflix_url": "https://www.netflix.com/title/70041993",
+      "year": "1985",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt0089119",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTVjYmE5OTgtZmY2MC00ZDQzLTk1ZGItYzQ2MWFmNTQwYzA0XkEyXkFqcGdeQXVyNTkzNDQ4ODc@._V1_SX300.jpg",
+      "Plot": "A story of the blind sense of duty of the elders and the self-confidence and arrogance of the young. Both think they are right for the sake of love.",
+      "Type": "movie",
+      "RunTime": "146 min",
+      "Genre": "Drama, Romance",
+      "Director": "Yash Chopra",
+      "Writer": "Sachin Bhowmick, Sagar Sarhadi",
+      "Actors": "Sunil Dutt, Rekha, Rohan Kapoor",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Guru",
       "netflix_url": "https://www.netflix.com/title/70063017",
       "year": "2007",
@@ -499,8 +516,18 @@
       "title": "Lee Daniels' The Butler",
       "netflix_url": "https://www.netflix.com/title/70266686",
       "year": "2013",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt30870265",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Talk-Show",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "12 Years a Slave",
@@ -1406,6 +1433,23 @@
       "Actors": "Nacer Khemir",
       "Language": "French, Arabic",
       "Country": "Tunisia"
+    },
+    {
+      "title": "Soni",
+      "netflix_url": "https://www.netflix.com/title/81023713",
+      "year": "2018",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt6078866",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzlkZDVjODAtYTQxMS00NGUyLWJlMWUtYjJhZmVlZjE5OWUyXkEyXkFqcGdeQXVyNjA3NzYzNzc@._V1_SX300.jpg",
+      "Plot": "While fighting crimes against women in Delhi, a short-fused policewoman and her level-headed female boss grapple with gender issues in their own lives.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Crime, Drama",
+      "Director": "Ivan Ayr",
+      "Writer": "Ivan Ayr, Kislay Kislay",
+      "Actors": "Geetika Vidya Ohlyan, Saloni Batra, Vikas Shukla",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "American Son",
@@ -3327,6 +3371,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Glamour Girls",
+      "netflix_url": "https://www.netflix.com/title/81478629",
+      "year": "2022",
+      "imdb_rating": "3.5",
+      "imdb_id": "tt20604466",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzkxYTZkYjUtNGE0Yy00NDBlLWExNjItZWJjZTNjNGFlOTMwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The world of high end escorts promises glamour, wealth and the chance of reinvention for a group of women - till a killing and theft threaten it all.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Drama",
+      "Director": "Bunmi Ajakaiye",
+      "Writer": "Kemi Adesoye",
+      "Actors": "Robert Adewale, Lilian Afegbai, Shantel Agba",
+      "Language": "English",
+      "Country": "Nigeria"
+    },
+    {
       "title": "Wild Is the Wind",
       "netflix_url": "https://www.netflix.com/title/81483371",
       "year": "2022",
@@ -4890,6 +4951,23 @@
       "Actors": "Bhumi Pednekar, Sanjay Mishra, Aditya Srivastav",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Andragogy",
+      "netflix_url": "https://www.netflix.com/title/81733653",
+      "year": "2023",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt22530172",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTBlMjNjN2EtM2Y3OS00NDBmLTk5ZTgtYTk0MDI4MTc5OTQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a viral altercation, Prani, a guidance counselor, faces backlash endangering her career and family.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Drama",
+      "Director": "Wregas Bhanuteja",
+      "Writer": "Wregas Bhanuteja",
+      "Actors": "Sha Ine Febriyanti, Angga Yunanda, Prilly Latuconsina",
+      "Language": "Indonesian",
+      "Country": "Indonesia, Singapore"
     },
     {
       "title": "The Son of a Thousand Men",

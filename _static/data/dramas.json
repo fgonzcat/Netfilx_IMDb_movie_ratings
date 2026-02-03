@@ -666,6 +666,23 @@
       "Country": "United States"
     },
     {
+      "title": "Fanaa",
+      "netflix_url": "https://www.netflix.com/title/70054084",
+      "year": "2006",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0439662",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzg0MzY0NGQtYmYwNy00NGYwLWI2OGYtYmYzZjIyN2Y2YmMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A sweet blind girl Zooni meets a flirty Rehan. She ignores her friends' warnings. It's her time to discover life. Is she making the right love choice?",
+      "Type": "movie",
+      "RunTime": "168 min",
+      "Genre": "Action, Drama, Romance",
+      "Director": "Kunal Kohli",
+      "Writer": "Shibani Bathija, Kunal Kohli",
+      "Actors": "Aamir Khan, Kajol, Rishi Kapoor",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Facing the Giants",
       "netflix_url": "https://www.netflix.com/title/70056416",
       "year": "2006",
@@ -1247,8 +1264,18 @@
       "title": "Lee Daniels' The Butler",
       "netflix_url": "https://www.netflix.com/title/70266686",
       "year": "2013",
-      "imdb_rating": null,
-      "imdb_id": null
+      "imdb_rating": "N/A",
+      "imdb_id": "tt30870265",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Talk-Show",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "Aurangzeb",
@@ -3849,6 +3876,13 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Free Rein: Valentine's Day",
+      "netflix_url": "https://www.netflix.com/title/81001413",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Rebecca",
       "netflix_url": "https://www.netflix.com/title/81002196",
       "year": "2020",
@@ -4512,6 +4546,23 @@
       "Country": "United States"
     },
     {
+      "title": "Moxie",
+      "netflix_url": "https://www.netflix.com/title/81078393",
+      "year": "2021",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt6432466",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ0NzIzYmEtZWQyYS00NGQ3LTlkNTctNWIxODIwZTkyOTI0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Inspired by her mom's rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Amy Poehler",
+      "Writer": "Jennifer Mathieu, Tamara Chestna, Dylan Meyer",
+      "Actors": "Hadley Robinson, Lauren Tsai, Alycia Pascual-Pena",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "El Camino: A Breaking Bad Movie",
       "netflix_url": "https://www.netflix.com/title/81078819",
       "year": "2019",
@@ -4563,6 +4614,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Downton Abbey",
+      "netflix_url": "https://www.netflix.com/title/81086533",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt6398184",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGMxYzUyZTgtM2ZiNy00YWYxLTg3NWMtNmY2YWNkM2Q5NDNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Crawleys and their servants prepare to host King George V and Queen Mary at Downton Abbey.",
+      "Type": "movie",
+      "RunTime": "122 min",
+      "Genre": "Drama, Romance",
+      "Director": "Michael Engler",
+      "Writer": "Julian Fellowes",
+      "Actors": "Stephen Campbell Moore, Michael Fox, Lesley Nicol",
+      "Language": "English",
+      "Country": "United Kingdom, China, United States"
+    },
+    {
       "title": "Trial by Fire",
       "netflix_url": "https://www.netflix.com/title/81088152",
       "year": "2018",
@@ -4595,6 +4663,23 @@
       "Actors": "Taissa Farmiga, Alexandra Daddario, Crispin Glover",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Mauritanian",
+      "netflix_url": "https://www.netflix.com/title/81092027",
+      "year": "2021",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt4761112",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzkwZDQ1ZTMtMWFhOC00YjliLWE2ZDEtNDlmYjU2YjNkMDVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mohamedou Ould Slahi fights for freedom after being detained and imprisoned without charge by the U.S. Government for years.",
+      "Type": "movie",
+      "RunTime": "129 min",
+      "Genre": "Biography, Drama, Thriller",
+      "Director": "Kevin Macdonald",
+      "Writer": "Michael Bronner, Rory Haines, Sohrab Noshirvani",
+      "Actors": "Tahar Rahim, Nouhe Hamady Bari, Saadna Hamoud",
+      "Language": "English, French, Arabic, German, Latin",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "The Woman in the Window",
@@ -4935,6 +5020,13 @@
       "Actors": "N/A",
       "Language": "English",
       "Country": "Pakistan, United States"
+    },
+    {
+      "title": "Apollo 10 1/2: A Space Age Childhood",
+      "netflix_url": "https://www.netflix.com/title/81161042",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Vanished into the Night",
@@ -6454,6 +6546,23 @@
       "imdb_id": null
     },
     {
+      "title": "Rich in Love 2",
+      "netflix_url": "https://www.netflix.com/title/81459281",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt23144234",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWYwNjdiM2QtMzUwNy00MTY4LWIzYjItM2E1NzdkYzg4OWFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Paula leaves Rio de Janeiro to resume her work as a volunteer doctor in the Amazon, Teto hatches an impulsive plan to follow her and chaos ensues.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Bruno Garotti, Jessica Blue",
+      "Writer": "Bruno Garotti, Sylvio Gonçalves, Maíra Oliveira",
+      "Actors": "Adanilo, Kevin Andrew Rivera, Jaffar Bambirra",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
       "title": "The Last Kingdom: Seven Kings Must Die",
       "netflix_url": "https://www.netflix.com/title/81460361",
       "year": "2023",
@@ -6486,6 +6595,23 @@
       "Actors": "Lady Gaga, Adam Driver, Al Pacino",
       "Language": "English, Italian, Arabic, Spanish, Japanese, French",
       "Country": "United States, Canada, United Kingdom"
+    },
+    {
+      "title": "Good Grief",
+      "netflix_url": "https://www.netflix.com/title/81462549",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32204945",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Marlon Wayans",
+      "Actors": "Marlon Wayans",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Reptile",
@@ -6588,6 +6714,23 @@
       "Actors": "Aidan McArdle, Andrew Havill, Rachel Barry",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Downton Abbey: A New Era",
+      "netflix_url": "https://www.netflix.com/title/81474943",
+      "year": "2022",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt11703710",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDg5ZGI2OGYtYzYyZS00NzdkLThjYmQtNTI2N2RlMTg3ZjFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Crawleys go on a grand journey to the south of France to uncover the mystery of the Dowager Countess' newly inherited villa.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Drama, Romance",
+      "Director": "Simon Curtis",
+      "Writer": "Julian Fellowes",
+      "Actors": "Hugh Bonneville, Jim Carter, Michelle Dockery",
+      "Language": "English, French",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "RRR (Hindi)",
@@ -7509,6 +7652,13 @@
       "imdb_id": null
     },
     {
+      "title": "My Father is a Playboy",
+      "netflix_url": "https://www.netflix.com/title/81623689",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Upon Open Sky",
       "netflix_url": "https://www.netflix.com/title/81630189",
       "year": "2023",
@@ -8196,6 +8346,13 @@
       "Country": "India"
     },
     {
+      "title": "Kushi (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81719491",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Bob Marley: One Love",
       "netflix_url": "https://www.netflix.com/title/81725546",
       "year": "2024",
@@ -8572,6 +8729,23 @@
       "year": "2024",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Dragon",
+      "netflix_url": "https://www.netflix.com/title/81762715",
+      "year": "2025",
+      "imdb_rating": "8.1",
+      "imdb_id": "tt0892769",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX300.jpg",
+      "Plot": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Dean DeBlois, Chris Sanders",
+      "Writer": "William Davies, Dean DeBlois, Chris Sanders",
+      "Actors": "Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse",
+      "Language": "English",
+      "Country": "United Kingdom, France, United States"
     },
     {
       "title": "It Ends With Us",
@@ -9519,6 +9693,23 @@
       "Country": "India"
     },
     {
+      "title": "The Last Goodbye",
+      "netflix_url": "https://www.netflix.com/title/82025525",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt30851432",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTFmMTNiZDAtYzFiZC00NzFiLTlhZGMtYmE5NWNiYjIxMWM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When confronted by her most private desire at her grandmother's funeral, a young Polish-American woman struggles to navigate her truth and her familial pressure to conform.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Short, Comedy, Drama",
+      "Director": "Kailey Wolf",
+      "Writer": "Michelle Twarowska, Kailey Wolf",
+      "Actors": "Monika Dawidziuk, Paris Dwyer, Wojciech Fry Lewis",
+      "Language": "English, Polish",
+      "Country": "United States"
+    },
+    {
       "title": "Qaidi Band",
       "netflix_url": "https://www.netflix.com/title/82027370",
       "year": "2017",
@@ -9984,6 +10175,23 @@
       "Actors": "William H. Macy, John Corbett, Stephanie Szostak",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Even If This Love Disappears Tonight",
+      "netflix_url": "https://www.netflix.com/title/82652051",
+      "year": "2026",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt21115444",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWRjYjllMWEtMjUxMi00ZDk1LTliMjUtNTIzODgwOTRhOTdmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bullied student Toru falsely confesses feelings to classmate Maori, who has memory loss daily. As they date, Toru falls for her despite her rule against love. Toru aims to give her happy memories through new experiences each day.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Drama, Romance",
+      "Director": "Takahiro Miki",
+      "Writer": "Misaki Ichijo, Hana Matsumoto, Sho Tsukikawa",
+      "Actors": "Shunsuke Michieda, Riko Fukumoto, Kotone Furukawa",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Baahubali The Epic",

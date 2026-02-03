@@ -2006,6 +2006,23 @@
       "Country": "India"
     },
     {
+      "title": "Prince",
+      "netflix_url": "https://www.netflix.com/title/80158546",
+      "year": "1969",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt0064842",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTUyN2IzZGItOTJlZS00ZTJjLWEwNjQtYTFjZmY3MGZmNTNiXkEyXkFqcGdeQXVyMjMzMzc0MjM@._V1_SX300.jpg",
+      "Plot": "A rich prince who lives in luxury wants to attain inner peace. He leaves his riches to become an ordinary villager and from there on, his adventure begins.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Musical, Romance",
+      "Director": "Lekh Tandon",
+      "Writer": "Abrar Alvi",
+      "Actors": "Shammi Kapoor, Vyjayanthimala, Rajendranath Malhotra",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Force 2",
       "netflix_url": "https://www.netflix.com/title/80159955",
       "year": "2016",
@@ -2096,6 +2113,23 @@
       "year": "2017",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Tubelight",
+      "netflix_url": "https://www.netflix.com/title/80198682",
+      "year": "2017",
+      "imdb_rating": "3.9",
+      "imdb_id": "tt5882970",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjExNjc1NDE3M15BMl5BanBnXkFtZTgwNDA2NzM0MjI@._V1_SX300.jpg",
+      "Plot": "A story of two brothers set during the Sino-Indian war, 1962: the younger one who's at war at the borders and the elder who's at war with his own world.",
+      "Type": "movie",
+      "RunTime": "136 min",
+      "Genre": "Drama, War",
+      "Director": "Kabir Khan",
+      "Writer": "Kabir Khan, Parveez Sheikh, Manu Rishi Chadha",
+      "Actors": "Salman Khan, Sohail Khan, Om Puri",
+      "Language": "Hindi, English",
+      "Country": "India, United States, United Kingdom, Canada, China"
     },
     {
       "title": "Jab Harry Met Sejal",

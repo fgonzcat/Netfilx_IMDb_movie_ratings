@@ -1042,9 +1042,19 @@
     {
       "title": "BLAME!",
       "netflix_url": "https://www.netflix.com/title/80115466",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2017",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt4607722",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjkzOTE3OTc3OF5BMl5BanBnXkFtZTgwODAzMTQxNDM@._V1_SX300.jpg",
+      "Plot": "A drama teacher's taboo relationship with an unstable student strikes a nerve in her jealous classmate, sparking a vengeful chain of events within their suburban high school that draws parallels to 'The Crucible'.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "Quinn Shephard",
+      "Writer": "Quinn Shephard, Laurie Shephard",
+      "Actors": "Quinn Shephard, Marcia DeBonis, Elizabeth Howell",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Train to Busan",
@@ -1474,9 +1484,19 @@
     {
       "title": "The Silence of the Marsh",
       "netflix_url": "https://www.netflix.com/title/80216611",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2019",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt8743032",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc3MmQ0OTItNzg1MC00ZTY1LTg1YzgtODZlZWE1MGViYzQ3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A writer of crime stories discovers that reality is more criminal than the stories he writes.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Action, Drama, Mystery",
+      "Director": "Marc Vigil",
+      "Writer": "Carlos de Pando, Sara Antuña, Juanjo Braulio",
+      "Actors": "Pedro Alonso, Nacho Fresneda, Carmina Barrios",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "See You Yesterday",
@@ -1613,6 +1633,23 @@
       "Actors": "Raúl Arévalo, Aura Garrido, Hugo Arbues",
       "Language": "Spanish",
       "Country": "Spain"
+    },
+    {
+      "title": "Fever Dream",
+      "netflix_url": "https://www.netflix.com/title/80233703",
+      "year": "2021",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt9471660",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTFhYzk5NzctMDcxMS00YzA1LTg2ZWMtYzE4ZmYwMDM2ODlhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It will tell the haunting story of broken souls, toxins, looming environmental and spiritual catastrophes, and the ties that bind a parent to a child.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Drama, Horror, Mystery",
+      "Director": "Claudia Llosa",
+      "Writer": "Claudia Llosa, Samanta Schweblin",
+      "Actors": "María Valverde, Jolene Andersen, Dolores Fonzi",
+      "Language": "Spanish",
+      "Country": "Peru, Chile, Spain, United States"
     },
     {
       "title": "The Killer",
@@ -2739,9 +2776,19 @@
     {
       "title": "Don't Let Go",
       "netflix_url": "https://www.netflix.com/title/81167273",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2019",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt6803212",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjU1YmRkZDItZTNlYi00ZmFhLWI1ZTMtZmM1NDA5NDIzYzFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Detective Jack Radcliff and his recently murdered niece race against time to solve the crime before it happens.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Drama, Horror, Mystery",
+      "Director": "Jacob Estes",
+      "Writer": "Jacob Estes, Drew Daywalt",
+      "Actors": "David Oyelowo, Storm Reid, Mykelti Williamson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Fanatic",
@@ -3802,6 +3849,23 @@
       "Country": "India"
     },
     {
+      "title": "The Crime",
+      "netflix_url": "https://www.netflix.com/title/81435718",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt15613514",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTBjYWU4M2MtZjA1MC00NzVmLThlODUtM2JhNjRjODIwZTYzXkEyXkFqcGdeQXVyMTA4MjY5ODE@._V1_SX300.jpg",
+      "Plot": "A man named Adel. He is an elderly man who lives in a psychiatric clinic. The story talks about the period of Adel's life in the seventies . He is married to a girl called Nadia . The events revolve around the disappearance of Nadia.",
+      "Type": "movie",
+      "RunTime": "127 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Sherif Arafa",
+      "Writer": "Sherif Arafa",
+      "Actors": "Ahmed Ezz, Menna Shalabi, Maged El-Kidwani",
+      "Language": "Arabic",
+      "Country": "Egypt"
+    },
+    {
       "title": "HIT: The First Case",
       "netflix_url": "https://www.netflix.com/title/81436989",
       "year": "2022",
@@ -4226,9 +4290,19 @@
     {
       "title": "Choose or Die",
       "netflix_url": "https://www.netflix.com/title/81488262",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2022",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt11514780",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjNkMGE2MjEtMDI5NS00Yjc0LTk2YjAtOGNmOTIyZTgxZWQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After firing up a lost 1980s survival horror game, a young coder unleashes a hidden curse that tears reality apart, forcing her to make terrifying decisions and face deadly consequences.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Toby Meakins",
+      "Writer": "Simon Allen, Toby Meakins, Matthew James Wilkinson",
+      "Actors": "Iola Evans, Asa Butterfield, Robert Englund",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "The Takeover",
@@ -4342,9 +4416,19 @@
     {
       "title": "Ghost in the Shell: SAC_2045 Sustainable War",
       "netflix_url": "https://www.netflix.com/title/81513128",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2021",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt15392166",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2JlYzRiM2QtNjVkYS00MmQ3LThhNmQtZmRhNmQwNjhiNzc3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the year 2045, cybernetic mercenary Motoko Kusanagi returns to Section 9 to face the threat of the posthumans.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Animation, Action, Sci-Fi",
+      "Director": "Shinji Aramaki, Michihito Fujii, Kenji Kamiyama",
+      "Writer": "Harumi Doki, Ryô Higaki, Kenji Kamiyama",
+      "Actors": "Atsuko Tanaka, Osamu Saka, Akio Ôtsuka",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "7 Women and a Murder",
@@ -4602,6 +4686,23 @@
       "Country": "Colombia"
     },
     {
+      "title": "Jaane Jaan",
+      "netflix_url": "https://www.netflix.com/title/81586376",
+      "year": "2023",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt15748830",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGIzNTI0ODktMWE1NS00MTdlLWJlZjYtN2ExNTFlMTBhOWEwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A single mother and her daughter commit a crime and a neighbor helps them cover it up amid the police investigation.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Sujoy Ghosh",
+      "Writer": "Sujoy Ghosh, Keigo Higashino, Raj Vasant",
+      "Actors": "Kareena Kapoor, Jaideep Ahlawat, Vijay Varma",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Tiger Zinda Hai",
       "netflix_url": "https://www.netflix.com/title/81587852",
       "year": "2017",
@@ -4805,7 +4906,7 @@
     {
       "title": "Leo (Hindi)",
       "netflix_url": "https://www.netflix.com/title/81639323",
-      "year": null,
+      "year": "2023",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -5569,6 +5670,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Conquer: Lahad Datu",
+      "netflix_url": "https://www.netflix.com/title/81949600",
+      "year": "2024",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt30526240",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmVkZDAzY2UtMmFkZS00MTY3LWJkNmUtNjE3Zjg3NGZhMzI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Malaysian security forces in quelling the militant group of the Sulu Sultanate aka \"Operation Daulat\" in Lahad Datu, Sabah.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Zulkarnain Azhar",
+      "Writer": "Zulkarnain Azhar, Peter Toyat",
+      "Actors": "Syafiq Kyle, Kamal Adli, Fikry Ibrahim",
+      "Language": "Malay",
+      "Country": "Malaysia"
+    },
+    {
       "title": "28 Years Later",
       "netflix_url": "https://www.netflix.com/title/81957161",
       "year": "2025",
@@ -5812,6 +5930,23 @@
       "Actors": "Candice King, Michael Roark, Wendie Malick",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Honey Don't!",
+      "netflix_url": "https://www.netflix.com/title/82147511",
+      "year": "2025",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt30645201",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmRkNGJmNWUtNjVkMC00NTJhLTk5N2UtYmZlODdmM2UzNTRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A small-town private investigator delves into a series of strange deaths tied to a mysterious church.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Comedy, Crime, Mystery",
+      "Director": "Ethan Coen",
+      "Writer": "Ethan Coen, Tricia Cooke",
+      "Actors": "Margaret Qualley, Aubrey Plaza, Chris Evans",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Deadstream",

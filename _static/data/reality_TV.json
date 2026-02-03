@@ -180,6 +180,13 @@
       "Country": "United States"
     },
     {
+      "title": "Ultimate Beastmaster Mexico",
+      "netflix_url": "https://www.netflix.com/title/80156006",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Coach Snoop",
       "netflix_url": "https://www.netflix.com/title/80157137",
       "year": "2018",
@@ -210,6 +217,23 @@
       "Director": "N/A",
       "Writer": "David Collins",
       "Actors": "Antoni Porowski, Tan France, Karamo Brown",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Toys That Made Us",
+      "netflix_url": "https://www.netflix.com/title/80161497",
+      "year": "2019",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt7053920",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTYyY2NhYzctYWE3ZS00OWY2LTgzZTgtMzM1OTBhOTFjYWQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The minds behind history's most iconic toy franchises discuss the rise and sometimes fall of their billion-dollar creations.",
+      "Type": "series",
+      "RunTime": "46 min",
+      "Genre": "Documentary, Comedy, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Donald Ian Black, Kirk Bozigian, Mark Bellomo",
       "Language": "English",
       "Country": "United States"
     },
@@ -359,9 +383,36 @@
     {
       "title": "Magic for Humans",
       "netflix_url": "https://www.netflix.com/title/80190510",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2020",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt8425308",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWMxYTFlYWEtNjgzNy00NjlkLTg1ZjctNTFmNTcxMjJkOWIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Justin Willman performs magic tricks on the street.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Comedy, Reality-TV",
+      "Director": "N/A",
+      "Writer": "Justin Willman",
+      "Actors": "Justin Willman, Jillian Sipkins, Mateo Ray",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Death by Magic",
+      "netflix_url": "https://www.netflix.com/title/80191074",
+      "year": "2018",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt8887956",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGU4YzNjMzMtYjUyZi00NTZmLTgwOGYtYWUzNTc1ZDBjYWJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Magician Drummond Money-Coutts travels the globe, sharing his infectious love of his craft and attempting feats that proved fatal to other magicians.",
+      "Type": "series",
+      "RunTime": "35 min",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Troy Dillinger, L.A. James, Ebonie Marie",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Car Masters: Rust to Riches",
@@ -396,6 +447,23 @@
       "Actors": "Justin Bradbury, Karl Travenshek, Bill Rehmke",
       "Language": "N/A",
       "Country": "N/A"
+    },
+    {
+      "title": "Haunted",
+      "netflix_url": "https://www.netflix.com/title/80195378",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt15800144",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWMwNjE1NzctMmUxNC00ZWEzLWI0YjQtMjBiNzA3ZTYwMzFkXkEyXkFqcGdeQXVyODQyOTU0Nw@@._V1_SX300.jpg",
+      "Plot": "Trapped inside a house, a couple finds they are also caught in opposing dimensions of time and space.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Short",
+      "Director": "Nika Belianina",
+      "Writer": "Nika Belianina, Holly Small",
+      "Actors": "Kaitlin Standeven, Brodie Stevenson",
+      "Language": "None",
+      "Country": "Canada"
     },
     {
       "title": "Churchill’s Secret Agents: The New Recruits",
@@ -604,9 +672,19 @@
     {
       "title": "Flinch",
       "netflix_url": "https://www.netflix.com/title/80207066",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2019",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt9196244",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWQyNDRkZDgtMmZiYi00MWJkLWI3M2QtMjk5OGZhYTE5NTk0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Faced with various frightening and uncomfortable events, contestants in this game show had better not flinch - or they'll suffer painful consequences.",
+      "Type": "series",
+      "RunTime": "25 min",
+      "Genre": "Game-Show",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Seann Walsh, Lloyd Griffith, Desiree Burch",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Tidying Up with Marie Kondo",
@@ -641,6 +719,23 @@
       "Actors": "You, Reina Triendl, Yoshimi Tokui",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Awake: The Million Dollar Game",
+      "netflix_url": "https://www.netflix.com/title/80213322",
+      "year": "2019",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt10370956",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWU1ODUxMzctNTgzMS00MGU0LWFkNDUtZjNkMDhjNDYzZTk3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "24 hours. Zero rest. 1 million dollars on the line. Awake: The Million Dollar Game.",
+      "Type": "series",
+      "RunTime": "41 min",
+      "Genre": "Game-Show",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "James Davis, Russell Rope, Hayley Seat",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Blown Away",
@@ -679,9 +774,19 @@
     {
       "title": "Derren Brown: Sacrifice",
       "netflix_url": "https://www.netflix.com/title/80216677",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2018",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt9077188",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjExMTQzMjQxMV5BMl5BanBnXkFtZTgwMTIzNzU1NjM@._V1_SX300.jpg",
+      "Plot": "Illusionist Derren Brown concocts a psychological experiment in which he tries to manipulate an ordinary person into taking a bullet for a stranger",
+      "Type": "movie",
+      "RunTime": "49 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "Derren Brown, Stephen Long, Andrew O'Connor",
+      "Actors": "Derren Brown, Megan Affonso, Bob Cable",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Jailbirds",
@@ -782,6 +887,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Zac Efron, Darin Olien, Steve Hoffmann",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Worn Stories",
+      "netflix_url": "https://www.netflix.com/title/80240923",
+      "year": "2021",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt14177168",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzNmNzU3ZDItOGU3NC00ZGUyLWExYzItZWM5MzcwNjZmNTU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this funny, heartfelt and moving docuseries, real people unpack the fascinating and quirky stories around their most meaningful pieces of clothing.",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Timmy Cappello, Patrice Jetter, Simon Doonan",
       "Language": "English",
       "Country": "United States"
     },
@@ -1031,6 +1153,23 @@
       "Country": "Canada"
     },
     {
+      "title": "Prank Encounters",
+      "netflix_url": "https://www.netflix.com/title/81017316",
+      "year": "2021",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt10487072",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGYxMWNkODYtMTNjYi00YjhlLTlkYTUtM2ZkZmU5MjhlYTYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "takes two complete strangers who each think they're starting their first day at a new job. It's business as usual until their paths collide and these part-time jobs turn into full-time nightmares.",
+      "Type": "series",
+      "RunTime": "24 min",
+      "Genre": "Comedy, Horror, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "David Storrs, Gaten Matarazzo, Peter Giles",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Nailed It! Holiday!",
       "netflix_url": "https://www.netflix.com/title/81019894",
       "year": "2019",
@@ -1102,6 +1241,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Danielle Brooks, Paige Mobley, Nick Cutsumpas",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "We Are the Champions",
+      "netflix_url": "https://www.netflix.com/title/81034679",
+      "year": "2020",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt12409154",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjhiYzkyYzEtMTM4Zi00MzdiLWExMTQtNzIzNjQ4NTJjOGJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Explore an array of unique competitions, from the quirky to the bizarre, and meet their passionate communities in this docuseries.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Game-Show",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Rainn Wilson, Steve Brown, Florence Early",
       "Language": "English",
       "Country": "United States"
     },
@@ -1384,9 +1540,19 @@
     {
       "title": "Until Dawn",
       "netflix_url": "https://www.netflix.com/title/81074060",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2020",
+      "imdb_rating": "2.5",
+      "imdb_id": "tt11434862",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzViZmNlMTUtMmUwMy00MGYwLWI3NjEtOTBiMDQyYTIwMzgzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Three comedians are sent to a haunted location and asked to investigate. The one who is deemed the biggest 'chicken' gets a punishment. Subtitled.",
+      "Type": "series",
+      "RunTime": "22 min",
+      "Genre": "Comedy, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Ahmed Sylla, Alban Ivanov, Bérengère Krief",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Buy My House",
@@ -1663,9 +1829,19 @@
     {
       "title": "Sing On! Germany",
       "netflix_url": "https://www.netflix.com/title/81136574",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2020",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt12748264",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWI3Y2RiMmMtMmU1OC00MjMxLTg2OTQtNjc2OGE4ODhhMjI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this karaoke competition hosted by Palina Rojinski, contestants must hit the right note for a chance to win up to 30,000 euros.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Game-Show, Music, Reality-TV",
+      "Director": "N/A",
+      "Writer": "Victoria Ashbourne, Stuart Shawcross",
+      "Actors": "Palina Rojinski, Juan Geck, Gella Scheven",
+      "Language": "German",
+      "Country": "Germany"
     },
     {
       "title": "Dating Around: Brazil",
@@ -1806,7 +1982,7 @@
     {
       "title": "Wassup Man GO!",
       "netflix_url": "https://www.netflix.com/title/81176026",
-      "year": null,
+      "year": "2020",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -1971,11 +2147,38 @@
       "Country": "Mexico, Spain"
     },
     {
+      "title": "Haunted: Latin America",
+      "netflix_url": "https://www.netflix.com/title/81215555",
+      "year": "2021",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt14164238",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2Y3NWQwMTMtNjMyYi00ZTQ3LWIzMTAtNjQyNzU1M2RiZTgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Real people's terrifying tales of the chilling, unexplained and paranormal come to life with dramatic reenactments in this reality series.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Horror, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Laura Tovar, Cristal Aparicio, Pablo Guisa Koestinger",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
       "title": "J-Style Trip",
       "netflix_url": "https://www.netflix.com/title/81216119",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2023",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt11942052",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWUwODNkMjctNjY2Ny00MWVlLTk4NDgtMGY2ZTZkZjc5YmNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jay Chou, Funky Tu, Chen Kuan-Lin",
+      "Language": "Mandarin",
+      "Country": "Taiwan, China"
     },
     {
       "title": "Bake Squad",
@@ -2099,7 +2302,7 @@
     {
       "title": "Magic for Humans Spain",
       "netflix_url": "https://www.netflix.com/title/81244796",
-      "year": null,
+      "year": "2021",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -2198,9 +2401,19 @@
     {
       "title": "Country Ever After",
       "netflix_url": "https://www.netflix.com/title/81269298",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2020",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt12987872",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE1ZjA3MTItYWE5ZC00ZjRjLTg0OTAtNGRmM2JiZTUxNjExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Country singer Coffey Anderson and his hip-hop dancer wife Criscilla as they raise their children and navigate their opposite country vs. city perspectives of life and parenting.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Music, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Criscilla Anderson, Coffey Anderson, Elliot Schiff",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Pirate Gold of Adak Island",
@@ -2535,9 +2748,19 @@
     {
       "title": "Cheat",
       "netflix_url": "https://www.netflix.com/title/81342716",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2023",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt26451131",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGI2MjM4MzYtNGQ0Yy00NzA1LWIxNmUtZjY3Y2NiZWVlZWIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Equal parts brains and blagging, this quiz show expects and encourages contestants to cheat their way to a cash prize. The one rule? Don't get caught.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Game-Show, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Danny Dyer, Ellie Taylor",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Dated and Related",
@@ -3097,6 +3320,23 @@
       "Country": "United States"
     },
     {
+      "title": "Piñata Masters!",
+      "netflix_url": "https://www.netflix.com/title/81480890",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt23826750",
+      "Poster": "N/A",
+      "Plot": "Which of the seven participating teams will be the Piñata Heroes? Their piñatas must be colorful and creative, and impress the picky judges: a group of kids.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Daniel Sosa, Fabiola Stevenson, Belén Sánchez",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
       "title": "Iron Chef Brazil",
       "netflix_url": "https://www.netflix.com/title/81487754",
       "year": "2022",
@@ -3286,9 +3526,19 @@
     {
       "title": "Toughest Forces on Earth",
       "netflix_url": "https://www.netflix.com/title/81518623",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2024",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt25166726",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2JlOWI4OTUtMTJhOC00ZDBjLWE4NTAtYmUyMWRiOGFhYWViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows three former special operations soldiers - US Army Ranger, British Special Forces operator, and US Navy Seal - travel the world on a mission to go deep inside the most elite and secretive military units on the planet.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Ryan Bates, Cameron Fath, Ryan Bates",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "The Ultimatum: France",
@@ -3890,6 +4140,23 @@
       "Actors": "Kyôko Koizumi, Reiwa Roman",
       "Language": "Japanese",
       "Country": "Japan"
+    },
+    {
+      "title": "Love Never Lies: South Africa",
+      "netflix_url": "https://www.netflix.com/title/81675428",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34724701",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTRkZTU4ZGEtYzUzYi00YTI2LWFhMTMtOThlYzc1MTc3YjI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Six couples test their trust with an eye-scanning lie detector. In this reality series hosted by Minnie Dlamini, deception costs money and the truth comes with a prize.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "South Africa"
     },
     {
       "title": "Love Is Blind: UK",
@@ -4735,9 +5002,19 @@
     {
       "title": "You vs. Wild",
       "netflix_url": "https://www.netflix.com/title/81977118",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2025",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt10044952",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTRkODg5NTUtMGNmYS00YTYzLWE2Y2YtZDgzMWNhNzlhNjI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this interactive series, you'll make key decisions to help Bear Grylls survive, thrive and complete missions in the harshest environments on Earth.",
+      "Type": "series",
+      "RunTime": "20 min",
+      "Genre": "Adventure, Reality-TV",
+      "Director": "N/A",
+      "Writer": "Robert Buchta, Bear Grylls, Delbert Shoopman",
+      "Actors": "Bear Grylls",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Animals on the Loose: A You vs. Wild Movie",

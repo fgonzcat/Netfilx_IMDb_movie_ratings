@@ -366,7 +366,7 @@
     {
       "title": "The Lighthouse of the Orcas",
       "netflix_url": "https://www.netflix.com/title/80105690",
-      "year": null,
+      "year": "2016",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -509,9 +509,19 @@
     {
       "title": "100 Meters",
       "netflix_url": "https://www.netflix.com/title/80141173",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2016",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt5089786",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWNjNDhmNGUtM2E5Ni00YTE0LTlkNTQtZWI2MWJhMTU3Y2NkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Based on true events, a Spanish man with multiple sclerosis who tried to finish an Iron-Man competition despite he was told that he could not make 100 meters.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "Marcel Barrena",
+      "Writer": "Marcel Barrena",
+      "Actors": "Dani Rovira, Karra Elejalde, Alexandra Jiménez",
+      "Language": "Spanish",
+      "Country": "Spain, Portugal"
     },
     {
       "title": "The House of Flowers",
@@ -953,6 +963,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Coco y Raulito: Carrusel de ternura",
+      "netflix_url": "https://www.netflix.com/title/80192135",
+      "year": "2018",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt7607498",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjc5YmViMmEtNzMwYi00MWNlLThlMzYtNTYxMmMwOTgzNjQ1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "56 min",
+      "Genre": "Comedy",
+      "Director": "Raúl Campos, Jan Suter",
+      "Writer": "Coco Celis, Raúl Meneses",
+      "Actors": "Coco Celis, Raúl Meneses",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
       "title": "Alejandro Riaño: Especial de stand up",
       "netflix_url": "https://www.netflix.com/title/80192136",
       "year": "2018",
@@ -1040,7 +1067,7 @@
     {
       "title": "Club de Cuervos Presents: The Ballad of Hugo Sánchez",
       "netflix_url": "https://www.netflix.com/title/80195801",
-      "year": null,
+      "year": "2018",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -1302,9 +1329,19 @@
     {
       "title": "The Chosen One",
       "netflix_url": "https://www.netflix.com/title/80217665",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2023",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt1405354",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTMwMmNlNGYtMzllMS00ODQ1LWJmMDgtNmM2ZjE3NWIzNTBhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Jodie, a 12-year-old boy living in Baja California Sur, discovers he has Jesus-like powers; he must decide whether to answer his calling and fulfill his destiny.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "N/A",
+      "Writer": "Jorge Dorantes, Everardo Gout, Leopoldo Gout",
+      "Actors": "Bobby Luhnow, Dianna Agron, Lilith Curiel",
+      "Language": "English, Spanish",
+      "Country": "United States, Mexico"
     },
     {
       "title": "Undercover Law",
@@ -1501,6 +1538,13 @@
       "Country": "Colombia"
     },
     {
+      "title": "Camarón: The Film",
+      "netflix_url": "https://www.netflix.com/title/80232891",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Warning",
       "netflix_url": "https://www.netflix.com/title/80232989",
       "year": "2018",
@@ -1516,6 +1560,13 @@
       "Actors": "Raúl Arévalo, Aura Garrido, Hugo Arbues",
       "Language": "Spanish",
       "Country": "Spain"
+    },
+    {
+      "title": "Camarón Revolution",
+      "netflix_url": "https://www.netflix.com/title/80233223",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "High Seas",
@@ -1574,6 +1625,23 @@
       "year": "2021",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "The Little Switzerland",
+      "netflix_url": "https://www.netflix.com/title/80235578",
+      "year": "2019",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt9100028",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDYzN2VjOGItM2U4OS00NDczLWE5OTUtODY3ZmRhNmM2MDFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A fictional Castillian village but located in Basque Country tries become part of Switzerland after a surprising discovery.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Comedy",
+      "Director": "Kepa Sojo",
+      "Writer": "Alberto López, Daniel Monedero, Jelen Morales",
+      "Actors": "Jon Plazaola, Maggie Civantos, Ingrid García-Jonsson",
+      "Language": "Spanish, German, Basque",
+      "Country": "Portugal, Spain"
     },
     {
       "title": "Fugitiva",
@@ -1693,6 +1761,23 @@
       "Actors": "Mireia Oriol, Álex Villazán, Pol Monen",
       "Language": "Spanish",
       "Country": "Spain"
+    },
+    {
+      "title": "Tijuana",
+      "netflix_url": "https://www.netflix.com/title/80241474",
+      "year": "2019",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt8027624",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWZiZjg4ZTctZTc3Ni00MzAyLTlkYzctYTAxN2E2MzI4ZjdhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Local news reporters uncover a conspiracy after a Mexican presidential candidate is gunned down in the streets of Tijuana.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Zayre Ferrer, Daniel Posada",
+      "Actors": "Damián Alcázar, Tamara Vallarta, Rolf Petersen",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "Coven of Sisters",
@@ -1947,6 +2032,23 @@
       "Country": "Iran"
     },
     {
+      "title": "El club de los insomnes",
+      "netflix_url": "https://www.netflix.com/title/80990725",
+      "year": "2018",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt6719840",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTYwMTJhMmItOTFjMy00MGJiLTk5NmEtYjgxOGIxOGFlMzNhXkEyXkFqcGdeQXVyOTAzNTQxMg@@._V1_SX300.jpg",
+      "Plot": "Two people with insomnia hang out in a shop every night. The shop cashier and they keep each other company at night while their lives are in a moment of crisis.",
+      "Type": "movie",
+      "RunTime": "80 min",
+      "Genre": "Drama",
+      "Director": "Joseduardo Giordano, Sergio Goyri Jr.",
+      "Writer": "Joseduardo Giordano, Sergio Goyri Jr.",
+      "Actors": "Alejandra Ambrosi, Fernando Becerril, Humberto Busto",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
       "title": "Mirage",
       "netflix_url": "https://www.netflix.com/title/80991158",
       "year": "2018",
@@ -2075,7 +2177,7 @@
     {
       "title": "Nailed It! Mexico",
       "netflix_url": "https://www.netflix.com/title/81002145",
-      "year": null,
+      "year": "2021",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -2446,9 +2548,19 @@
     {
       "title": "Rebelde",
       "netflix_url": "https://www.netflix.com/title/81033243",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt14153686",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTE3NjY5ZWQtYzZmMS00MjYyLWJkMzEtZjQxMmU0ZGI3MzFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of students are doing their best to win EWS' Battle of the Bands. Along the way, love and friendship bloom between them while a mysterious secret society casts a shadow over their dreams of becoming the next big music star.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Quetzal Santana, Azul Guaita, Franco Masini",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "The Mess You Leave Behind",
@@ -2978,6 +3090,40 @@
       "Country": "Colombia"
     },
     {
+      "title": "Grego Rossello: Disculpe las molestias",
+      "netflix_url": "https://www.netflix.com/title/81084225",
+      "year": "2019",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt11066396",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWE1ZWFiYTAtN2FlNi00NDA2LWI4NjctMjhjMjM2ZmNjY2QzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Gregorio Rosello is a stand up comedian. In his show he told with the audience about parts of his life and very common things that happened in Argentina. The show is incredible but in my opinion only people that are Argentinean ca...",
+      "Type": "movie",
+      "RunTime": "65 min",
+      "Genre": "Comedy",
+      "Director": "Juani Libonatti",
+      "Writer": "N/A",
+      "Actors": "Grego Rossello",
+      "Language": "Spanish",
+      "Country": "Argentina"
+    },
+    {
+      "title": "Savage Rhythm",
+      "netflix_url": "https://www.netflix.com/title/81084349",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt14494806",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmMwYzczYmUtODJmOS00YmM3LWI5ZjItZWE5MmRhNTY2Mzc5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two groups from opposite worlds walk their own paths until they come face to face in a dance battle.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Music",
+      "Director": "N/A",
+      "Writer": "Juliana Barrera",
+      "Actors": "Paulina Dávila, Brooke Newton, Olivia Castanho",
+      "Language": "Spanish",
+      "Country": "Colombia"
+    },
+    {
       "title": "Under Her Control",
       "netflix_url": "https://www.netflix.com/title/81085817",
       "year": "2022",
@@ -3165,6 +3311,13 @@
       "Country": "Spain"
     },
     {
+      "title": "Without Saying Goodbye",
+      "netflix_url": "https://www.netflix.com/title/81106402",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Apache: The Life of Carlos Tevez",
       "netflix_url": "https://www.netflix.com/title/81106517",
       "year": "2019",
@@ -3204,6 +3357,23 @@
       "Actors": "Laura Rodriguez, Angelica Blandon, Ana Maria Perez",
       "Language": "Spanish",
       "Country": "Colombia"
+    },
+    {
+      "title": "Alex Fernández: The Best Comedian in the World",
+      "netflix_url": "https://www.netflix.com/title/81121981",
+      "year": "2020",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt11497900",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2YWE0YjItNjZmNy00MzJjLWEzNjQtNmZjNzI2NWI0OTMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "51 min",
+      "Genre": "Comedy",
+      "Director": "Alex Díaz",
+      "Writer": "N/A",
+      "Actors": "Alex Fernández",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "Jaguar",
@@ -3270,6 +3440,23 @@
       "Director": "Carles Torras",
       "Writer": "Rebeca Arnal, David Desola, Hèctor Hernández Vicens",
       "Actors": "Mario Casas, Déborah François, Guillermo Pfening",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
+      "title": "Sing On! Spain",
+      "netflix_url": "https://www.netflix.com/title/81136570",
+      "year": "2020",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt11698668",
+      "Poster": "https://occ-0-1038-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfbrtnNx97VM2FTHWbU6bObuufIRrBu1ASyGtLEJVUsg032Y3qKqQYOBgiiy8BmWpEhsQweZLhejHWqPyhRAYKsTvupNrNV-FIoc.jpg?r=f0a",
+      "Plot": "Six people compete for a 30,000 euro reward by singing popular songs.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Game-Show, Music",
+      "Director": "N/A",
+      "Writer": "Victoria Ashbourne, Stuart Shawcross",
+      "Actors": "Ricky Merino, Barbara Orti, Amore Psiche",
       "Language": "Spanish",
       "Country": "Spain"
     },
@@ -3519,6 +3706,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Murder by the Coast",
+      "netflix_url": "https://www.netflix.com/title/81179778",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt13323092",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTM1MDVlMDAtMTljYS00M2I4LWI0NWYtY2I1Yjk3YjdmZmVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In 1999, teen Rocío Wanninkhof is murdered. Her mother's ex-partner, Dolores Vázquez, is suspected. Did she do it? A second victim reveals the truth.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "Tània Balló, Marc M. Sarrado",
+      "Writer": "Gonzalo Berger",
+      "Actors": "N/A",
+      "Language": "Spanish, English",
+      "Country": "Spain"
+    },
+    {
       "title": "Disappear Completely",
       "netflix_url": "https://www.netflix.com/title/81181112",
       "year": "2022",
@@ -3585,6 +3789,40 @@
       "Actors": "Ryan Corr, Abbey Lee, Simone Kessell",
       "Language": "English",
       "Country": "Australia"
+    },
+    {
+      "title": "Fanático",
+      "netflix_url": "https://www.netflix.com/title/81203364",
+      "year": "2022",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt13322978",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGZiZjY4ZTctYzViYS00Njg5LWI3M2ItMTIyY2NmOGU5YjVmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An unconditional fan starts impersonating his new idol following his death.",
+      "Type": "series",
+      "RunTime": "10 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "N/A",
+      "Writer": "Yago de Torres Peño, Dani del Águila, Federico Maniá Sibona",
+      "Actors": "Lorenzo Ferro, Dollar Selmouni, Carlota Urdiales",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
+      "title": "Who's a Good Boy?",
+      "netflix_url": "https://www.netflix.com/title/81205652",
+      "year": "2022",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt18082726",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjZkODBmMTEtMTMwNC00OWY0LWFkOTgtOWY0MTNjNzdhN2UyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Chema has a mission: date Claudia, the new girl at his school, so he can lose his virginity to her before the end of the school year. Will he fulfill his dream before graduation?",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy",
+      "Director": "Ihtzi Hurtado",
+      "Writer": "Borja Cobeaga, Ihtzi Hurtado, Diego San José",
+      "Actors": "Sebastian Dante, Sirena Ortiz, Harold Azuara",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "Lokillo: Nothing's the Same",
@@ -3679,6 +3917,40 @@
       "imdb_id": null
     },
     {
+      "title": "Love After Music",
+      "netflix_url": "https://www.netflix.com/title/81219817",
+      "year": "2023",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt18280522",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTgzZjE3MWEtOWQ1NS00OTdlLTgzYzUtYWNmZDM5YzFhMzFkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "No one can and no one should live without love. This bioseries traces the passionate life and career of iconic Argentinian rock star Fito Paez.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Biography, Drama, Music",
+      "Director": "N/A",
+      "Writer": "Juan Pablo Kolodziej",
+      "Actors": "Ivan Hochman, Micaela Riera, Manu Fanego",
+      "Language": "Spanish",
+      "Country": "Argentina, United States"
+    },
+    {
+      "title": "Making Malinche: A Documentary by Nacho Cano",
+      "netflix_url": "https://www.netflix.com/title/81238641",
+      "year": "2021",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt15478968",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1MTUxNDctNzBjYi00NzRkLWFjZjgtM2Q0ZDQwNTQyNmFlXkEyXkFqcGdeQXVyNzA1MjA5NzA@._V1_SX300.jpg",
+      "Plot": "Join the creative process behind Nacho Cano's new musical based on the love story of Malinche and Hernan Cortes and the merging of their two worlds.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Documentary, Musical",
+      "Director": "Marta Hermida, Lana Love",
+      "Writer": "N/A",
+      "Actors": "Nacho Cano, Andrés Domit del Valle, Kristen Grace Gonzalez",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "Bank Robbers: The Last Great Heist",
       "netflix_url": "https://www.netflix.com/title/81248392",
       "year": "2022",
@@ -3764,6 +4036,23 @@
       "Country": "Colombia, Argentina, Mexico"
     },
     {
+      "title": "Once Upon a Time... Happily Never After",
+      "netflix_url": "https://www.netflix.com/title/81263779",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt13560186",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzAxNzQzMjMtNmVhNy00YmJmLWEyMjEtYTk2ZTRjOTdhOTcyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A tragically separated couple must find each other in another life to break a spell on their town, but the arrival of two tourists threaten their chance.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Fantasy, Musical",
+      "Director": "N/A",
+      "Writer": "Manolo Caro",
+      "Actors": "Sebastián Yatra, Nia Correia, Monica Mara",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "Tell Me When",
       "netflix_url": "https://www.netflix.com/title/81266221",
       "year": "2021",
@@ -3817,9 +4106,19 @@
     {
       "title": "In Broad Daylight: The Narvarte Case",
       "netflix_url": "https://www.netflix.com/title/81273461",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2022",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt23709118",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDkwYTA0MDctZDE0NC00ZDhmLWI1NTctOWRlY2M4YjY0NzlkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This documentary unveils evidence of corruption in the investigation into the murder of five people in the Narvarte neighborhood of Mexico City in 2015.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Alberto Arnaut Estrada",
+      "Writer": "Alberto Arnaut Estrada, Pedro G. García, Salma Abo Harp",
+      "Actors": "Indira Alfaro, Samantha Olivares Canales, Ignacio Córdoba",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "The Wasteland",
@@ -3837,6 +4136,23 @@
       "Actors": "Stephanie Bursill, Amir Bengard, Charleen Williams",
       "Language": "English",
       "Country": "Australia"
+    },
+    {
+      "title": "800 Meters",
+      "netflix_url": "https://www.netflix.com/title/81275696",
+      "year": "2022",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt13323170",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjY3YjUwODUtMTQ3My00OGE4LTkyNzMtYTg4MmE2N2JhYWQ5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "On Aug. 17, 2017, Spain suffers two terrorist attacks perpetrated by young people integrated into Spanish society. How could something like this happen?",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Austen Moret, Sílvia Aranda, Ada Colau",
+      "Language": "Spanish, Arabic, Catalan",
+      "Country": "Spain"
     },
     {
       "title": "The Day of the Lord",
@@ -4222,9 +4538,19 @@
     {
       "title": "Heavenly Bites: Mexico",
       "netflix_url": "https://www.netflix.com/title/81333651",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt16539880",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTRiOTU5NmYtNGU4MC00MzRhLTlkOTEtYTI0NmY3MmU5Y2JjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Welcome to a food extravaganza, a visual poem to Mexico's foodie ingenuity and the quirky and delicious flavors that are worth the stomach aches.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Bill Rogers, Memo Villegas, Rodrigo Pérez Ortega",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "Juanpis González - The Series",
@@ -4295,6 +4621,40 @@
       "Country": "United States"
     },
     {
+      "title": "Rainbow",
+      "netflix_url": "https://www.netflix.com/title/81351145",
+      "year": "2022",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt14722598",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmZkMjI0MDctOTNhOC00ODc1LTgwZTMtOWU0ZmQxYmQxN2JjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Modern day Dorothy (Wizard of Oz inspiration) faces the challenges of being a teenager nowdays and the harsh words of peers.",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Drama",
+      "Director": "Paco León",
+      "Writer": "Javier Gullón, Paco León",
+      "Actors": "Dora Postigo, Carmen Maura, Carmen Machi",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
+      "title": "Xico's Journey",
+      "netflix_url": "https://www.netflix.com/title/81354432",
+      "year": "2021",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt12481806",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmYzMzRkZmItMmUzYS00YmIxLTljNTQtNjg3Y2JiMDA3YmM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A girl, a dog and her best pal set out to save a mountain from a gold-hungry corporation. But the key lies closer to home, with her sidekick pup, Xico.",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Animation, Adventure, Family",
+      "Director": "Eric Cabello, Wayne Dearing",
+      "Writer": "Mayra Gabriela Aldana Castro, Adrian Guerra, Carlos Pascual",
+      "Actors": "Verónica Jalil, Luis Angel Jaramillo, Pablo Gama Iturrarán",
+      "Language": "English, Spanish",
+      "Country": "Mexico, Philippines"
+    },
+    {
       "title": "The Cook of Castamar",
       "netflix_url": "https://www.netflix.com/title/81354529",
       "year": "2021",
@@ -4327,6 +4687,23 @@
       "Actors": "Luis Gerardo Méndez, Paulina Gaitan, Irene Azuela",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "Eva Lasting",
+      "netflix_url": "https://www.netflix.com/title/81354972",
+      "year": "2025",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt26346647",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWIwZjlmYTEtNGY2Ni00MWRlLTk4OTMtMTZlNGMwY2Q5MjE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A mysterious teen girl arrives at an all-boys school in 1970s Colombia, breaking stereotypes, rules - and a few hearts.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jaime Zevallos, Francisca Estevez, Verónica Orozco",
+      "Language": "Spanish",
+      "Country": "Colombia"
     },
     {
       "title": "¡Que viva México!",
@@ -4461,6 +4838,40 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Milena Smit, Aixa Villagrán, Marco Cáceres",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
+      "title": "Through My Window",
+      "netflix_url": "https://www.netflix.com/title/81388078",
+      "year": "2022",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt14463484",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2E1NDViNmItMzU5Yy00YWRiLTg4OTItM2VkZmQyMTdkNzY0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Raquel's longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family's objections.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Marçal Forés",
+      "Writer": "Ariana Godoy, Eduard Sola",
+      "Actors": "Clara Galle, Julio Peña, Guillermo Lasheras",
+      "Language": "Spanish, English",
+      "Country": "Spain, United States"
+    },
+    {
+      "title": "Heroes: Silence and Rock & Roll",
+      "netflix_url": "https://www.netflix.com/title/81393720",
+      "year": "2021",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt14354838",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTBlYTQ3ZjktMTQ4OC00ZDM5LTgzMWMtNDRkOGExNzk5N2YxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "\"HEROES: SILENCIO Y ROCK AND ROLL\" tells the story of spanish rock band Héroes del Silencio since their very begining to their rise to stardom. It's a movie about friendship, music and compromise. It's the story of their lives, th...",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Documentary",
+      "Director": "Alexis Morante",
+      "Writer": "Alexis Morante, Nacho Blasco",
+      "Actors": "Pedro Andreu, Enrique Bunbury, Joaquín Cardiel",
       "Language": "Spanish",
       "Country": "Spain"
     },
@@ -4637,9 +5048,19 @@
     {
       "title": "You Are Not Alone: Fighting the Wolf Pack",
       "netflix_url": "https://www.netflix.com/title/81407092",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2023",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt31410930",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmViMzQ0MTctNjYwMC00ZThiLWEyNWYtMDU4YThmNWNhMTM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Through key testimonies, this documentary looks at a gang rape that took place during the 2016 San Fermín festival and sparked protests worldwide.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Documentary",
+      "Director": "Robert Bahar, Almudena Carracedo",
+      "Writer": "Almudena Carracedo, Robert Bahar",
+      "Actors": "Natalia de Molina, Carolina Yuste, Óscar de la Fuente",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Where the Tracks End",
@@ -4678,7 +5099,7 @@
     {
       "title": "The K.E.OP/S System",
       "netflix_url": "https://www.netflix.com/title/81418159",
-      "year": null,
+      "year": "2022",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -5099,6 +5520,23 @@
       "Country": "Spain, United States, Romania"
     },
     {
+      "title": "The Signing",
+      "netflix_url": "https://www.netflix.com/title/81490766",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27128307",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWRhNmFiMjgtMTEwMS00Y2JmLWE5OTQtNWYwYjQ2ODljYjNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Latino artists must impress Rauw Alejandro, Tainy, Nicki Nicole, Yandel, and Lex Borrero to score a contract.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Music, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Rauw Alejandro, Nicki Nicole, Lex Borrero",
+      "Language": "Spanish",
+      "Country": "United States"
+    },
+    {
       "title": "Triptych",
       "netflix_url": "https://www.netflix.com/title/81494917",
       "year": "2023",
@@ -5288,9 +5726,19 @@
     {
       "title": "Love is Blind: Mexico",
       "netflix_url": "https://www.netflix.com/title/81515696",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2024",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt31408298",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTc5ZGU2MmMtZTI1Ny00NDZiLWE3YWItZGEzMGI4MzA3YmY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "These singles have to put a ring on it - without ever seeing one another. The Emmy-nominated experiment that ponders if love is blind arrives in Mexico.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Reality-TV, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Marabina Jaimes, Charlotte Wilson Langley, Eduardo De Los Reyes",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "The Substitute",
@@ -5936,6 +6384,13 @@
       "Country": "Argentina"
     },
     {
+      "title": "Women on the Edge",
+      "netflix_url": "https://www.netflix.com/title/81626006",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Accidental Twins",
       "netflix_url": "https://www.netflix.com/title/81627034",
       "year": "2024",
@@ -6208,6 +6663,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Rebellion",
+      "netflix_url": "https://www.netflix.com/title/81667472",
+      "year": "2022",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt15344424",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTc4Nzk2MmItNTkxNS00Y2I0LWFhMzktYzllYmY5YzY1NWMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "La película retrata a un vulnerable y anónimo Joe Arroyo, quizás el cantante colombiano de salsa más importante de la historia, en su viaje claustrofóbico por diferentes momentos de su vida. Un genio musical, cantante y compositor...",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Biography, Drama, Music",
+      "Director": "José Luis Rugeles",
+      "Writer": "Chucky García, Martín Mauregui, José Luis Rugeles",
+      "Actors": "Angie Cepeda, Roger Duguay, Jhon Narváez",
+      "Language": "Spanish",
+      "Country": "Colombia, Argentina, United States"
+    },
+    {
       "title": "Little Nicholas: Life of a Scoundrel",
       "netflix_url": "https://www.netflix.com/title/81667933",
       "year": "2023",
@@ -6465,9 +6937,19 @@
     {
       "title": "Chabuca",
       "netflix_url": "https://www.netflix.com/title/81696674",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32222167",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2QwNzZiZGYtMWZkYS00YTlhLWE5MGItOTE3NWU3NTM1MzUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Biopic that immerses us in the life of Peruvian host Ernesto Pimentel. A man who defied social conventions to become an icon of Peruvian television with his character of \"La Chola Chabuca\".",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Biography, Comedy, Drama",
+      "Director": "Jorge Carmona",
+      "Writer": "Italo Cordano, Ernesto Pimentel, Mariana Silva",
+      "Actors": "Sergio Armasgo, Haydeé Cáceres, Miguel Davalos",
+      "Language": "Spanish",
+      "Country": "Peru"
     },
     {
       "title": "The Lady's Companion",
@@ -6933,6 +7415,23 @@
       "Country": "India"
     },
     {
+      "title": "I’m Still a Superstar",
+      "netflix_url": "https://www.netflix.com/title/81742746",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt37388226",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTViZDk2NmQtNzk0YS00YWJiLWE5NGQtY2E4YjNlMWRkYmIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A nostalgic look at a Spanish media sensation from the early 2000s, following the rise of singer Yurena (then known as Tamara) and her journey to becoming a pop culture icon with her hit \"No cambié.\"",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "Marc Pujolar",
+      "Writer": "Marc Pujolar, María Zuil",
+      "Actors": "Arlequín, Leonardo Dantés, Toni Genil",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "900 Days Without Anabel",
       "netflix_url": "https://www.netflix.com/title/81742747",
       "year": "2024",
@@ -7121,6 +7620,23 @@
       "imdb_id": null
     },
     {
+      "title": "Aitana: Metamorphosis",
+      "netflix_url": "https://www.netflix.com/title/81786471",
+      "year": "2025",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt35315539",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDM0OGU2ZWYtMmU5Yi00YmU1LTgzMGYtZDc4ZTljYzllNzM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow pop star Aitana's journey in this 6-part series as she grows personally and professionally, shares her hits, faces challenges, and emerges as a leading Spanish music artist.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Aitana, Burgandi Trejo Phoenix",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "A Widow's Game",
       "netflix_url": "https://www.netflix.com/title/81786479",
       "year": "2025",
@@ -7136,6 +7652,13 @@
       "Actors": "Carmen Machi, Ivana Baquero, Tristán Ulloa",
       "Language": "Spanish, Catalan",
       "Country": "Spain"
+    },
+    {
+      "title": "Rockstar Duki from the end of the world",
+      "netflix_url": "https://www.netflix.com/title/81786830",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "EMILIA PÉREZ",

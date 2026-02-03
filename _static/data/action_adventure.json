@@ -1744,6 +1744,23 @@
       "Country": "South Korea, United States"
     },
     {
+      "title": "Gridlocked",
+      "netflix_url": "https://www.netflix.com/title/80097221",
+      "year": "2015",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt2724532",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4MDMxNjQ0Ml5BMl5BanBnXkFtZTgwNTU2Nzk2ODE@._V1_SX300.jpg",
+      "Plot": "Former SWAT leader David Hendrix and hard-partying movie star Brody Walker must cut their ride-along short when a police training facility is attacked by a team of mercenaries.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Action",
+      "Director": "Allan Ungar",
+      "Writer": "Allan Ungar, Rob Robol",
+      "Actors": "Dominic Purcell, Cody Hackman, Saul Rubinek",
+      "Language": "English",
+      "Country": "Canada"
+    },
+    {
       "title": "Spectral",
       "netflix_url": "https://www.netflix.com/title/80098200",
       "year": "2016",
@@ -1759,6 +1776,23 @@
       "Actors": "James Badge Dale, Emily Mortimer, Bruce Greenwood",
       "Language": "English, Russian, Romanian, Slovenian",
       "Country": "United States, Hungary"
+    },
+    {
+      "title": "Headshot",
+      "netflix_url": "https://www.netflix.com/title/80109145",
+      "year": "2016",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt5147214",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI2MzU2ODQ4M15BMl5BanBnXkFtZTgwOTgxMTU5OTE@._V1_SX300.jpg",
+      "Plot": "Uwais plays a young man who washes ashore, an amnesiac with a serious head injury whose past comes back to haunt him shortly after being nursed back to health by a young doctor. Violence ensues. Sweet, sweet violence.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Action, Drama, Thriller",
+      "Director": "Kimo Stamboel, Timo Tjahjanto",
+      "Writer": "Timo Tjahjanto",
+      "Actors": "Iko Uwais, Chelsea Islan, Sunny Pang",
+      "Language": "Indonesian, English",
+      "Country": "Indonesia, Singapore"
     },
     {
       "title": "Wheelman",
@@ -4751,6 +4785,23 @@
       "Country": "Poland"
     },
     {
+      "title": "Freestyle",
+      "netflix_url": "https://www.netflix.com/title/81498379",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt28366647",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWE2ZGRkZmEtNjE4MS00NjAyLWEyMjUtNzc5YzBkNzYwNTkzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In need of cash for time in the recording studio, a rising rap star with a criminal past sets up a risky drug deal that could cost him everything.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Action, Crime",
+      "Director": "Maciej Bochniak",
+      "Writer": "Maciej Bochniak, Slawomir Shuty",
+      "Actors": "Maciej Musialowski, Nel Kaczmarek, Michal Sikorski",
+      "Language": "Polish",
+      "Country": "Poland"
+    },
+    {
       "title": "Mr. Car and the Knights Templar",
       "netflix_url": "https://www.netflix.com/title/81500432",
       "year": "2023",
@@ -5125,6 +5176,23 @@
       "Country": "India"
     },
     {
+      "title": "Believer 2",
+      "netflix_url": "https://www.netflix.com/title/81594923",
+      "year": "2023",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt26258204",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjA0OGJhMjYtNTQ3YS00ZGE5LTg5YzAtOGRlMTA1NWJkMTM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A determined detective continues his search for the truth behind Asia's largest drug organization and its elusive boss he has unfinished business with.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Jong-Yeol Baek",
+      "Writer": "Cheol-Hong Jeon",
+      "Actors": "Kim Dong-young, Andreas Fronk, Han Hyo-joo",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Shehzada",
       "netflix_url": "https://www.netflix.com/title/81595543",
       "year": "2023",
@@ -5391,6 +5459,13 @@
       "Country": "India"
     },
     {
+      "title": "Leo (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81639323",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Revolver Rita",
       "netflix_url": "https://www.netflix.com/title/81643034",
       "year": "2025",
@@ -5561,6 +5636,23 @@
       "Country": "United Kingdom, Spain, United States"
     },
     {
+      "title": "Aadikeshava",
+      "netflix_url": "https://www.netflix.com/title/81671565",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt25434168",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmU2ZWRmNDktZGJmYS00YzA5LWJlMmItMzI4NjJmODgyNTg1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A turn of events takes an urban-bred guy into the heart of Rayalaseema, where there are scores to settle.",
+      "Type": "movie",
+      "RunTime": "125 min",
+      "Genre": "Action, Drama",
+      "Director": "Srikanth N Reddy",
+      "Writer": "Srikanth N Reddy",
+      "Actors": "Panja Vaisshnav Tej, Joju George, Sreeleela",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
       "title": "Uprising",
       "netflix_url": "https://www.netflix.com/title/81672158",
       "year": "2024",
@@ -5658,6 +5750,23 @@
       "Actors": "Brahmaji, Vaishnavi Chaitanya, Sidhu Jonnalagadda",
       "Language": "Telugu, Hindi, Tamil, Kannada, Malayalam",
       "Country": "India"
+    },
+    {
+      "title": "House of Ga'a",
+      "netflix_url": "https://www.netflix.com/title/81681233",
+      "year": "2024",
+      "imdb_rating": "3.9",
+      "imdb_id": "tt31691318",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGMzOTBkYTYtYzc3Ny00ZmExLTkwNTctZTc2MDA0MGM2ZGU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A ruthless Prime Minister desperate for revenge ferociously rises to power, stopping at nothing to become more powerful than the kings he served.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Bolanle Austen-Peters",
+      "Writer": "Tunde Babalola",
+      "Actors": "Femi Branch, Mike Afolarin, Funke Akindele",
+      "Language": "English",
+      "Country": "Nigeria"
     },
     {
       "title": "Jagun Jagun",
@@ -6541,6 +6650,23 @@
       "Country": "Thailand"
     },
     {
+      "title": "Conquer: Lahad Datu",
+      "netflix_url": "https://www.netflix.com/title/81949600",
+      "year": "2024",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt30526240",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmVkZDAzY2UtMmFkZS00MTY3LWJkNmUtNjE3Zjg3NGZhMzI2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Malaysian security forces in quelling the militant group of the Sulu Sultanate aka \"Operation Daulat\" in Lahad Datu, Sabah.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Zulkarnain Azhar",
+      "Writer": "Zulkarnain Azhar, Peter Toyat",
+      "Actors": "Syafiq Kyle, Kamal Adli, Fikry Ibrahim",
+      "Language": "Malay",
+      "Country": "Malaysia"
+    },
+    {
       "title": "Bleeding Tiger: Resolution",
       "netflix_url": "https://www.netflix.com/title/81949637",
       "year": "2024",
@@ -6621,6 +6747,13 @@
       "Actors": "Chad Michael Collins, Ryan Robbins, Sharon Taylor",
       "Language": "English",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "Baahubali: The Beginning (Spanish Version)",
+      "netflix_url": "https://www.netflix.com/title/82031153",
+      "year": "2015",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Jaat",

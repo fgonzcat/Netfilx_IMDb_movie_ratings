@@ -549,9 +549,19 @@
     {
       "title": "Marcella",
       "netflix_url": "https://www.netflix.com/title/80094728",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2019",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt5269594",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDVmZWI2NWItN2Q0ZC00NDIzLThkYjAtZWIzNzE3MmY2ZGJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Marcella Backland left the Metropolitan Police for the sake of her family, only to have her husband leave her. She returns to her job on the murder squad, investigating a case that seems disturbingly familiar to her.",
+      "Type": "series",
+      "RunTime": "45 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Hans Rosenfeldt, Nicola Larder",
+      "Actors": "Anna Friel, Ray Panthaki, Jack Doolan",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Sneaky Pete",
@@ -726,9 +736,19 @@
     {
       "title": "Inside the World’s Toughest Prisons",
       "netflix_url": "https://www.netflix.com/title/80116922",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2023",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt6322264",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2ZjBjZTEtMjJmNy00YzE5LTk1ZWYtYmU3YWZhMjEyNjdmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Imagine being in jail. Now imagine living in a foreign country. Scary? Paul Connelly takes you inside these jails. He shows what living conditions are for the inmates, as well as the guards. You'll never look at prison the same.",
+      "Type": "series",
+      "RunTime": "47 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Raphael Rowe, Paul Connelly, Marios El Khoury",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "American Vandal",
@@ -1189,9 +1209,19 @@
     {
       "title": "The Indian Detective",
       "netflix_url": "https://www.netflix.com/title/80190279",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2017",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt5797220",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDc2ZTIzMzMtZmM5Zi00NTA4LWJlMjgtMTc0NTZkMGZkOWI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A Toronto police officer investigates a murder while visiting his father in India.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Smita Bhide, Frank Spotnitz",
+      "Actors": "Russell Peters, Anupam Kher, Christina Cole",
+      "Language": "English",
+      "Country": "Canada, Germany, South Africa"
     },
     {
       "title": "Tidelands",
@@ -1413,6 +1443,23 @@
       "Actors": "Corey Feldman, Corey Haim, Dominick Brascia, Mariana Morgan",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Quicksand",
+      "netflix_url": "https://www.netflix.com/title/80211703",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt7340738",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmU1MTk1MWMtMDYzZC00OTU5LWI5YmUtMTk0NWRjMDdiYmExXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Maja, a student in Stockholm, finds herself on trial for murder after a tragedy at her school. More doubts and suspicions arise when new revelations are made.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Hanna Ardéhn, Felix Sandman, David Dencik",
+      "Language": "Swedish",
+      "Country": "Sweden"
     },
     {
       "title": "Puerta 7",
@@ -1881,6 +1928,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "Hashoter Hatov",
+      "netflix_url": "https://www.netflix.com/title/80240277",
+      "year": "2015",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt6070434",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjRhMzVmNGEtYzNlYS00ZWE0LTg4YTMtYjFkZTU3NTk1NDFiXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_SX300.jpg",
+      "Plot": "An Israeli police comedy. Danny Konfino is a police officer serving in a suburban police station. Although his quick temper often gets him into trouble, he is as honest as one can get and a highly dedicated crime fighter. With his...",
+      "Type": "series",
+      "RunTime": "30 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Erez Aviram, Tomer Aviram, Yuval Semo",
+      "Actors": "Yuval Semo, Liora Rivlin, Guy Loel",
+      "Language": "Hebrew",
+      "Country": "Israel"
+    },
+    {
       "title": "Hache",
       "netflix_url": "https://www.netflix.com/title/80241387",
       "year": "2021",
@@ -2053,9 +2117,19 @@
     {
       "title": "White Lines",
       "netflix_url": "https://www.netflix.com/title/80993591",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2020",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt9073958",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWIzYjk4ZDEtN2EyZC00OGZkLWJkYWYtY2M0NWIxODJlZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman tries to solve the mysterious death of her brother, a famous DJ who disappeared from Ibiza many years ago.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Álex Pina",
+      "Actors": "Laura Haddock, Nuno Lopes, Marta Milans",
+      "Language": "English, Spanish",
+      "Country": "United Kingdom, Spain"
     },
     {
       "title": "Lupin",
@@ -2322,9 +2396,19 @@
     {
       "title": "World's Most Wanted",
       "netflix_url": "https://www.netflix.com/title/81013210",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2020",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt12753698",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2NlNDE3MjEtYWRiMi00Y2Q2LTk3ZDQtY2Q1ZTk3MmRhMWE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Heinous criminals have avoided capture despite massive rewards and global investigations. This docuseries profiles five of the world's most wanted.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jennifer Julian, David Lorino, Pierre-Richard Prosper",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "PIECES OF HER",
@@ -2448,9 +2532,19 @@
     {
       "title": "Don't F**k with Cats: Hunting an Internet Killer",
       "netflix_url": "https://www.netflix.com/title/81031373",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2019",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt11318602",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmJhMjdhMmYtNTI0NS00OGIzLWIzZGItZTQ4NzI4ZWU0ZjYyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of online justice seekers track down a guy who posted a video of himself killing kittens.",
+      "Type": "series",
+      "RunTime": "187 min",
+      "Genre": "Documentary, Crime, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Deanna Thompson, John Green, Luka Rocco Magnotta",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Worst Roommate Ever",
@@ -2829,9 +2923,19 @@
     {
       "title": "Vatican Girl: The Disappearance of Emanuela Orlandi",
       "netflix_url": "https://www.netflix.com/title/81117191",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2022",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt22746676",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTAyYWNiNzYtODJlYy00NmY5LWJhZTctYjEzNmVhMTkyMTMzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A 15 year-old girl living in Vatican City, disappeared under mysterious circumstances that are believed to have involved the Vatican.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Andrea Purgatori, Natalina Orlandi, Helene olivi Borghese",
+      "Language": "English, Italian",
+      "Country": "United Kingdom, Italy"
     },
     {
       "title": "The Snitch Cartel: Origins",
@@ -2989,16 +3093,36 @@
     {
       "title": "American Conspiracy: The Octopus Murders",
       "netflix_url": "https://www.netflix.com/title/81168725",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2024",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt31030101",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjBkYzM3MDUtZGI2NS00ZGFkLWFmNDUtZDEzMGRiNThmYzIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows journalist Danny Casolaro's mysterious death while probing an alleged conspiracy called \"The Octopus\" linking spy software theft, unsolved murders and major 20th-century scandals.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Christian Hansen, Ann Klenk, Zachary Treitz",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Conversations with a Killer: The Jeffrey Dahmer Tapes",
       "netflix_url": "https://www.netflix.com/title/81173345",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2022",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt21946032",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTIzN2E3ZTEtNTRmNi00M2ViLThmMzktY2E2NjAwMzU0OTJlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Serial killer Jeffrey Dahmer confesses to his gruesome crimes in unguarded interviews, offering an unsettling view into a disturbed mind.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Biography, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Park Dietz, Wendy Patrickus, Anne E. Schwartz",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Ganglands",
@@ -3173,9 +3297,19 @@
     {
       "title": "Aranyak",
       "netflix_url": "https://www.netflix.com/title/81226180",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2021",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt14167344",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjg3MDU1NGQtMWI5ZC00NGEwLTk3NGUtNWE2ZmFhYmM4OTIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Political ploys, personal agendas and a beastly myth all surface as two mismatched hill station cops navigate a web of suspects after a puzzling murder.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Raveena Tandon, Parambrata Chattopadhyay, Ashutosh Rana",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Wednesday",
@@ -3214,9 +3348,19 @@
     {
       "title": "Killer Soup",
       "netflix_url": "https://www.netflix.com/title/81241510",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt22297290",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjNiYTRjYjQtOWI1Yy00OTZlLWI4YTItMTkxMDA4NzkyNThjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Swathi dreams of owning a restaurant. But when murder derails her plan, she and her lover take an outrageous step - to replace him with her husband.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "Abhishek Chaubey, Unaiza Merchant, Harshad Nalawade",
+      "Actors": "Manoj Bajpayee, Konkona Sen Sharma, Sayaji Shinde",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Rugal",
@@ -3636,9 +3780,19 @@
     {
       "title": "The Good Detective",
       "netflix_url": "https://www.netflix.com/title/81323914",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2022",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt12504214",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODU3ZTUzMDgtYjJlYy00ZWRhLTg4OTgtMGY5YjE4ZDAxMWIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A drama about the race between people who want to get closer to the truth and those who want to cover it up.",
+      "Type": "series",
+      "RunTime": "56S min",
+      "Genre": "Action, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Son Hyeon-ju, Kim Ji-hoon, Jang Seung-jo",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "The Unlikely Murderer",
@@ -4245,9 +4399,19 @@
     {
       "title": "Ludik",
       "netflix_url": "https://www.netflix.com/title/81467332",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2022",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt21341988",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2U3MjcxYjAtZTQ0Mi00ZWM0LTg1MjItMDYxNzU2YmFmNGI0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "To save a kidnapped family member, an enterprising furniture tycoon must use his secret diamond smuggling operation to transport guns across the border.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Paul Buys, Annemarie van Basten",
+      "Actors": "Pieter Vorster, Vikash Mathura, Arnold Vosloo",
+      "Language": "Afrikaans, English",
+      "Country": "South Africa"
     },
     {
       "title": "The Nurse",
@@ -4786,9 +4950,19 @@
     {
       "title": "Echoes of the Past",
       "netflix_url": "https://www.netflix.com/title/81574314",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2024",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt31106358",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWI5Y2YwM2YtMTY1Yy00MDlhLWJiMTktZjhjM2NiMDMxNTk3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Wrongfully accused of his sister's murder, Yehia is fiercely determined to seek vengeance and unmask the true perpetrator.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Rakeen Saad, Asser Yassin, Mahmoud Hemida",
+      "Language": "Arabic",
+      "Country": "Egypt"
     },
     {
       "title": "UNTAMED",
@@ -5378,7 +5552,7 @@
     {
       "title": "Maestro in Blue",
       "netflix_url": "https://www.netflix.com/title/81644787",
-      "year": null,
+      "year": "2024",
       "imdb_rating": null,
       "imdb_id": null
     },
@@ -6587,9 +6761,19 @@
     {
       "title": "The Confidence Man JP",
       "netflix_url": "https://www.netflix.com/title/81947279",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2018",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt8258938",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzkzZWZmYjQtNzgxZS00N2MyLWE3ZjEtNTcwYjYzNmQzMDMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dako (Masami Nagasawa) is a con woman who takes money from wealthy people like yakuza bosses and evil businessmen. She works with Boku-chan (Masahiro Higashide) and Richard (Fumiyo Kohinata) to carry their plans using fantastic te...",
+      "Type": "series",
+      "RunTime": "45 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Masami Nagasawa, Masahiro Higashide, Fumiyo Kohinata",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Crime Scene Zero",

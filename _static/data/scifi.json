@@ -1693,6 +1693,23 @@
       "Country": "United States"
     },
     {
+      "title": "Sol Levante",
+      "netflix_url": "https://www.netflix.com/title/81017017",
+      "year": "2020",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt12079068",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ExYjA0MjEtYjgyYS00YTA0LWI2NWQtNDE2MjFlZmRkOWY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young warrior leaves in search of the sacred place which is said to grant wishes. Better not to stir the wrath of the ancient guardian spirits.",
+      "Type": "movie",
+      "RunTime": "4 min",
+      "Genre": "Animation, Short, Action",
+      "Director": "Akira Saitou",
+      "Writer": "Akira Saitou",
+      "Actors": "N/A",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Cities of Last Things",
       "netflix_url": "https://www.netflix.com/title/81024041",
       "year": "2018",

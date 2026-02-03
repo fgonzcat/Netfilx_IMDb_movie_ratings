@@ -881,6 +881,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Magic School Bus Rides Again",
+      "netflix_url": "https://www.netflix.com/title/80108373",
+      "year": "2018",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt3869122",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0MjA5Mjc4Ml5BMl5BanBnXkFtZTgwNDE2NDMzNTM@._V1_SX300.jpg",
+      "Plot": "Ms. Frizzle and her class along with an inventive high-tech bus that invites children on high-flying hijinks that introduce the incredible world of science.",
+      "Type": "series",
+      "RunTime": "26 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kate McKinnon, Gabby Clarke, Lynsey Pham",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "StoryBots Super Songs",
       "netflix_url": "https://www.netflix.com/title/80113144",
       "year": "2016",
@@ -1471,6 +1488,40 @@
       "Actors": "Justin Collette, Mark Little, Kyle Dooley",
       "Language": "English, Portuguese",
       "Country": "Canada, Brazil"
+    },
+    {
+      "title": "The Nutty Boy",
+      "netflix_url": "https://www.netflix.com/title/80209569",
+      "year": "2023",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt22750574",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjMyZGZmMDUtZmY2My00NjE3LWJhNmUtYjY2MDlmNzU4MjVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Nutty Boy is an out-of-the-box kid with big ideas who loves involving everyone in his adventures - even though they don't usually go as planned!",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Short, Comedy",
+      "Director": "N/A",
+      "Writer": "Arnaldo Branco, Carina Schulze",
+      "Actors": "Aryè Campos, Bruce Wexler, Taylor Lauren",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
+      "title": "Twelve Forever",
+      "netflix_url": "https://www.netflix.com/title/80210294",
+      "year": "2019",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt8009622",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWNiZjBkODAtMDVlZS00MWJiLThmNjEtMGE4ODUzMTc3MTVlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Reggie's dream is to be a kid forever. Her dream is so powerful that it creates its own fantasy world of perpetual youth.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "Julia Vickerman",
+      "Actors": "Jaylen Barron, Antony Del Rio, Kelsy Abbott",
+      "Language": "N/A",
+      "Country": "United States"
     },
     {
       "title": "Super Giant Robot Brothers",
@@ -3012,6 +3063,23 @@
       "Actors": "Pedro De Tavira, Juana Viale, Cecilia Ponce",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "Kitti Katz",
+      "netflix_url": "https://www.netflix.com/title/81093076",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt27146569",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjU2MDRhOWYtNTY3Mi00ZmI0LTkxMjUtMDcyMjMwODI2NGM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Three teenage girls transform into fierce feline superheroes to save the world from an evil Egyptian goddess and still have time for soccer practice.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "Ed Bignell",
+      "Actors": "Brianna Price, Shvorne Marks, Ami Okumura Jones",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Wake Up, Carlo!",
@@ -5728,6 +5796,13 @@
       "Country": "United States, Denmark"
     },
     {
+      "title": "Friendship Playlist",
+      "netflix_url": "https://www.netflix.com/title/82011581",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Supertato",
       "netflix_url": "https://www.netflix.com/title/82014820",
       "year": "2025",
@@ -5970,6 +6045,13 @@
     {
       "title": "Unicorn Academy: Holiday Fireplace",
       "netflix_url": "https://www.netflix.com/title/82182451",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Baby Einstein Ocean Explorers",
+      "netflix_url": "https://www.netflix.com/title/82185340",
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null

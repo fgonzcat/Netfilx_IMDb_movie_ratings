@@ -2187,6 +2187,23 @@
       "imdb_id": null
     },
     {
+      "title": "Love Aaj Kal",
+      "netflix_url": "https://www.netflix.com/title/81113920",
+      "year": "2020",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt10023024",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDY1YmRkZWItZDgzOS00YzM5LWJmOGYtMDVlMzg2MjVkM2RlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When professional ambitions clash with personal feelings for a modern-day couple, a love story from a bygone era may offer some wisdom.",
+      "Type": "movie",
+      "RunTime": "142 min",
+      "Genre": "Drama, Romance",
+      "Director": "Imtiaz Ali",
+      "Writer": "Imtiaz Ali, Wajid Shaikh",
+      "Actors": "Kartik Aaryan, Sara Ali Khan, Randeep Hooda",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Last Christmas",
       "netflix_url": "https://www.netflix.com/title/81115192",
       "year": "2019",
@@ -2362,6 +2379,23 @@
       "year": "2020",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Bhangra Paa Le",
+      "netflix_url": "https://www.netflix.com/title/81177341",
+      "year": "2019",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt9766280",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzA2YzI5OWYtODBjOC00OGJhLTg4NjMtMGJkMGU3ZDZmNWEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Determined to bring traditional bhangra to the world stage, a dancer preps for an international competition against a rival with dreams of her own.",
+      "Type": "movie",
+      "RunTime": "131 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Sneha Taurani",
+      "Writer": "Dheeraj Rattan",
+      "Actors": "Sunny Kaushal, Rukshar Dhillon, Shriya Pilgaonkar",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Ajeeb Daastaans",
@@ -2859,6 +2893,23 @@
       "Actors": "Angelica Panganiban, Coco Martin, Gelli De Belen",
       "Language": "Tagalog, Filipino",
       "Country": "Philippines"
+    },
+    {
+      "title": "C/O Kaadhal",
+      "netflix_url": "https://www.netflix.com/title/81346055",
+      "year": "2021",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt11803618",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODYwNWFkZjktOGYxMS00ZWRlLTlkNGItZDdiODU2ZTEwMjM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A heart warming film that explores the concept of romance with episodes involving four sets of people of different age group.",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Drama",
+      "Director": "Jasti Hemambar",
+      "Writer": "Venkatesh Maha, Sekar Neelan",
+      "Actors": "Aayira, Deepann, Sonia Giri",
+      "Language": "Tamil",
+      "Country": "India"
     },
     {
       "title": "Badhaai Do",
@@ -3460,6 +3511,23 @@
       "Country": "India"
     },
     {
+      "title": "Man in Love",
+      "netflix_url": "https://www.netflix.com/title/81481125",
+      "year": "2021",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt14428606",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzY3Zjc5ZTAtZjQ0NS00MzExLTkwOGQtYTMyYTE3Yjc1OGRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A small-time gangster clumsily attempts to court a girl he has a crush on. Can he win her over and leave the underworld behind?",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Drama, Romance",
+      "Director": "Chen-Hao Yin",
+      "Writer": "Chih-Chung Chien, Lyra Fu, Kab-yeol Yu",
+      "Actors": "Roy Chiu, Wei-Ning Hsu, Zheng Austin",
+      "Language": "Mandarin, Min Nan",
+      "Country": "Taiwan, China, Hong Kong, United States"
+    },
+    {
       "title": "Shyam Singha Roy",
       "netflix_url": "https://www.netflix.com/title/81486768",
       "year": "2021",
@@ -3933,6 +4001,23 @@
       "Country": "South Africa"
     },
     {
+      "title": "Biko",
+      "netflix_url": "https://www.netflix.com/title/81631031",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt14571020",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzBlNGU1OWUtZmVkZi00ZTIzLTk5NjAtZTI5YTBmMjlhNWQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Izwan is a single father raising his son Biko. They get kicked out of their house for failure to pay rent. Irfan's best friend Sherry takes Biko for an audition with a famous singer, Sara. But who is Sara?",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Drama, Family, Romance",
+      "Director": "Teng Bee",
+      "Writer": "Tommy Loh, Puovin Sandera",
+      "Actors": "Azrel Ismail, Baby Shima, Syed Irfan",
+      "Language": "Malay",
+      "Country": "Malaysia"
+    },
+    {
       "title": "Starfish",
       "netflix_url": "https://www.netflix.com/title/81634640",
       "year": "2023",
@@ -3948,6 +4033,23 @@
       "Actors": "Khushali Kumar, Milind Soman, Mike Parish",
       "Language": "Hindi",
       "Country": "India, United States"
+    },
+    {
+      "title": "Nitham Oru Vaanam",
+      "netflix_url": "https://www.netflix.com/title/81638585",
+      "year": "2022",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt15568760",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmVkOGU5MDktYzZhYS00ZGYyLTllNDYtMDU3NjA0NjE3NGQwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young man who has OCD happens to read two real stories and goes in search of the endings. He meets Shubha on the way and begins to travel with her.",
+      "Type": "movie",
+      "RunTime": "146 min",
+      "Genre": "Drama",
+      "Director": "R. Karthik, Ra Karthik",
+      "Writer": "R. Karthik",
+      "Actors": "Abhirami, Arjunan, Aparna Balamurali",
+      "Language": "Tamil, Telugu",
+      "Country": "India"
     },
     {
       "title": "Butta Bomma",
@@ -3982,6 +4084,13 @@
       "Actors": "Pradeep Ranganathan, Ivana, Yogi Babu",
       "Language": "Tamil",
       "Country": "India"
+    },
+    {
+      "title": "Love Today (Malayalam)",
+      "netflix_url": "https://www.netflix.com/title/81642994",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Theera Kadhal",
@@ -4135,6 +4244,23 @@
       "Actors": "Kaan Urgancioglu, Melisa Pamuk, Mert Ege Ak",
       "Language": "Turkish",
       "Country": "Turkey"
+    },
+    {
+      "title": "Missed Connections",
+      "netflix_url": "https://www.netflix.com/title/81671773",
+      "year": "2023",
+      "imdb_rating": "4.3",
+      "imdb_id": "tt27703325",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGQ4YWRhYWEtN2UxMi00YTYxLTllN2ItYjIzYzczMWE0MTA1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After an unforgettable encounter, a hopeless romantic turns to an app to seek out a man she just met - but is he really what she's looking for?",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Jelise Chung",
+      "Writer": "Jelise Chung, Gilliann Ebreo",
+      "Actors": "Miles Ocampo, Kelvin Miranda, JC Santos",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
     },
     {
       "title": "One Night Stand",
@@ -5148,6 +5274,23 @@
       "imdb_id": null
     },
     {
+      "title": "Firecracker",
+      "netflix_url": "https://www.netflix.com/title/81923251",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt16393028",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjJiNzBlMjgtN2FkMS00NDhlLWE3MGMtN2JmMWUwYTkyZGNlXkEyXkFqcGdeQXVyODI1Mzk2ODg@._V1_SX300.jpg",
+      "Plot": "On the night of their anniversary, a Chinese woman must decide whether to keep her Asian-American girlfriend a secret from her traditional family with the upcoming Chinese New Year or live out her dream as her true self.",
+      "Type": "movie",
+      "RunTime": "15 min",
+      "Genre": "Short, Comedy, Drama",
+      "Director": "Caroline Guo",
+      "Writer": "Caroline Guo",
+      "Actors": "Lydia Jialu Li, Faye Nightingale",
+      "Language": "English, Mandarin",
+      "Country": "United States"
+    },
+    {
       "title": "#OOTD: Outfit of the Designer",
       "netflix_url": "https://www.netflix.com/title/81929079",
       "year": "2024",
@@ -5272,6 +5415,23 @@
       "Actors": "Jayam Ravi, Yogi Babu, Nithya Menen",
       "Language": "Tamil",
       "Country": "India"
+    },
+    {
+      "title": "Love Unlike In K-Dramas",
+      "netflix_url": "https://www.netflix.com/title/81996658",
+      "year": "2024",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt31547884",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGE1MDU3NDgtMGI0NC00M2EzLWE3NzItYzRiYWVkMTEwYzhlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Dhea receives a special gift from her boyfriend, Bimo, in the form of a trip to Seoul, South Korea, with her friends. There, she accidentally meets her long-lost first love. Who will Dhea choose? Will this be a real love triangle ...",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Meira Anastasia, Etienne Caesar",
+      "Writer": "Meira Anastasia",
+      "Actors": "Jerome Kurnia, Dea Panendra, Lutesha",
+      "Language": "Indonesian, Korean, English",
+      "Country": "Indonesia"
     },
     {
       "title": "My Future You",
@@ -5521,6 +5681,23 @@
       "Actors": "Kevin Bacon, Kyra Sedgwick, Judd Hirsch",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Even If This Love Disappears Tonight",
+      "netflix_url": "https://www.netflix.com/title/82652051",
+      "year": "2026",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt21115444",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWRjYjllMWEtMjUxMi00ZDk1LTliMjUtNTIzODgwOTRhOTdmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bullied student Toru falsely confesses feelings to classmate Maori, who has memory loss daily. As they date, Toru falls for her despite her rule against love. Toru aims to give her happy memories through new experiences each day.",
+      "Type": "movie",
+      "RunTime": "121 min",
+      "Genre": "Drama, Romance",
+      "Director": "Takahiro Miki",
+      "Writer": "Misaki Ichijo, Hana Matsumoto, Sho Tsukikawa",
+      "Actors": "Shunsuke Michieda, Riko Fukumoto, Kotone Furukawa",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "RaPo 22",

@@ -1992,6 +1992,23 @@
       "imdb_id": null
     },
     {
+      "title": "The Tribe",
+      "netflix_url": "https://www.netflix.com/title/80988835",
+      "year": "2018",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt6708044",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzExZTA4MmUtMGU0MC00ZmJhLTk1NjUtMTkxYTMyMGQ1NzNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After he's injured in an accident, a disgraced CEO is forced to reunite- and move in with- his biological mother, a humble cleaning woman who helps him begin putting his life back together.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy, Music",
+      "Director": "Fernando Colomo",
+      "Writer": "Fernando Colomo, Yolanda García Serrano, Joaquín Oristrell",
+      "Actors": "Paco León, Carmen Machi, Maribel del Pino",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "No One Gets Out Alive",
       "netflix_url": "https://www.netflix.com/title/80991313",
       "year": "2021",
@@ -4230,6 +4247,23 @@
       "Country": "France, United States"
     },
     {
+      "title": "I Believe in Santa",
+      "netflix_url": "https://www.netflix.com/title/81477797",
+      "year": "2022",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt23722792",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGZkNWJmOWUtN2M4YS00YTg3LTliMWQtZTFhMDBjOWY3YzRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Love is a gift. But when you find out the man you've fallen for still believes in Santa, do you accept it - or send it back?",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Alex Ranarivelo",
+      "Writer": "John Ducey",
+      "Actors": "Christina Moore, John Ducey, Violet McGraw",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "That's Amor",
       "netflix_url": "https://www.netflix.com/title/81477801",
       "year": "2022",
@@ -4585,6 +4619,23 @@
       "Actors": "Jan Peszek, Maciej Stuhr, Joanna Trzepiecinska",
       "Language": "Polish",
       "Country": "Poland"
+    },
+    {
+      "title": "Hello, Goodbye, and Everything in Between",
+      "netflix_url": "https://www.netflix.com/title/81504320",
+      "year": "2022",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt4181158",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWVlMWZiOGYtYzVjNy00M2Y5LWE2MmYtZTA2MjAwMTg3NmUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After making a pact to break up before college, Claire and Aidan retrace the steps of their relationship on one last epic date, revisiting familiar and unexpected places as they question: stay together or say goodbye forever?",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Michael Lewen",
+      "Writer": "Amy Reed, Ben York Jones, Jennifer E. Smith",
+      "Actors": "Jordan Fisher, Talia Ryder, Ayo Edebiri",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Time Cut",
@@ -6692,6 +6743,23 @@
       "Country": "Canada"
     },
     {
+      "title": "Christmas at the Chalet",
+      "netflix_url": "https://www.netflix.com/title/82095260",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt29007820",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjc5ODkxZTctMGRhYy00MTE3LThjODAtMjA5Y2MzYjQ0ZjAyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ex-TV host Lex finds herself spending Christmas in a chalet with her son, ex-husband, and his new girlfriend. To avoid things getting too close to home, she volunteers to work at the chalet, all while documenting it for her new fo...",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Romance",
+      "Director": "Lucie Guest",
+      "Writer": "Julia Cranney",
+      "Actors": "Teri Hatcher, William deVry, Dan Payne",
+      "Language": "English, French",
+      "Country": "Canada"
+    },
+    {
       "title": "Oh, Hi!",
       "netflix_url": "https://www.netflix.com/title/82115463",
       "year": "2025",
@@ -7083,6 +7151,23 @@
       "Country": "United States"
     },
     {
+      "title": "Honey Don't!",
+      "netflix_url": "https://www.netflix.com/title/82147511",
+      "year": "2025",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt30645201",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmRkNGJmNWUtNjVkMC00NTJhLTk5N2UtYmZlODdmM2UzNTRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A small-town private investigator delves into a series of strange deaths tied to a mysterious church.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Comedy, Crime, Mystery",
+      "Director": "Ethan Coen",
+      "Writer": "Ethan Coen, Tricia Cooke",
+      "Actors": "Margaret Qualley, Aubrey Plaza, Chris Evans",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Deadstream",
       "netflix_url": "https://www.netflix.com/title/82151269",
       "year": "2022",
@@ -7251,6 +7336,23 @@
       "Actors": "Bre-Z, Matt Borlenghi, Maurice P. Kerry",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Lies We Tell",
+      "netflix_url": "https://www.netflix.com/title/82187820",
+      "year": "2023",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt10406410",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTg0NjdjZjMtMGFjMS00NmE5LWJkM2QtYTM2ZTQxZTRjOGJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An orphaned heiress is forced to embrace her family's dark legacy.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Crime, Mystery, Thriller",
+      "Director": "Lisa Mulcahy",
+      "Writer": "Elisabeth Gooch, Sheridan Le Fanu",
+      "Actors": "Agnes O'Casey, David Wilmot, Chris Walley",
+      "Language": "English",
+      "Country": "Ireland"
     },
     {
       "title": "Border Hunters",

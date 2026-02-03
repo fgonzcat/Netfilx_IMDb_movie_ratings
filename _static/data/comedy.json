@@ -292,6 +292,23 @@
       "Country": "United States"
     },
     {
+      "title": "Same Time, Next Year",
+      "netflix_url": "https://www.netflix.com/title/60010851",
+      "year": "1978",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt0078199",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDliYTM5MTMtM2E4Ny00MzU2LWJjYWUtMTBkM2I3NDMzMDBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Beginning in 1951, neurotic married accountant George and naive married homemaker Doris have a one-night stand and then meet at the same place once each year. As years go by, they observe changes in each other and their relationship.",
+      "Type": "movie",
+      "RunTime": "119 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Robert Mulligan",
+      "Writer": "Bernard Slade",
+      "Actors": "Alan Alda, Ellen Burstyn, Ivan Bonar",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Sandlot",
       "netflix_url": "https://www.netflix.com/title/60021964",
       "year": "1993",
@@ -2432,6 +2449,13 @@
       "Country": "United States"
     },
     {
+      "title": "Trolls Holiday Special",
+      "netflix_url": "https://www.netflix.com/title/80185876",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Nappily Ever After",
       "netflix_url": "https://www.netflix.com/title/80189630",
       "year": "2018",
@@ -3881,6 +3905,23 @@
       "Country": "United States"
     },
     {
+      "title": "Love, Guaranteed",
+      "netflix_url": "https://www.netflix.com/title/81076898",
+      "year": "2020",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt11100856",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODE1MGQ3MGMtYTM1MC00NzZlLWIyNTItNGNjMGQ5NzY2Mzk0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "To save her small law firm, earnest lawyer Susan takes a high-paying case from Nick, a charming new client who wants to sue a dating website that guarantees love. But as the case heats up, so do Susan and Nick's feelings for each ...",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Mark Steven Johnson",
+      "Writer": "Elizabeth Hackett, Hilary Galanoy",
+      "Actors": "Rachael Leigh Cook, Damon Wayans Jr., Heather Graham",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Thunder Force",
       "netflix_url": "https://www.netflix.com/title/81079259",
       "year": "2021",
@@ -3964,6 +4005,23 @@
       "Actors": "Nawazuddin Siddiqui, Nassar, Aakshath Das",
       "Language": "English, Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Invader Zim: Enter the Florpus",
+      "netflix_url": "https://www.netflix.com/title/81091957",
+      "year": "2019",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt6739094",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRkZDY0MzgtZTg0NC00Yzc0LWI3MTAtZDQ5NDczMjFlMTEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "ZIM discovers his almighty leaders never had any intention of coming to Earth and he loses confidence in himself for the first time in his life, which is the big break his human nemesis, Dib has been waiting for.",
+      "Type": "movie",
+      "RunTime": "71 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Hae Young Jung, Young Kyun Park, Jhonen Vasquez",
+      "Writer": "Jhonen Vasquez, Breehn Burns, Eric Trueheart",
+      "Actors": "Richard Steven Horvitz, Rikki Simons, Andy Berman",
+      "Language": "English, Korean",
+      "Country": "South Korea, United States"
     },
     {
       "title": "The (Almost) Legends",
@@ -4699,6 +4757,23 @@
       "Actors": "Victoria Justice, Adam Demos, Luca Asta Sardelis",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Pagglait",
+      "netflix_url": "https://www.netflix.com/title/81242571",
+      "year": "2021",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt11142762",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzgxY2UyZmYtZjljMi00NzZiLWE1NzItYjU3NGVkMWY2ZjdhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Widowed soon after marriage, a young woman grapples with an inability to grieve, quirky relatives, and a startling discovery about her late husband.",
+      "Type": "movie",
+      "RunTime": "114 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Umesh Bist, Mukesh Kumar, Chaudhari Mitesh",
+      "Writer": "Umesh Bist",
+      "Actors": "Sanya Malhotra, Sayani Gupta, Sheeba Chaddha",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Bhool Bhulaiyaa 2",
@@ -6742,6 +6817,23 @@
       "Country": "United States"
     },
     {
+      "title": "Office Invasion",
+      "netflix_url": "https://www.netflix.com/title/81590587",
+      "year": "2022",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt21440188",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjRiOTY1MTktMGQzMy00OTE4LWJjODQtZjlmM2ExZWVhNzQzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Three best friends band together to defend their valuable mining company from monstrous aliens looking to plunder and exterminate.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Action, Comedy, Horror",
+      "Director": "Gareth Crocker, Fred Wolmarans",
+      "Writer": "Gareth Crocker",
+      "Actors": "Rea Rangaka, Kiroshan Naidoo, Sechaba Ramphele",
+      "Language": "English",
+      "Country": "South Africa"
+    },
+    {
       "title": "El Conde",
       "netflix_url": "https://www.netflix.com/title/81590652",
       "year": "2023",
@@ -6797,6 +6889,23 @@
       "Writer": "Hussain Dalal, Rohit Dhawan, Trivikram Srinivas",
       "Actors": "Kartik Aaryan, Kriti Sanon, Paresh Rawal",
       "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Varalaru Mukkiyam",
+      "netflix_url": "https://www.netflix.com/title/81597047",
+      "year": "2022",
+      "imdb_rating": "4.1",
+      "imdb_id": "tt17009584",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjkzNmQ5YzItNjY4Ni00NjUzLWJlMzEtOGFhMTI2YjM1N2M4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Karthik aspires to be famous and his friend Adaikalam aspires to be a politician. Karthik falls in love with his new neighbour but the sister of his love interest falls in love with him.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Santhosh Rajan",
+      "Writer": "Santhosh Rajan",
+      "Actors": "Jiiva, Kashmira Pardeshi, Pragya Nagra",
+      "Language": "Tamil",
       "Country": "India"
     },
     {
@@ -7298,6 +7407,23 @@
       "Actors": "Franck Dubosc, Jean Reno, Suzanne Clément",
       "Language": "French",
       "Country": "France"
+    },
+    {
+      "title": "The Bad Guys: Haunted Heist",
+      "netflix_url": "https://www.netflix.com/title/81686326",
+      "year": "2024",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt33130902",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQ0NTRkNGMtMDM2NS00ZTkxLWE3NWYtNzE3MTQ4YTg4Njg2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Bad Guys' Halloween night of thievery and crime turns into a night of terror when they come across a dangerous enemy of the supernatural kind that gives them a taste of their own medicine.",
+      "Type": "movie",
+      "RunTime": "25 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Kevin Peaty, Christo Stamboliev",
+      "Writer": "Ben Glass, Elizabeth Chun, Shane Lynch",
+      "Actors": "Michael Godere, Ezekiel Ajeigbe, Raul Ceballos",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Joy Ride",
@@ -7808,6 +7934,23 @@
       "Actors": "Petchtai Wongkamlao, Thiti Mahayotaruk, Chingduang Duijkers",
       "Language": "Thai",
       "Country": "Thailand"
+    },
+    {
+      "title": "Find Me Falling",
+      "netflix_url": "https://www.netflix.com/title/81740504",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt19862722",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTllNzJmYjctNWMzZi00Yzc2LWE5MTMtNDBhNWU1NDdmMDFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After a failed comeback album, rock star John Allman escapes to a dreamy Mediterranean island, only to discover that his new cliffside home has an unfortunate notoriety that attracts unwanted visitors and an old flame.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Comedy, Music, Romance",
+      "Director": "Stelana Kliris",
+      "Writer": "Stelana Kliris",
+      "Actors": "Harry Connick Jr., Agni Scott, Ali Fumiko Whitney",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Becky & Badette",
@@ -8795,6 +8938,23 @@
       "Actors": "Akshay Kumar, Arshad Warsi, Huma Qureshi",
       "Language": "N/A",
       "Country": "India"
+    },
+    {
+      "title": "Honey Don't!",
+      "netflix_url": "https://www.netflix.com/title/82147511",
+      "year": "2025",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt30645201",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmRkNGJmNWUtNjVkMC00NTJhLTk5N2UtYmZlODdmM2UzNTRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A small-town private investigator delves into a series of strange deaths tied to a mysterious church.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Comedy, Crime, Mystery",
+      "Director": "Ethan Coen",
+      "Writer": "Ethan Coen, Tricia Cooke",
+      "Actors": "Margaret Qualley, Aubrey Plaza, Chris Evans",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Deadstream",

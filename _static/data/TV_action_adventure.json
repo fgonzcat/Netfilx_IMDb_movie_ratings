@@ -1586,9 +1586,19 @@
     {
       "title": "The Lost Pirate Kingdom",
       "netflix_url": "https://www.netflix.com/title/81035118",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2021",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt14057360",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGFjZDQ1ZGItYTEyOC00OGRiLWJiMDgtN2ExNTdjOTMwZjViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The real-life pirates of the Caribbean violently plunder, stealing and form a surprisingly egalitarian republic in this documentary series.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Adventure, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Derek Jacobi, James Oliver Wheatley, Sam Callis",
+      "Language": "English",
+      "Country": "United States, United Kingdom"
     },
     {
       "title": "Queen Sono",
@@ -3811,6 +3821,13 @@
       "title": "Sandokan: The Pirate Prince",
       "netflix_url": "https://www.netflix.com/title/81987085",
       "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "WWE Raw Vault",
+      "netflix_url": "https://www.netflix.com/title/81990480",
+      "year": "2024",
       "imdb_rating": null,
       "imdb_id": null
     },

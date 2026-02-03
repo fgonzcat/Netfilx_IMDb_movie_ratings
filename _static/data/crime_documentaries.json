@@ -1973,6 +1973,23 @@
       "Country": "United States"
     },
     {
+      "title": "Broken Idol: The Undoing of Diomedes Díaz",
+      "netflix_url": "https://www.netflix.com/title/81294594",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt18750180",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODAwYjE2NzYtNTNlYy00Njk0LTkxYzEtYzczMWFjMDEwMzBmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Chronicles Diomedes Díaz's rise as one of Colombia's most iconic singers, and his downfall after being accused of killing a fan.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Jaime Barbosa, Jorge Duran",
+      "Writer": "N/A",
+      "Actors": "Diomedes Diaz, Jorge Oñate, Marciano Martínez",
+      "Language": "Spanish",
+      "Country": "Colombia"
+    },
+    {
       "title": "Conversations with a Killer: The John Wayne Gacy Tapes",
       "netflix_url": "https://www.netflix.com/title/81298614",
       "year": "2022",
@@ -2308,6 +2325,23 @@
       "Actors": "Elias Argentiere, Naasón Joaquín García, Eduardo De Los Reyes",
       "Language": "Spanish, English",
       "Country": "Mexico"
+    },
+    {
+      "title": "Nevenka: Breaking the Silence",
+      "netflix_url": "https://www.netflix.com/title/81405211",
+      "year": "2021",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt14091172",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTU0N2M3MTYtYTNhOS00MjE0LWI4MWQtODk2MWM1MGMyMzc0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of the first sexual harassment case in Spain was a scandal. Nevenka Fernández, its protagonist, discusses it in this documentary.",
+      "Type": "series",
+      "RunTime": "114 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Nevenka Fernández",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Crime Scene: The Times Square Killer",

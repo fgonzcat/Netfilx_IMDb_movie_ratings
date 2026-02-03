@@ -1823,6 +1823,23 @@
       "Country": "United States, Canada"
     },
     {
+      "title": "Arlo the Alligator Boy",
+      "netflix_url": "https://www.netflix.com/title/81018635",
+      "year": "2021",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt13454122",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ4OTExZWItMDJiZi00ZDFiLWE3ZjItMmYzZmExODlkMDk3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young humanoid alligator travels to the big city in hopes of reuniting with his estranged father, meeting a colorful cast of characters along the way.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Ryan Crego",
+      "Writer": "Ryan Crego, Clay Senechal",
+      "Actors": "Michael J. Woodard, Ryan Crego, Dee Bradley Baker",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Sea Beast",
       "netflix_url": "https://www.netflix.com/title/81018682",
       "year": "2022",
@@ -2796,6 +2813,23 @@
       "Country": "United States"
     },
     {
+      "title": "Pokémon the Movie: Secrets of the Jungle",
+      "netflix_url": "https://www.netflix.com/title/81346307",
+      "year": "2021",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt11819890",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2NlMTFlNjMtNTg2Yi00MzkwLTk2NDUtMWNjZjU2MmEwOTkzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of Koko, a young boy raised by Pokémon, and the creation of a new bond between humans and Pokémon.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Tetsuo Yajima",
+      "Writer": "Satoshi Tajiri, Atsuhiro Tomioka, Tetsuo Yajima",
+      "Actors": "Sarah Natochenny, Kimlinh Tran, Edward Bosco",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "Monster Hunter: Legends of the Guild",
       "netflix_url": "https://www.netflix.com/title/81346827",
       "year": "2021",
@@ -3577,6 +3611,13 @@
       "Actors": "Zachary Levi, Lil Rel Howery, Benjamin Bottani",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "My Father is a Playboy",
+      "netflix_url": "https://www.netflix.com/title/81623689",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Dongeng Sang Kancil",
