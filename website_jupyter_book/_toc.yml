@@ -11,7 +11,7 @@ parts:
       - file: scripts 
       - file: netflix_codes
 
-  - caption: 🔎 IMDb Rankings
+  - caption: 🏆 IMDb Rankings
     chapters:
       - file: best_imdb_rated_movies_on_netflix
 
@@ -19,7 +19,7 @@ parts:
     chapters:
       - file: best 
 
-  - caption: 🔍 Filter Movies
+  - caption: 🔍 Explore & Filter Movies
     chapters:
       - file: explore 
 
@@ -38,6 +38,7 @@ parts:
       - file: animation
         sections:
           - file: animated_movies
+
       - file: action_adventure
         sections:
           - file: action_comedy 
@@ -50,6 +51,7 @@ parts:
 
       - file: arabic_movies
       - file: art_house 
+      - file: award_winning_movies
       - file: bollywood 
       - file: brazilian_movies
       - file: canadian_movies
@@ -62,8 +64,10 @@ parts:
       - file: crime_documentaries
         sections:
           - file: crime_action_adventure
+          - file: crime_movies
           - file: true_crime 
           - file: crime_true_crime_documentaries
+      - file: critically_acclaimed_films
       - file: cult
 
       - file: documentaries 
@@ -79,20 +83,31 @@ parts:
         sections:
           - file: period_pieces 
           - file: social_issue_dramas
+
+      - file: emotional_movies
+
       - file: family 
         sections:
           - file: animal_tales
           - file: children_and_family
+
       - file: film_noir 
+
       - file: gangster_movies 
+      - file: german_movies
+      - file: gritty_movies
 
       - file: horror
         sections:
           - file: horror_comedy 
           - file: monster_movies 
+          - file: scary_movies
 
+      - file: imaginative_movies
       - file: independent 
       - file: korean 
+
+      - file: latin_american_movies
 
       - file: LGBTQ
         sections:
@@ -122,12 +137,17 @@ parts:
       - file: sports 
       - file: spy_movies
       - file: standup_comedy 
+      - file: steamy_movies 
       - file: suspenseful
       - file: swedish_movies
+      - file: tamil_movies_and_TV_shows
+      - file: true_story
       - file: thrillers
         sections:
           - file: mysteries 
           - file: psychological_thrillers 
+      - file: war_movies
+      - file: witty_movies
 
 
   - caption: 📺 Series 

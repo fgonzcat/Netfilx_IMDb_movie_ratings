@@ -21,17 +21,27 @@ NEW_JSON=$(echo "$NEW_JSON" | jq -s 'unique_by(.netflix_url)')
 FILTERED_MOVIES=$(echo "$NEW_JSON" | jq -c '.')
 
 genre="best"
-FINAL_JSON=$(jq -n --arg genre "$genre" \
-  --argjson movies "$FILTERED_MOVIES" \
+#FINAL_JSON=$(jq -n --arg genre "$genre" \
+#  --argjson movies "$FILTERED_MOVIES" \
+#  '{
+#    genre: $genre,
+#    genre_url: null,
+#    movies: $movies
+#  }'
+#)   # <--- list to long to give it to jq in as a single variable --argjson movies
+
+echo -e "\nExporting best movies from each category to a single file, best.json: "
+all_genres=$(echo ${REPO_ROOT}/website_jupyter_book/_static/data/*.json | xargs -n1 basename | sed 's/\.json$//')
+echo "all_genres= "
+echo " `echo $all_genres` "
+echo "    >  ${REPO_ROOT}/website_jupyter_book/_static/data/best.json" 
+#echo $FINAL_JSON | jq    >  ${REPO_ROOT}/website_jupyter_book/_static/data/best.json  # Old method, when FINAL_JSON was not long
+echo "$FILTERED_MOVIES" | jq \
+  --arg genre "$genre" \
   '{
     genre: $genre,
     genre_url: null,
-    movies: $movies
-  }'
-)
+    movies: .
+  }' \
+  > "${REPO_ROOT}/website_jupyter_book/_static/data/best.json"
 
-
-echo -e "\nExporting best movies from each category to a single file, best.json: "
-echo "all_genres= ${all_genres[@]##*/}"
-echo "    >  ${REPO_ROOT}/website_jupyter_book/_static/data/best.json" 
-echo $FINAL_JSON | jq    >  ${REPO_ROOT}/website_jupyter_book/_static/data/best.json

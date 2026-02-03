@@ -204,6 +204,8 @@ async function init() {
      (!dir ||    (m.Director && m.Director.split(',').map(x => x.trim()).includes(dir))) &&
      (!type || m.Type === type)
     );
+    // Sort by IMDb rating descending
+    filtered.sort((a, b) => parseFloat(b.imdb_rating) - parseFloat(a.imdb_rating));
   
     // Step 2: Deduplicate only if "All" is selected
     if (!g) {
