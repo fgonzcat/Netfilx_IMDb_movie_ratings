@@ -55,12 +55,17 @@ def sort_key(movie):
 movies_sorted = sorted(data.get("movies", []), key=sort_key, reverse=True)
 
 # Header
-#print(f"# {title} on Netflix\n")
 print(f"# {title}\n")
 print(f'Netflix genre: <a href="{genre_url}" target="_blank">{genre_url}</a>\n')
 print("## 🎬 Movie list\n")
-print("| IMDb ⭐ | Poster | Year | Title | IMDb | Netflix |")
-print("|:-------:|:-------:|:-------:|:------|------|---------|")
+
+if 'best.json' in sys.argv[1]:
+    print("| IMDb ⭐ | Poster | Year | Title | Genre | Type | IMDb | Netflix |")
+    print("|:-------:|:-------:|:-------:|:------|------|------|------|---------|")
+else:
+    print("| IMDb ⭐ | Poster | Year | Title | IMDb | Netflix |")
+    print("|:-------:|:-------:|:-------:|:------|------|---------|")
+
 
 # Table rows
 for movie in movies_sorted:
@@ -80,9 +85,14 @@ for movie in movies_sorted:
     
     if image_url== None or image_url == "N/A" or image_url == "NA": poster = ""
 
-
     
-    print(f'| {imdb_rating} | {poster} | {year} | <details> <summary><strong style="color:#1f6feb;">*{title}*</strong></summary>  <div class="movie-plot">{plot}</div> </details> | {imdb_link} | {netflix_link} |')
+    if 'best.json' in sys.argv[1]:
+     genre_val = movie.get("Genre", "")
+     type_val  = movie.get("Type", "")
+     print(f'| {imdb_rating} | {poster} | {year} | <details> <summary><strong style="color:#1f6feb;">*{title}*</strong></summary>  <div class="movie-plot">{plot}</div> </details> | {genre_val} | {type_val} | {imdb_link} | {netflix_link} |')
+    else:
+     print(f'| {imdb_rating} | {poster} | {year} | <details> <summary><strong style="color:#1f6feb;">*{title}*</strong></summary>  <div class="movie-plot">{plot}</div> </details> | {imdb_link} | {netflix_link} |')
+
 
 
 # Footer with workflow explanation
