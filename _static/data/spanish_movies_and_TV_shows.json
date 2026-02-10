@@ -405,6 +405,23 @@
       "imdb_id": null
     },
     {
+      "title": "Veronica",
+      "netflix_url": "https://www.netflix.com/title/80109295",
+      "year": "2017",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt5862312",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDI3MjMxYTktZjQ0My00MDVlLWE1MzYtYjliNjFmNmNjMzQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Madrid, 1991. A teen girl finds herself besieged by an evil supernatural force after she played Ouija with two classmates.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Horror, Mystery",
+      "Director": "Paco Plaza",
+      "Writer": "Paco Plaza, Fernando Navarro, Coral Cruz",
+      "Actors": "Sandra Escacena, Bruna González, Claudia Placer",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "The Laws of Thermodynamics",
       "netflix_url": "https://www.netflix.com/title/80114719",
       "year": "2018",
@@ -1174,6 +1191,23 @@
       "Country": "Spain"
     },
     {
+      "title": "A Sinister Sect: Colonia Dignidad",
+      "netflix_url": "https://www.netflix.com/title/80196160",
+      "year": "2021",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt15430012",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2NhMTcyZTktMGMwZS00YTI5LThkMmYtYTk3NTNmYWQ3ZjcxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The rise of a poor German lay preacher to one of the mightiest men in Latin America told through the eyes of those who lived in the sect, who endured it, who fought it. All brought to life by unearthed, never before seen archive m...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Salo Luna, Willi Malessa, Edeltraud Bohnau",
+      "Language": "English, German, Spanish",
+      "Country": "United States, Germany"
+    },
+    {
       "title": "Nisman: The Prosecutor, the President, and the Spy",
       "netflix_url": "https://www.netflix.com/title/80197991",
       "year": "2020",
@@ -1831,6 +1865,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "Animas",
+      "netflix_url": "https://www.netflix.com/title/80239629",
+      "year": "2018",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt5961142",
+      "Poster": "https://occ-0-1038-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABQDajZB9ltI6wR0-MUUBTfcJe1zW0QMDO3zrZu8C1Z18Mneo1Qb5v4dTsGhWXorTueU8nWvcQ5B-GzxivIHfwsaDC-iY0Zjt1X1c.jpg?r=70b",
+      "Plot": "Fredo is an actor, TV MC, writer and very famous bolero's singer. Once raining night when he goes back home .",
+      "Type": "movie",
+      "RunTime": "15 min",
+      "Genre": "Short",
+      "Director": "Daniel Ortiz Entrambasaguas",
+      "Writer": "Daniel Ortiz Entrambasaguas",
+      "Actors": "Tony Zenet, Paul Naschy, Pepe Salas",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "ROMA",
       "netflix_url": "https://www.netflix.com/title/80240715",
       "year": "2018",
@@ -1938,6 +1989,23 @@
       "Actors": "Omar Chaparro, Ana Claudia Talancón, Stephanie Cayo",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "Birders",
+      "netflix_url": "https://www.netflix.com/title/80244682",
+      "year": "2019",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt10907798",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTA4YTQ3ZTQtZTUxMC00MDI1LThiZWUtNmE5MThmOWRiYjUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bird watchers on both sides of the U.S.-Mexico border share their enthusiasm for protecting and preserving some of the world's most beautiful bird species.",
+      "Type": "movie",
+      "RunTime": "37 min",
+      "Genre": "Documentary, Short",
+      "Director": "Otilia Portillo Padua",
+      "Writer": "N/A",
+      "Actors": "Esteban Berrones, Chris Birchfield, Mark Conway",
+      "Language": "English, Spanish",
+      "Country": "United States, Mexico"
     },
     {
       "title": "Lorena, Light-Footed Woman",
@@ -2132,6 +2200,23 @@
       "year": "2020",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Dark Forces",
+      "netflix_url": "https://www.netflix.com/title/80990348",
+      "year": "2020",
+      "imdb_rating": "2.8",
+      "imdb_id": "tt12536776",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTIxMWFmYmMtZGE5OS00MjMxLTg3MGQtOGM5Y2I0MTFkZWY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In search of his sister, a renegade criminal seeks answers at a sordid hotel where he encounters a sinister guest and romances a mysterious waitress.",
+      "Type": "movie",
+      "RunTime": "81 min",
+      "Genre": "Action, Horror, Mystery",
+      "Director": "Bernardo Arellano",
+      "Writer": "Bernardo Arellano",
+      "Actors": "Tenoch Huerta, Eréndira Ibarra, Dale Carley",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "The Neighbor",
@@ -2435,6 +2520,23 @@
       "Actors": "Natalia Solián, Mercedes Hernández, Jero Medina",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "Drug Squad: Costa del Sol",
+      "netflix_url": "https://www.netflix.com/title/81010786",
+      "year": "2019",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt8476166",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyMmQzZDctYWY2OC00Yjc5LTlkNmYtMmE4YTk1MGEzNDllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Four cops with very different personality unite to create a skilled narcotics squad in the Spain of late 70s.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Action, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Pablo Barrera, Fernando Bassi, Juanjo García",
+      "Actors": "Hugo Silva, Álvaro Cervantes, Miki Esparbé",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Sky Rojo",
@@ -3413,6 +3515,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "La Leyenda del Diamante",
+      "netflix_url": "https://www.netflix.com/title/81091378",
+      "year": "2017",
+      "imdb_rating": "3.3",
+      "imdb_id": "tt6487242",
+      "Poster": "https://occ-0-1038-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABZglKu-09WPuW1WlW0usBG1PvnKEKSf4RViwjzOkfq26wSTX0CyQKkwLjUJ41xMcdqRwenSueAQjvPXw4dS0y4VzQ6BbRjSiqnjz.jpg?r=f84",
+      "Plot": "While trying to rescue her kidnapped sister, a rebel gun-woman faces a group of bandits and a man protecting a cursed treasure.",
+      "Type": "movie",
+      "RunTime": "87 min",
+      "Genre": "Adventure, Fantasy, Horror",
+      "Director": "Roberto Girault",
+      "Writer": "Roberto Girault",
+      "Actors": "Ana Layevska, Alex Sirvent, Paulina Goto",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
       "title": "The (Almost) Legends",
       "netflix_url": "https://www.netflix.com/title/81093934",
       "year": "2023",
@@ -3580,6 +3699,23 @@
       "imdb_id": null
     },
     {
+      "title": "Azcárate: No Holds Barred",
+      "netflix_url": "https://www.netflix.com/title/81114161",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt14494826",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWE0NzU2ZGUtMTlkYi00MWU2LTlhZTktNDIwYTE5MGQ2YzRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An innovative format that combines elements of monologues, sketches and talk shows.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Daniel Toro, Alejandra Azcárate",
+      "Language": "N/A",
+      "Country": "Colombia"
+    },
+    {
       "title": "The Snitch Cartel: Origins",
       "netflix_url": "https://www.netflix.com/title/81120861",
       "year": "2021",
@@ -3714,6 +3850,23 @@
       "Actors": "Andrés Parra, Christian Tappan, Waldo Urrego",
       "Language": "Spanish",
       "Country": "Colombia"
+    },
+    {
+      "title": "Zona Rosa",
+      "netflix_url": "https://www.netflix.com/title/81140259",
+      "year": "2019",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt11194518",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDMzZmY0NDAtNjY0NC00NjdiLWE4YjUtZjZmZTc5NTg5ZjcwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Plot": "Short stand-up comedy show by LGBTQI+ Mexican comedians.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Manu Nna, Ray Contreras, Ana Julia Yeye",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "El paseo 6",
@@ -5458,6 +5611,23 @@
       "imdb_id": null
     },
     {
+      "title": "Locombianos",
+      "netflix_url": "https://www.netflix.com/title/81418583",
+      "year": "2021",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt14494718",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg5MTgzM2ItZjI0ZC00ZDA2LTgxNWQtMmU2YTEzYTAxODEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "4 Colombian comedians, 4 specials. We will discover the funny way these comedians see life.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Freddy Beltrán, Pamela Ospina, Diego Camargo",
+      "Language": "Spanish",
+      "Country": "Colombia"
+    },
+    {
       "title": "40 Years Young",
       "netflix_url": "https://www.netflix.com/title/81423174",
       "year": "2022",
@@ -5903,6 +6073,23 @@
       "year": "2024",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Money Heist: From Tokyo to Berlin",
+      "netflix_url": "https://www.netflix.com/title/81488216",
+      "year": "2021",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt15384346",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODcwNjQzODUtOTBmNS00Yzg2LTk2OWEtMWQzNzdkYzY1YWZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The filmmakers and actors behind \"Money Heist\" characters like Tokyo and the Professor talk about the emotional artistic process of filming the series.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jesús Colmenar, Rodrigo de la Serna, Pedro Alonso",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "The Signing",
@@ -6558,6 +6745,23 @@
       "Country": "Colombia, Luxembourg, France, Mexico, Norway"
     },
     {
+      "title": "El Conde",
+      "netflix_url": "https://www.netflix.com/title/81590652",
+      "year": "2023",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt21113540",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2U3ZWFjNzMtNzU2NC00MjBiLThmYzItOTMxODQ5ZTI2ZDM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After living 250 years in this world, Augusto Pinochet, who is not dead but an aged vampire, decides to die once and for all.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Comedy, Fantasy, History",
+      "Director": "Pablo Larraín",
+      "Writer": "Guillermo Calderón, Pablo Larraín",
+      "Actors": "Jaime Vadell, Gloria Münchmeyer, Alfredo Castro",
+      "Language": "Spanish, English, French",
+      "Country": "Chile"
+    },
+    {
       "title": "27 Nights",
       "netflix_url": "https://www.netflix.com/title/81594315",
       "year": "2025",
@@ -6917,6 +7121,23 @@
       "Actors": "Marimar Vega, Erika Buenfil, Ana Layevska",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "The Doomsday Cult of Antares de la Luz",
+      "netflix_url": "https://www.netflix.com/title/81636734",
+      "year": "2024",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt32055642",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzY4ZTZhZWMtNzlkOS00MTI3LThmOWQtOGRkNzBhNmExNWUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Years after being charged with a heinous crime, former members of a Chilean cult share their haunting experiences.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary",
+      "Director": "Santiago Correa",
+      "Writer": "Valerie Schenkman",
+      "Actors": "Valentina Acuña, Francisco Aedo, Orlando Alfaro",
+      "Language": "Spanish",
+      "Country": "Chile"
     },
     {
       "title": "The Guardian of the Monarchs",
@@ -7948,6 +8169,23 @@
       "Actors": "N/A",
       "Language": "Spanish",
       "Country": "Chile"
+    },
+    {
+      "title": "Simón",
+      "netflix_url": "https://www.netflix.com/title/81744874",
+      "year": "2023",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0393775",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwODU3MTMxMl5BMl5BanBnXkFtZTcwMTA3OTYyMQ@@._V1_SX300.jpg",
+      "Plot": "A mild-mannered gay dentist and a hedonist womanizer rekindle their unlikely friendship when the latter's terminal cancer drives them back together after a decade apart.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Eddy Terstall",
+      "Writer": "Eddy Terstall",
+      "Actors": "Cees Geel, Marcel Hensema, Rifka Lodeizen",
+      "Language": "Dutch, English, German, Thai",
+      "Country": "Netherlands"
     },
     {
       "title": "How to Win the Lottery",

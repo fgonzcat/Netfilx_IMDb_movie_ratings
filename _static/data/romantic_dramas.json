@@ -928,6 +928,23 @@
       "Country": "United Kingdom, Italy, Switzerland, United States"
     },
     {
+      "title": "Shuddh Desi Romance",
+      "netflix_url": "https://www.netflix.com/title/70287292",
+      "year": "2013",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt2988272",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NjI2MTI0Ml5BMl5BanBnXkFtZTcwNjI4MzY5OQ@@._V1_SX300.jpg",
+      "Plot": "A romantic comedy which tells the journey of three restless young people who junk society's syllabus for finding love and decide to follow their heart.",
+      "Type": "movie",
+      "RunTime": "141 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Maneesh Sharma",
+      "Writer": "Jaideep Sahni",
+      "Actors": "Sushant Singh Rajput, Parineeti Chopra, Rishi Kapoor",
+      "Language": "Hindi, Rajasthani",
+      "Country": "India"
+    },
+    {
       "title": "Knight of Cups",
       "netflix_url": "https://www.netflix.com/title/70295174",
       "year": "2014",
@@ -1559,6 +1576,23 @@
       "Actors": "Alex Roe, Jessica Rothe, Abby Ryder Fortson",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Meri Pyaari Bindu",
+      "netflix_url": "https://www.netflix.com/title/80191742",
+      "year": "2017",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt5472374",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ5NzgwMzExNF5BMl5BanBnXkFtZTgwNjk2NTYyNTM@._V1_SX300.jpg",
+      "Plot": "Abhimanyu Roy returns to his roots to write an old-fashioned love story, 3 years in the making. This writer's block is called Bindu. How do you contain this live wire in a book?",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Akshay Roy",
+      "Writer": "Soumik Sen, Suprotim Sengupta",
+      "Actors": "Ayushmann Khurrana, Parineeti Chopra, Nishant Dahiya",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "The Climb",
@@ -4399,6 +4433,23 @@
       "Country": "Philippines"
     },
     {
+      "title": "Third World Romance",
+      "netflix_url": "https://www.netflix.com/title/81687834",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt24785860",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjAzNGJjMzYtZDc5Yy00Mjg5LTg0NTctM2VkZWYwNWZlZmQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An outspoken cashier and laidback grocery bagger navigate the path to being happy despite the challenges of their blue-collared living in a world where nothing comes for free.",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Romance",
+      "Director": "Dwein Baltazar",
+      "Writer": "Jericho Aguado, Dwein Baltazar",
+      "Actors": "Carlo Aquino, Charlie Dizon, Ana Abad Santos",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
+    },
+    {
       "title": "Rewind",
       "netflix_url": "https://www.netflix.com/title/81687839",
       "year": "2023",
@@ -4448,6 +4499,23 @@
       "Actors": "Alberto Olmo, Eléa Rochera, Enrique Arce",
       "Language": "Spanish",
       "Country": "Spain"
+    },
+    {
+      "title": "Love You Long Time",
+      "netflix_url": "https://www.netflix.com/title/81697002",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27441678",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWIxN2FmY2QtOGQ4MC00YTZiLTg5MjktMGM0YzAxZWZmOGNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "While recovering from heartbreak, a screenwriter finds new inspiration when she makes an unexpected connection with a man via an old walkie-talkie.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Drama",
+      "Director": "JP Habac",
+      "Writer": "Gena Tenaja",
+      "Actors": "Eisel Serrano, Carlo Aquino, Ana Abad Santos",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
     },
     {
       "title": "Takkar",

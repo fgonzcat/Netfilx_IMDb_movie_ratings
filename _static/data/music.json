@@ -360,6 +360,23 @@
       "Country": "United Kingdom, United States, Canada"
     },
     {
+      "title": "Reggie Watts: Spatial",
+      "netflix_url": "https://www.netflix.com/title/80115673",
+      "year": "2016",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt5861260",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA1NDBmNjItNWVjZi00YzhhLWIxZmUtZjZlYjRhYjJlNjcyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Completely improvised show weaving together sketches, short stories, and dream sequences, filmed live on a soundstage in Los Angeles, Watts waxes poetic about flight, grits, and guns.",
+      "Type": "movie",
+      "RunTime": "61 min",
+      "Genre": "Comedy, Music",
+      "Director": "Benjamin Dickinson",
+      "Writer": "N/A",
+      "Actors": "Rory Scovel, Reggie Watts",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "I'll Sleep When I'm Dead",
       "netflix_url": "https://www.netflix.com/title/80118930",
       "year": "2016",
@@ -3938,6 +3955,23 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Matter of Time",
+      "netflix_url": "https://www.netflix.com/title/82184383",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36590322",
+      "Poster": "N/A",
+      "Plot": "A string of Eddie Vedder solo concerts in Seattle in 2023 are the backdrop for the film, which chronicles efforts to find a cure for epidermolysis bullosa (EB), a rare genetic disease that can be lethal.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "Matt Finlin",
+      "Writer": "N/A",
+      "Actors": "Eddie Vedder",
+      "Language": "N/A",
+      "Country": "United States"
     },
     {
       "title": "Cocktail Ever Live Concert",

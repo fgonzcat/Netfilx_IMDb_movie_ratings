@@ -894,6 +894,23 @@
       "Country": "United States"
     },
     {
+      "title": "Recovery Boys",
+      "netflix_url": "https://www.netflix.com/title/80177782",
+      "year": "2018",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt8167872",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjc5YTY3OWItNmUwMy00MWViLTgwNjEtYWVkOGY0YWU4NjAzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the heart of America's opioid epidemic, four men attempt to reinvent their lives and reenter society sober after years of drug abuse. Recovery Boys, from Academy Award nominated director Elaine McMillion Sheldon (Heroin(e)), is...",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Documentary",
+      "Director": "Elaine McMillion Sheldon",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Boss, Anatomy of a Crime",
       "netflix_url": "https://www.netflix.com/title/80187020",
       "year": "2014",
@@ -2088,6 +2105,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "Head to Head",
+      "netflix_url": "https://www.netflix.com/title/81324382",
+      "year": "2023",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt28306747",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDhjMzM3Y2EtNDg5Ny00YjhkLTlhODYtZjg0NDU5ZWUyNzdjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Hilarity meets danger when a lovesick chauffeur and a bootleg mechanic mistakenly pick up a retired crime lord, igniting a wild, life-changing adventure.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Thriller",
+      "Director": "Malik Nejer",
+      "Writer": "Abdulaziz Almuzaini",
+      "Actors": "Abdulaziz Alshehri, Adel Radwan, Mohammad Alqass",
+      "Language": "Arabic",
+      "Country": "Saudi Arabia"
+    },
+    {
       "title": "The Old Guard 2",
       "netflix_url": "https://www.netflix.com/title/81328881",
       "year": "2025",
@@ -2239,6 +2273,23 @@
       "Actors": "Tomasz Wlosok, Aleks Kurdzielewicz, Antoni Królikowski",
       "Language": "Polish",
       "Country": "Poland"
+    },
+    {
+      "title": "10 Days of a Good Man",
+      "netflix_url": "https://www.netflix.com/title/81426851",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt23334464",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTM0NmNiMjYtNzM5OS00ODIyLTlkZWMtOTJlNWI4M2FkYzJhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A lawyer turned private investigator takes on a missing person case, propelling him on an unexpected and life-altering quest.",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Uluç Bayraktar",
+      "Writer": "Mehmet Eroglu, Damla Serim",
+      "Actors": "Nejat Isler, Nur Fettahoglu, Senay Gürler",
+      "Language": "Turkish",
+      "Country": "Turkey"
     },
     {
       "title": "10 Days of a Bad Man",

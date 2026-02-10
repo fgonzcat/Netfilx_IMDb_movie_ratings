@@ -5330,6 +5330,23 @@
       "Country": "Germany, United States, United Kingdom, France"
     },
     {
+      "title": "Cold Copy",
+      "netflix_url": "https://www.netflix.com/title/81738561",
+      "year": "2023",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt22392694",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWFiYTM1ZmUtMmZmMC00MzhlLTg4MzItOTA0YTEyNjJiZTY0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An ambitious journalism student falls under the thrall of an esteemed yet cutthroat news reporter whom she's desperate to impress, even if it means manipulating her latest story - and the very idea of truth itself.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Crime, Mystery, Thriller",
+      "Director": "Roxine Helberg",
+      "Writer": "Roxine Helberg",
+      "Actors": "Bel Powley, Tracee Ellis Ross, Jacob Tremblay",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "A HOUSE OF DYNAMITE",
       "netflix_url": "https://www.netflix.com/title/81744537",
       "year": "2025",

@@ -37,6 +37,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Home Fries",
+      "netflix_url": "https://www.netflix.com/title/17236758",
+      "year": "1998",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt0119304",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTA1MjVkNDEtOGNjNS00NDE0LTg1NTQtNWZjODYxYWEzNzliXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Pregnant Sally unknowingly falls for the stepson of the deceased father of her baby and has to deal with his homicidal family.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Dean Parisot",
+      "Writer": "Vince Gilligan",
+      "Actors": "Drew Barrymore, Luke Wilson, Catherine O'Hara",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Shakespeare in Love",
       "netflix_url": "https://www.netflix.com/title/18170373",
       "year": "1998",
@@ -918,6 +935,23 @@
       "Country": "India"
     },
     {
+      "title": "Shuddh Desi Romance",
+      "netflix_url": "https://www.netflix.com/title/70287292",
+      "year": "2013",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt2988272",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NjI2MTI0Ml5BMl5BanBnXkFtZTcwNjI4MzY5OQ@@._V1_SX300.jpg",
+      "Plot": "A romantic comedy which tells the journey of three restless young people who junk society's syllabus for finding love and decide to follow their heart.",
+      "Type": "movie",
+      "RunTime": "141 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Maneesh Sharma",
+      "Writer": "Jaideep Sahni",
+      "Actors": "Sushant Singh Rajput, Parineeti Chopra, Rishi Kapoor",
+      "Language": "Hindi, Rajasthani",
+      "Country": "India"
+    },
+    {
       "title": "Gori Tere Pyaar Mein",
       "netflix_url": "https://www.netflix.com/title/70295695",
       "year": "2013",
@@ -1299,6 +1333,23 @@
       "Country": "United States"
     },
     {
+      "title": "Meri Pyaari Bindu",
+      "netflix_url": "https://www.netflix.com/title/80191742",
+      "year": "2017",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt5472374",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ5NzgwMzExNF5BMl5BanBnXkFtZTgwNjk2NTYyNTM@._V1_SX300.jpg",
+      "Plot": "Abhimanyu Roy returns to his roots to write an old-fashioned love story, 3 years in the making. This writer's block is called Bindu. How do you contain this live wire in a book?",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Akshay Roy",
+      "Writer": "Soumik Sen, Suprotim Sengupta",
+      "Actors": "Ayushmann Khurrana, Parineeti Chopra, Nishant Dahiya",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "The Climb",
       "netflix_url": "https://www.netflix.com/title/80194671",
       "year": "2017",
@@ -1413,6 +1464,23 @@
       "year": "2018",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Catching Feelings",
+      "netflix_url": "https://www.netflix.com/title/80218111",
+      "year": "2018",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt5827360",
+      "Poster": "https://occ-0-1038-37.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABakruGqhJM8nnwyEuwWMXNicx9ymCGoAYZV-XRTu1SBtlrXUOapHr8cosb6AtW0ffdwq3r1nB7eCy00moBQPxwNhl7TAJwbd_G0M.jpg?r=938",
+      "Plot": "Catching Feelings is a dark romantic comedy which follows an urbane young academic and his beautiful wife, as their lives get turned upside down when a celebrated and hedonistic older writer moves into their Johannesburg home with...",
+      "Type": "movie",
+      "RunTime": "124 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Kagiso Lediga",
+      "Writer": "Kagiso Lediga",
+      "Actors": "Kagiso Lediga, Pearl Thusi, Andrew Buckland",
+      "Language": "English",
+      "Country": "South Africa"
     },
     {
       "title": "Love Per Square Foot",
@@ -2163,6 +2231,23 @@
       "Country": "United States"
     },
     {
+      "title": "Ek Ladki Ko Dekha Toh Aisa Laga",
+      "netflix_url": "https://www.netflix.com/title/81076749",
+      "year": "2019",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt8108164",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ3YmRjYjYtOWY5OS00MTVkLTg3OWQtY2M5ZmJmMmFkODM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The film tells the story of closeted lesbian Sweety Chaudhary and her attempts to come out to her conservative, traditional family.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Crime, Drama",
+      "Director": "Shelly Chopra Dhar",
+      "Writer": "Shelly Chopra Dhar, Gazal Dhaliwal, P.G. Wodehouse",
+      "Actors": "Sonam Kapoor, Anil Kapoor, Rajkummar Rao",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Love, Guaranteed",
       "netflix_url": "https://www.netflix.com/title/81076898",
       "year": "2020",
@@ -2372,6 +2457,23 @@
       "Actors": "Pallavi Sharda, Suraj Sharma, Arianna Afsar",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Archies",
+      "netflix_url": "https://www.netflix.com/title/81134807",
+      "year": "2023",
+      "imdb_rating": "4.2",
+      "imdb_id": "tt15979666",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM5NDIyNDUtM2U5NC00ZTM4LTg5ZGQtMmFkYTQwZTcwNTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Set in 1960s India, Archie and the gang navigate romance, friendship and the future of Riverdale as developers threaten to destroy a beloved park.",
+      "Type": "movie",
+      "RunTime": "141 min",
+      "Genre": "Comedy, Drama, Musical",
+      "Director": "Zoya Akhtar",
+      "Writer": "Farhan Akhtar, Zoya Akhtar, Ayesha DeVitre",
+      "Actors": "Agastya Nanda, Khushi Kapoor, Suhana Khan",
+      "Language": "Hindi, English",
+      "Country": "India"
     },
     {
       "title": "Single All The Way",
@@ -2653,6 +2755,23 @@
       "Country": "United States"
     },
     {
+      "title": "Love & Gelato",
+      "netflix_url": "https://www.netflix.com/title/81278276",
+      "year": "2022",
+      "imdb_rating": "5.2",
+      "imdb_id": "tt15521050",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjg4NDk1M2MtNWJiZi00NzQzLWE4N2UtNzFhNmVkOTNiMGE0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Lina makes a promise to her sick mother that she'll spend the summer before college in Rome, where she falls for the city, the people - and the \"gelato\".",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Brandon Camp",
+      "Writer": "Brandon Camp, Jenna Evans Welch",
+      "Actors": "Susanna Skaggs, Tobia De Angelis, Owen McDonnell",
+      "Language": "English, Italian",
+      "Country": "United States"
+    },
+    {
       "title": "What Are the Odds?",
       "netflix_url": "https://www.netflix.com/title/81281587",
       "year": "2020",
@@ -2874,6 +2993,23 @@
       "Country": "Turkey"
     },
     {
+      "title": "Wedding Games",
+      "netflix_url": "https://www.netflix.com/title/81338313",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt27719673",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDMwZTUxMGItY2I2My00ZDU0LWJhY2YtMjg2ZWQwMDFkNDFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Alex and Eva choose to exchange vows at the very spot they first crossed paths, a series of missteps derails their journey to the altar.",
+      "Type": "movie",
+      "RunTime": "79 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Silvio Guindane",
+      "Writer": "N/A",
+      "Actors": "Ana Carbatti, André Mattos, Antonio Pitanga",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
       "title": "The Heartbreak Club",
       "netflix_url": "https://www.netflix.com/title/81341141",
       "year": "2020",
@@ -2964,6 +3100,23 @@
       "Actors": "Asli Enver, Kaan Urgancioglu, Mert Ege Ak",
       "Language": "Turkish",
       "Country": "Turkey"
+    },
+    {
+      "title": "Under the Amalfi Sun",
+      "netflix_url": "https://www.netflix.com/title/81354012",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt15311262",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDIwMzhhMzktMmVjYS00NzdmLTg1M2UtZDRjODU4OTI4YmQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "One year after Riccione, Vincenzo invites Camilla and Furio to his father's home on the mythical Amalfi Coast.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Martina Pastori, Valeria Zunzun",
+      "Writer": "Caterina Salvadori, Enrico Vanzina, Ciro Zecca",
+      "Actors": "Lorenzo Zurzolo, Isabella Ferrari, Ludovica Martino",
+      "Language": "Italian",
+      "Country": "Italy"
     },
     {
       "title": "Kilometers and Kilometers",
@@ -3304,6 +3457,23 @@
       "Actors": "Onikosi Bukola Abisoye, Lateef Adedimeji, Soledayo Adegbite",
       "Language": "English",
       "Country": "Nigeria"
+    },
+    {
+      "title": "Christmas Full of Grace",
+      "netflix_url": "https://www.netflix.com/title/81443737",
+      "year": "2022",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt23556786",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDIwZDM0ZmQtNTAyNi00N2U1LTk5NDYtNjBmNDZhMzQ4MzhhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Carlinhos catches his partner cheating, then meets lively Graça, who poses as his new one so he can save face at Christmas with his traditional family.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Pedro Antonio",
+      "Writer": "Carol Garcia",
+      "Actors": "Gkay, Sérgio Malheiros, Monique Alfradique",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "He's All That",

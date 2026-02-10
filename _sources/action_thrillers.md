@@ -200,6 +200,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/43048" target="_bla
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Jawan: Extended Cut*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81493411" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BMzE5NmFhNTctZDg0Yi00MjBkLWIzYzctMjQzZDAxNDdmNzM3XkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2022 | <details> <summary><strong style="color:#1f6feb;">*Furioza*</strong></summary>  <div class="movie-plot">A past event divides the fates of three friends. Unexpectedly in the life of Dawid, now a doctor, she appears again. "Wild" - once the love of his life, now an experienced policewoman, makes him an offer he cannot refuse. Either h...</div> </details> | <a href="https://www.imdb.com/title/tt18286666/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81570254" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Kalagathalaivan*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81597751" target="_blank">Netflix_link</a> |
+| N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Dasara (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81604819" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Inside Furioza*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81623506" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Leo (Tamil)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81639319" target="_blank">Netflix_link</a> |
 | N/A |  | 2023 | <details> <summary><strong style="color:#1f6feb;">*Leo (Hindi)*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81639323" target="_blank">Netflix_link</a> |
@@ -252,6 +253,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/43048" target="_bla
 
  
 ---
-*Page last updated on: 2026-02-06*
+*Page last updated on: 2026-02-09*
 
  

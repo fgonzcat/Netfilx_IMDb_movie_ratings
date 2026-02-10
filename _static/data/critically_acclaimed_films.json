@@ -496,6 +496,23 @@
       "Country": "United States"
     },
     {
+      "title": "After Hours",
+      "netflix_url": "https://www.netflix.com/title/60020925",
+      "year": "1985",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0088680",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxMjEzMzI2MV5BMl5BanBnXkFtZTgwNTU3ODAxMDE@._V1_SX300.jpg",
+      "Plot": "Ordinary word processor Paul Hackett experiences the worst night of his life after he agrees to visit Marcy, a Soho resident that he met that evening at a coffee shop.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "Joseph Minion",
+      "Actors": "Griffin Dunne, Rosanna Arquette, Verna Bloom",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Moulin Rouge!",
       "netflix_url": "https://www.netflix.com/title/60021659",
       "year": "2001",
@@ -815,6 +832,23 @@
       "Director": "Sanjay Gadhvi",
       "Writer": "Vijay Krishna Acharya, Aditya Chopra",
       "Actors": "Hrithik Roshan, Abhishek Bachchan, Aishwarya Rai Bachchan",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Guru",
+      "netflix_url": "https://www.netflix.com/title/70063017",
+      "year": "2007",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0499375",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDgzMjliNDAtMGJkNy00ZTUzLWIyMTAtNWZkNmY2MDNiZjE3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A villager, Gurukant Desai, arrives in Bombay 1958, and rises from its streets to become the GURU, the biggest tycoon in Indian history.",
+      "Type": "movie",
+      "RunTime": "166 min",
+      "Genre": "Drama",
+      "Director": "Mani Ratnam",
+      "Writer": "Mani Ratnam, Vijay Krishna Acharya, Anurag Kashyap",
+      "Actors": "Mithun Chakraborty, Abhishek Bachchan, Aishwarya Rai Bachchan",
       "Language": "Hindi",
       "Country": "India"
     },
@@ -1149,6 +1183,23 @@
       "Country": "United States, India, Jordan"
     },
     {
+      "title": "Frances Ha",
+      "netflix_url": "https://www.netflix.com/title/70257412",
+      "year": "2012",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt2347569",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTY0NDQ2NzQ2N15BMl5BanBnXkFtZTcwMTU0OTkwOQ@@._V1_SX300.jpg",
+      "Plot": "A New York woman apprentices for a dance company and throws herself headlong into her dreams, even as the possibility of realizing them dwindles.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Noah Baumbach",
+      "Writer": "Noah Baumbach, Greta Gerwig",
+      "Actors": "Greta Gerwig, Mickey Sumner, Adam Driver",
+      "Language": "English, French",
+      "Country": "United States, Brazil"
+    },
+    {
       "title": "Jab Tak Hai Jaan",
       "netflix_url": "https://www.netflix.com/title/70258134",
       "year": "2012",
@@ -1232,6 +1283,23 @@
       "Actors": "Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender",
       "Language": "English",
       "Country": "United Kingdom, United States"
+    },
+    {
+      "title": "Shuddh Desi Romance",
+      "netflix_url": "https://www.netflix.com/title/70287292",
+      "year": "2013",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt2988272",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NjI2MTI0Ml5BMl5BanBnXkFtZTcwNjI4MzY5OQ@@._V1_SX300.jpg",
+      "Plot": "A romantic comedy which tells the journey of three restless young people who junk society's syllabus for finding love and decide to follow their heart.",
+      "Type": "movie",
+      "RunTime": "141 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Maneesh Sharma",
+      "Writer": "Jaideep Sahni",
+      "Actors": "Sushant Singh Rajput, Parineeti Chopra, Rishi Kapoor",
+      "Language": "Hindi, Rajasthani",
+      "Country": "India"
     },
     {
       "title": "The Short Game",
@@ -1659,6 +1727,23 @@
       "Country": "India"
     },
     {
+      "title": "Into the Inferno",
+      "netflix_url": "https://www.netflix.com/title/80066073",
+      "year": "2016",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt4846318",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAyNzYyNjg1NzJeQTJeQWpwZ15BbWU4MDY4NzE1MzAy._V1_SX300.jpg",
+      "Plot": "An exploration of active volcanoes around the world.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Documentary",
+      "Director": "Werner Herzog",
+      "Writer": "Werner Herzog",
+      "Actors": "Werner Herzog, Katia Krafft, Maurice Krafft",
+      "Language": "English",
+      "Country": "United Kingdom, Germany, Canada"
+    },
+    {
       "title": "First They Killed My Father",
       "netflix_url": "https://www.netflix.com/title/80067522",
       "year": "2017",
@@ -1742,6 +1827,23 @@
       "Actors": "Elliot Page, Allison Janney, Tammy Blanchard",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Sing Street",
+      "netflix_url": "https://www.netflix.com/title/80096631",
+      "year": "2016",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt3544112",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzODA3MDcxMl5BMl5BanBnXkFtZTgwODgxNDk3NzE@._V1_SX300.jpg",
+      "Plot": "A young lad notices a beautiful girl who begins to occupy his thoughts. While struggling with poverty, personal relationships and life's woes, he starts a band, hoping to catch her attention.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "John Carney",
+      "Writer": "Simon Carmody, John Carney",
+      "Actors": "Ferdia Walsh-Peelo, Aidan Gillen, Maria Doyle Kennedy",
+      "Language": "English, French, Latin",
+      "Country": "Ireland, United Kingdom, United States"
     },
     {
       "title": "American Honey",
@@ -2169,6 +2271,23 @@
       "Country": "Indonesia, United States"
     },
     {
+      "title": "Colossal",
+      "netflix_url": "https://www.netflix.com/title/80158202",
+      "year": "2016",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt4680182",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_SX300.jpg",
+      "Plot": "Gloria is an out-of-work party girl forced to leave her life in New York City and move back home. When reports surface that a giant creature is destroying Seoul, she gradually comes to the realization that she is somehow connected...",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "Nacho Vigalondo",
+      "Writer": "Nacho Vigalondo",
+      "Actors": "Anne Hathaway, Jason Sudeikis, Austin Stowell",
+      "Language": "English, Korean",
+      "Country": "United States, Spain, Canada, South Korea"
+    },
+    {
       "title": "Cargo",
       "netflix_url": "https://www.netflix.com/title/80161216",
       "year": "2018",
@@ -2320,6 +2439,13 @@
       "Actors": "Elizabeth Olsen, Jeremy Renner, Graham Greene",
       "Language": "English",
       "Country": "United Kingdom, France, United States, Canada"
+    },
+    {
+      "title": "The Meyerowitz Stories (New and Selected)",
+      "netflix_url": "https://www.netflix.com/title/80174434",
+      "year": "2017",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Two Popes",
@@ -2550,6 +2676,23 @@
       "Country": "Australia, United States"
     },
     {
+      "title": "Heroin(e)",
+      "netflix_url": "https://www.netflix.com/title/80192445",
+      "year": "2017",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt7389366",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTZlZDBmMDMtZTJhZi00YTA1LTk0OTAtYTQ4NDRhZWExZjI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Three women fight to break the cycle one life at a time.",
+      "Type": "movie",
+      "RunTime": "39 min",
+      "Genre": "Documentary, Short",
+      "Director": "Elaine McMillion Sheldon",
+      "Writer": "N/A",
+      "Actors": "Jan Rader, Patricia Keller, Necia Freeman",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "My Friend Dahmer",
       "netflix_url": "https://www.netflix.com/title/80192637",
       "year": "2017",
@@ -2742,6 +2885,23 @@
       "Actors": "Terry Donahue, Pat Henschel, Diana Bolan",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Borg vs. McEnroe",
+      "netflix_url": "https://www.netflix.com/title/80209447",
+      "year": "2017",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt5727282",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzJjODA2MTUtODg4YS00NjU0LWJlMjUtOGYyZjhmYjdjNjU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of the 1980 tennis rivalry between the placid Björn Borg and the volatile John McEnroe.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Biography, Drama, Sport",
+      "Director": "Janus Metz",
+      "Writer": "Ronnie Sandahl",
+      "Actors": "Sverrir Gudnason, Shia LaBeouf, Stellan Skarsgård",
+      "Language": "English, Swedish, French, Spanish, German",
+      "Country": "Sweden, Denmark, Finland, Czech Republic"
     },
     {
       "title": "22 July",
@@ -3735,6 +3895,23 @@
       "Actors": "Charles Baker, Jonathan Banks, Melissa Bernstein",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Hold Your Breath: The Ice Dive",
+      "netflix_url": "https://www.netflix.com/title/81082317",
+      "year": "2022",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt19373274",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzYxNDcyZjUtNjk1My00Njk1LWIxYWUtMDc3NWMxNmVhOTlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow free diver Johanna Nordblad in this documentary as she attempts to break the world record for distance traveled under ice with one breath.",
+      "Type": "movie",
+      "RunTime": "40 min",
+      "Genre": "Documentary, Short, Sport",
+      "Director": "Ian Derry",
+      "Writer": "N/A",
+      "Actors": "Jean-Charles Granjon, Maria Hellinger, Antero Joki",
+      "Language": "English",
+      "Country": "United Kingdom, Finland"
     },
     {
       "title": "Downton Abbey",
@@ -6584,6 +6761,23 @@
       "Director": "Richard Linklater",
       "Writer": "Richard Linklater, Glen Powell, Skip Hollandsworth",
       "Actors": "Glen Powell, Adria Arjona, Austin Amelio",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "American Symphony",
+      "netflix_url": "https://www.netflix.com/title/81728930",
+      "year": "2023",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt28865980",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTU5MTY2ZWEtZWMzYy00NmIyLWFlNTQtMmQ3MjUwZWVhNGRlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this deeply intimate documentary, musician Jon Batiste attempts to compose a symphony as his wife, writer Suleika Jaouad, undergoes cancer treatment.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Documentary, Biography, Music",
+      "Director": "Matthew Heineman",
+      "Writer": "N/A",
+      "Actors": "Jon Batiste, Lindsey Byrnes, Jonathan Dinklage",
       "Language": "English",
       "Country": "United States"
     },

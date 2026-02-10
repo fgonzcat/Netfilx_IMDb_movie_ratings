@@ -901,6 +901,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Spectros",
+      "netflix_url": "https://www.netflix.com/title/80209651",
+      "year": "2020",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt10145110",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGZkYzAwZmMtMmNkOC00OTZhLTkyOTctM2YyODkwZjM2NjNlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A group of teenagers gets unintentionally involved in a conflict between Japanese Shinto ghosts and Brazilian witchcraft.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Fantasy, Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Cláudia Okuno, Danilo Mesquita, Mariana Sena",
+      "Language": "Portuguese, Japanese",
+      "Country": "Brazil"
+    },
+    {
       "title": "The Dragon Prince",
       "netflix_url": "https://www.netflix.com/title/80212245",
       "year": "2024",
@@ -2620,6 +2637,23 @@
       "Actors": "Kivanç Tatlitug, Jerry Hoffmann, Ecem Uzun",
       "Language": "Turkish, English, German",
       "Country": "Turkey"
+    },
+    {
+      "title": "God's Favorite Idiot",
+      "netflix_url": "https://www.netflix.com/title/81281864",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt13861620",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODJlNmNiNDUtMmQyMi00NzlkLTg2MTktMGI5MWZlYjBlMzFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A tech-support employee becomes the unwitting messenger of God.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Fantasy",
+      "Director": "N/A",
+      "Writer": "Ben Falcone",
+      "Actors": "Melissa McCarthy, Ben Falcone, Usman Ally",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Endless Night",

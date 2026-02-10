@@ -190,6 +190,23 @@
       "Country": "India"
     },
     {
+      "title": "Yeh Dillagi",
+      "netflix_url": "https://www.netflix.com/title/21059403",
+      "year": "1994",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0111793",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWVhMWZmZDMtOWU1Yi00NWI0LWE3OTYtMGU3MzM5MWRlODg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A poor girl is rebuked by a rich boy. She leaves town to return successful and rich. He falls for her but his brother is already in love with the girl.",
+      "Type": "movie",
+      "RunTime": "155 min",
+      "Genre": "Comedy, Drama, Musical",
+      "Director": "Naresh Malhotra",
+      "Writer": "Sachin Bhowmick, Javed Siddiqui",
+      "Actors": "Kajol, Akshay Kumar, Saif Ali Khan",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Agneepath",
       "netflix_url": "https://www.netflix.com/title/235527",
       "year": "1990",
@@ -1013,6 +1030,23 @@
       "Country": "India"
     },
     {
+      "title": "Bachna Ae Haseeno",
+      "netflix_url": "https://www.netflix.com/title/70104309",
+      "year": "2008",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt1182972",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAyNzkyNjAwOF5BMl5BanBnXkFtZTgwNTM1NTYyNTM@._V1_SX300.jpg",
+      "Plot": "Raj is a heartbreaker. His love stories with Mahi, Radhika, and Gayatri finally teach him about love and life in their own sweet, sexy, and sassy ways.",
+      "Type": "movie",
+      "RunTime": "152 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Siddharth Anand",
+      "Writer": "Aditya Chopra, Devika Bhagat, Anvita Dutt",
+      "Actors": "Ranbir Kapoor, Deepika Padukone, Bipasha Basu",
+      "Language": "Hindi, English",
+      "Country": "India"
+    },
+    {
       "title": "Dostana",
       "netflix_url": "https://www.netflix.com/title/70109680",
       "year": "2008",
@@ -1350,6 +1384,23 @@
       "Writer": "Hussain Dalal, Ayan Mukerji",
       "Actors": "Ranbir Kapoor, Deepika Padukone, Aditya Roy Kapoor",
       "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Shuddh Desi Romance",
+      "netflix_url": "https://www.netflix.com/title/70287292",
+      "year": "2013",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt2988272",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NjI2MTI0Ml5BMl5BanBnXkFtZTcwNjI4MzY5OQ@@._V1_SX300.jpg",
+      "Plot": "A romantic comedy which tells the journey of three restless young people who junk society's syllabus for finding love and decide to follow their heart.",
+      "Type": "movie",
+      "RunTime": "141 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Maneesh Sharma",
+      "Writer": "Jaideep Sahni",
+      "Actors": "Sushant Singh Rajput, Parineeti Chopra, Rishi Kapoor",
+      "Language": "Hindi, Rajasthani",
       "Country": "India"
     },
     {
@@ -2198,6 +2249,23 @@
       "year": "2017",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Meri Pyaari Bindu",
+      "netflix_url": "https://www.netflix.com/title/80191742",
+      "year": "2017",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt5472374",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ5NzgwMzExNF5BMl5BanBnXkFtZTgwNjk2NTYyNTM@._V1_SX300.jpg",
+      "Plot": "Abhimanyu Roy returns to his roots to write an old-fashioned love story, 3 years in the making. This writer's block is called Bindu. How do you contain this live wire in a book?",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Akshay Roy",
+      "Writer": "Soumik Sen, Suprotim Sengupta",
+      "Actors": "Ayushmann Khurrana, Parineeti Chopra, Nishant Dahiya",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Tubelight",

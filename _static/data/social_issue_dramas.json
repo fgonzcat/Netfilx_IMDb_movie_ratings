@@ -598,6 +598,23 @@
       "Country": "India"
     },
     {
+      "title": "Refugiado",
+      "netflix_url": "https://www.netflix.com/title/80013483",
+      "year": "2014",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt3717390",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDM4ODdiMWYtODliZi00NDY4LTg2NDYtNDQ3Mzg4NjJiYTFlXkEyXkFqcGdeQXVyNTc2Nzk1NTk@._V1_SX300.jpg",
+      "Plot": "Matias and his mother Laura, find themselves forced to hurriedly abandon the house they live in to escape another outburst of violence from Fabian. Matias is 8 and Laura is newly pregnant. Thus they begin a wandering journey in se...",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Diego Lerman",
+      "Writer": "Diego Lerman, María Meira, Gustavo Cabaña",
+      "Actors": "Julieta Díaz, Sebastián Molinaro, Marta Lubos",
+      "Language": "Spanish",
+      "Country": "Argentina, Colombia, France, Poland, Germany"
+    },
+    {
       "title": "99 Homes",
       "netflix_url": "https://www.netflix.com/title/80015788",
       "year": "2014",
@@ -1651,6 +1668,23 @@
       "Actors": "Triptii Dimri, Avinash Tiwary, Rahul Bose",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "All Is Well",
+      "netflix_url": "https://www.netflix.com/title/81030855",
+      "year": "2019",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt9815726",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg2ODQ1ZjItZjVmMS00NWJhLWE4YjItMzc5ZmY0ZmFhZTdjXkEyXkFqcGdeQXVyNjk4ODU3NTA@._V1_SX300.jpg",
+      "Plot": "The story follows the Sus. It tells about all kinds of things in this family.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Chen Yao, Dahong Ni, Jingfei Guo",
+      "Language": "Mandarin",
+      "Country": "China"
     },
     {
       "title": "Street Flow",
@@ -4057,6 +4091,23 @@
       "Actors": "Adi Putra, Beto Kusyairy, Fattah Amin",
       "Language": "Malay, Gujarati, English",
       "Country": "Malaysia"
+    },
+    {
+      "title": "Jewel",
+      "netflix_url": "https://www.netflix.com/title/81578388",
+      "year": "2022",
+      "imdb_rating": "3.6",
+      "imdb_id": "tt21030216",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2MwZGQ0MTItOTJiOS00NzVhLWFkMmUtMDI2MzMwOTllMTBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A story about an unlikely love, and how some memories can never be forgotten.",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Drama",
+      "Director": "Adze Ugah",
+      "Writer": "Glenrose Ndlovu, Adze Ugah",
+      "Actors": "Connie Chiume, Michelle Botes, Nqobile Khumalo",
+      "Language": "English",
+      "Country": "South Africa"
     },
     {
       "title": "Hurricane Season",

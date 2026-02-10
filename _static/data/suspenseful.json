@@ -700,6 +700,23 @@
       "Country": "India, United States"
     },
     {
+      "title": "Cell 211",
+      "netflix_url": "https://www.netflix.com/title/70125343",
+      "year": "2009",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt1242422",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2NhYmY3ODktNjY3ZC00NTU4LThmMTYtOWQ0MTIxOTU2ZDdhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The story of two men on different sides of a prison riot -- the inmate leading the rebellion and the young guard trapped in the revolt, who poses as a prisoner in a desperate attempt to survive the ordeal.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Daniel Monzón",
+      "Writer": "Jorge Guerricaechevarría, Daniel Monzón, Francisco Pérez Gandul",
+      "Actors": "Luis Tosar, Alberto Ammann, Antonio Resines",
+      "Language": "Spanish, Basque, English",
+      "Country": "Spain, France"
+    },
+    {
       "title": "Silent House",
       "netflix_url": "https://www.netflix.com/title/70170056",
       "year": "2011",
@@ -970,6 +987,23 @@
       "Actors": "Charlize Theron, Nicholas Hoult, Christina Hendricks",
       "Language": "English",
       "Country": "United States, United Kingdom, France"
+    },
+    {
+      "title": "Detective Byomkesh Bakshy!",
+      "netflix_url": "https://www.netflix.com/title/80043137",
+      "year": "2015",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt3447364",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2MDgyOTgzN15BMl5BanBnXkFtZTgwNzY2NTYyNTM@._V1_SX300.jpg",
+      "Plot": "Detective Byomkesh Bakshy is set in the 2nd World War torn Calcutta during the 1940s. Enter a magical world of nostalgia and 'Expect the Unexpected'.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "Dibakar Banerjee",
+      "Writer": "Urmi Juvekar, Dibakar Banerjee, Saradindu Bandopadhyay",
+      "Actors": "Sushant Singh Rajput, Anand Tiwari, Neeraj Kabi",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Survivor",
@@ -2230,6 +2264,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Svaha: The Sixth Finger",
+      "netflix_url": "https://www.netflix.com/title/81010699",
+      "year": "2019",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt7299298",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTZhZjlmYTEtNGQ2ZC00NmFhLTk5NWMtYzdkOWRiZjM5ZGM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Pastor Park works to expose suspicious religious groups. He's hired to look into the cult group Deer Mount. Meanwhile, Police Captain Hwang investigates a murder case and the main suspect is a member of the Deer Mount cult.",
+      "Type": "movie",
+      "RunTime": "122 min",
+      "Genre": "Crime, Horror, Mystery",
+      "Director": "Jang Jae-hyun",
+      "Writer": "Kang Full, Jang Jae-hyun",
+      "Actors": "Lee Jung-jae, Lee Da-wit, Yoo Ji-tae",
+      "Language": "Korean, English",
+      "Country": "South Korea"
+    },
+    {
       "title": "Harriet",
       "netflix_url": "https://www.netflix.com/title/81011382",
       "year": "2019",
@@ -2842,6 +2893,23 @@
       "Country": "United Kingdom, United States"
     },
     {
+      "title": "Munich – The Edge of War",
+      "netflix_url": "https://www.netflix.com/title/81144852",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt7475578",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzU4NGVlMTAtODEyNC00YjkzLWIwYmQtMGVhYWFjNTM0MTBiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A British diplomat travels to Munich in the run-up to World War II, where a former classmate of his from Oxford is also en route, but is working for the German government.",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Christian Schwochow",
+      "Writer": "Ben Power, Robert Harris",
+      "Actors": "George MacKay, Jannis Niewöhner, Jeremy Irons",
+      "Language": "English, German",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Rebel Ridge",
       "netflix_url": "https://www.netflix.com/title/81157729",
       "year": "2024",
@@ -3267,6 +3335,23 @@
       "Country": "Sweden"
     },
     {
+      "title": "Khufiya",
+      "netflix_url": "https://www.netflix.com/title/81252372",
+      "year": "2023",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt15433600",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjdmMWZhNjItMjExZi00OGM3LWJiNzgtNjlkZmNlYjU1OGI3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Krishna Mehra is an operative at Indian spy agency known as R&amp;AW. She is assigned to track down the mole selling India's defense secrets, while all along grappling with her dual identity as a spy and a lover.",
+      "Type": "movie",
+      "RunTime": "157 min",
+      "Genre": "Action, Biography, Crime",
+      "Director": "Vishal Bhardwaj",
+      "Writer": "Vishal Bhardwaj, Amar Bhushan, Rohan Narula",
+      "Actors": "Tabu, Ali Fazal, Wamiqa Gabbi",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Robbing Mussolini",
       "netflix_url": "https://www.netflix.com/title/81256747",
       "year": "2022",
@@ -3282,6 +3367,23 @@
       "Actors": "Pietro Castellitto, Matilda De Angelis, Tommaso Ragno",
       "Language": "Italian",
       "Country": "Italy"
+    },
+    {
+      "title": "Kolaiyuthir Kaalam",
+      "netflix_url": "https://www.netflix.com/title/81258623",
+      "year": "2019",
+      "imdb_rating": "2.6",
+      "imdb_id": "tt6280858",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzA3NzU0OGQtMjA4My00MTg1LWI5YWMtODg4ZjljNzJjYjBjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young woman has to defend herself from a slasher, all alone in her palatial estate.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Chakri Toleti",
+      "Writer": "Sara Bodinar, Adam Hiebeler, Carl Lauricella",
+      "Actors": "Nayanthara, Bhoomika Chawla, Lee Byford",
+      "Language": "Tamil",
+      "Country": "India"
     },
     {
       "title": "Operation Hyacinth",
@@ -3781,6 +3883,23 @@
       "Country": "United States"
     },
     {
+      "title": "Andhakaaram",
+      "netflix_url": "https://www.netflix.com/title/81346073",
+      "year": "2020",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt29571112",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmZlMGEyYzctNjdmYS00YzNkLWIyMDAtNDExZDkzMmVmNjdjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "'Manu' is a professional writer who falls for the trap of 'Writer's Block' which descends his life into the darkness.",
+      "Type": "movie",
+      "RunTime": "10 min",
+      "Genre": "Short, Thriller",
+      "Director": "Vikrant Aaryan",
+      "Writer": "Vikrant Aaryan",
+      "Actors": "Rathnappa Reddy",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
       "title": "Trust No One: The Hunt for the Crypto King",
       "netflix_url": "https://www.netflix.com/title/81349029",
       "year": "2022",
@@ -3847,6 +3966,13 @@
       "Actors": "Kang-sheng Lee, Wilson Hsu, Vera Chen",
       "Language": "Mandarin, Min Nan",
       "Country": "Taiwan"
+    },
+    {
+      "title": "M8 - When Death Rescues Life",
+      "netflix_url": "https://www.netflix.com/title/81362674",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Yin-Yang Master: Dream Of Eternity",
@@ -4034,6 +4160,23 @@
       "Actors": "Gerard Butler, Frank Grillo, Alexis Louder",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "10 Days of a Curious Man",
+      "netflix_url": "https://www.netflix.com/title/81428004",
+      "year": "2024",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt28713370",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2FkZDhkM2QtOGI5OS00MzkzLTg0ODctM2IzMDZkN2I2ZjQ4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a young woman goes missing in Istanbul, a jaded writer gets tangled up in a deadly chain of events as he sets out to find her and a good story.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Uluç Bayraktar",
+      "Writer": "Mehmet Eroglu, Damla Serim",
+      "Actors": "Nejat Isler, Riza Kocaoglu, Kadir Çermik",
+      "Language": "Turkish",
+      "Country": "Turkey"
     },
     {
       "title": "Operation Mincemeat",
@@ -5573,6 +5716,23 @@
       "Actors": "Bo-Chieh Wang, Jing-Hua Tseng, Shih-ling Hsueh",
       "Language": "Mandarin",
       "Country": "Taiwan, Hong Kong"
+    },
+    {
+      "title": "Faceless",
+      "netflix_url": "https://www.netflix.com/title/81709654",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt34335312",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjNkZWJhM2EtNTNkZi00MWE1LWFiMTktNTNkNGVhNDJhMzZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A burnt-out screenwriter Andy is struggling with writer's block. Under the pressure of a blank page and a tight deadline, she turns to an AI tool, D.O.M., which offers her unoriginal stories based on existing iconic films. Disappo...",
+      "Type": "movie",
+      "RunTime": "9 min",
+      "Genre": "Short, Comedy, Drama",
+      "Director": "Assel Akhmetova",
+      "Writer": "Assel Akhmetova",
+      "Actors": "Erica Wang, Ellie B. Mendoza, Jacob Versace",
+      "Language": "English",
+      "Country": "Canada"
     },
     {
       "title": "iHostage",

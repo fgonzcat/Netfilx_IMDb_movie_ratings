@@ -1833,6 +1833,13 @@
       "Country": "Philippines"
     },
     {
+      "title": "Into the Deep: The Submarine Murder Case",
+      "netflix_url": "https://www.netflix.com/title/80239100",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The Chalk Line",
       "netflix_url": "https://www.netflix.com/title/80242820",
       "year": "2022",
@@ -5457,6 +5464,23 @@
       "imdb_id": null
     },
     {
+      "title": "Rosa Peral's Tapes",
+      "netflix_url": "https://www.netflix.com/title/81674394",
+      "year": "2023",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt28687398",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDg1N2M3ZDEtZWZkMy00ODExLTlmOGMtOWY1MWVlNjczMTg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "This true-crime documentary film features Rosa Peral's first interview from prison since she was convicted of murdering her partner aided by an ex-lover.",
+      "Type": "movie",
+      "RunTime": "80 min",
+      "Genre": "Documentary, Crime",
+      "Director": "Carles Vidal Novellas, Manuel Pérez Cáceres, Carlos Agulló",
+      "Writer": "N/A",
+      "Actors": "Oscar Reyes, Alba Ribó, Carla Lechón",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "Ferry 2",
       "netflix_url": "https://www.netflix.com/title/81674409",
       "year": "2024",
@@ -6377,6 +6401,13 @@
       "Country": "United States"
     },
     {
+      "title": "500 Days of Escobar",
+      "netflix_url": "https://www.netflix.com/title/81771021",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Mission: Cross",
       "netflix_url": "https://www.netflix.com/title/81771382",
       "year": "2024",
@@ -6727,6 +6758,23 @@
       "Director": "Geeta Gandbhir",
       "Writer": "N/A",
       "Actors": "N/A",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Uninvited",
+      "netflix_url": "https://www.netflix.com/title/82023328",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35680599",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzU4NjI0N2ItZTdjNS00OTdiLTkzZTYtYjcxNzQxZGE5NWNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman comes home from work after a long day, but an uninvited guest appears at her door.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Short, Thriller",
+      "Director": "Riley Hudson",
+      "Writer": "Riley Hudson",
+      "Actors": "Regan Hudson, Zach Lamb",
       "Language": "English",
       "Country": "United States"
     },

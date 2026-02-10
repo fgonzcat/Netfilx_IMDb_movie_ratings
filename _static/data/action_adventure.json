@@ -2169,6 +2169,23 @@
       "Country": "United States"
     },
     {
+      "title": "Colossal",
+      "netflix_url": "https://www.netflix.com/title/80158202",
+      "year": "2016",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt4680182",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_SX300.jpg",
+      "Plot": "Gloria is an out-of-work party girl forced to leave her life in New York City and move back home. When reports surface that a giant creature is destroying Seoul, she gradually comes to the realization that she is somehow connected...",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "Nacho Vigalondo",
+      "Writer": "Nacho Vigalondo",
+      "Actors": "Anne Hathaway, Jason Sudeikis, Austin Stowell",
+      "Language": "English, Korean",
+      "Country": "United States, Spain, Canada, South Korea"
+    },
+    {
       "title": "Salaakhen",
       "netflix_url": "https://www.netflix.com/title/80158479",
       "year": "1975",
@@ -2922,6 +2939,23 @@
       "Actors": "Jessica Chastain, Penélope Cruz, Bingbing Fan",
       "Language": "English, Chinese, Spanish, French, German, Arabic, Romanian, Hindi, Sign ",
       "Country": "United States, China"
+    },
+    {
+      "title": "Revenger",
+      "netflix_url": "https://www.netflix.com/title/81000511",
+      "year": "2018",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt9426186",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGRiYTYyZDEtNjVhYi00ZDY1LWI5ZTctOTYxNGNjNmE2ZjFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A former police investigator decides to go to a prison island to revenge the brutal killings of his family.",
+      "Type": "movie",
+      "RunTime": "101 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Lee Seung-won",
+      "Writer": "Bruce Khan",
+      "Actors": "Je-Heon Choi, Park Chul-min, Kim Dae-hyun",
+      "Language": "Korean, English",
+      "Country": "South Korea"
     },
     {
       "title": "6 Underground",
@@ -7027,6 +7061,23 @@
       "Actors": "Anurag Kashyap, Dileesh Pothan, Vijayaraghavan",
       "Language": "Malayalam",
       "Country": "India"
+    },
+    {
+      "title": "13 Bombs",
+      "netflix_url": "https://www.netflix.com/title/81755774",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt27490380",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjUyZWMzOWYtNjJkZC00MGU3LThiMGMtNDExOGVjODNkMWU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An organization races against time to uncover the mastermind behind the placement of 13 bombs in Jakarta before the city falls into chaos.",
+      "Type": "movie",
+      "RunTime": "143 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Angga Dwimas Sasongko",
+      "Writer": "Angga Dwimas Sasongko, Mohammad Irfan Ramly",
+      "Actors": "Ardhito Pramono, Lutesha, Chicco Kurniawan",
+      "Language": "Indonesian",
+      "Country": "Indonesia, South Korea"
     },
     {
       "title": "Bad Boys: Ride or Die",

@@ -326,6 +326,23 @@
       "Country": "United States"
     },
     {
+      "title": "After Hours",
+      "netflix_url": "https://www.netflix.com/title/60020925",
+      "year": "1985",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt0088680",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxMjEzMzI2MV5BMl5BanBnXkFtZTgwNTU3ODAxMDE@._V1_SX300.jpg",
+      "Plot": "Ordinary word processor Paul Hackett experiences the worst night of his life after he agrees to visit Marcy, a Soho resident that he met that evening at a coffee shop.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "Joseph Minion",
+      "Actors": "Griffin Dunne, Rosanna Arquette, Verna Bloom",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Sandlot",
       "netflix_url": "https://www.netflix.com/title/60021964",
       "year": "1993",
@@ -2117,6 +2134,23 @@
       "Actors": "Alan Ritchson, Darin Brooks, James Cade",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "David Brent: Life on the Road",
+      "netflix_url": "https://www.netflix.com/title/80103818",
+      "year": "2016",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt3137630",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzI1ODE4NV5BMl5BanBnXkFtZTgwOTAwMDE0OTE@._V1_SX300.jpg",
+      "Plot": "A camera crew catches up with David Brent, the former star of the fictional British TV series The Office (2001), as he now fancies himself a rock star on the road.",
+      "Type": "movie",
+      "RunTime": "96 min",
+      "Genre": "Comedy, Music",
+      "Director": "Ricky Gervais",
+      "Writer": "Ricky Gervais",
+      "Actors": "Ricky Gervais, Rob Jarvis, Abbie Murphy",
+      "Language": "English",
+      "Country": "United Kingdom, United States, Canada"
     },
     {
       "title": "A Futile and Stupid Gesture",
@@ -4320,6 +4354,23 @@
       "Country": "United States"
     },
     {
+      "title": "Moxie",
+      "netflix_url": "https://www.netflix.com/title/81078393",
+      "year": "2021",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt6432466",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTQ0NzIzYmEtZWQyYS00NGQ3LTlkNTctNWIxODIwZTkyOTI0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Inspired by her mom's rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school.",
+      "Type": "movie",
+      "RunTime": "111 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Amy Poehler",
+      "Writer": "Jennifer Mathieu, Tamara Chestna, Dylan Meyer",
+      "Actors": "Hadley Robinson, Lauren Tsai, Alycia Pascual-Pena",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Thunder Force",
       "netflix_url": "https://www.netflix.com/title/81079259",
       "year": "2021",
@@ -5800,6 +5851,23 @@
       "Country": "India"
     },
     {
+      "title": "Private Lesson",
+      "netflix_url": "https://www.netflix.com/title/81334950",
+      "year": "2022",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt23782662",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTMyMWY2OTEtODg1Mi00YzUwLTk0MTMtMGVjYTFmNDFhNTQyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Posing as a private tutor, Azra secretly coaches students on achieving their goals in life and love - but not without a few bumps in the road.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Kivanç Baruönü",
+      "Writer": "Murat Disli, Yasemin Erturan, Yasemin Erturan",
+      "Actors": "Bensu Soral, Halit Özgür Sari, Helin Kandemir",
+      "Language": "Turkish",
+      "Country": "Turkey"
+    },
+    {
       "title": "The Pirates: The Last Royal Treasure",
       "netflix_url": "https://www.netflix.com/title/81336431",
       "year": "2022",
@@ -5883,6 +5951,23 @@
       "Actors": "Noomi Rapace, Aksel Hennie, Atle Antonsen",
       "Language": "Norwegian, Swedish",
       "Country": "Norway"
+    },
+    {
+      "title": "Shiva Baby",
+      "netflix_url": "https://www.netflix.com/title/81343677",
+      "year": "2021",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt11317142",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTU5ZjRiNDctZWJkMy00NWIxLTgzMTAtZGYzODU5NTIyMzlmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "While at a Jewish funeral service with her parents, a college student has an awkward encounter with her sugar daddy and ex-girlfriend.",
+      "Type": "movie",
+      "RunTime": "77 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Emma Seligman",
+      "Writer": "Emma Seligman",
+      "Actors": "Rachel Sennott, Danny Deferrari, Fred Melamed",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Chick Fight",
@@ -7279,6 +7364,23 @@
       "Country": "South Africa"
     },
     {
+      "title": "Darlings",
+      "netflix_url": "https://www.netflix.com/title/81537953",
+      "year": "2022",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt14152140",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWU5ZmQ1MjctODI4Zi00NTA0LWFjNmYtNDc0MjIxMDI5M2IyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It follows the lives of two women as they find courage and love in exceptional circumstances.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Comedy, Drama, Thriller",
+      "Director": "Jasmeet K Reen",
+      "Writer": "Parveez Sheikh, Jasmeet K Reen, Vijay Maurya",
+      "Actors": "Alia Bhatt, Shefali Shah, Vijay Varma",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Jay Kelly",
       "netflix_url": "https://www.netflix.com/title/81551446",
       "year": "2025",
@@ -8128,6 +8230,23 @@
       "Actors": "Grace Byers, Jermaine Fowler, Melvin Gregg",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Crew",
+      "netflix_url": "https://www.netflix.com/title/81672746",
+      "year": "2024",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt21383812",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGRmYjBmOWQtMmY1NS00Njk3LWFkYWYtZWY3ODQ0N2U2NTBhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follows three hard-working women as their destinies lead to some unwarranted situations and they end up caught in a web of lies.",
+      "Type": "movie",
+      "RunTime": "118 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Rajesh A Krishnan",
+      "Writer": "Nidhi Mehra, Mehul Suri",
+      "Actors": "Tabu, Kareena Kapoor, Kriti Sanon",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Nice Girls",

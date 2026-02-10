@@ -561,6 +561,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Mars Generation",
+      "netflix_url": "https://www.netflix.com/title/80117263",
+      "year": "2017",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt6333096",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQxMzE4MTAxMV5BMl5BanBnXkFtZTgwNTYyMjUyMjI@._V1_SX300.jpg",
+      "Plot": "Aspiring teenage astronauts reveal that a journey to Mars is closer than you think.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary",
+      "Director": "Michael Barnett",
+      "Writer": "Michael Barnett, Michael Mahaffie",
+      "Actors": "Bob Behnken, Alayna Bidlack, Niko Blanks",
+      "Language": "N/A",
+      "Country": "United States"
+    },
+    {
       "title": "The Emoji Movie",
       "netflix_url": "https://www.netflix.com/title/80121840",
       "year": "2017",
@@ -1517,6 +1534,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Magic School Bus Rides Again The Frizz Connection",
+      "netflix_url": "https://www.netflix.com/title/81054980",
+      "year": "2020",
+      "imdb_rating": "5.1",
+      "imdb_id": "tt13150612",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzRjOTJmZTEtYTJiYi00YmEzLTg2N2EtM2Y3ODE5MDMwNTA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A lightning separates the Magic School Bus into three pieces, scattering the class across the globe with different versions of Ms. Frizzle aboard each bus.",
+      "Type": "movie",
+      "RunTime": "44 min",
+      "Genre": "Animation, Short, Adventure",
+      "Director": "Richard Weston",
+      "Writer": "Merrill Hagan, Joanna Cole, Bruce Degen",
+      "Actors": "Kate McKinnon, Roman Lutterotti, Mikaela Blake",
+      "Language": "English",
+      "Country": "Canada"
+    },
+    {
       "title": "The Magic School Bus Rides Again In the Zone",
       "netflix_url": "https://www.netflix.com/title/81054981",
       "year": "2020",
@@ -1944,6 +1978,23 @@
       "Actors": "Ine Marie Wilmann, Kim Falck, Mads Sjøgård Pettersen",
       "Language": "Norwegian, English",
       "Country": "Norway"
+    },
+    {
+      "title": "Sugar High",
+      "netflix_url": "https://www.netflix.com/title/81258641",
+      "year": "2020",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt12806000",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzlmN2ZiMGItNWE5Yi00NDM3LWIxM2UtMjE2NDlkYjlmNTAyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Plot": "Contestants compete in two rounds of sugar sculpting challenges for a prize of $10,000.",
+      "Type": "movie",
+      "RunTime": "44 min",
+      "Genre": "Reality-TV",
+      "Director": "Ariel Boles",
+      "Writer": "N/A",
+      "Actors": "Hunter March, Jackie Sorkin, Rebecca DeAngelis",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Seven Deadly Sins: Cursed by Light",
@@ -2386,6 +2437,23 @@
       "Actors": "Shawn Yue, Jessie Li, Kara Ying Hung Wai",
       "Language": "Chinese, Cantonese",
       "Country": "China"
+    },
+    {
+      "title": "David and the Elves",
+      "netflix_url": "https://www.netflix.com/title/81416534",
+      "year": "2021",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt15565714",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDZiZTVlZjgtNGVjZC00NGVjLTgxNzUtNTgyMTQ2ODU4ZmVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A jaded, overworked elf runs off to the real world where he tries to experience the magic of Christmas with the help of a newly befriended young boy.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Comedy, Family, Fantasy",
+      "Director": "Michal Rogalski",
+      "Writer": "Marcin Baczynski, Mariusz Kuczewski",
+      "Actors": "Cyprian Grabowski, Jakub Zajac, Cezary Zak",
+      "Language": "Polish, English",
+      "Country": "Poland, United States"
     },
     {
       "title": "New Gods: Nezha Reborn",
@@ -3070,6 +3138,23 @@
       "Actors": "Gayatri Bhardwaj, Sriram Reddy Polasane, Allu Sirish",
       "Language": "Telugu, Tamil, Malayalam, Kannada",
       "Country": "India"
+    },
+    {
+      "title": "Guillermo del Toro's Pinocchio: Handcarved Cinema",
+      "netflix_url": "https://www.netflix.com/title/81639893",
+      "year": "2022",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt24216364",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWU5NmJkNDAtNDljZC00MDMzLTk0NWItNzY4OWEzYTc2ODdjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Behind the scenes discussion of animation techniques and the making of Pinocchio.",
+      "Type": "movie",
+      "RunTime": "37 min",
+      "Genre": "Documentary, Short",
+      "Director": "Javier Soto",
+      "Writer": "Javier Soto",
+      "Actors": "Guillermo del Toro, Mark Gustafson, Cate Blanchett",
+      "Language": "N/A",
+      "Country": "N/A"
     },
     {
       "title": "Lost in Starlight",

@@ -1514,6 +1514,23 @@
       "Country": "United States"
     },
     {
+      "title": "Andhakaaram",
+      "netflix_url": "https://www.netflix.com/title/81346073",
+      "year": "2020",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt29571112",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmZlMGEyYzctNjdmYS00YzNkLWIyMDAtNDExZDkzMmVmNjdjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "'Manu' is a professional writer who falls for the trap of 'Writer's Block' which descends his life into the darkness.",
+      "Type": "movie",
+      "RunTime": "10 min",
+      "Genre": "Short, Thriller",
+      "Director": "Vikrant Aaryan",
+      "Writer": "Vikrant Aaryan",
+      "Actors": "Rathnappa Reddy",
+      "Language": "Telugu",
+      "Country": "India"
+    },
+    {
       "title": "Erax",
       "netflix_url": "https://www.netflix.com/title/81349232",
       "year": "2022",
@@ -2091,6 +2108,23 @@
       "year": "2022",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Shaitaan",
+      "netflix_url": "https://www.netflix.com/title/81632775",
+      "year": "2022",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt27744786",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGI3YTcwNTgtMmY5Ny00M2Y0LWFjOWUtYjhkMzNjMjhmYjVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A family's getaway turns terrifying when an intruder possesses the teen daughter's body, putting her at the mercy of his increasingly sinister commands.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Drama, Horror, Thriller",
+      "Director": "Vikas Bahl",
+      "Writer": "Aamil Keeyan Khan, Krishnadev Yagnik",
+      "Actors": "Ajay Devgn, Madhavan, Jyotika",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Buddy",
@@ -2687,6 +2721,13 @@
       "Actors": "Derek Ramsay, Beauty Gonzalez, Erin Espiritu",
       "Language": "Tagalog, Filipino",
       "Country": "Philippines"
+    },
+    {
+      "title": "The Bridge Curse: Ritual",
+      "netflix_url": "https://www.netflix.com/title/81754653",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Wanita Ahli Neraka",

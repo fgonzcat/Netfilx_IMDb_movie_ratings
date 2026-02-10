@@ -684,6 +684,23 @@
       "Country": "United States, United Kingdom"
     },
     {
+      "title": "The Mars Generation",
+      "netflix_url": "https://www.netflix.com/title/80117263",
+      "year": "2017",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt6333096",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQxMzE4MTAxMV5BMl5BanBnXkFtZTgwNTYyMjUyMjI@._V1_SX300.jpg",
+      "Plot": "Aspiring teenage astronauts reveal that a journey to Mars is closer than you think.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Documentary",
+      "Director": "Michael Barnett",
+      "Writer": "Michael Barnett, Michael Mahaffie",
+      "Actors": "Bob Behnken, Alayna Bidlack, Niko Blanks",
+      "Language": "N/A",
+      "Country": "United States"
+    },
+    {
       "title": "Sing",
       "netflix_url": "https://www.netflix.com/title/80117526",
       "year": "2016",
@@ -1046,6 +1063,23 @@
       "Actors": "David Attenborough, Max Hughes",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Dance Dreams: Hot Chocolate Nutcracker",
+      "netflix_url": "https://www.netflix.com/title/80217229",
+      "year": "2020",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt8741182",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzdhNmMzZjctOWQzYi00ZTVkLTkyMGMtMWViOTJkMzQwOTAyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Behind-the-scenes at the Debbie Allen Dance Academy and their award-winning version of The Nutcracker, which blends a variety of dance traditions.",
+      "Type": "movie",
+      "RunTime": "80 min",
+      "Genre": "Documentary, Family",
+      "Director": "Oliver Bokelberg",
+      "Writer": "N/A",
+      "Actors": "Debbie Allen, Tichina Arnold, Ryan Phuong",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "13: The Musical",
@@ -2235,6 +2269,23 @@
       "Country": "United States, Philippines, Austria"
     },
     {
+      "title": "Spelling the Dream",
+      "netflix_url": "https://www.netflix.com/title/81069312",
+      "year": "2020",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt6193522",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2M0MmQ0Y2MtZDhkYy00MjhjLTkyZDMtNDczYTQzNmE0N2QxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Chronicle of the ups and downs of four Indian-American students as they compete to realize their dream of winning the iconic tournament.",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Documentary",
+      "Director": "Sam Rega",
+      "Writer": "Sam Rega, Chris Weller",
+      "Actors": "Srinivas Ayyagari, Jacques Bailly, Valerie Browning",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Princess Switch: Switched Again",
       "netflix_url": "https://www.netflix.com/title/81084350",
       "year": "2020",
@@ -2837,6 +2888,23 @@
       "Country": "Canada"
     },
     {
+      "title": "Mighty Express: A Mighty Christmas",
+      "netflix_url": "https://www.netflix.com/title/81239272",
+      "year": "2020",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt13422586",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGYxZDU3ZjItODk2OC00NTk4LWJhNTMtMmI4OWRhNDIzZmQxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Mighty Express welcomes a new train and speeds into a snowstorm to deliver Santa's presents and save Christmas for all the kids in Tracksville.",
+      "Type": "movie",
+      "RunTime": "25 min",
+      "Genre": "Animation, Family",
+      "Director": "Paul H. Brown, Clint Butler",
+      "Writer": "Ron Holsey, Keith Chapman, Scott Gray",
+      "Actors": "Jay Hatton, Zoe Hatz, Meesha Contreras",
+      "Language": "English",
+      "Country": "Canada"
+    },
+    {
       "title": "Ivy + Bean: Doomed to Dance",
       "netflix_url": "https://www.netflix.com/title/81241013",
       "year": "2021",
@@ -3214,6 +3282,23 @@
       "Director": "Hebru Brantley",
       "Writer": "Henry G.M. Jones, Hebru Brantley",
       "Actors": "Jasmine Cephas Jones, Genesis White, Lance Gross",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Mighty Express: Train Trouble",
+      "netflix_url": "https://www.netflix.com/title/81349243",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt16539862",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmFkYmQ1MGItYWVkZi00MTg0LWFkNGQtZGNlMzljMjQyZDc2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A sneaky duo has tricked the trains and taken over Mission Station. Can Flicker flex his skills on the tracks to rescue his friends and save the day?",
+      "Type": "movie",
+      "RunTime": "25 min",
+      "Genre": "Animation, Short, Family",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Christian Campbell, Shazdeh Kapadia",
       "Language": "English",
       "Country": "United States"
     },
@@ -4127,6 +4212,23 @@
       "Country": "Norway, United States"
     },
     {
+      "title": "Inside the Mind of a Dog",
+      "netflix_url": "https://www.netflix.com/title/81681888",
+      "year": "2024",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt32907397",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjA3ZjA5MWMtYTNkMi00NTU3LWJjNzYtZjk1M2YzZDI2YWNhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Embark on a delightful journey into the world of dogs in this documentary that reveals scientific and emotional insights about our lovable BFFs.",
+      "Type": "movie",
+      "RunTime": "75 min",
+      "Genre": "Documentary",
+      "Director": "Andy Mitchell",
+      "Writer": "N/A",
+      "Actors": "Joelle Andres, Bastian the Talking Terrier, Sascha Crasnow",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Bad Guys: Haunted Heist",
       "netflix_url": "https://www.netflix.com/title/81686326",
       "year": "2024",
@@ -4371,6 +4473,23 @@
       "year": "2026",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Backyard Wilderness",
+      "netflix_url": "https://www.netflix.com/title/81752453",
+      "year": "2018",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt4076648",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwMTI4NjA4Ml5BMl5BanBnXkFtZTgwMDU4Njk2NDM@._V1_SX300.jpg",
+      "Plot": "This large format digital film follows the daily dramas of common animals - like the turtle, heron, frog, raccoon and dragonfly - juxtaposed with the activities of nearby humans more concerned with their computer screens, mobile d...",
+      "Type": "movie",
+      "RunTime": "42 min",
+      "Genre": "Documentary, Short, Drama",
+      "Director": "Susan Todd, Andrew Young",
+      "Writer": "Andrew Young, Susan Todd, Wendy MacKeigan",
+      "Actors": "Christian Ryan, Susan Todd, Andrew Young",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Miraculous World: New York, United Heroez",

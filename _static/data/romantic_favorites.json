@@ -428,6 +428,23 @@
       "Country": "India"
     },
     {
+      "title": "Rumor Has It...",
+      "netflix_url": "https://www.netflix.com/title/70039168",
+      "year": "2005",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt0398375",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg3Njk2NTIxNF5BMl5BanBnXkFtZTcwNTc4MTEzMw@@._V1_SX300.jpg",
+      "Plot": "Sarah Huttinger is a woman who learns that her family was the inspiration for the book and film \"The Graduate\" -- and that she just might be the offspring of the well-documented event.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Rob Reiner",
+      "Writer": "Ted Griffin",
+      "Actors": "Jennifer Aniston, Mark Ruffalo, Shirley MacLaine",
+      "Language": "English, Spanish",
+      "Country": "Germany, Australia, United States"
+    },
+    {
       "title": "Paheli",
       "netflix_url": "https://www.netflix.com/title/70039405",
       "year": "2005",
@@ -853,6 +870,23 @@
       "Country": "United States"
     },
     {
+      "title": "Shuddh Desi Romance",
+      "netflix_url": "https://www.netflix.com/title/70287292",
+      "year": "2013",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt2988272",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NjI2MTI0Ml5BMl5BanBnXkFtZTcwNjI4MzY5OQ@@._V1_SX300.jpg",
+      "Plot": "A romantic comedy which tells the journey of three restless young people who junk society's syllabus for finding love and decide to follow their heart.",
+      "Type": "movie",
+      "RunTime": "141 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Maneesh Sharma",
+      "Writer": "Jaideep Sahni",
+      "Actors": "Sushant Singh Rajput, Parineeti Chopra, Rishi Kapoor",
+      "Language": "Hindi, Rajasthani",
+      "Country": "India"
+    },
+    {
       "title": "That Winter, the Wind Blows",
       "netflix_url": "https://www.netflix.com/title/70296735",
       "year": "2013",
@@ -953,6 +987,23 @@
       "Actors": "Lee Bo-young, Lee Jong-suk, Yoon Sang-Hyun",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "My Big Fat Greek Wedding 2",
+      "netflix_url": "https://www.netflix.com/title/80081792",
+      "year": "2016",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt3760922",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTA1MjMzNDM2M15BMl5BanBnXkFtZTgwNTg3NzQ1NzE@._V1_SX300.jpg",
+      "Plot": "A Portokalos family secret brings the beloved characters back together for an even bigger and Greeker wedding.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Kirk Jones",
+      "Writer": "Nia Vardalos",
+      "Actors": "Nia Vardalos, John Corbett, Michael Constantine",
+      "Language": "English, Greek",
+      "Country": "United States"
     },
     {
       "title": "Kapoor & Sons",
@@ -1307,6 +1358,13 @@
       "Actors": "Hilary Swank, Josh Charles, Vivian Wu",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Overboard (2018)",
+      "netflix_url": "https://www.netflix.com/title/80216281",
+      "year": "2018",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Guernsey Literary and Potato Peel Pie Society",
@@ -2089,6 +2147,23 @@
       "Actors": "Panja Vaisshnav Tej, Krithi Shetty, Vijay Sethupathi",
       "Language": "Telugu",
       "Country": "India"
+    },
+    {
+      "title": "The Secret: Dare to Dream",
+      "netflix_url": "https://www.netflix.com/title/81232236",
+      "year": "2020",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt4411584",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmQwMmI0YTEtZDA1Zi00Y2ExLWE2OTYtZDAwMmNkYjI4OWViXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A feature film adaptation of the self-help book, 'The Secret', which focuses on the power of positive thinking.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Drama, Romance",
+      "Director": "Andy Tennant",
+      "Writer": "Bekah Brunstetter, Andy Tennant, Rick Parks",
+      "Actors": "Katie Holmes, Josh Lucas, Celia Weston",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "The Life List",

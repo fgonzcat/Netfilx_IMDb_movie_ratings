@@ -1285,6 +1285,23 @@
       "Country": "United States"
     },
     {
+      "title": "Master of None",
+      "netflix_url": "https://www.netflix.com/title/80049714",
+      "year": "2021",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt4635276",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI1MDgyMTMwMF5BMl5BanBnXkFtZTgwMDU5MzAxNzE@._V1_SX300.jpg",
+      "Plot": "The personal and professional life of Dev, a 30-year-old actor in New York.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "Aziz Ansari, Alan Yang",
+      "Actors": "Aziz Ansari, Eric Wareheim, Lena Waithe",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "A Series of Unfortunate Events",
       "netflix_url": "https://www.netflix.com/title/80050008",
       "year": "2019",
@@ -1732,6 +1749,23 @@
       "Actors": "Narendra Jetley, Vinita Joshi, Faisal Rashid, Kabir Sajid Shaikh",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Gilmore Girls: A Year in the Life",
+      "netflix_url": "https://www.netflix.com/title/80109415",
+      "year": "2016",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt5435008",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODM1OTk4MDY2M15BMl5BanBnXkFtZTgwOTEwNzczMDI@._V1_SX300.jpg",
+      "Plot": "Set nearly a decade after the finale of the original series, this revival follows Lorelai, Rory and Emily Gilmore through four seasons of change.",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "Amy Sherman-Palladino",
+      "Actors": "Lauren Graham, Alexis Bledel, Scott Patterson",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Fauda",
@@ -3630,6 +3664,23 @@
       "Actors": "McKell David, Thaddea Graham, Jojo Macari",
       "Language": "English",
       "Country": "United Kingdom"
+    },
+    {
+      "title": "Dirty John",
+      "netflix_url": "https://www.netflix.com/title/80241855",
+      "year": "2020",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt7945720",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODQzYWU4NDEtYTlhZi00M2E0LWFiYTQtNjg3ZTU4NGZjODlkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Anthology series in which each season is based on a true crime story featuring an epic tale of love gone wrong.",
+      "Type": "series",
+      "RunTime": "31S min",
+      "Genre": "Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Alexandra Cunningham",
+      "Actors": "Connie Britton, Christian Slater, Eric Bana",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Deadwind",
@@ -7982,6 +8033,23 @@
       "Country": "United States"
     },
     {
+      "title": "Maamla Legal Hai",
+      "netflix_url": "https://www.netflix.com/title/81480217",
+      "year": "2024",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt31183656",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2QyNjUyN2MtMjRiNC00ZmFiLTg0YjQtNTQ3MWQ3MmQ4NWIzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Chaos collides with the letter of the law at District Court Patparganj, where quirky employees work to uphold justice but not without a few objections.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "Sameer Saxena",
+      "Actors": "Ravi Kishan, Naila Grrewal, Nidhi Bisht",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Deceitful Love",
       "netflix_url": "https://www.netflix.com/title/81481334",
       "year": "2024",
@@ -10027,6 +10095,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "Castaway Diva",
+      "netflix_url": "https://www.netflix.com/title/81701128",
+      "year": "2023",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt28348835",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmQ3MGZiMGUtNjNjYy00MGI5LTlmYTItOTllZmY1NTJmMzFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An aspiring singer who spends fifteen years alone on a deserted island before setting out on a journey to become a diva.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Park Eun-bin, Ell, Kim Joo-hun",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "Two Graves",
       "netflix_url": "https://www.netflix.com/title/81701717",
       "year": "2025",
@@ -11143,6 +11228,23 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "The Potato Lab",
+      "netflix_url": "https://www.netflix.com/title/81989515",
+      "year": "2025",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt35665377",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjgzNGMyYjItNDIwMS00MmEzLTliMDUtOWExZWM0NGE3Y2YxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mi-kyung's potato-focused world changes when she meets the practical Baek-ho, sparking a spiraling romantic comedy about healing and growth.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Lee Sun-bin, Kang Tae-oh, Lee Hak-joo",
+      "Language": "Korean",
+      "Country": "South Korea"
     },
     {
       "title": "Khakee: The Bengal Chapter",

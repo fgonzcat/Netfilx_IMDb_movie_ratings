@@ -71,6 +71,23 @@
       "Country": "India"
     },
     {
+      "title": "Yeh Dillagi",
+      "netflix_url": "https://www.netflix.com/title/21059403",
+      "year": "1994",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0111793",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWVhMWZmZDMtOWU1Yi00NWI0LWE3OTYtMGU3MzM5MWRlODg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A poor girl is rebuked by a rich boy. She leaves town to return successful and rich. He falls for her but his brother is already in love with the girl.",
+      "Type": "movie",
+      "RunTime": "155 min",
+      "Genre": "Comedy, Drama, Musical",
+      "Director": "Naresh Malhotra",
+      "Writer": "Sachin Bhowmick, Javed Siddiqui",
+      "Actors": "Kajol, Akshay Kumar, Saif Ali Khan",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Agneepath",
       "netflix_url": "https://www.netflix.com/title/235527",
       "year": "1990",
@@ -731,6 +748,23 @@
       "Writer": "Aditya Chopra",
       "Actors": "Shah Rukh Khan, Anushka Sharma, Vinay Pathak",
       "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Bachna Ae Haseeno",
+      "netflix_url": "https://www.netflix.com/title/70104309",
+      "year": "2008",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt1182972",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAyNzkyNjAwOF5BMl5BanBnXkFtZTgwNTM1NTYyNTM@._V1_SX300.jpg",
+      "Plot": "Raj is a heartbreaker. His love stories with Mahi, Radhika, and Gayatri finally teach him about love and life in their own sweet, sexy, and sassy ways.",
+      "Type": "movie",
+      "RunTime": "152 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Siddharth Anand",
+      "Writer": "Aditya Chopra, Devika Bhagat, Anvita Dutt",
+      "Actors": "Ranbir Kapoor, Deepika Padukone, Bipasha Basu",
+      "Language": "Hindi, English",
       "Country": "India"
     },
     {
@@ -4205,6 +4239,13 @@
       "Country": "Philippines"
     },
     {
+      "title": "Anne+: The Film",
+      "netflix_url": "https://www.netflix.com/title/81337079",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Angeliena",
       "netflix_url": "https://www.netflix.com/title/81343009",
       "year": "2021",
@@ -5450,6 +5491,23 @@
       "Country": "United States"
     },
     {
+      "title": "Bharat",
+      "netflix_url": "https://www.netflix.com/title/81587836",
+      "year": "2019",
+      "imdb_rating": "4.7",
+      "imdb_id": "tt7721800",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTUzYWUzYzMtNTQ2NS00ZDI5LTk2MzQtNmE0ZWQwMGZiMjliXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "At the cusp of India's birth as an Independent nation, a family makes an arduous journey to freedom at a cost. A young boy Bharat, makes a promise to his Father that he will keep his family together no matter what.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Ali Abbas Zafar",
+      "Writer": "Su-jin Park, Varun V. Sharma, Ali Abbas Zafar",
+      "Actors": "Salman Khan, Katrina Kaif, Sunil Grover",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Hichki",
       "netflix_url": "https://www.netflix.com/title/81587844",
       "year": "2018",
@@ -5617,6 +5675,13 @@
       "Country": "India"
     },
     {
+      "title": "Dasara (Tamil)",
+      "netflix_url": "https://www.netflix.com/title/81604819",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "From the Ashes",
       "netflix_url": "https://www.netflix.com/title/81614037",
       "year": "2024",
@@ -5683,6 +5748,23 @@
       "Actors": "Ace Bhatti, Gabe Gabriel, Khadija Heeger",
       "Language": "English",
       "Country": "South Africa"
+    },
+    {
+      "title": "Doll House",
+      "netflix_url": "https://www.netflix.com/title/81620555",
+      "year": "2022",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt22038236",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM4Y2M0YTYtZTkxMS00OWRhLWI4MmItNjEyZjg5YjMxN2U0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A man takes on the job of caring for a little girl, the daughter he left behind years ago.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Drama",
+      "Director": "Marla Ancheta",
+      "Writer": "Onay Sales, Erwin Blanco, Faye Lorenzo",
+      "Actors": "Baron Geisler, Althea Ruedas, Mary Joy Apostol",
+      "Language": "Tagalog, Filipino, English",
+      "Country": "Philippines"
     },
     {
       "title": "Boxer",
@@ -6233,6 +6315,23 @@
       "imdb_id": null
     },
     {
+      "title": "One Hit Wonder",
+      "netflix_url": "https://www.netflix.com/title/81684726",
+      "year": "2025",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt35657531",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTJiMzUxMjctYjhjMy00YzczLTg4YWQtM2MzYjdjMjA1OGY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two dreamers, Entoy and Lorina, pursue stardom in '90s Filipino pop music. Can they achieve their big dreams the second time around?",
+      "Type": "movie",
+      "RunTime": "112 min",
+      "Genre": "Drama, Music, Romance",
+      "Director": "Marla Ancheta",
+      "Writer": "Marla Ancheta",
+      "Actors": "Sue Ramirez, Khalil Ramos, Romnick Sarmenta",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
+    },
+    {
       "title": "Seasons",
       "netflix_url": "https://www.netflix.com/title/81685455",
       "year": "2023",
@@ -6432,6 +6531,23 @@
       "Actors": "Simone Baldasseroni, Caterina Ferioli, Sabrina Paravicini",
       "Language": "Italian",
       "Country": "Italy"
+    },
+    {
+      "title": "Mr. & Mrs. Mahi",
+      "netflix_url": "https://www.netflix.com/title/81712516",
+      "year": "2024",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt16227342",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDk5OTcwZTEtMjllNC00OWI5LWI2ZGYtZGVmYzkwNWE2MWY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A married couple who share a love for cricket begin training in the game due to her natural talent.",
+      "Type": "movie",
+      "RunTime": "139 min",
+      "Genre": "Drama, Sport",
+      "Director": "Sharan Sharma",
+      "Writer": "Nikhil Mehrotra, Sharan Sharma",
+      "Actors": "Rajkummar Rao, Janhvi Kapoor, Rajesh Sharma",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Meiyazhagan",
@@ -7876,6 +7992,23 @@
       "Country": "Brazil, France"
     },
     {
+      "title": "I’m Your Venus",
+      "netflix_url": "https://www.netflix.com/title/82045298",
+      "year": "2025",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt32150607",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWI0YmU1MmEtNWQ0YS00MWY0LWFkYTctNTc5ZWZhYzFlMWIyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A moving and timely documentary following the unsolved murder of Venus Xtravaganza, star of the legendary film Paris Is Burning, as Venus' two families - biological and ballroom - come together to seek answers and celebrate her le...",
+      "Type": "movie",
+      "RunTime": "85 min",
+      "Genre": "Documentary, Biography",
+      "Director": "Kimberly Reed",
+      "Writer": "N/A",
+      "Actors": "Venus Xtravaganza, Mona Martinez, Gaby Pellagatti",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "In Waves and War",
       "netflix_url": "https://www.netflix.com/title/82047468",
       "year": "2025",
@@ -8190,6 +8323,23 @@
       "Writer": "Rebecca Murga",
       "Actors": "Bre-Z, Matt Borlenghi, Maurice P. Kerry",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Matter of Time",
+      "netflix_url": "https://www.netflix.com/title/82184383",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36590322",
+      "Poster": "N/A",
+      "Plot": "A string of Eddie Vedder solo concerts in Seattle in 2023 are the backdrop for the film, which chronicles efforts to find a cure for epidermolysis bullosa (EB), a rare genetic disease that can be lethal.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "Matt Finlin",
+      "Writer": "N/A",
+      "Actors": "Eddie Vedder",
+      "Language": "N/A",
       "Country": "United States"
     },
     {

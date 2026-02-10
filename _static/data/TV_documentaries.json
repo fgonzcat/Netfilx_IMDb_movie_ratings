@@ -775,6 +775,23 @@
       "Country": "United States"
     },
     {
+      "title": "A Sinister Sect: Colonia Dignidad",
+      "netflix_url": "https://www.netflix.com/title/80196160",
+      "year": "2021",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt15430012",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2NhMTcyZTktMGMwZS00YTI5LThkMmYtYTk3NTNmYWQ3ZjcxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The rise of a poor German lay preacher to one of the mightiest men in Latin America told through the eyes of those who lived in the sect, who endured it, who fought it. All brought to life by unearthed, never before seen archive m...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Salo Luna, Willi Malessa, Edeltraud Bohnau",
+      "Language": "English, German, Spanish",
+      "Country": "United States, Germany"
+    },
+    {
       "title": "Nisman: The Prosecutor, the President, and the Spy",
       "netflix_url": "https://www.netflix.com/title/80197991",
       "year": "2020",
@@ -1146,6 +1163,23 @@
       "Writer": "Zainab Johnson, Sammy Obeid, Alie Ward",
       "Actors": "English",
       "Language": "United States"
+    },
+    {
+      "title": "Explained",
+      "netflix_url": "https://www.netflix.com/title/80216752",
+      "year": "2021",
+      "imdb_rating": "8.0",
+      "imdb_id": "tt8005374",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmM0ZGQ4Y2UtNjJhOC00YTAzLWEyMzgtNmJiNmY1MGNhMGM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A documentary series that looks to explore the big questions of today.",
+      "Type": "series",
+      "RunTime": "18 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "Joe Posner, Ezra Klein",
+      "Actors": "Estelle Caswell, Samira Wiley, Maria Bello",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Jailbirds",
@@ -1807,6 +1841,23 @@
       "Country": "Canada"
     },
     {
+      "title": "Broken",
+      "netflix_url": "https://www.netflix.com/title/81002391",
+      "year": "2019",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt11168226",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWRhM2I3MTQtN2IwOS00MTA0LWJmYTYtNjQzYjZjNGUwMDdhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Influencer hype and marketing create conditions where counterfeit makeup thrives, teens become addicted to vaping, disposable furniture kills, and corporations use of single use plastics are the stories told in this 4 part series.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jenise Morgan, Janet McGee, Bella Carroll",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Pharmacist",
       "netflix_url": "https://www.netflix.com/title/81002576",
       "year": "2020",
@@ -2043,6 +2094,23 @@
       "Actors": "Charles Martinet, Rebecca Ann Heineman, Nolan Bushnell",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Mystery Lab",
+      "netflix_url": "https://www.netflix.com/title/81020977",
+      "year": "2020",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt12723962",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzk5NzlkZTItZGJjMS00NzJhLTgwNmItZGM4NmZiZGI5YTgzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Host Felipe Castanhari explores science, history, mysteries and marvels, uncovering mind-blowing facts with help from his lab buddies.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Animation, Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Felipe Castanhari, Lilian Regina, Bruno Miranda",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "A Perfect Crime",
@@ -3957,6 +4025,23 @@
       "Country": "United States"
     },
     {
+      "title": "Korean Pork Belly Rhapsody",
+      "netflix_url": "https://www.netflix.com/title/81347666",
+      "year": "2020",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt14017966",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1OGI3N2EtY2NlNi00N2NmLWFmYjktZjIzZjA1MTI1MDFmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A love letter to pork belly - a perennial favorite among Koreans of every generation - unfolds with an exploration of its history and cooking methods.",
+      "Type": "series",
+      "RunTime": "48 min",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Paik Jong-won",
+      "Language": "Korean",
+      "Country": "South Korea"
+    },
+    {
       "title": "The Real Bling Ring: Hollywood Heist",
       "netflix_url": "https://www.netflix.com/title/81349491",
       "year": "2022",
@@ -3972,6 +4057,23 @@
       "Actors": "Cabot Rea, Tim Cullingworth-Hudson, Audrina Patridge",
       "Language": "English",
       "Country": "United States, United Kingdom"
+    },
+    {
+      "title": "D.B. Cooper: Where Are You?!",
+      "netflix_url": "https://www.netflix.com/title/81349547",
+      "year": "2022",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt21063148",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5YjVmMmYtY2FkOC00MjY4LThlODItOGRhZmZmOTMwZmZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "It follows the 50-year quest to find Cooper, the man who hijacked a Northwest Airlines passenger jet in November 1971 and escaped with $200,000.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Eric Ulis, Tom Colbert, Jonna Mendez",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Race: Bubba Wallace",

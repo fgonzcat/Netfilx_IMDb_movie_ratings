@@ -377,6 +377,13 @@
       "Country": "Italy, United States"
     },
     {
+      "title": "Hard Lessons",
+      "netflix_url": "https://www.netflix.com/title/60022914",
+      "year": "1986",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Enough",
       "netflix_url": "https://www.netflix.com/title/60022967",
       "year": "2002",
@@ -2417,6 +2424,23 @@
       "Country": "United States"
     },
     {
+      "title": "Colossal",
+      "netflix_url": "https://www.netflix.com/title/80158202",
+      "year": "2016",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt4680182",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_SX300.jpg",
+      "Plot": "Gloria is an out-of-work party girl forced to leave her life in New York City and move back home. When reports surface that a giant creature is destroying Seoul, she gradually comes to the realization that she is somehow connected...",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Comedy, Drama, Fantasy",
+      "Director": "Nacho Vigalondo",
+      "Writer": "Nacho Vigalondo",
+      "Actors": "Anne Hathaway, Jason Sudeikis, Austin Stowell",
+      "Language": "English, Korean",
+      "Country": "United States, Spain, Canada, South Korea"
+    },
+    {
       "title": "A Christmas Prince",
       "netflix_url": "https://www.netflix.com/title/80160759",
       "year": "2017",
@@ -2874,6 +2898,23 @@
       "Actors": "Mario Casas, Richard van Weyden, Alain Hernández",
       "Language": "Spanish, German",
       "Country": "Spain"
+    },
+    {
+      "title": "Meri Pyaari Bindu",
+      "netflix_url": "https://www.netflix.com/title/80191742",
+      "year": "2017",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt5472374",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ5NzgwMzExNF5BMl5BanBnXkFtZTgwNjk2NTYyNTM@._V1_SX300.jpg",
+      "Plot": "Abhimanyu Roy returns to his roots to write an old-fashioned love story, 3 years in the making. This writer's block is called Bindu. How do you contain this live wire in a book?",
+      "Type": "movie",
+      "RunTime": "117 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Akshay Roy",
+      "Writer": "Soumik Sen, Suprotim Sengupta",
+      "Actors": "Ayushmann Khurrana, Parineeti Chopra, Nishant Dahiya",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "My Friend Dahmer",
@@ -3823,6 +3864,23 @@
       "Actors": "Oscar Isaac, Ben Kingsley, Mélanie Laurent",
       "Language": "English, Spanish, French, German, Hebrew, Arabic",
       "Country": "United States, Argentina"
+    },
+    {
+      "title": "Seventeen",
+      "netflix_url": "https://www.netflix.com/title/80990336",
+      "year": "2019",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt8988748",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjcwOTUwNDYtYzdjYS00NWE2LWJmNmEtN2U0YTBmODlkMTJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "To find a shelter dog he befriended, a 17-year-old boy escapes a juvenile detention center and is joined on his quest by his older brother.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Drama",
+      "Director": "Daniel Sánchez Arévalo",
+      "Writer": "Daniel Sánchez Arévalo",
+      "Actors": "Biel Montoro, Nacho Sánchez, Lola Cordón",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Military Wives",
@@ -7934,6 +7992,23 @@
       "Country": "United States"
     },
     {
+      "title": "In His Shadow",
+      "netflix_url": "https://www.netflix.com/title/81576814",
+      "year": "2023",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt26763229",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWRlOGRlZTItNGFhMS00Y2YyLTlkYTktMWEyYzdlZDA4MjI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After the death of their father, two half-brothers find themselves on opposite sides of an escalating conflict with tragic consequences.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Marc Fouchard",
+      "Writer": "Marc Fouchard",
+      "Actors": "Kaaris, Alassane Diong, Carl Malapa",
+      "Language": "French",
+      "Country": "France, United States"
+    },
+    {
       "title": "Mea Culpa",
       "netflix_url": "https://www.netflix.com/title/81577005",
       "year": "2024",
@@ -8077,6 +8152,23 @@
       "imdb_id": null
     },
     {
+      "title": "Shehzada",
+      "netflix_url": "https://www.netflix.com/title/81595543",
+      "year": "2023",
+      "imdb_rating": "4.5",
+      "imdb_id": "tt13130948",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGI4ZjllYTEtYzUwZS00ZmY5LWE2OWUtZjc2OGM5NjRjZjhjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Bantu is hated by his father Valmiki since he was a toddler. Samara, his boss, shows him affection and love until he discovers that the Jindals are his parents. Bantu decides to seek Jindals love and protect them from threats they...",
+      "Type": "movie",
+      "RunTime": "142 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Rohit Dhawan",
+      "Writer": "Hussain Dalal, Rohit Dhawan, Trivikram Srinivas",
+      "Actors": "Kartik Aaryan, Kriti Sanon, Paresh Rawal",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Cemara's Family 2",
       "netflix_url": "https://www.netflix.com/title/81597193",
       "year": "2022",
@@ -8092,6 +8184,23 @@
       "Actors": "Widuri Sasono, Ringgo Agus Rahman, Nirina Zubir",
       "Language": "Indonesian",
       "Country": "Indonesia, Malaysia"
+    },
+    {
+      "title": "Gold Brick",
+      "netflix_url": "https://www.netflix.com/title/81597242",
+      "year": "2023",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt27987407",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjAyNjIxZTMtYTFhMy00MDY4LWFmYWEtMzg5Y2Q5YTM3Y2ZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Determined to even the scales and profit from his thankless job, a factory worker schemes to traffic luxury perfumes from under his employer's nose.",
+      "Type": "movie",
+      "RunTime": "95 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Jérémie Rozan",
+      "Writer": "Victor Rodenbach, Jérémie Rozan",
+      "Actors": "Raphaël Quenard, Igor Gotesman, Agathe Rousselle",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "The Entitled",
@@ -8160,6 +8269,13 @@
       "Actors": "Nani, Keerthy Suresh, Shine Tom Chacko",
       "Language": "Telugu",
       "Country": "India"
+    },
+    {
+      "title": "Dasara (Tamil)",
+      "netflix_url": "https://www.netflix.com/title/81604819",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Rogue Agent",
@@ -9006,6 +9122,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Marry My Dead Body",
+      "netflix_url": "https://www.netflix.com/title/81689962",
+      "year": "2023",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt22742964",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDY3OGQ4ZWMtMTU0OC00NjIzLTg3NTktYTI5NTllZWM0NDhkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "One day a police officer finds a red wedding envelope, only to find out that the owner is in fact a ghost asking for the officer's hand in marriage before reincarnation. What will happen when a human and a ghost form a special bond?",
+      "Type": "movie",
+      "RunTime": "130 min",
+      "Genre": "Action, Comedy, Crime",
+      "Director": "Wei-Hao Cheng",
+      "Writer": "Wei-Hao Cheng, Lai Chih-liang, Sharon Wu",
+      "Actors": "Greg Han Hsu, Po-Hung Lin, Gingle Wang",
+      "Language": "Mandarin, Min Nan",
+      "Country": "Taiwan"
+    },
+    {
       "title": "4 Kings 2",
       "netflix_url": "https://www.netflix.com/title/81691279",
       "year": "2023",
@@ -9249,6 +9382,23 @@
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "OMG 2",
+      "netflix_url": "https://www.netflix.com/title/81722145",
+      "year": "2023",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt15732324",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzRmMDYyZTgtZjhjMS00YzViLWEwMjktOTNiMjFjM2RmNmVhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An unhappy civilian asks the court to mandate comprehensive education in schools in a dramatic yet amusing courtroom play.",
+      "Type": "movie",
+      "RunTime": "156 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Amit Rai",
+      "Writer": "Amit Rai",
+      "Actors": "Pankaj Tripathi, Akshay Kumar, Yami Gautam",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Bob Marley: One Love",
@@ -9520,6 +9670,23 @@
       "Country": "United Kingdom, Germany, France, United States"
     },
     {
+      "title": "Simón",
+      "netflix_url": "https://www.netflix.com/title/81744874",
+      "year": "2023",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0393775",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwODU3MTMxMl5BMl5BanBnXkFtZTcwMTA3OTYyMQ@@._V1_SX300.jpg",
+      "Plot": "A mild-mannered gay dentist and a hedonist womanizer rekindle their unlikely friendship when the latter's terminal cancer drives them back together after a decade apart.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Eddy Terstall",
+      "Writer": "Eddy Terstall",
+      "Actors": "Cees Geel, Marcel Hensema, Rifka Lodeizen",
+      "Language": "Dutch, English, German, Thai",
+      "Country": "Netherlands"
+    },
+    {
       "title": "K.O.",
       "netflix_url": "https://www.netflix.com/title/81745661",
       "year": "2025",
@@ -9535,6 +9702,23 @@
       "Actors": "Ciryl Gane, Alice Belaïdi, Foued Nabba",
       "Language": "French",
       "Country": "France, Belgium"
+    },
+    {
+      "title": "After Everything",
+      "netflix_url": "https://www.netflix.com/title/81747490",
+      "year": "2024",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt15334488",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTMyNzY0NDMtNGUyYi00NmVhLWJiZTAtNDA2MzMzNzliNzk0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After breaking up with his true love, best-selling author Hardin Scott travels to Portugal in an attempt to make amends for his past behavior.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Drama, Romance",
+      "Director": "Castille Landon",
+      "Writer": "Castille Landon, Anna Todd",
+      "Actors": "Hero Fiennes Tiffin, Josephine Langford, Mimi Keene",
+      "Language": "English, Portuguese",
+      "Country": "United States"
     },
     {
       "title": "Revelations",

@@ -947,6 +947,23 @@
       "Country": "Australia"
     },
     {
+      "title": "Icarus",
+      "netflix_url": "https://www.netflix.com/title/80168079",
+      "year": "2017",
+      "imdb_rating": "7.9",
+      "imdb_id": "tt6333060",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGE4M2MxOWUtYmY2ZC00ZWYxLWIxZTAtNTNjYTZmYmUyOGY2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Bryan sets out to uncover the truth about doping in sports, a chance meeting with a Russian scientist transforms his story from a personal experiment into a geopolitical thriller.",
+      "Type": "movie",
+      "RunTime": "120 min",
+      "Genre": "Documentary, Sport",
+      "Director": "Bryan Fogel",
+      "Writer": "Bryan Fogel, Mark Monroe, Jon Bertain",
+      "Actors": "Bryan Fogel, Dave Zabriskie, Don Catlin",
+      "Language": "English, Russian",
+      "Country": "United States, United Kingdom"
+    },
+    {
       "title": "Chasing Coral",
       "netflix_url": "https://www.netflix.com/title/80168188",
       "year": "2017",
@@ -1168,6 +1185,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "The Innocent Man",
+      "netflix_url": "https://www.netflix.com/title/80187030",
+      "year": "2018",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0914376",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3NjU3MTQ0OV5BMl5BanBnXkFtZTgwMzQwMzA4NjM@._V1_SX300.jpg",
+      "Plot": "The story of Ron Williamson, a man who sat on Oklahoma's death row for 11 years for a crime he didn't commit. Based on John Grisham's \"The Innocent Man: Murder and Injustice in a Small Town.\"",
+      "Type": "series",
+      "RunTime": "2 min",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "Ross M. Dinerstein, Clay Tweel",
+      "Actors": "Heather McPhaul, John Grisham, Erik Anthony Russo",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Time: The Kalief Browder Story",
       "netflix_url": "https://www.netflix.com/title/80187052",
       "year": "2017",
@@ -1370,6 +1404,23 @@
       "Actors": "Salo Luna, Willi Malessa, Edeltraud Bohnau",
       "Language": "English, German, Spanish",
       "Country": "United States, Germany"
+    },
+    {
+      "title": "Gaga: Five Foot Two",
+      "netflix_url": "https://www.netflix.com/title/80196586",
+      "year": "2017",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt7291268",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzNzAxNTM0MV5BMl5BanBnXkFtZTgwODE1NzMzMzI@._V1_SX300.jpg",
+      "Plot": "This documentary goes behind the scenes with pop provocateur Lady Gaga as she releases a bold new album and prepares for her Super Bowl halftime show.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary, Music",
+      "Director": "Chris Moukarbel",
+      "Writer": "N/A",
+      "Actors": "Sandra Amador, Michael Bearden, Tony Bennett",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Nisman: The Prosecutor, the President, and the Spy",
@@ -4750,6 +4801,23 @@
       "Country": "United States"
     },
     {
+      "title": "Indian Predator: The Butcher of Delhi",
+      "netflix_url": "https://www.netflix.com/title/81252894",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt14178824",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGJjOWQxMTAtOWQ0Ny00MzQyLWJlZjktODNjNTM2MjQyZjNiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Uncovering the details of gruesome killings, people who were at the epicentre talk about what went down.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Altaf Hussain, Bunny Adhikari, Sanjay Bansal",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "The Social Dilemma",
       "netflix_url": "https://www.netflix.com/title/81254224",
       "year": "2020",
@@ -5381,6 +5449,23 @@
       "Actors": "Evelyn Lewis Prieto",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Raël: The Alien Prophet",
+      "netflix_url": "https://www.netflix.com/title/81330942",
+      "year": "2024",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt30811429",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzk4YzhhMmEtYjA4OC00NTZlLTg5ODctN2JhZDU2MmZhZjUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Featuring interviews with his followers, critics and Raël himself, this docuseries traces how a UFO-inspired religion spiraled into a controversial cult.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Claude Vorilhon, Georges Fenech, Nadine Gary",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Killer Sally",
@@ -7710,6 +7795,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "The Accidental Twins",
+      "netflix_url": "https://www.netflix.com/title/81627034",
+      "year": "2024",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt32441275",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjBiNWNmYWQtMTgxNS00MGZmLTk3ZTktMTg5MzViOGNlMTJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two sets of identical twins switched at birth in Colombia explore their complex history and new identities in this captivating documentary.",
+      "Type": "movie",
+      "RunTime": "84 min",
+      "Genre": "Documentary",
+      "Director": "Alessandro Angulo",
+      "Writer": "Alessandro Angulo, Diego Chalela",
+      "Actors": "Tom Wade",
+      "Language": "Spanish",
+      "Country": "Colombia"
+    },
+    {
       "title": "Get Gotti",
       "netflix_url": "https://www.netflix.com/title/81628150",
       "year": "2023",
@@ -8458,6 +8560,13 @@
       "Actors": "Maik Bouyad, Schleichmann, Björn Last",
       "Language": "German",
       "Country": "Germany"
+    },
+    {
+      "title": "Babo: The Haftbefehl Story",
+      "netflix_url": "https://www.netflix.com/title/81687374",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Britain and The Blitz",
@@ -9414,6 +9523,23 @@
       "imdb_id": null
     },
     {
+      "title": "Going Varsity in Mariachi",
+      "netflix_url": "https://www.netflix.com/title/81749914",
+      "year": "2023",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt24079640",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDI3YzQ4ZmEtYjJlMy00OTA4LTk3MGMtZDc3Yjg5NmVlMTMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the world high school mariachi, musicians from South Texas reigns supreme. Under guidance of coach Abel Acuña, the Edinburg North High School team must turn shoestring and diverse inexperienced musicians into state champions.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Documentary",
+      "Director": "Sam Osborn, Alejandra Vasquez",
+      "Writer": "N/A",
+      "Actors": "Edinburg North High School's Mariachi Oro",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "MARINES",
       "netflix_url": "https://www.netflix.com/title/81750378",
       "year": "2025",
@@ -9446,6 +9572,23 @@
       "Actors": "Gene Wilder, Mel Brooks, Rochelle Pierce",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Trainwreck: Storm Area 51",
+      "netflix_url": "https://www.netflix.com/title/81751986",
+      "year": "2025",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt36856570",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDUwN2I2ZDItZjhlMy00MmE2LWI2MGMtM2U4ZmZkMGM4OWUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A viral Facebook event to storm Area 51 draws millions of signups, prompting military warnings. As memes spread about Naruto-running past bullets, UFO hunters and internet personalities converge for what could be a desert party or...",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Matty Roberts, Guy Malone, Kerry Lee",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "30 for 30: Deion's Double Play",
@@ -9951,6 +10094,23 @@
       "Actors": "Iman, Damaris Lewis, Veronica Webb",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Aitana: Metamorphosis",
+      "netflix_url": "https://www.netflix.com/title/81786471",
+      "year": "2025",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt35315539",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDM0OGU2ZWYtMmU5Yi00YmU1LTgzMGYtZDc4ZTljYzllNzM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow pop star Aitana's journey in this 6-part series as she grows personally and professionally, shares her hits, faces challenges, and emerges as a leading Spanish music artist.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Aitana, Burgandi Trejo Phoenix",
+      "Language": "Spanish",
+      "Country": "Spain"
     },
     {
       "title": "Rockstar Duki from the end of the world",
@@ -10578,6 +10738,23 @@
       "Writer": "N/A",
       "Actors": "Keanu Reeves, Chad Stahelski, Scott Adkins",
       "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Matter of Time",
+      "netflix_url": "https://www.netflix.com/title/82184383",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt36590322",
+      "Poster": "N/A",
+      "Plot": "A string of Eddie Vedder solo concerts in Seattle in 2023 are the backdrop for the film, which chronicles efforts to find a cure for epidermolysis bullosa (EB), a rare genetic disease that can be lethal.",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama",
+      "Director": "Matt Finlin",
+      "Writer": "N/A",
+      "Actors": "Eddie Vedder",
+      "Language": "N/A",
       "Country": "United States"
     },
     {

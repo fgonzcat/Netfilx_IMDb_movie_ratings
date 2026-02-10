@@ -555,6 +555,23 @@
       "Country": "United States"
     },
     {
+      "title": "Nothing to Lose",
+      "netflix_url": "https://www.netflix.com/title/80186829",
+      "year": "2018",
+      "imdb_rating": "2.4",
+      "imdb_id": "tt6910020",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjJkOWExNzQtM2NhYi00M2MzLWJlYjItNzhlNDFkMDE1YTgxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Self-financed fictional biopic of Brazilian bishop Edir Macedo, founder of the Universal Church of the Kingdom of God and owner of Record TV network.",
+      "Type": "movie",
+      "RunTime": "134 min",
+      "Genre": "Biography, Drama",
+      "Director": "Alexandre Avancini",
+      "Writer": "Stephen P. Lindsey, Emílio Boechat, Edir Macedo",
+      "Actors": "Petrônio Gontijo, Day Mesquita, Beth Goulart",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
       "title": "Luis Miguel - The Series",
       "netflix_url": "https://www.netflix.com/title/80191236",
       "year": "2021",
@@ -798,6 +815,23 @@
       "year": "2018",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Made in Mexico",
+      "netflix_url": "https://www.netflix.com/title/80201933",
+      "year": "2018",
+      "imdb_rating": "4.0",
+      "imdb_id": "tt8871764",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ0NzVlYTAtM2NiMS00N2Y0LTlkOTgtMmI1YmM0MzM1ZTc1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Get to know the opulent lifestyles and famous families of Mexico City's socialites and the expats vying for a spot in their exclusive social order.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Carlos Giron Longoria, Chantal Trujillo, Hanna Jaff",
+      "Language": "Spanish, English",
+      "Country": "United States"
     },
     {
       "title": "Green Frontier",
@@ -1389,6 +1423,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "ROMA",
+      "netflix_url": "https://www.netflix.com/title/80240715",
+      "year": "2018",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt6155172",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0OTc3ODk4Ml5BMl5BanBnXkFtZTgwMzM4NzI5NjM@._V1_SX300.jpg",
+      "Plot": "A year in the life of an upper-middle-class family's maid in Mexico City in the early 1970s.",
+      "Type": "movie",
+      "RunTime": "135 min",
+      "Genre": "Drama",
+      "Director": "Alfonso Cuarón",
+      "Writer": "Alfonso Cuarón",
+      "Actors": "Yalitza Aparicio, Marina de Tavira, Diego Cortina Autrey",
+      "Language": "Spanish, Mixtec, English, Japanese, German, French, Norwegian",
+      "Country": "Mexico, United States"
+    },
+    {
       "title": "Tijuana",
       "netflix_url": "https://www.netflix.com/title/80241474",
       "year": "2019",
@@ -1942,6 +1993,23 @@
       "Actors": "Quetzal Santana, Azul Guaita, Franco Masini",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "Intuition",
+      "netflix_url": "https://www.netflix.com/title/81034677",
+      "year": "2020",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt12282598",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTE0NDdkNGItM2JhMi00NTZmLWFkOTgtNmIzNzlmNjI1MmYxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Pipa begins her career as a police detective alongside her mentor, the controversial detective Francisco Juánez. Together they must solve the violent murder of a 19-year-old girl.",
+      "Type": "movie",
+      "RunTime": "116 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Alejandro Montiel",
+      "Writer": "Florencia Etcheves, Alejandro Montiel, Mili Roque Pitt",
+      "Actors": "Luisana Lopilato, Joaquín Furriel, Rafael Ferro",
+      "Language": "Spanish",
+      "Country": "Argentina"
     },
     {
       "title": "Sleeping Princess",
@@ -2714,6 +2782,23 @@
       "Actors": "Alex Paez, Vilma Vera, Alden Rojas",
       "Language": "Spanish",
       "Country": "Colombia"
+    },
+    {
+      "title": "Dating Around: Brazil",
+      "netflix_url": "https://www.netflix.com/title/81144196",
+      "year": "2020",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt12502140",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNThlNWVkYTUtZDY1NC00MTc2LWI1ZDMtMzAzYTM5MGMyNjdkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "People from different genders and sexual orientations leave dating apps in order to seek a new love in São Paulo, face to face.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Reality-TV, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Dieter Truppel",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Blood Ties",
@@ -4183,6 +4268,23 @@
       "Country": "Brazil"
     },
     {
+      "title": "A Cut Above",
+      "netflix_url": "https://www.netflix.com/title/81437105",
+      "year": "2022",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt21265550",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWZmMDk1ZDctZDcxMC00YTFkLTlmY2YtM2Y2YTFhZWJjNmU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "With his mom's salon on the brink of bankruptcy, a dedicated son rolls up his sleeves to help and discovers himself as the coolest barber on the block.",
+      "Type": "movie",
+      "RunTime": "90 min",
+      "Genre": "Comedy",
+      "Director": "Rodrigo França, Leticia Prisco",
+      "Writer": "Marcelo Andrade, Anderson França, Silvio Guindane",
+      "Actors": "Lucas 'Koka' Penteado, Solange Couto, Serjão Loroza",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
       "title": "Diary of a Gigolo",
       "netflix_url": "https://www.netflix.com/title/81437215",
       "year": "2022",
@@ -5233,6 +5335,23 @@
       "imdb_id": null
     },
     {
+      "title": "The Doomsday Cult of Antares de la Luz",
+      "netflix_url": "https://www.netflix.com/title/81636734",
+      "year": "2024",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt32055642",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzY4ZTZhZWMtNzlkOS00MTI3LThmOWQtOGRkNzBhNmExNWUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Years after being charged with a heinous crime, former members of a Chilean cult share their haunting experiences.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Documentary",
+      "Director": "Santiago Correa",
+      "Writer": "Valerie Schenkman",
+      "Actors": "Valentina Acuña, Francisco Aedo, Orlando Alfaro",
+      "Language": "Spanish",
+      "Country": "Chile"
+    },
+    {
       "title": "The Guardian of the Monarchs",
       "netflix_url": "https://www.netflix.com/title/81637008",
       "year": "2024",
@@ -5333,6 +5452,23 @@
       "Actors": "Maria Bomani, Julio Adrião, Jean Amorim",
       "Language": "Portuguese",
       "Country": "Brazil"
+    },
+    {
+      "title": "Familia",
+      "netflix_url": "https://www.netflix.com/title/81641353",
+      "year": "2023",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt27828085",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzE4NTk2MDAtYTYyNC00MWJiLTljNjEtMzMzYTMyYjgzZjg5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A peculiar family and explores the complexities of cohabitation around a decision that will change them forever.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Drama, Family",
+      "Director": "Rodrigo García",
+      "Writer": "Rodrigo García, Bárbara Colio",
+      "Actors": "Daniel Giménez Cacho, Vicky Araico, Maribel Verdú",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "Nelma Kodama: The Queen of Dirty Money",
@@ -5510,6 +5646,13 @@
       "Actors": "Kate del Castillo, Diana Bovio, Gabriel Nuncio",
       "Language": "Spanish",
       "Country": "Mexico, France"
+    },
+    {
+      "title": "Love is Blind Brazil: After the Altar",
+      "netflix_url": "https://www.netflix.com/title/81681988",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Lost in the Night",
@@ -6089,6 +6232,23 @@
       "Actors": "N/A",
       "Language": "Spanish",
       "Country": "Chile"
+    },
+    {
+      "title": "Simón",
+      "netflix_url": "https://www.netflix.com/title/81744874",
+      "year": "2023",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt0393775",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwODU3MTMxMl5BMl5BanBnXkFtZTcwMTA3OTYyMQ@@._V1_SX300.jpg",
+      "Plot": "A mild-mannered gay dentist and a hedonist womanizer rekindle their unlikely friendship when the latter's terminal cancer drives them back together after a decade apart.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Eddy Terstall",
+      "Writer": "Eddy Terstall",
+      "Actors": "Cees Geel, Marcel Hensema, Rifka Lodeizen",
+      "Language": "Dutch, English, German, Thai",
+      "Country": "Netherlands"
     },
     {
       "title": "How to Win the Lottery",

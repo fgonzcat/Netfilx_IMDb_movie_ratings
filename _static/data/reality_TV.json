@@ -2147,6 +2147,23 @@
       "Country": "United States"
     },
     {
+      "title": "Queer Eye Germany",
+      "netflix_url": "https://www.netflix.com/title/81208166",
+      "year": "2022",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt16369694",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2U3YjczZTUtOTg0Zi00NmE0LWJmZjktZTUzOTUxMzJiZjlkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A new Fab Five set out to Germany to help some of the city's people refine their wardrobes, grooming, diet, cultural pursuits, and home decor.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Aljosha Muttardi, David Jakobs, Leni Bolt",
+      "Language": "German",
+      "Country": "Germany"
+    },
+    {
       "title": "Too Hot To Handle: Latino",
       "netflix_url": "https://www.netflix.com/title/81212545",
       "year": "2021",
@@ -4586,6 +4603,23 @@
       "Actors": "Mimi, BamBam, Cho Sae-ho",
       "Language": "Korean",
       "Country": "South Korea"
+    },
+    {
+      "title": "Rhythm + Flow: Brazil",
+      "netflix_url": "https://www.netflix.com/title/81727065",
+      "year": "2024",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt31974344",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTFkYzY5OTAtYjhmNy00MTRhLWFiZGEtYTliYmYwMmY4NzNmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow the artistic growth of the participants throughout the competition and will crown a rising star on the Brazilian rap and trap scene.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Game-Show, Music, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Kamau, DJ Miya B, Djonga",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Culinary Class Wars",

@@ -1306,6 +1306,23 @@
       "Country": "United States"
     },
     {
+      "title": "Our Lovers",
+      "netflix_url": "https://www.netflix.com/title/80141185",
+      "year": "2016",
+      "imdb_rating": "6.7",
+      "imdb_id": "tt4631532",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDNlMzdmNDYtMTMzOC00ZGQ3LWFmNWQtZDUxYTQ5NjI3ZmJkXkEyXkFqcGdeQXVyMjI3NzMwMTU@._V1_SX300.jpg",
+      "Plot": "One man, one woman, one rule: don't fall in love.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Miguel Ángel Lamata",
+      "Writer": "Miguel Ángel Lamata",
+      "Actors": "Eduardo Noriega, Michelle Jenner, Fele Martínez",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "The After Party",
       "netflix_url": "https://www.netflix.com/title/80144145",
       "year": "2018",
@@ -1638,9 +1655,19 @@
     {
       "title": "Let It Snow",
       "netflix_url": "https://www.netflix.com/title/80201542",
-      "year": null,
-      "imdb_rating": null,
-      "imdb_id": null
+      "year": "2019",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt1950235",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGRmNjFlZjAtYzNjOC00ZDBjLWFmODctZGE0OTYwNGMxYjRmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In a small town on Christmas Eve, a snowstorm brings together a group of young people.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Luke Snellin",
+      "Writer": "Laura Solon, Victoria Strouse, Kay Cannon",
+      "Actors": "Isabela Merced, Shameik Moore, Odeya Rush",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Someone Great",
@@ -2567,6 +2594,23 @@
       "Country": "United States"
     },
     {
+      "title": "Paris Is Us",
+      "netflix_url": "https://www.netflix.com/title/81027190",
+      "year": "2019",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt7920024",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODUwOTM2OTUtNDFkZi00OTkwLTk4ZTYtNTA1MTRhZDcyZGM4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Anna misses the flight she should have taken to find Greg in Barcelona. The plane crashes.",
+      "Type": "movie",
+      "RunTime": "83 min",
+      "Genre": "Drama",
+      "Director": "Elisabeth Vogler",
+      "Writer": "Rémi Bassaler, Paul Saïsset, Souliman Schelfout",
+      "Actors": "Noémie Schmidt, Grégoire Isvarine, Marie Mottet",
+      "Language": "French",
+      "Country": "France"
+    },
+    {
       "title": "The Assistant",
       "netflix_url": "https://www.netflix.com/title/81028387",
       "year": "2020",
@@ -2667,6 +2711,23 @@
       "Actors": "Jean-Claude Van Damme, Harrison Page, Deborah Rennard",
       "Language": "English, French, Serbian",
       "Country": "United States"
+    },
+    {
+      "title": "Jumping from High Places",
+      "netflix_url": "https://www.netflix.com/title/81031412",
+      "year": "2022",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt22071864",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTVkN2Y5NDgtZmY1OC00NWE0LThiODUtNmQ1MDcwMWQ0ZTAwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "To honor her best friend's last wish, a young woman with severe anxiety confronts her greatest fears to try and reclaim her life — and perhaps find love.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Andrea Jublin",
+      "Writer": "Chiara Parenti, Alice Urciuolo",
+      "Actors": "Federica Torchetti, Cristiano Caccamo, Celeste Savino",
+      "Language": "English, Italian",
+      "Country": "Italy"
     },
     {
       "title": "Holiday Rush",
@@ -3722,6 +3783,23 @@
       "Country": "Poland"
     },
     {
+      "title": "Bombay Rose",
+      "netflix_url": "https://www.netflix.com/title/81270289",
+      "year": "2021",
+      "imdb_rating": "6.5",
+      "imdb_id": "tt8435324",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODlmZTJjMDUtMGMxNy00Nzc4LWFlNDgtNGQxZTAxNTM3NjE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "BOMBAY ROSE is a beautiful hand-painted animation created by award winning animator Gitanjali Rao. Amidst the bustle of a magnetic and multifaceted city, the budding love between two dreamers is tested by duty and religious divides.",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Animation, Drama, Romance",
+      "Director": "Gitanjali Rao",
+      "Writer": "Asad Hussain, Gitanjali Rao, Nadja Dumouchel",
+      "Actors": "Cyli Khare, Amit Deondi, Gargi Shitole",
+      "Language": "Hindi",
+      "Country": "India, United Kingdom, France, Qatar"
+    },
+    {
       "title": "The Wasteland",
       "netflix_url": "https://www.netflix.com/title/81274959",
       "year": "2022",
@@ -3737,6 +3815,23 @@
       "Actors": "Stephanie Bursill, Amir Bengard, Charleen Williams",
       "Language": "English",
       "Country": "Australia"
+    },
+    {
+      "title": "What Are the Odds?",
+      "netflix_url": "https://www.netflix.com/title/81281587",
+      "year": "2020",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt12327140",
+      "Poster": "https://occ-0-1038-37.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABatGWR8Y3Kf72zJpTvimxBsxMEXyEZSK5dPg36IyhkjX5hXqYW-9ffwXOlhV04Yw2qMVHkiPE0CPolGDVLm6RSetxNaI9xPBa2uE.jpg?r=cb7",
+      "Plot": "Follows a day in the life of a high-spirited teenager, Vivek who commits a small and clunky crime as a mark of \"protest\", which leads to her striking an unexpected friendship with well-behaved, always saving the day, head boy, Ash...",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Drama",
+      "Director": "Megha Ramaswamy",
+      "Writer": "Nupur Pai, Megha Ramaswamy, Shreya Vaidya",
+      "Actors": "Yashaswini Dayama, Karanvir Malhotra, Abhay Deol",
+      "Language": "Hindi, English",
+      "Country": "India"
     },
     {
       "title": "The Weekend Away",
@@ -3771,6 +3866,23 @@
       "Actors": "Eric André, Michaela Conlin, Lil Rel Howery",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Forever Rich",
+      "netflix_url": "https://www.netflix.com/title/81289069",
+      "year": "2021",
+      "imdb_rating": "5.6",
+      "imdb_id": "tt12748300",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjg0NDM0ZmMtMjk5Yy00MGM4LWEzOWItNWNkMzJiMDQzZmM2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Richie's watch is stolen in a violent robbery and humiliating images of the encounter go viral, the rapper has to fix his reputation to save his career.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Shady El-Hamus",
+      "Writer": "Shady El-Hamus, Jeroen Scholten van Aschat",
+      "Actors": "Jonas Smulders, Daniël Kolf, Sinem Kavus",
+      "Language": "Dutch",
+      "Country": "Netherlands"
     },
     {
       "title": "Blue Miracle",
@@ -4329,6 +4441,23 @@
       "Country": "United States"
     },
     {
+      "title": "My Amanda",
+      "netflix_url": "https://www.netflix.com/title/81408702",
+      "year": "2021",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt13136084",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGU5MzBhODUtZDM0YS00N2Y4LTg0YzgtODEzM2RkNWQ5ZDFlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two unusually close friends share every aspect of their lives together. As their lives evolve, their bond remains the only constant.",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Drama, Romance",
+      "Director": "Alessandra De Rossi",
+      "Writer": "Alessandra De Rossi",
+      "Actors": "Alessandra De Rossi, Piolo Pascual, Luz Valdez",
+      "Language": "Tagalog, Filipino",
+      "Country": "Philippines"
+    },
+    {
       "title": "The Perfumier",
       "netflix_url": "https://www.netflix.com/title/81410551",
       "year": "2022",
@@ -4548,6 +4677,23 @@
       "Actors": "Brooke Shields, Miranda Cosgrove, Benjamin Bratt",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Rich in Love 2",
+      "netflix_url": "https://www.netflix.com/title/81459281",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt23144234",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWYwNjdiM2QtMzUwNy00MTY4LWIzYjItM2E1NzdkYzg4OWFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When Paula leaves Rio de Janeiro to resume her work as a volunteer doctor in the Amazon, Teto hatches an impulsive plan to follow her and chaos ensues.",
+      "Type": "movie",
+      "RunTime": "88 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Bruno Garotti, Jessica Blue",
+      "Writer": "Bruno Garotti, Sylvio Gonçalves, Maíra Oliveira",
+      "Actors": "Adanilo, Kevin Andrew Rivera, Jaffar Bambirra",
+      "Language": "Portuguese",
+      "Country": "Brazil"
     },
     {
       "title": "Orion and the Dark",
@@ -6450,6 +6596,13 @@
       "Actors": "Derek Ramsay, Beauty Gonzalez, Erin Espiritu",
       "Language": "Tagalog, Filipino",
       "Country": "Philippines"
+    },
+    {
+      "title": "Romantic Problematic",
+      "netflix_url": "https://www.netflix.com/title/81755777",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "The Night My Dad Saved Christmas 2",

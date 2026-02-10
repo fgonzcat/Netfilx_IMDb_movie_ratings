@@ -717,6 +717,23 @@
       "Country": "United States"
     },
     {
+      "title": "Galileo",
+      "netflix_url": "https://www.netflix.com/title/80114006",
+      "year": "2013",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt1118526",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2ZjNjFkNGQtOGMzNS00NGQzLWE2ODktNjgyNDRlMzU4MWE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Yukawa Manabu, also known as Detective Galileo, is a genius physicist and university professor who solves unusual mysteries. His partner, Utsumi Kaoru, is a rookie cop.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Masaharu Fukuyama, Ikkei Watanabe, Yuriko Yoshitaka",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "MINDHUNTER",
       "netflix_url": "https://www.netflix.com/title/80114855",
       "year": "2019",
@@ -2503,6 +2520,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Young Wallander",
+      "netflix_url": "https://www.netflix.com/title/81011098",
+      "year": "2022",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt9359220",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDQ5ZDI0NTgtMjIxZi00MWZhLTliYjgtOTU1ZGE0ZmM4MWMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Follow recently graduated police officer Kurt Wallander as he investigates his first case.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Ben Harris",
+      "Actors": "Adam Pålsson, Leanne Best, Ellise Chappell",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "My Name",
       "netflix_url": "https://www.netflix.com/title/81011211",
       "year": "2021",
@@ -2792,6 +2826,13 @@
       "Country": "Denmark"
     },
     {
+      "title": "Dig Deeper: The Disappearance of Birgit Meier",
+      "netflix_url": "https://www.netflix.com/title/81040563",
+      "year": "2021",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "The 43",
       "netflix_url": "https://www.netflix.com/title/81045551",
       "year": "2019",
@@ -2841,6 +2882,23 @@
       "Actors": "Dario Yazbek Bernal, Diana Bovio, Regina Blandón",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "The Sons of Sam: A Descent into Darkness",
+      "netflix_url": "https://www.netflix.com/title/81059887",
+      "year": "2021",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt13156316",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzViZGRmMjYtNDAwMC00MzgxLTliZmMtYmI3Y2Q1NTdjOTMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Son of Sam case grew into a lifelong obsession for journalist Maury Terry, who became convinced that the murders were linked to a satanic cult.",
+      "Type": "series",
+      "RunTime": "239 min",
+      "Genre": "Documentary, Crime, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Paul Giamatti, Phil Amicone, Charlie Ott",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Killer Inside: The Mind of Aaron Hernandez",
@@ -2924,6 +2982,23 @@
       "Director": "N/A",
       "Writer": "N/A",
       "Actors": "Charles Baker, Jonathan Banks, Melissa Bernstein",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "Heist",
+      "netflix_url": "https://www.netflix.com/title/81087195",
+      "year": "2021",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt14865290",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWExNTExMjctNDM0My00NTBlLThhNzEtZmYwNDNkNDAxNDBmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Millions in stolen cash. Missing luxury bourbon. Watch ordinary people almost get away with these extraordinary heists in this true crime series.",
+      "Type": "series",
+      "RunTime": "1 min",
+      "Genre": "Documentary, Crime, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "William Guirola, Emree Franklin, Kate Watson",
       "Language": "English",
       "Country": "United States"
     },
@@ -3368,6 +3443,23 @@
       "Actors": "Andrés Parra, Christian Tappan, Waldo Urrego",
       "Language": "Spanish",
       "Country": "Colombia"
+    },
+    {
+      "title": "Voice",
+      "netflix_url": "https://www.netflix.com/title/81142595",
+      "year": "2019",
+      "imdb_rating": "7.5",
+      "imdb_id": "tt12805786",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDM3MWMwOGMtZjQ4Yy00NmUyLTliNzEtOTVlZmNhMTQxNGJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Irin gains ability to interpret sounds after childhood accident. Her skills get tested when she witnesses her father's murder over call. Investigating similar deaths, she uncovers web of corruption.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Thriller",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Natara Nopparatayapon, Yasaka Chaisorn, Suchao Pongwilai",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "Anatomy of a Scandal",
@@ -4448,6 +4540,23 @@
       "Country": "United Kingdom"
     },
     {
+      "title": "The Snow Girl",
+      "netflix_url": "https://www.netflix.com/title/81388035",
+      "year": "2025",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt15787870",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2E0Njc4NGUtNTZkMC00NjQyLWExOWQtY2QyZmE1OWQzNTk3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "During the Cavalcade of the Magi parade, the Martín family's daughter Amaya disappears. Journalist Miren takes on the case, determined to find her.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Milena Smit, Aixa Villagrán, Marco Cáceres",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "The Brothers Sun",
       "netflix_url": "https://www.netflix.com/title/81389634",
       "year": "2024",
@@ -4565,6 +4674,23 @@
       "Actors": "Matilda De Angelis, Eduardo Scarpetta, Pier Luigi Pasino",
       "Language": "Italian",
       "Country": "Italy"
+    },
+    {
+      "title": "Remember You",
+      "netflix_url": "https://www.netflix.com/title/81415957",
+      "year": "2021",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt15344082",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDRjYjliMmQtY2I0Zi00YTRhLTg4MTYtZmYyNmE5OWE1YTEzXkEyXkFqcGdeQXVyMzcyMDg3ODE@._V1_SX300.jpg",
+      "Plot": "A young detective is invited as a murder case counselor for the special investigation team, realizing that this investigation could lead him to regain his lost memory.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Mystery, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Paopetch Charoensook, Kemisara Paladesh, Pat Chatborirak",
+      "Language": "Thai",
+      "Country": "Thailand"
     },
     {
       "title": "MIU404",
@@ -5839,6 +5965,23 @@
       "Country": "South Korea"
     },
     {
+      "title": "Dalah: Death and the Flowers",
+      "netflix_url": "https://www.netflix.com/title/81609292",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35609846",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTBmZDcxNDQtNjZmMy00OGMyLWE3OTItNjAzM2Y0Y2M1ODI5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When her client dies on the eve of his wedding, a florist sets out to find the killer, unearthing high society's dark secrets while keeping her own.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Yvan du Champ de la Bataille, Urassaya Sperbund, Chayanit Chansangavej",
+      "Language": "Thai",
+      "Country": "Thailand"
+    },
+    {
       "title": "Public Enemy",
       "netflix_url": "https://www.netflix.com/title/81612616",
       "year": "2019",
@@ -6077,6 +6220,23 @@
       "Country": "Nigeria"
     },
     {
+      "title": "The Asunta Case",
+      "netflix_url": "https://www.netflix.com/title/81632782",
+      "year": "2024",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt27788849",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWVjYzY2NjYtNmEzYS00OGVjLTkyYjItYzlhMTAzYWM2OGUzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After two parents report that their 12-year-old daughter Asunta is missing, the investigation soon turns against them. Inspired by true events.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Ramón Campos, Jon de la Cuesta, Gema R. Neira",
+      "Actors": "Candela Peña, Tristán Ulloa, Javier Gutiérrez",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "Welcome to the Family",
       "netflix_url": "https://www.netflix.com/title/81633043",
       "year": "2025",
@@ -6099,6 +6259,23 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Can I Tell You A Secret?",
+      "netflix_url": "https://www.netflix.com/title/81637286",
+      "year": "2024",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt31035015",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGE1MjVhMTQtMDE1Zi00NjkwLThlYWItNjUxYzdiZThkNjBkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The lives of three women are forever changed when a prolific stalker infiltrates their social-media accounts. And they're only a fraction of his many victims.",
+      "Type": "series",
+      "RunTime": "N/A",
+      "Genre": "Documentary, Crime",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Savannah Gracey, Fintan Quinn, Amy Pearson",
+      "Language": "English",
+      "Country": "United Kingdom"
     },
     {
       "title": "Close to Home: Murder in the Coalfield",
