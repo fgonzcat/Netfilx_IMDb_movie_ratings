@@ -1632,6 +1632,23 @@
       "Country": "United Kingdom, Australia, United States"
     },
     {
+      "title": "Divines",
+      "netflix_url": "https://www.netflix.com/title/80115031",
+      "year": "2016",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt4730986",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjAwMzU1YWYtOTgyZi00OTdlLWJjNTgtY2NmM2I3MmJiNjA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A street teenager from a dysfunctional family from a banlieue (HLMs) in Paris comes across a young dancer who turns her life upside down.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Crime, Drama",
+      "Director": "Houda Benyamina",
+      "Writer": "Houda Benyamina, Romain Compingt, Malik Rumeau",
+      "Actors": "Oulaya Amamra, Déborah Lukumuena, Kévin Mischel",
+      "Language": "French",
+      "Country": "France, Qatar"
+    },
+    {
       "title": "First Match",
       "netflix_url": "https://www.netflix.com/title/80117458",
       "year": "2018",
@@ -2309,6 +2326,23 @@
       "Country": "United States, Mexico, France"
     },
     {
+      "title": "Ladies First",
+      "netflix_url": "https://www.netflix.com/title/80219143",
+      "year": "2018",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt9386158",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDE1ODVlM2MtNzIwMy00N2JhLWJmNDgtMmMxNzE5Mjk1YjA3XkEyXkFqcGdeQXVyNjUzOTczMDY@._V1_SX300.jpg",
+      "Plot": "Abby is finally ready to tell her old pal Nel that last summer was more than just a fling, but Nel shares her big news first leaving Abby to choose how best to love her friend.",
+      "Type": "movie",
+      "RunTime": "2 min",
+      "Genre": "Short",
+      "Director": "Maggie Scrantom",
+      "Writer": "Maggie Scrantom",
+      "Actors": "Maggie Scrantom",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Guernsey Literary and Potato Peel Pie Society",
       "netflix_url": "https://www.netflix.com/title/80223371",
       "year": "2018",
@@ -2756,6 +2790,23 @@
       "year": "2020",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "After Maria",
+      "netflix_url": "https://www.netflix.com/title/81002195",
+      "year": "2019",
+      "imdb_rating": "4.9",
+      "imdb_id": "tt10136680",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjZjYjFmNTYtNjgyNy00MTQ0LTg0MTYtYjQ1NTI2OTFiNTcyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Strong Puerto Rican women forced to flee the island after Hurricane Maria have bonded like family in a FEMA hotel in the Bronx. They seek stability in their new life as forces try to pull them apart.",
+      "Type": "movie",
+      "RunTime": "35 min",
+      "Genre": "Documentary, Short",
+      "Director": "Nadia Hallgren",
+      "Writer": "N/A",
+      "Actors": "Glenda Martes",
+      "Language": "Spanish",
+      "Country": "United States"
     },
     {
       "title": "Tall Girl",
@@ -3917,6 +3968,23 @@
       "Country": "India"
     },
     {
+      "title": "Thalaivii",
+      "netflix_url": "https://www.netflix.com/title/81220676",
+      "year": "2021",
+      "imdb_rating": "6.0",
+      "imdb_id": "tt32827713",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDUxNzFhZGItZGIwNS00MGI2LWE2NTctYWEzMGY3MWVkMTdhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two headstrong lovers navigate a turbulent relationship where passion and conflict intertwine, creating an intense emotional bond through their shared journey.",
+      "Type": "movie",
+      "RunTime": "140 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Pandiraaj",
+      "Writer": "Pandiraaj",
+      "Actors": "Aruldoss, Yogi Babu, Baba Bhaskar",
+      "Language": "Tamil, Telugu, Kannada, Hindi, Malayalam",
+      "Country": "India"
+    },
+    {
       "title": "Panipat - The Great Betrayal",
       "netflix_url": "https://www.netflix.com/title/81227047",
       "year": "2019",
@@ -4041,6 +4109,13 @@
       "Actors": "Mustapha Aarab, Elsa Öhrn, Jonay Pineda Skallak",
       "Language": "Swedish",
       "Country": "Sweden"
+    },
+    {
+      "title": "The Last Bomb of the Second World War",
+      "netflix_url": "https://www.netflix.com/title/81248141",
+      "year": "2019",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "One Take",
@@ -5127,6 +5202,23 @@
       "Country": "Ireland, United Kingdom, United States"
     },
     {
+      "title": "Annaatthe",
+      "netflix_url": "https://www.netflix.com/title/81427795",
+      "year": "2021",
+      "imdb_rating": "4.0",
+      "imdb_id": "tt11253090",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzEyYTEyOGEtMjZjNC00MGEwLWFkMzItZDFhNDYzMTQwMzllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Kaaliyan has a sister who marries a young man without the permission from Kaaliyan and moves to Kolkata with her husband , where she faces unknown threats. Soon her brother Kaaliyan comes to the rescue.",
+      "Type": "movie",
+      "RunTime": "163 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Siva",
+      "Writer": "Siva, Chandran Pachamuthu, Savari Muthu",
+      "Actors": "Rajinikanth, Keerthy Suresh, Nayanthara",
+      "Language": "Tamil",
+      "Country": "India"
+    },
+    {
       "title": "Royalteen",
       "netflix_url": "https://www.netflix.com/title/81430236",
       "year": "2022",
@@ -5312,6 +5404,13 @@
       "Actors": "Marlon Wayans",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Mission Raniganj: The Great Bharat Rescue",
+      "netflix_url": "https://www.netflix.com/title/81471784",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "Zero to Hero",
@@ -6577,6 +6676,23 @@
       "Country": "Italy"
     },
     {
+      "title": "Here",
+      "netflix_url": "https://www.netflix.com/title/81680566",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt18272208",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ5ZDQ5YWQtMThiMS00MGM4LTk2NjktYTllYzg2NTRiNTMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A generational story about families and the special place they inhabit, sharing in love, loss, laughter, and life.",
+      "Type": "movie",
+      "RunTime": "104 min",
+      "Genre": "Drama",
+      "Director": "Robert Zemeckis",
+      "Writer": "Eric Roth, Robert Zemeckis, Richard McGuire",
+      "Actors": "Tom Hanks, Robin Wright, Paul Bettany",
+      "Language": "English",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "Dasara (Hindi)",
       "netflix_url": "https://www.netflix.com/title/81680653",
       "year": "2023",
@@ -6962,6 +7078,23 @@
       "Country": "India"
     },
     {
+      "title": "The Swedish Connection",
+      "netflix_url": "https://www.netflix.com/title/81713119",
+      "year": "2026",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt28793125",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjc1NjBjOTQtNzQwNy00OWEwLTk0ZDEtMWQ1YTM3NzE4OTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Swedish Foreign Ministry bureaucrat Gösta Engzell, overlooked during WWII, rescued thousands while turning supposedly neutral Sweden into a moral force. His efforts challenged the status quo and left a lasting humanitarian legacy.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Thérèse Ahlbeck, Marcus Olsson",
+      "Writer": "Thérèse Ahlbeck, Marcus Olsson",
+      "Actors": "Henrik Dorsin, Sissela Benn, Jonas Karlsson",
+      "Language": "Swedish",
+      "Country": "Sweden"
+    },
+    {
       "title": "Meiyazhagan",
       "netflix_url": "https://www.netflix.com/title/81713677",
       "year": "2024",
@@ -7069,6 +7202,23 @@
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "The Iron Claw",
+      "netflix_url": "https://www.netflix.com/title/81725563",
+      "year": "2023",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt21064584",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjJjZDc5YTUtYTc4My00Yzc2LTkwMGUtOTg3ODIwYzJkYTJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Biography, Drama, Sport",
+      "Director": "Sean Durkin",
+      "Writer": "Sean Durkin",
+      "Actors": "Zac Efron, Jeremy Allen White, Harris Dickinson",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Dhak Dhak",
@@ -7185,6 +7335,23 @@
       "Actors": "Carrie Coon, Natasha Lyonne, Elizabeth Olsen",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Air Mata di Ujung Sajadah",
+      "netflix_url": "https://www.netflix.com/title/81736237",
+      "year": "2023",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt26507543",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTU2NDA0ZGQtZjdjYy00NzlmLTljZjMtYjM0NTU3MTBjNDhiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Aqilla discovers her long-lost son, Baskara, but faces a moral dilemma as he has been raised by another couple; a heartfelt struggle ensues.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Drama",
+      "Director": "Key Mangunsong",
+      "Writer": "Titien Wattimena, Ronny Irawan, Muthi'ah Khairunnisa",
+      "Actors": "Titi Kamal, Fedi Nuril, Citra Kirana",
+      "Language": "Indonesian",
+      "Country": "Indonesia"
     },
     {
       "title": "It's All Over: The Kiss That Changed Spanish Football",
@@ -7362,6 +7529,23 @@
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null
+    },
+    {
+      "title": "Abang Adik",
+      "netflix_url": "https://www.netflix.com/title/81753235",
+      "year": "2023",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt27445004",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDUzYjQ4ODgtMDZkYy00OTdkLTgyOWMtMTVmNzBhMzRkOWY3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Abang and Adik are undocumented orphans in Malaysia. While the older brother who is deaf has resigned himself to a life of poverty, his younger sibling burns with indignation. A brutal accident upsets their relationship's fragile ...",
+      "Type": "movie",
+      "RunTime": "115 min",
+      "Genre": "Crime, Drama",
+      "Director": "Lay Jin Ong",
+      "Writer": "Lay Jin Ong",
+      "Actors": "Kang Ren Wu, Jack Tan, Kim Wang Tan",
+      "Language": "Cantonese, Sign , Malay, Mandarin",
+      "Country": "Malaysia, Taiwan"
     },
     {
       "title": "Call Me Dad",
@@ -8811,6 +8995,23 @@
       "Actors": "Eddie Vedder",
       "Language": "N/A",
       "Country": "United States"
+    },
+    {
+      "title": "Meet, Greet & Bye",
+      "netflix_url": "https://www.netflix.com/title/82638239",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35929110",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama, Family",
+      "Director": "Cathy Garcia-Sampana",
+      "Writer": "N/A",
+      "Actors": "Joshua Garcia, Juan Karlos Labajo, Belle Mariano",
+      "Language": "N/A",
+      "Country": "Philippines"
     },
     {
       "title": "Rebbeca",

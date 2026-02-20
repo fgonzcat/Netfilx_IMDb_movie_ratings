@@ -938,6 +938,23 @@
       "Country": "India"
     },
     {
+      "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+      "netflix_url": "https://www.netflix.com/title/70074559",
+      "year": "2004",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt0476680",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzZiNmI3MWYtYzA4YS00YjE4LWFhMzQtYzQ3MTE2MTcyOGM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Naruto and his team are hired to protect a young actress from three rogue warriors in the Land of the Snow.",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "Tensai Okamura",
+      "Writer": "Masashi Kishimoto, Katsuyuki Sumizawa, Ardwight Chamberlain",
+      "Actors": "Junko Takeuchi, Chie Nakamura, Noriaki Sugiyama",
+      "Language": "Japanese",
+      "Country": "Japan"
+    },
+    {
       "title": "One Piece: Episode of Alabasta",
       "netflix_url": "https://www.netflix.com/title/70086565",
       "year": "2007",
@@ -1057,6 +1074,23 @@
       "Country": "South Africa, United States, New Zealand, Canada"
     },
     {
+      "title": "The Expendables",
+      "netflix_url": "https://www.netflix.com/title/70117698",
+      "year": "2010",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1320253",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTUwODQyNjM0NF5BMl5BanBnXkFtZTcwNDMwMTU1Mw@@._V1_SX300.jpg",
+      "Plot": "A CIA operative hires a team of mercenaries to eliminate a Latin dictator and a renegade CIA agent.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Sylvester Stallone",
+      "Writer": "Dave Callaham, Sylvester Stallone",
+      "Actors": "Sylvester Stallone, Jason Statham, Jet Li",
+      "Language": "English, Spanish",
+      "Country": "United States, Bulgaria, Spain, Germany"
+    },
+    {
       "title": "Ip Man",
       "netflix_url": "https://www.netflix.com/title/70118799",
       "year": "2008",
@@ -1072,6 +1106,23 @@
       "Actors": "Donnie Yen, Simon Yam, Louis Fan",
       "Language": "Cantonese, Mandarin, Japanese, Chinese, English",
       "Country": "Hong Kong, China"
+    },
+    {
+      "title": "Naruto Shippuden: The Movie",
+      "netflix_url": "https://www.netflix.com/title/70124999",
+      "year": "2007",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt1999167",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTgwZDkyODktYjk0My00NTVhLWIxMmQtMGY4ODYzMTlhYmE5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Naruto Uzumaki is framed and sent to an inescapable prison where he must escape by any means necessary.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Animation, Action, Mystery",
+      "Director": "Masahiko Murata",
+      "Writer": "Akira Higashiyama, Masashi Kishimoto",
+      "Actors": "Junko Takeuchi, Chie Nakamura, Rikiya Koyama",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Ip Man 2",
@@ -1174,6 +1225,23 @@
       "Actors": "Andrew Garfield, Emma Stone, Rhys Ifans",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Expendables 2",
+      "netflix_url": "https://www.netflix.com/title/70230088",
+      "year": "2012",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1764651",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwZGYyYzktNmEzMS00ZDkzLTlkMjEtYTdiOWExM2Y2ZjE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mr. Church reunites the Expendables for what should be an easy paycheck, but when one of their men is murdered on the job, their quest for revenge puts them deep in enemy territory and up against an unexpected threat.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Simon West",
+      "Writer": "Richard Wenk, Sylvester Stallone, Ken Kaufman",
+      "Actors": "Sylvester Stallone, Liam Hemsworth, Randy Couture",
+      "Language": "English",
+      "Country": "United States, Germany, China"
     },
     {
       "title": "Hit & Run",
@@ -6504,6 +6572,23 @@
       "Country": "France"
     },
     {
+      "title": "The Expendables 4",
+      "netflix_url": "https://www.netflix.com/title/81674656",
+      "year": "2023",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt3291150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjgyMmRmM2EtYWY5ZC00ZTllLWJhM2QtMGRlNGEzMWEzYzllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Armed with every weapon they can get their hands on, the Expendables are the world's last line of defense and the team that gets called when all other options are off the table.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Scott Waugh",
+      "Writer": "Kurt Wimmer, Tad Daggerhart, Max Adams",
+      "Actors": "Jason Statham, 50 Cent, Megan Fox",
+      "Language": "English, Arabic, Bulgarian, Vietnamese, Spanish, Thai",
+      "Country": "United States"
+    },
+    {
       "title": "Den of Thieves 2: Pantera",
       "netflix_url": "https://www.netflix.com/title/81677440",
       "year": "2025",
@@ -7231,6 +7316,23 @@
       "Actors": "Anurag Kashyap, Dileesh Pothan, Vijayaraghavan",
       "Language": "Malayalam",
       "Country": "India"
+    },
+    {
+      "title": "The Orphans",
+      "netflix_url": "https://www.netflix.com/title/81754057",
+      "year": "2026",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0012532",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDM1ZmM5NWUtYmNlNy00ODcyLWFmNDQtMWI0Y2NmOGI4YzQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two orphaned sisters are caught up in the turmoil of the French Revolution, encountering misery and love along the way.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Drama, History, Romance",
+      "Director": "D.W. Griffith",
+      "Writer": "Adolphe d'Ennery, Eugène Cormon, D.W. Griffith",
+      "Actors": "Lillian Gish, Dorothy Gish, Joseph Schildkraut",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "13 Bombs",

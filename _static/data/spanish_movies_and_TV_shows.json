@@ -3,6 +3,23 @@
   "genre_url": "https://www.netflix.com/browse/genre/100396",
   "movies": [
     {
+      "title": "Y Tu Mamá También",
+      "netflix_url": "https://www.netflix.com/title/60023237",
+      "year": "2001",
+      "imdb_rating": "7.7",
+      "imdb_id": "tt0245574",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTRmZmNlMjktZDRkMi00OGNjLWJkZGUtMDljNDViMGE3MjNhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In Mexico, two teenage boys and an older woman embark on a road trip and learn a thing or two about life and each other.",
+      "Type": "movie",
+      "RunTime": "106 min",
+      "Genre": "Drama",
+      "Director": "Alfonso Cuarón",
+      "Writer": "Carlos Cuarón, Alfonso Cuarón",
+      "Actors": "Maribel Verdú, Gael García Bernal, Daniel Giménez Cacho",
+      "Language": "Spanish",
+      "Country": "Mexico"
+    },
+    {
       "title": "El bonaerense",
       "netflix_url": "https://www.netflix.com/title/60032800",
       "year": "2002",
@@ -556,6 +573,23 @@
       "Actors": "Ricardo O'Farrill",
       "Language": "Spanish",
       "Country": "Mexico"
+    },
+    {
+      "title": "Sunday's Illness",
+      "netflix_url": "https://www.netflix.com/title/80131280",
+      "year": "2017",
+      "imdb_rating": "6.9",
+      "imdb_id": "tt6053948",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzZmNWFjYzItZTU0MC00ODRiLTgwZDctNDA1YWM3Y2Q1NTMyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Wealthy Anabel, 65, receives an unexpected visit from Chiara, the daughter she abandoned 30 years ago. Chiara has a request: that they spend 10 days together. Anabel goes out of guilt, but there are conditions of which she is unaw...",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Drama",
+      "Director": "Ramón Salazar",
+      "Writer": "Ramón Salazar",
+      "Actors": "Bárbara Lennie, Susi Sánchez, Greta Fernández",
+      "Language": "Spanish, French, Italian",
+      "Country": "Spain"
     },
     {
       "title": "El Chapo",
@@ -1814,6 +1848,23 @@
       "imdb_id": null
     },
     {
+      "title": "Jefe",
+      "netflix_url": "https://www.netflix.com/title/80235268",
+      "year": "2018",
+      "imdb_rating": "5.5",
+      "imdb_id": "tt7527538",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjBjNzY1OTgtM2I5NS00YTJlLTk1ZmMtYjY1MTFlMjIzYWYwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Go inside the business world to follow the misadventures of César (Luis Callejo), the CEO of a very successful company valued at many thousands of euros, who from one moment to the next sees his life, family, and business turn ups...",
+      "Type": "movie",
+      "RunTime": "89 min",
+      "Genre": "Comedy",
+      "Director": "Sergio Barrejón",
+      "Writer": "Natxo López, Marta Piedade",
+      "Actors": "Luis Callejo, Juana Acosta, Carlo D'Ursi",
+      "Language": "Spanish",
+      "Country": "Spain, Portugal"
+    },
+    {
       "title": "The Little Switzerland",
       "netflix_url": "https://www.netflix.com/title/80235578",
       "year": "2019",
@@ -2006,6 +2057,23 @@
       "Actors": "Elena Anaya, Pablo Molinero, Eva Tennear",
       "Language": "Spanish, German, French",
       "Country": "Spain"
+    },
+    {
+      "title": "The Endless Trench",
+      "netflix_url": "https://www.netflix.com/title/80242912",
+      "year": "2019",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt7937168",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmYwOWIwMTItZjFiZC00ZmEwLTliOTQtZmVhMGUwNjYzYjUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "1936. A country taken by fascism. A husband marked for death. A wife ready for anything to save him. An endless incarceration in his own home.",
+      "Type": "movie",
+      "RunTime": "147 min",
+      "Genre": "Drama, History",
+      "Director": "Aitor Arregi, Jon Garaño, Jose Mari Goenaga",
+      "Writer": "Luiso Berdejo, Jose Mari Goenaga",
+      "Actors": "Antonio de la Torre, Belén Cuesta, Vicente Vergara",
+      "Language": "Spanish",
+      "Country": "Spain, France, Canada"
     },
     {
       "title": "Como caído del cielo",
@@ -6415,6 +6483,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "Noise",
+      "netflix_url": "https://www.netflix.com/title/81498010",
+      "year": "2022",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt0425308",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjk5ODEzODUzM15BMl5BanBnXkFtZTcwNjc4OTA3MQ@@._V1_SX300.jpg",
+      "Plot": "A man who is being driven crazy by the noise in New York City decides to take vigilante action against it.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Henry Bean",
+      "Writer": "Henry Bean",
+      "Actors": "Tim Robbins, William Hurt, Bridget Moynahan",
+      "Language": "English, Russian",
+      "Country": "United States"
+    },
+    {
       "title": "Prayers for the Stolen",
       "netflix_url": "https://www.netflix.com/title/81499072",
       "year": "2021",
@@ -7293,6 +7378,23 @@
       "imdb_id": null
     },
     {
+      "title": "Juanpis González: The People's President",
+      "netflix_url": "https://www.netflix.com/title/81626308",
+      "year": "2024",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt32650953",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjU0MjQ1MzktZDdmYy00YmQ0LTkwODEtZmRjZTZlOWFlNTFiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A spoiled Colombian man uses his wealth and connections to become president, but discovers that maintaining power requires more than just money and influence.",
+      "Type": "movie",
+      "RunTime": "91 min",
+      "Genre": "Comedy",
+      "Director": "Juan Felipe Cano",
+      "Writer": "N/A",
+      "Actors": "Carolina Gaitan, Alejandro Riaño",
+      "Language": "N/A",
+      "Country": "Colombia"
+    },
+    {
       "title": "The Accidental Twins",
       "netflix_url": "https://www.netflix.com/title/81627034",
       "year": "2024",
@@ -7429,6 +7531,23 @@
       "Country": "Mexico"
     },
     {
+      "title": "On The Fringe",
+      "netflix_url": "https://www.netflix.com/title/81639714",
+      "year": "2022",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt12306964",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTBmZGEyZmEtZWI1Mi00ZWQwLWE2YWItNzM5NGNmMDdiOTI5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Interwoven stories told over the course of one day.",
+      "Type": "movie",
+      "RunTime": "105 min",
+      "Genre": "Drama",
+      "Director": "Juan Diego Botto",
+      "Writer": "Juan Diego Botto, Olga Rodriguez",
+      "Actors": "Penélope Cruz, Luis Tosar, Christian Checa",
+      "Language": "Spanish, Arabic",
+      "Country": "Spain, Belgium"
+    },
+    {
       "title": "Down the Rabbit Hole",
       "netflix_url": "https://www.netflix.com/title/81640439",
       "year": "2024",
@@ -7519,6 +7638,23 @@
       "Actors": "Eduardo De Los Reyes, Emanuela Biondo, Santina D'Alessandro",
       "Language": "Spanish",
       "Country": "Spain"
+    },
+    {
+      "title": "Norma",
+      "netflix_url": "https://www.netflix.com/title/81650253",
+      "year": "2023",
+      "imdb_rating": "5.7",
+      "imdb_id": "tt29464977",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzljYjAzMjQtNjViNC00OGQ0LTllZjQtYTg5ZjNjOTZmMmU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman finds new meaning in her life after her housekeeper quits her job.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Santiago Giralt",
+      "Writer": "Santiago Giralt, Mercedes Morán",
+      "Actors": "Mercedes Morán, Alejandro Awada, Lorena Vega",
+      "Language": "Spanish",
+      "Country": "Argentina, Uruguay"
     },
     {
       "title": "LALIGA: All Access",
@@ -8494,6 +8630,13 @@
       "Country": "Chile"
     },
     {
+      "title": "Firebreak",
+      "netflix_url": "https://www.netflix.com/title/81744440",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Simón",
       "netflix_url": "https://www.netflix.com/title/81744874",
       "year": "2023",
@@ -8848,6 +8991,13 @@
     {
       "title": "I Am Not Mendoza",
       "netflix_url": "https://www.netflix.com/title/81948201",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "The Trip 8",
+      "netflix_url": "https://www.netflix.com/title/81971901",
       "year": "2025",
       "imdb_rating": null,
       "imdb_id": null

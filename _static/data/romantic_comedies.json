@@ -5468,6 +5468,13 @@
       "imdb_id": null
     },
     {
+      "title": "The Trip 8",
+      "netflix_url": "https://www.netflix.com/title/81971901",
+      "year": "2025",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "My Love Will Make You Disappear",
       "netflix_url": "https://www.netflix.com/title/81974048",
       "year": "2025",
@@ -5575,6 +5582,23 @@
       "Actors": "Monika Dawidziuk, Paris Dwyer, Wojciech Fry Lewis",
       "Language": "English, Polish",
       "Country": "United States"
+    },
+    {
+      "title": "Aaha Kalyanam",
+      "netflix_url": "https://www.netflix.com/title/82027345",
+      "year": "2014",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt2995992",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmJiNDE4ZWItNzU2NC00MGFlLWE2NmYtZWFmZjhhZDQ2MDAzXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_SX300.jpg",
+      "Plot": "Partners of a wedding-planning firm face problems when they fall in love.",
+      "Type": "movie",
+      "RunTime": "142 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Gokul Krishna",
+      "Writer": "Habib Faisal, Rajiv Rajaram, Maneesh Sharma",
+      "Actors": "Nani, Vaani Kapoor, Badava Gopi",
+      "Language": "Tamil, Telugu",
+      "Country": "India"
     },
     {
       "title": "Ex Ex Lovers",

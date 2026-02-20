@@ -938,6 +938,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Expendables 2",
+      "netflix_url": "https://www.netflix.com/title/70230088",
+      "year": "2012",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt1764651",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwZGYyYzktNmEzMS00ZDkzLTlkMjEtYTdiOWExM2Y2ZjE4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Mr. Church reunites the Expendables for what should be an easy paycheck, but when one of their men is murdered on the job, their quest for revenge puts them deep in enemy territory and up against an unexpected threat.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Simon West",
+      "Writer": "Richard Wenk, Sylvester Stallone, Ken Kaufman",
+      "Actors": "Sylvester Stallone, Liam Hemsworth, Randy Couture",
+      "Language": "English",
+      "Country": "United States, Germany, China"
+    },
+    {
       "title": "Hit & Run",
       "netflix_url": "https://www.netflix.com/title/70243445",
       "year": "2012",
@@ -3714,6 +3731,23 @@
       "Country": "United States"
     },
     {
+      "title": "Outlaws",
+      "netflix_url": "https://www.netflix.com/title/81193794",
+      "year": "2021",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt6301712",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDZlMzg3NDktYmU5MS00MWE4LWI3MjQtMTc0NzhiYTE4ZTk1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "1% is set within the primal underworld of outlaw motorcycle club gangs. It follows the heir to the throne of a motorcycle club who has to betray his president to save his brother's life.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Stephen McCallum",
+      "Writer": "Matt Nable",
+      "Actors": "Ryan Corr, Abbey Lee, Simone Kessell",
+      "Language": "English",
+      "Country": "Australia"
+    },
+    {
       "title": "Code 8",
       "netflix_url": "https://www.netflix.com/title/81194641",
       "year": "2019",
@@ -5949,6 +5983,13 @@
       "Country": "Japan"
     },
     {
+      "title": "Bhola Shankar",
+      "netflix_url": "https://www.netflix.com/title/81631871",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Buddy",
       "netflix_url": "https://www.netflix.com/title/81632778",
       "year": "2024",
@@ -6192,6 +6233,23 @@
       "Actors": "Alice Taglioni, Stéfi Celma, Baptiste Lecaplain",
       "Language": "French",
       "Country": "France"
+    },
+    {
+      "title": "The Expendables 4",
+      "netflix_url": "https://www.netflix.com/title/81674656",
+      "year": "2023",
+      "imdb_rating": "4.8",
+      "imdb_id": "tt3291150",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjgyMmRmM2EtYWY5ZC00ZTllLWJhM2QtMGRlNGEzMWEzYzllXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Armed with every weapon they can get their hands on, the Expendables are the world's last line of defense and the team that gets called when all other options are off the table.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Action, Adventure, Thriller",
+      "Director": "Scott Waugh",
+      "Writer": "Kurt Wimmer, Tad Daggerhart, Max Adams",
+      "Actors": "Jason Statham, 50 Cent, Megan Fox",
+      "Language": "English, Arabic, Bulgarian, Vietnamese, Spanish, Thai",
+      "Country": "United States"
     },
     {
       "title": "Den of Thieves 2: Pantera",
@@ -6713,6 +6771,23 @@
       "Country": "Malaysia, Singapore"
     },
     {
+      "title": "The Orphans",
+      "netflix_url": "https://www.netflix.com/title/81754057",
+      "year": "2026",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0012532",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDM1ZmM5NWUtYmNlNy00ODcyLWFmNDQtMWI0Y2NmOGI4YzQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two orphaned sisters are caught up in the turmoil of the French Revolution, encountering misery and love along the way.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Drama, History, Romance",
+      "Director": "D.W. Griffith",
+      "Writer": "Adolphe d'Ennery, Eugène Cormon, D.W. Griffith",
+      "Actors": "Lillian Gish, Dorothy Gish, Joseph Schildkraut",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Miraculous World: New York, United Heroez",
       "netflix_url": "https://www.netflix.com/title/81754915",
       "year": "2020",
@@ -6735,6 +6810,23 @@
       "Actors": "Ben Diskin, Todd Haberkorn, Xanthe Huynh",
       "Language": "English",
       "Country": "France"
+    },
+    {
+      "title": "13 Bombs",
+      "netflix_url": "https://www.netflix.com/title/81755774",
+      "year": "2023",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt27490380",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjUyZWMzOWYtNjJkZC00MGU3LThiMGMtNDExOGVjODNkMWU5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "An organization races against time to uncover the mastermind behind the placement of 13 bombs in Jakarta before the city falls into chaos.",
+      "Type": "movie",
+      "RunTime": "143 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Angga Dwimas Sasongko",
+      "Writer": "Angga Dwimas Sasongko, Mohammad Irfan Ramly",
+      "Actors": "Ardhito Pramono, Lutesha, Chicco Kurniawan",
+      "Language": "Indonesian",
+      "Country": "Indonesia, South Korea"
     },
     {
       "title": "Skywalkers: A Love Story",
@@ -7164,6 +7256,13 @@
       "Actors": "Riteish Deshmukh, Vivek Oberoi, Rhea Chakraborty",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Baahubali: The Beginning (Spanish Version)",
+      "netflix_url": "https://www.netflix.com/title/82031153",
+      "year": "2015",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "My Hero Academia: You're Next",

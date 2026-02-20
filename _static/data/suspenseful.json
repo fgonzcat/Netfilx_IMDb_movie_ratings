@@ -2519,6 +2519,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Twin Murders: the Silence of the White City",
+      "netflix_url": "https://www.netflix.com/title/81038589",
+      "year": "2020",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt8393332",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTUyMjMxNjYtMzM3NC00YjAyLTgyYWEtMWU2MGQwNjM1YmZjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A cop returns to the job. A serial killer too returns to the job.",
+      "Type": "movie",
+      "RunTime": "110 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "Daniel Calparsoro",
+      "Writer": "Roger Danès, Eva García Sáenz de Urturi, Alfred Pérez Fargas",
+      "Actors": "Belén Rueda, Javier Rey, Aura Garrido",
+      "Language": "Spanish",
+      "Country": "Spain"
+    },
+    {
       "title": "The Influence",
       "netflix_url": "https://www.netflix.com/title/81038598",
       "year": "2019",
@@ -5978,6 +5995,13 @@
       "Actors": "Eric Bana, Sadie Sink, Sylvia Hoeks",
       "Language": "English, German",
       "Country": "Germany, United States, United Kingdom, France"
+    },
+    {
+      "title": "Firebreak",
+      "netflix_url": "https://www.netflix.com/title/81744440",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
     },
     {
       "title": "A HOUSE OF DYNAMITE",

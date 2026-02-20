@@ -2743,6 +2743,23 @@
       "Country": "Malaysia, Singapore"
     },
     {
+      "title": "The Orphans",
+      "netflix_url": "https://www.netflix.com/title/81754057",
+      "year": "2026",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0012532",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDM1ZmM5NWUtYmNlNy00ODcyLWFmNDQtMWI0Y2NmOGI4YzQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two orphaned sisters are caught up in the turmoil of the French Revolution, encountering misery and love along the way.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Drama, History, Romance",
+      "Director": "D.W. Griffith",
+      "Writer": "Adolphe d'Ennery, Eugène Cormon, D.W. Griffith",
+      "Actors": "Lillian Gish, Dorothy Gish, Joseph Schildkraut",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "13 Bombs",
       "netflix_url": "https://www.netflix.com/title/81755774",
       "year": "2023",

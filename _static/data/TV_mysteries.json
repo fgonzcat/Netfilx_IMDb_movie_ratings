@@ -2625,6 +2625,23 @@
       "Country": "Italy"
     },
     {
+      "title": "The House of Dark Secrets",
+      "netflix_url": "https://www.netflix.com/title/81517326",
+      "year": "2015",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt3470836",
+      "Poster": "https://occ-0-1340-1339.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABSx-5m9qxCl3yk10h8LMaXNcfMWJLaCLgfYT6IkNZq2WMBSWS3T1OCiA9rrALeVqm_ocSJwnr6lqoDjm_3IKIcbXhUl8IuWgxkDL.jpg?r=d01",
+      "Plot": "A promotion for the horror novel of the same name, depicting the chilling opening of the book.",
+      "Type": "movie",
+      "RunTime": "4 min",
+      "Genre": "Short, Horror",
+      "Director": "James Bushe",
+      "Writer": "James Bushe, Linda Gaine",
+      "Actors": "Jon Campling, Liis Mikk, Ben Whitehead",
+      "Language": "English",
+      "Country": "United Kingdom"
+    },
+    {
       "title": "DELETE",
       "netflix_url": "https://www.netflix.com/title/81519591",
       "year": "2023",

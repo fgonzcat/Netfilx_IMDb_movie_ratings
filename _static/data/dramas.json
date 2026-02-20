@@ -979,6 +979,23 @@
       "Country": "Peru, Spain"
     },
     {
+      "title": "Dostana",
+      "netflix_url": "https://www.netflix.com/title/70109680",
+      "year": "2008",
+      "imdb_rating": "6.4",
+      "imdb_id": "tt1185420",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDhhYjUyNGEtMmY2My00ZDE2LWIyNjMtMTNkNzVmZGFmMmE0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two straight guys pretend to be gay to secure a Miami apartment. When both of them fall for their roommate Neha, hilarity ensues as they strive to convince one and all that they're gay while secretly trying to win her heart.",
+      "Type": "movie",
+      "RunTime": "145 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Tarun Mansukhani, Punit Malhotra",
+      "Writer": "Anvita Dutt, Tarun Mansukhani",
+      "Actors": "Abhishek Bachchan, John Abraham, Priyanka Chopra Jonas",
+      "Language": "Hindi, English",
+      "Country": "India, United States"
+    },
+    {
       "title": "Not Easily Broken",
       "netflix_url": "https://www.netflix.com/title/70109684",
       "year": "2009",
@@ -1215,6 +1232,23 @@
       "Actors": "Alex Kendrick, Ken Bevel, Kevin Downes",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "Student of the Year",
+      "netflix_url": "https://www.netflix.com/title/70219526",
+      "year": "2012",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt2172071",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjMxY2M4YWQtMGU1OS00NDNmLTgyZTctY2ExZmMyOGE1ZTcxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Several alumni reminisce about their final year at St. Theresa's College and the events that shaped their lives.",
+      "Type": "movie",
+      "RunTime": "146 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Karan Johar, Abhishek Varman",
+      "Writer": "Renzil D'Silva, Niranjan Iyengar, Karan Johar",
+      "Actors": "Alia Bhatt, Sidharth Malhotra, Varun Dhawan",
+      "Language": "Hindi",
+      "Country": "India"
     },
     {
       "title": "Moonrise Kingdom",
@@ -2563,6 +2597,23 @@
       "Director": "Alex Zamm",
       "Writer": "Karen Schaler, Nate Atkins",
       "Actors": "Rose McIver, Ben Lamb, Alice Krige",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Land of Steady Habits",
+      "netflix_url": "https://www.netflix.com/title/80164779",
+      "year": "2018",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt6485928",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0NjY4MjIxM15BMl5BanBnXkFtZTgwMTk2MjIyNjM@._V1_SX300.jpg",
+      "Plot": "After leaving his wife and his job to find happiness, Anders befriends a drug-addicted teen, sending him down a path of reckless and shameful behavior.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Nicole Holofcener",
+      "Writer": "Ted Thompson, Nicole Holofcener",
+      "Actors": "Ben Mendelsohn, Natalie Gold, Thomas Mann",
       "Language": "English",
       "Country": "United States"
     },
@@ -5356,6 +5407,23 @@
       "Country": "India"
     },
     {
+      "title": "The Awakening of Motti Wolkenbruch",
+      "netflix_url": "https://www.netflix.com/title/81110383",
+      "year": "2018",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt4766630",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDZiZGY0NzUtYzc5OC00MjRlLWFjYjUtYTNmMmM3ZjIxMmIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Young Jewish man bucks orthodox traditions (and mother's meddling) by shaving, shopping outside the faithful, and considering a shiksa for a wife.",
+      "Type": "movie",
+      "RunTime": "94 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Michael Steiner",
+      "Writer": "Thomas Meyer",
+      "Actors": "Joel Basman, Noémie Schmidt, Udo Samel",
+      "Language": "German, Yiddish, Hebrew, English",
+      "Country": "Switzerland"
+    },
+    {
       "title": "Against The Ice",
       "netflix_url": "https://www.netflix.com/title/81115160",
       "year": "2022",
@@ -5684,6 +5752,23 @@
       "Actors": "Riccardo Scamarcio, Annabelle Wallis, Massimiliano Gallo",
       "Language": "Italian, English",
       "Country": "Italy"
+    },
+    {
+      "title": "Narvik",
+      "netflix_url": "https://www.netflix.com/title/81166149",
+      "year": "2022",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt9737876",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjg4MjkwYzAtYTlmMi00ODk2LThmYWMtNWUzNDcyMzk5ZTNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "April 1940. The eyes of the world are on Narvik, a small town in northern Norway, source of the iron ore needed for Hitler's war machinery. Through two months of fierce winter warfare, Hitler is dealt his first defeat.",
+      "Type": "movie",
+      "RunTime": "108 min",
+      "Genre": "Drama, History, War",
+      "Director": "Erik Skjoldbjærg",
+      "Writer": "Christopher Grøndahl, Sebastian Torngren Wartin",
+      "Actors": "Kristine Hartgen, Carl Martin Eggesbø, Christoph Gelfert Mathiesen",
+      "Language": "Norwegian, French, English, German",
+      "Country": "Norway"
     },
     {
       "title": "The Forgotten Battle",
@@ -6727,6 +6812,23 @@
       "Country": "United States"
     },
     {
+      "title": "Badhaai Do",
+      "netflix_url": "https://www.netflix.com/title/81350338",
+      "year": "2022",
+      "imdb_rating": "7.0",
+      "imdb_id": "tt11934846",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTUyMmNmOGMtZjgxYi00YzE5LTkzYjItNjdlNjg0YjlkMTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Shardul Thakur and Suman Singh enter into a marriage of convenience but chaos ensues when her unhinged girlfriend comes to stay with them.",
+      "Type": "movie",
+      "RunTime": "147 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Harshavardhan Kulkarni",
+      "Writer": "Suman Adhikary, Akshat Ghildial, Harshavardhan Kulkarni",
+      "Actors": "Rajkummar Rao, Bhumi Pednekar, Chum Darang",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Penguin Bloom",
       "netflix_url": "https://www.netflix.com/title/81350434",
       "year": "2021",
@@ -7761,6 +7863,23 @@
       "Country": "Spain"
     },
     {
+      "title": "Mayday",
+      "netflix_url": "https://www.netflix.com/title/81481587",
+      "year": "2021",
+      "imdb_rating": "4.4",
+      "imdb_id": "tt11271800",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQzNWQxYTQtOTZjOS00NTU4LWJjZjMtY2ViZmU4NTZhYjIxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Ana is transported to a dreamlike and dangerous land where she joins an army of girls engaged in a never-ending war. Though she finds strength in this exhilarating world, she realizes that she's not the killer they want her to be.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama, Fantasy, Mystery",
+      "Director": "Karen Cinorre",
+      "Writer": "Karen Cinorre",
+      "Actors": "Grace Van Patten, Mia Goth, Soko",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Red Rocket",
       "netflix_url": "https://www.netflix.com/title/81481609",
       "year": "2021",
@@ -7885,6 +8004,23 @@
       "Actors": "Kristen Stewart, Timothy Spall, Sally Hawkins",
       "Language": "English",
       "Country": "United Kingdom, Germany, United States, Chile"
+    },
+    {
+      "title": "Minnal Murali",
+      "netflix_url": "https://www.netflix.com/title/81497215",
+      "year": "2021",
+      "imdb_rating": "7.8",
+      "imdb_id": "tt7268738",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWY0ZGJiNWYtNTUwMC00YjE4LTg2ODYtMDVjYTEyNTNjMjRhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A tailor gains special powers after being struck by lightning, but must take down an unexpected foe if he is to become the superhero his hometown needs.",
+      "Type": "movie",
+      "RunTime": "158 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "Basil Joseph",
+      "Writer": "Arun Anirudhan, Justin Mathew",
+      "Actors": "Tovino Thomas, Guru Somasundaram, Aju Varghese",
+      "Language": "Malayalam",
+      "Country": "India"
     },
     {
       "title": "Toscana",
@@ -9085,6 +9221,23 @@
       "Country": "South Africa"
     },
     {
+      "title": "Nuovo Olimpo",
+      "netflix_url": "https://www.netflix.com/title/81645391",
+      "year": "2023",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt18394610",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTNjMTU2MDQtOWFmMi00OTQyLWI0MjItMDAzZjdiNzA1M2JlXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two 25-year-old men who meet by chance, fall madly in love, and are then separated due to an unexpected event. For the next thirty years they pursue the hope of finding each other again.",
+      "Type": "movie",
+      "RunTime": "113 min",
+      "Genre": "Drama, Romance",
+      "Director": "Ferzan Özpetek",
+      "Writer": "Gianni Romoli, Ferzan Özpetek",
+      "Actors": "Luisa Ranieri, Greta Scarano, Alvise Rigo",
+      "Language": "Italian",
+      "Country": "Italy"
+    },
+    {
       "title": "GodFather (Hindi)",
       "netflix_url": "https://www.netflix.com/title/81648072",
       "year": "2022",
@@ -9192,6 +9345,23 @@
       "Actors": "Sukollawat Kanarot, Sanya Kunakorn, Atitaya Tribudarak",
       "Language": "Thai",
       "Country": "Thailand"
+    },
+    {
+      "title": "Here Love Lies",
+      "netflix_url": "https://www.netflix.com/title/81663108",
+      "year": "2022",
+      "imdb_rating": "4.0",
+      "imdb_id": "tt15139698",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDhhN2EzZDctMGRhYS00NWNmLWI3NTMtODQ4OThkODg0NDM3XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the pursuit of 'love and forever', single parent and Travel Blogger Amanda, embarks on a social media romance with American TourGuide Michael. A trip to the US to meet up for the first time, opens up more doors than both antici...",
+      "Type": "movie",
+      "RunTime": "131 min",
+      "Genre": "Romance, Thriller",
+      "Director": "Tope Oshin",
+      "Writer": "Ayoade Adeyanju, Tope Oshin",
+      "Actors": "Tope Oshin, Tim Shelburne, Sam Dede",
+      "Language": "English, Ibo",
+      "Country": "United States, Nigeria"
     },
     {
       "title": "Moving On",
@@ -9864,6 +10034,40 @@
       "Country": "Italy"
     },
     {
+      "title": "Poison",
+      "netflix_url": "https://www.netflix.com/title/81711973",
+      "year": "2023",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt28912885",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGQ3MmRjY2EtODAwMS00NGQ1LWFkMTItYmU0OGJmYTM3NjEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a poisonous snake slithers onto an Englishman's stomach in India, his associate and a doctor race to save him.",
+      "Type": "movie",
+      "RunTime": "17 min",
+      "Genre": "Short, Comedy, Drama",
+      "Director": "Wes Anderson",
+      "Writer": "Roald Dahl, Wes Anderson",
+      "Actors": "Dev Patel, Benedict Cumberbatch, Ralph Fiennes",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Swedish Connection",
+      "netflix_url": "https://www.netflix.com/title/81713119",
+      "year": "2026",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt28793125",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjc1NjBjOTQtNzQwNy00OWEwLTk0ZDEtMWQ1YTM3NzE4OTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Swedish Foreign Ministry bureaucrat Gösta Engzell, overlooked during WWII, rescued thousands while turning supposedly neutral Sweden into a moral force. His efforts challenged the status quo and left a lasting humanitarian legacy.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Thérèse Ahlbeck, Marcus Olsson",
+      "Writer": "Thérèse Ahlbeck, Marcus Olsson",
+      "Actors": "Henrik Dorsin, Sissela Benn, Jonas Karlsson",
+      "Language": "Swedish",
+      "Country": "Sweden"
+    },
+    {
       "title": "Pilecki's Report",
       "netflix_url": "https://www.netflix.com/title/81713152",
       "year": "2023",
@@ -9956,6 +10160,23 @@
       "Country": "Italy, United States, United Kingdom"
     },
     {
+      "title": "The Iron Claw",
+      "netflix_url": "https://www.netflix.com/title/81725563",
+      "year": "2023",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt21064584",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjJjZDc5YTUtYTc4My00Yzc2LTkwMGUtOTg3ODIwYzJkYTJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Biography, Drama, Sport",
+      "Director": "Sean Durkin",
+      "Writer": "Sean Durkin",
+      "Actors": "Zac Efron, Jeremy Allen White, Harris Dickinson",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
+    },
+    {
       "title": "Emergency",
       "netflix_url": "https://www.netflix.com/title/81725593",
       "year": "2025",
@@ -9971,6 +10192,23 @@
       "Actors": "Anupam Kher, Kangana Ranaut, Milind Soman",
       "Language": "Hindi",
       "Country": "India"
+    },
+    {
+      "title": "Golden Kamuy",
+      "netflix_url": "https://www.netflix.com/title/81726698",
+      "year": "2024",
+      "imdb_rating": "6.3",
+      "imdb_id": "tt19759618",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGExZmUyYTUtNTRmNi00MGIzLTgzMzQtZDVmYTcwNTgwNGJjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In the early 20th century in Hokkaido, Japan, a treasure hunt between various parties takes place for a hidden stash of gold.",
+      "Type": "movie",
+      "RunTime": "127 min",
+      "Genre": "Action, Adventure, History",
+      "Director": "Shigeaki Kubo",
+      "Writer": "Tsutomu Kuroiwa, Satoru Noda",
+      "Actors": "Kento Yamazaki, Anna Yamada, Gordon Maeda",
+      "Language": "Japanese",
+      "Country": "Japan"
     },
     {
       "title": "Amaran",
@@ -10208,6 +10446,13 @@
       "Country": "Spain, France, Netherlands, Portugal, Peru, United Kingdom, United States, Brazil"
     },
     {
+      "title": "Firebreak",
+      "netflix_url": "https://www.netflix.com/title/81744440",
+      "year": "2026",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "A HOUSE OF DYNAMITE",
       "netflix_url": "https://www.netflix.com/title/81744537",
       "year": "2025",
@@ -10400,6 +10645,23 @@
       "Actors": "Beto Kusyairy, Shiqin Kamal, Vanida Imran",
       "Language": "Malay",
       "Country": "Malaysia, Singapore"
+    },
+    {
+      "title": "The Orphans",
+      "netflix_url": "https://www.netflix.com/title/81754057",
+      "year": "2026",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt0012532",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDM1ZmM5NWUtYmNlNy00ODcyLWFmNDQtMWI0Y2NmOGI4YzQ2XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Two orphaned sisters are caught up in the turmoil of the French Revolution, encountering misery and love along the way.",
+      "Type": "movie",
+      "RunTime": "150 min",
+      "Genre": "Drama, History, Romance",
+      "Director": "D.W. Griffith",
+      "Writer": "Adolphe d'Ennery, Eugène Cormon, D.W. Griffith",
+      "Actors": "Lillian Gish, Dorothy Gish, Joseph Schildkraut",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Latin Blood - The Ballad of Ney Matogrosso",
@@ -11644,6 +11906,23 @@
       "imdb_id": null
     },
     {
+      "title": "I'm Still Here",
+      "netflix_url": "https://www.netflix.com/title/82040265",
+      "year": "2024",
+      "imdb_rating": "8.2",
+      "imdb_id": "tt14961016",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2FjMjBiZjgtZDkyYy00YTRlLTk5N2QtODE2ZWIyYWE0Yzg0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A woman married to a former politician during the military dictatorship in Brazil is forced to reinvent herself and chart a new course for her family after a violent and arbitrary act.",
+      "Type": "movie",
+      "RunTime": "137 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Walter Salles",
+      "Writer": "Murilo Hauser, Heitor Lorega, Marcelo Rubens Paiva",
+      "Actors": "Fernanda Torres, Fernanda Montenegro, Selton Mello",
+      "Language": "Portuguese, French",
+      "Country": "Brazil, France"
+    },
+    {
       "title": "The Best Mother in the World",
       "netflix_url": "https://www.netflix.com/title/82043086",
       "year": "2025",
@@ -11901,6 +12180,23 @@
       "Actors": "Tran Thanh, Tran Tieu Vy, Huynh Uyen An",
       "Language": "Vietnamese",
       "Country": "Vietnam"
+    },
+    {
+      "title": "Pavane",
+      "netflix_url": "https://www.netflix.com/title/82103772",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt20421074",
+      "Poster": "https://occ-0-1340-1339.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSvuhbEOHvdvGjPuWNGhDgCELunLdApkq58zSszyoasIXAFJXQP_6b7AhjMkex95BUJCMBNpbRhv8LZg2ZXcgrz0wdjnRSf30al_.jpg?r=ed0",
+      "Plot": "For 30 years, Cora has woken up every morning at 4am to go work at the factory and raise her daughter, Alex, gone to Paris, much to Cora's regret, to try to become a filmmaker. As Cora is about to retire, she would very much like ...",
+      "Type": "movie",
+      "RunTime": "26 min",
+      "Genre": "Short, Drama",
+      "Director": "Pauline Gay",
+      "Writer": "Pauline Gay",
+      "Actors": "Corinne Masiero, Salomé Dewaels, Fréderique Moser",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Homebound",
@@ -12162,6 +12458,23 @@
       "Country": "United States"
     },
     {
+      "title": "East of Wall",
+      "netflix_url": "https://www.netflix.com/title/82194686",
+      "year": "2025",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt21349688",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGFiNDgxYmUtYjUxNy00ZmU3LWFhM2QtYzMzMGY3ZTQ0YzU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After the death of her husband, Tabatha- a young, tattooed, rebellious horse trainer- wrestles with financial insecurity and unresolved grief while providing refuge for a group of wayward teenagers on her broken-down ranch in the ...",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Drama",
+      "Director": "Kate Beecroft",
+      "Writer": "Kate Beecroft",
+      "Actors": "Porshia Zimiga, Tabatha Zimiga, Scoot McNairy",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Kingdom",
       "netflix_url": "https://www.netflix.com/title/82627302",
       "year": "2024",
@@ -12177,6 +12490,23 @@
       "Actors": "Ghjuvanna Benedetti, Saveriu Santucci, Anthony Morganti",
       "Language": "French",
       "Country": "France"
+    },
+    {
+      "title": "Meet, Greet & Bye",
+      "netflix_url": "https://www.netflix.com/title/82638239",
+      "year": "2025",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt35929110",
+      "Poster": "N/A",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "N/A",
+      "Genre": "Drama, Family",
+      "Director": "Cathy Garcia-Sampana",
+      "Writer": "N/A",
+      "Actors": "Joshua Garcia, Juan Karlos Labajo, Belle Mariano",
+      "Language": "N/A",
+      "Country": "Philippines"
     },
     {
       "title": "Soul on Fire",

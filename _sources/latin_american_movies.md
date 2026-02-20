@@ -450,6 +450,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/100387" target="_bl
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Lali: Time to Step Up*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81940759" target="_blank">Netflix_link</a> |
 | N/A |  | 2026 | <details> <summary><strong style="color:#1f6feb;">*A Father's Miracle*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81945432" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*I Am Not Mendoza*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81948201" target="_blank">Netflix_link</a> |
+| N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*The Trip 8*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81971901" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Juan Gabriel: I Must, I Can, I Will*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81977112" target="_blank">Netflix_link</a> |
 | N/A |  | 2024 | <details> <summary><strong style="color:#1f6feb;">*Soul's Peak*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81987104" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*The Best Mother in the World*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/82043086" target="_blank">Netflix_link</a> |
@@ -492,6 +493,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/100387" target="_bl
 
  
 ---
-*Page last updated on: 2026-02-18*
+*Page last updated on: 2026-02-20*
 
  

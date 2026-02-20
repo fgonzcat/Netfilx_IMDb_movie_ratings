@@ -2867,6 +2867,23 @@
       "Country": "India"
     },
     {
+      "title": "Malaal",
+      "netflix_url": "https://www.netflix.com/title/81177238",
+      "year": "2019",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt10305616",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGMxNTA4YjItNTc0NS00N2MwLThkNjktNjFmMTRjNmM4OTM0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Malaal is the story of Shiva and Astha, two very different people from contrasting backgrounds who experience the innocence of love. Does their love find its destination or do they part ways? Stay on this journey to find out.",
+      "Type": "movie",
+      "RunTime": "136 min",
+      "Genre": "Action, Drama, Romance",
+      "Director": "Mangesh Hadawale",
+      "Writer": "Mangesh Hadawale, Sanjay Leela Bhansali, K. Selvaraghavan",
+      "Actors": "Meezaan Jafri, Sharmin Segal, Chinmayee Surve",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "Sardar Ka Grandson",
       "netflix_url": "https://www.netflix.com/title/81177241",
       "year": "2021",
@@ -4187,6 +4204,23 @@
       "Director": "Satram Ramani",
       "Writer": "Mudassar Aziz, Sasha Singh",
       "Actors": "Sonakshi Sinha, Huma Qureshi, Zaheer Iqbal",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
+      "title": "Nazar Andaaz",
+      "netflix_url": "https://www.netflix.com/title/81641719",
+      "year": "2022",
+      "imdb_rating": "7.2",
+      "imdb_id": "tt22311492",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjllMmYxNmQtZjhhMC00NzQyLTk4NDktOTQzMTdiMGNmOTFmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Sudhir, blind by birth, lives alone with his housemaid Bhavani. While Bhavani is out, he takes in Ali to help around the house. Both Bhavani and Ali grow envious of each other. Nazar Andaaz is a comedic yet heartfelt story of thes...",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Vikrant Deshmukh",
+      "Writer": "Vikrant Deshmukh, Sameer Hallim, Sonali Shani Pednekar",
+      "Actors": "Abhishek Banerjee, Shyam Bhimsaria, Divya Dutta",
       "Language": "Hindi",
       "Country": "India"
     },

@@ -1161,6 +1161,23 @@
       "Country": "United States"
     },
     {
+      "title": "Kevin Hart: Zero F**ks Given",
+      "netflix_url": "https://www.netflix.com/title/80174688",
+      "year": "2020",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt13433082",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDI4M2IyNTQtYmJkNi00ZjgyLThjMWYtZDY4NGIzMDM0YjM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Kevin Hart comedy special from the comfort of his own home.",
+      "Type": "movie",
+      "RunTime": "69 min",
+      "Genre": "Comedy",
+      "Director": "Leslie Small",
+      "Writer": "Kevin Hart",
+      "Actors": "Kevin Hart, Heaven Hart, Hendrix Hart",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Standups",
       "netflix_url": "https://www.netflix.com/title/80175685",
       "year": "2021",
@@ -1397,6 +1414,23 @@
       "Actors": "Natalia Valdebenito",
       "Language": "Spanish",
       "Country": "Chile"
+    },
+    {
+      "title": "Coco y Raulito: Carrusel de ternura",
+      "netflix_url": "https://www.netflix.com/title/80192135",
+      "year": "2018",
+      "imdb_rating": "6.6",
+      "imdb_id": "tt7607498",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjc5YmViMmEtNzMwYi00MWNlLThlMzYtNTYxMmMwOTgzNjQ1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Plot": "N/A",
+      "Type": "movie",
+      "RunTime": "56 min",
+      "Genre": "Comedy",
+      "Director": "Raúl Campos, Jan Suter",
+      "Writer": "Coco Celis, Raúl Meneses",
+      "Actors": "Coco Celis, Raúl Meneses",
+      "Language": "Spanish",
+      "Country": "Mexico"
     },
     {
       "title": "Malena Pichot: Estupidez compleja",
@@ -2831,6 +2865,23 @@
       "Director": "Riccardo Melchiades, Fabio Ock",
       "Writer": "N/A",
       "Actors": "Yuri Marçal",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
+      "title": "Thiago Ventura: POKAS",
+      "netflix_url": "https://www.netflix.com/title/81194682",
+      "year": "2020",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt12547440",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmNmNjVmNjAtY2JmMC00ZmJkLWJlN2QtZTM3OGFjZjhlYmNjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Thiago Ventura jokes about living in a poor Brazilian community, talking about social issues and when actions speak more than words.",
+      "Type": "movie",
+      "RunTime": "82 min",
+      "Genre": "Comedy",
+      "Director": "Joana Mazzucchelli, Fabio Ock",
+      "Writer": "N/A",
+      "Actors": "Thiago Ventura, Patrick Maia",
       "Language": "Portuguese",
       "Country": "Brazil"
     },

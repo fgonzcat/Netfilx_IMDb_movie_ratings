@@ -989,6 +989,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Jonathan",
+      "netflix_url": "https://www.netflix.com/title/81034599",
+      "year": "2018",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt5639446",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ1NTQ2MTg4NF5BMl5BanBnXkFtZTgwMTg2ODQ1NjM@._V1_SX300.jpg",
+      "Plot": "Jonathan leaves the office every day at noon. When he gets home, he goes to sleep. Every morning he wakes up and there is a breakfast prepared for him along with a video telling him about the second part of his day.",
+      "Type": "movie",
+      "RunTime": "100 min",
+      "Genre": "Drama, Mystery, Sci-Fi",
+      "Director": "Bill Oliver",
+      "Writer": "Gregory Davis, Peter Nickowitz, Bill Oliver",
+      "Actors": "Ansel Elgort, Suki Waterhouse, Patricia Clarkson",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Awe",
       "netflix_url": "https://www.netflix.com/title/81052266",
       "year": "2018",
@@ -2403,6 +2420,13 @@
     {
       "title": "Asvins (Malayalam)",
       "netflix_url": "https://www.netflix.com/title/81711450",
+      "year": "2023",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
+      "title": "Merry Christmas (Tamil)",
+      "netflix_url": "https://www.netflix.com/title/81713401",
       "year": "2023",
       "imdb_rating": null,
       "imdb_id": null

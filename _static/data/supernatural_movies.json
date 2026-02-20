@@ -789,6 +789,23 @@
       "Country": "Taiwan"
     },
     {
+      "title": "The Addams Family",
+      "netflix_url": "https://www.netflix.com/title/81034769",
+      "year": "2019",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt1620981",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDg1NTZhN2UtMmVkYi00NzQxLWI2MWEtNTg5M2YyOWU3MmIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Addams family face-off against a crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Animation, Comedy, Family",
+      "Director": "Greg Tiernan, Conrad Vernon",
+      "Writer": "Matt Lieberman, Erica Rivinoja, Conrad Vernon",
+      "Actors": "Oscar Isaac, Charlize Theron, Chloë Grace Moretz",
+      "Language": "English, Spanish, Italian, French",
+      "Country": "Canada, United States, United Kingdom, Vietnam"
+    },
+    {
       "title": "The Witcher: Nightmare of the Wolf",
       "netflix_url": "https://www.netflix.com/title/81037868",
       "year": "2021",
@@ -1742,6 +1759,23 @@
       "Country": "Egypt"
     },
     {
+      "title": "The Addams Family 2",
+      "netflix_url": "https://www.netflix.com/title/81438332",
+      "year": "2021",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt11125620",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2YwZjhjN2UtNDYwYy00YmY2LTk0NGMtNTA5NThmYTZlZWU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Morticia and Gomez are distraught that Wednesday and Pugsley are growing up. To reclaim their bond they decide to cram the family into their haunted camper and hit the road for one last vacation together.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Conrad Vernon, Greg Tiernan, Laura Brousseau",
+      "Writer": "Dan Hernandez, Benji Samit, Ben Queen",
+      "Actors": "Oscar Isaac, Charlize Theron, Chloë Grace Moretz",
+      "Language": "English, Spanish, Latin, Ukrainian",
+      "Country": "Canada, United States, United Kingdom, France, Vietnam"
+    },
+    {
       "title": "Nimona",
       "netflix_url": "https://www.netflix.com/title/81444554",
       "year": "2023",
@@ -2355,6 +2389,23 @@
       "Country": "Indonesia"
     },
     {
+      "title": "Bayi Ajaib",
+      "netflix_url": "https://www.netflix.com/title/81678779",
+      "year": "2023",
+      "imdb_rating": "5.0",
+      "imdb_id": "tt23129678",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmU0NTEyMWItY2M0MS00NzFjLWEzNDktMTM5YjI3OTc5YjFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A newly rich and recently married man's comfortable life threatens to crumble when his infant child is possessed by an unholy spirit with a grudge.",
+      "Type": "movie",
+      "RunTime": "99 min",
+      "Genre": "Horror",
+      "Director": "Rako Prijanto",
+      "Writer": "Alim Sudio",
+      "Actors": "Vino G. Bastian, Adipati Dolken, Desy Ratnasari",
+      "Language": "Indonesian, Portuguese",
+      "Country": "Indonesia"
+    },
+    {
       "title": "Asvins",
       "netflix_url": "https://www.netflix.com/title/81680624",
       "year": "2023",
@@ -2554,6 +2605,23 @@
       "Actors": "Happy Salma, Nugie, Flavio Zaviera",
       "Language": "Indonesian",
       "Country": "Indonesia"
+    },
+    {
+      "title": "The Rope Curse 3",
+      "netflix_url": "https://www.netflix.com/title/81729682",
+      "year": "2023",
+      "imdb_rating": "4.6",
+      "imdb_id": "tt27941077",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyMThkZTctYjQ0Ny00Nzk5LTlhYjktZjRiMjBjMjMxYzJmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Aspiring to become a parkour influencer, a gifted young man from an exorcist family gets caught up in a swirl of spooky events at an eerie hotel.",
+      "Type": "movie",
+      "RunTime": "109 min",
+      "Genre": "Horror, Thriller",
+      "Director": "Shih-Han Liao",
+      "Writer": "Keng-Ming Chang, Tzu-Ming Ma",
+      "Actors": "Ting-hu Zhang, Hsing-Wen Li, Wu Yi-Jung",
+      "Language": "Mandarin, Min Nan",
+      "Country": "Taiwan"
     },
     {
       "title": "The Origin: Madam Koi-Koi - Chapter 1: The Awakening",

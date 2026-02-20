@@ -1132,6 +1132,40 @@
       "imdb_id": null
     },
     {
+      "title": "Carancho",
+      "netflix_url": "https://www.netflix.com/title/70139527",
+      "year": "2010",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt1542852",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTA3MDgwMTY0NV5BMl5BanBnXkFtZTcwNzk4NzEzNA@@._V1_SX300.jpg",
+      "Plot": "An ambulance chaser/carancho falls for an ER/ambulance doctor, he meets one night \"at work\" in Buenos Aires.",
+      "Type": "movie",
+      "RunTime": "107 min",
+      "Genre": "Crime, Drama, Romance",
+      "Director": "Pablo Trapero",
+      "Writer": "Alejandro Fadel, Martín Mauregui, Santiago Mitre",
+      "Actors": "Ricardo Darín, Federico Silva, Cristian De Asís",
+      "Language": "Spanish",
+      "Country": "Argentina, Chile, France, South Korea, Spain"
+    },
+    {
+      "title": "Even the Rain",
+      "netflix_url": "https://www.netflix.com/title/70154110",
+      "year": "2010",
+      "imdb_rating": "7.4",
+      "imdb_id": "tt1422032",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzFhN2JlN2ItN2UxNy00Y2ZjLTkwNTEtOGE5NTI1ZWJiZmZhXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "As a director and his crew shoot a controversial film about Christopher Columbus in Cochabamba, Bolivia, local people rise up against plans to privatize the water supply.",
+      "Type": "movie",
+      "RunTime": "103 min",
+      "Genre": "Drama, History",
+      "Director": "Icíar Bollaín",
+      "Writer": "Paul Laverty",
+      "Actors": "Gael García Bernal, Luis Tosar, Karra Elejalde",
+      "Language": "Spanish, Quechua, English",
+      "Country": "Spain, Mexico, France"
+    },
+    {
       "title": "Crazy, Stupid, Love.",
       "netflix_url": "https://www.netflix.com/title/70167068",
       "year": "2011",
@@ -2278,6 +2312,23 @@
       "Country": "United States"
     },
     {
+      "title": "Blue Jay",
+      "netflix_url": "https://www.netflix.com/title/80117746",
+      "year": "2016",
+      "imdb_rating": "7.3",
+      "imdb_id": "tt5912454",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2Nzk4ODA2M15BMl5BanBnXkFtZTgwODA5MDExMDI@._V1_SX300.jpg",
+      "Plot": "Meeting by chance when they return to their tiny California hometown, two former high-school sweethearts reflect on their shared past.",
+      "Type": "movie",
+      "RunTime": "80 min",
+      "Genre": "Drama, Romance",
+      "Director": "Alex Lehmann",
+      "Writer": "Mark Duplass",
+      "Actors": "Mark Duplass, Sarah Paulson, Clu Gulager",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "Train to Busan",
       "netflix_url": "https://www.netflix.com/title/80117824",
       "year": "2016",
@@ -2414,6 +2465,23 @@
       "Country": "Indonesia, United States"
     },
     {
+      "title": "Visaranai",
+      "netflix_url": "https://www.netflix.com/title/80149139",
+      "year": "2015",
+      "imdb_rating": "6.1",
+      "imdb_id": "tt4425388",
+      "Poster": "https://occ-0-1340-1339.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABXZXD0UAaXiogTMTDbr9Jnllcx08gDblvrw4Lr_H9tQUe52fH_l-x97rh__6Wztd5i5tgsxD_XapUfHhchM0XdsnaSH0DPdj-PeX.jpg?r=972",
+      "Plot": "A police officer investigates an accident involving a team of workers at a petroleum plant whose bus has fallen into a ravine.",
+      "Type": "movie",
+      "RunTime": "145 min",
+      "Genre": "Thriller",
+      "Director": "R.K. Selvamani",
+      "Writer": "Liquat Ali Khan, R.K. Selvamani",
+      "Actors": "Prashanth, Karthika, Ashwini",
+      "Language": "Tamil",
+      "Country": "India"
+    },
+    {
       "title": "Colossal",
       "netflix_url": "https://www.netflix.com/title/80158202",
       "year": "2016",
@@ -2444,6 +2512,23 @@
       "Director": "James Kelley",
       "Writer": "J. Lyle, Cassandra Nicholson",
       "Actors": "J. Lyle, Keith J. Obit, Olivia Odom",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
+      "title": "The Land of Steady Habits",
+      "netflix_url": "https://www.netflix.com/title/80164779",
+      "year": "2018",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt6485928",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0NjY4MjIxM15BMl5BanBnXkFtZTgwMTk2MjIyNjM@._V1_SX300.jpg",
+      "Plot": "After leaving his wife and his job to find happiness, Anders befriends a drug-addicted teen, sending him down a path of reckless and shameful behavior.",
+      "Type": "movie",
+      "RunTime": "98 min",
+      "Genre": "Comedy, Drama",
+      "Director": "Nicole Holofcener",
+      "Writer": "Ted Thompson, Nicole Holofcener",
+      "Actors": "Ben Mendelsohn, Natalie Gold, Thomas Mann",
       "Language": "English",
       "Country": "United States"
     },
@@ -6398,6 +6483,23 @@
       "Country": "United States"
     },
     {
+      "title": "Licorice Pizza",
+      "netflix_url": "https://www.netflix.com/title/81514106",
+      "year": "2021",
+      "imdb_rating": "7.1",
+      "imdb_id": "tt11271038",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjU5MjRiOWMtNmI0OC00ZTU1LThlNGItYTViNzU2YzAzMWMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A young man and a young woman grow up, run around, and fall in love in the San Fernando Valley, 1973.",
+      "Type": "movie",
+      "RunTime": "133 min",
+      "Genre": "Comedy, Drama, Romance",
+      "Director": "Paul Thomas Anderson",
+      "Writer": "Paul Thomas Anderson",
+      "Actors": "Will Angarola, Griff Giacchino, James Kelley",
+      "Language": "English, Japanese, Spanish",
+      "Country": "United States, Canada"
+    },
+    {
       "title": "An Action Hero",
       "netflix_url": "https://www.netflix.com/title/81514149",
       "year": "2022",
@@ -7197,6 +7299,23 @@
       "Country": "United States"
     },
     {
+      "title": "Poison",
+      "netflix_url": "https://www.netflix.com/title/81711973",
+      "year": "2023",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt28912885",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGQ3MmRjY2EtODAwMS00NGQ1LWFkMTItYmU0OGJmYTM3NjEyXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "When a poisonous snake slithers onto an Englishman's stomach in India, his associate and a doctor race to save him.",
+      "Type": "movie",
+      "RunTime": "17 min",
+      "Genre": "Short, Comedy, Drama",
+      "Director": "Wes Anderson",
+      "Writer": "Roald Dahl, Wes Anderson",
+      "Actors": "Dev Patel, Benedict Cumberbatch, Ralph Fiennes",
+      "Language": "English",
+      "Country": "United States"
+    },
+    {
       "title": "The Quintessential Quintuplets Movie",
       "netflix_url": "https://www.netflix.com/title/81717895",
       "year": "2022",
@@ -7280,6 +7399,23 @@
       "Actors": "Richard Ayoade, Mita Chowdhury, Jarvis Cocker",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "The Iron Claw",
+      "netflix_url": "https://www.netflix.com/title/81725563",
+      "year": "2023",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt21064584",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjJjZDc5YTUtYTc4My00Yzc2LTkwMGUtOTg3ODIwYzJkYTJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Biography, Drama, Sport",
+      "Director": "Sean Durkin",
+      "Writer": "Sean Durkin",
+      "Actors": "Zac Efron, Jeremy Allen White, Harris Dickinson",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Woman of the Hour",
@@ -8270,6 +8406,23 @@
       "Actors": "Embeth Davidtz, Andreas Damm, Zikhona Bali",
       "Language": "English, Shona",
       "Country": "South Africa"
+    },
+    {
+      "title": "East of Wall",
+      "netflix_url": "https://www.netflix.com/title/82194686",
+      "year": "2025",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt21349688",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGFiNDgxYmUtYjUxNy00ZmU3LWFhM2QtYzMzMGY3ZTQ0YzU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After the death of her husband, Tabatha- a young, tattooed, rebellious horse trainer- wrestles with financial insecurity and unresolved grief while providing refuge for a group of wayward teenagers on her broken-down ranch in the ...",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Drama",
+      "Director": "Kate Beecroft",
+      "Writer": "Kate Beecroft",
+      "Actors": "Porshia Zimiga, Tabatha Zimiga, Scoot McNairy",
+      "Language": "English",
+      "Country": "United States"
     },
     {
       "title": "Ullozhukku",

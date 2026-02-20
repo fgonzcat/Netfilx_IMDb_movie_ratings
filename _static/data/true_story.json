@@ -2613,6 +2613,23 @@
       "Country": "Netherlands, Belgium"
     },
     {
+      "title": "The Swedish Connection",
+      "netflix_url": "https://www.netflix.com/title/81713119",
+      "year": "2026",
+      "imdb_rating": "6.8",
+      "imdb_id": "tt28793125",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjc1NjBjOTQtNzQwNy00OWEwLTk0ZDEtMWQ1YTM3NzE4OTQ1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Swedish Foreign Ministry bureaucrat Gösta Engzell, overlooked during WWII, rescued thousands while turning supposedly neutral Sweden into a moral force. His efforts challenged the status quo and left a lasting humanitarian legacy.",
+      "Type": "movie",
+      "RunTime": "102 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "Thérèse Ahlbeck, Marcus Olsson",
+      "Writer": "Thérèse Ahlbeck, Marcus Olsson",
+      "Actors": "Henrik Dorsin, Sissela Benn, Jonas Karlsson",
+      "Language": "Swedish",
+      "Country": "Sweden"
+    },
+    {
       "title": "Bob Marley: One Love",
       "netflix_url": "https://www.netflix.com/title/81725546",
       "year": "2024",
@@ -2645,6 +2662,23 @@
       "Actors": "Cailee Spaeny, Jacob Elordi, Ari Cohen",
       "Language": "English, French",
       "Country": "Italy, United States, United Kingdom"
+    },
+    {
+      "title": "The Iron Claw",
+      "netflix_url": "https://www.netflix.com/title/81725563",
+      "year": "2023",
+      "imdb_rating": "7.6",
+      "imdb_id": "tt21064584",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjJjZDc5YTUtYTc4My00Yzc2LTkwMGUtOTg3ODIwYzJkYTJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s.",
+      "Type": "movie",
+      "RunTime": "132 min",
+      "Genre": "Biography, Drama, Sport",
+      "Director": "Sean Durkin",
+      "Writer": "Sean Durkin",
+      "Actors": "Zac Efron, Jeremy Allen White, Harris Dickinson",
+      "Language": "English",
+      "Country": "United Kingdom, United States"
     },
     {
       "title": "Emergency",
@@ -3100,6 +3134,23 @@
       "Writer": "Rachel Feldman, Adam Prince",
       "Actors": "John Benjamin Hickey, Patricia Clarkson, Thomas Sadoski",
       "Language": "N/A",
+      "Country": "United States"
+    },
+    {
+      "title": "East of Wall",
+      "netflix_url": "https://www.netflix.com/title/82194686",
+      "year": "2025",
+      "imdb_rating": "6.2",
+      "imdb_id": "tt21349688",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGFiNDgxYmUtYjUxNy00ZmU3LWFhM2QtYzMzMGY3ZTQ0YzU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "After the death of her husband, Tabatha- a young, tattooed, rebellious horse trainer- wrestles with financial insecurity and unresolved grief while providing refuge for a group of wayward teenagers on her broken-down ranch in the ...",
+      "Type": "movie",
+      "RunTime": "97 min",
+      "Genre": "Drama",
+      "Director": "Kate Beecroft",
+      "Writer": "Kate Beecroft",
+      "Actors": "Porshia Zimiga, Tabatha Zimiga, Scoot McNairy",
+      "Language": "English",
       "Country": "United States"
     },
     {

@@ -173,6 +173,23 @@
       "Country": "India"
     },
     {
+      "title": "Yeh Dillagi",
+      "netflix_url": "https://www.netflix.com/title/21059403",
+      "year": "1994",
+      "imdb_rating": "5.9",
+      "imdb_id": "tt0111793",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWVhMWZmZDMtOWU1Yi00NWI0LWE3OTYtMGU3MzM5MWRlODg4XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "A poor girl is rebuked by a rich boy. She leaves town to return successful and rich. He falls for her but his brother is already in love with the girl.",
+      "Type": "movie",
+      "RunTime": "155 min",
+      "Genre": "Comedy, Drama, Musical",
+      "Director": "Naresh Malhotra",
+      "Writer": "Sachin Bhowmick, Javed Siddiqui",
+      "Actors": "Kajol, Akshay Kumar, Saif Ali Khan",
+      "Language": "Hindi",
+      "Country": "India"
+    },
+    {
       "title": "The American President",
       "netflix_url": "https://www.netflix.com/title/251922",
       "year": "1995",
@@ -1289,6 +1306,23 @@
       "Writer": "Ali Abbas Zafar",
       "Actors": "Imran Khan, Katrina Kaif, Ali Zafar",
       "Language": "Hindi, English",
+      "Country": "India"
+    },
+    {
+      "title": "Student of the Year",
+      "netflix_url": "https://www.netflix.com/title/70219526",
+      "year": "2012",
+      "imdb_rating": "5.3",
+      "imdb_id": "tt2172071",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjMxY2M4YWQtMGU1OS00NDNmLTgyZTctY2ExZmMyOGE1ZTcxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Several alumni reminisce about their final year at St. Theresa's College and the events that shaped their lives.",
+      "Type": "movie",
+      "RunTime": "146 min",
+      "Genre": "Comedy, Drama, Music",
+      "Director": "Karan Johar, Abhishek Varman",
+      "Writer": "Renzil D'Silva, Niranjan Iyengar, Karan Johar",
+      "Actors": "Alia Bhatt, Sidharth Malhotra, Varun Dhawan",
+      "Language": "Hindi",
       "Country": "India"
     },
     {
@@ -4977,6 +5011,13 @@
       "Country": "India"
     },
     {
+      "title": "Radhe Shyam (Hindi)",
+      "netflix_url": "https://www.netflix.com/title/81382264",
+      "year": "2022",
+      "imdb_rating": null,
+      "imdb_id": null
+    },
+    {
       "title": "Just Short of Perfect",
       "netflix_url": "https://www.netflix.com/title/81387867",
       "year": "2021",
@@ -5247,6 +5288,23 @@
       "Actors": "Ellie Kemper, Luke Grimes, Nico Santos",
       "Language": "English",
       "Country": "United States"
+    },
+    {
+      "title": "F*ck Love Too",
+      "netflix_url": "https://www.netflix.com/title/81422838",
+      "year": "2022",
+      "imdb_rating": "3.9",
+      "imdb_id": "tt15432804",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjgzNTIwODktNTZiZC00Yjc5LWE4NGUtMjM2NjI3ZDZhYjA0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "In this romantic comedy, several friends, each dealing with unhappy love lives, turn to each other for help - but not always with the best results.",
+      "Type": "movie",
+      "RunTime": "92 min",
+      "Genre": "Comedy, Romance",
+      "Director": "Appie Boudellah, Aram van de Rest",
+      "Writer": "Shariff Nasr, Sergej Groenhart, Appie Boudellah",
+      "Actors": "Bo Maerten, Géza Weisz, Yolanthe Cabau",
+      "Language": "Dutch, English",
+      "Country": "Netherlands"
     },
     {
       "title": "A Tourist's Guide to Love",
@@ -8424,6 +8482,23 @@
       "Actors": "Tran Thanh, Tran Tieu Vy, Huynh Uyen An",
       "Language": "Vietnamese",
       "Country": "Vietnam"
+    },
+    {
+      "title": "Pavane",
+      "netflix_url": "https://www.netflix.com/title/82103772",
+      "year": "2026",
+      "imdb_rating": "N/A",
+      "imdb_id": "tt20421074",
+      "Poster": "https://occ-0-1340-1339.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSvuhbEOHvdvGjPuWNGhDgCELunLdApkq58zSszyoasIXAFJXQP_6b7AhjMkex95BUJCMBNpbRhv8LZg2ZXcgrz0wdjnRSf30al_.jpg?r=ed0",
+      "Plot": "For 30 years, Cora has woken up every morning at 4am to go work at the factory and raise her daughter, Alex, gone to Paris, much to Cora's regret, to try to become a filmmaker. As Cora is about to retire, she would very much like ...",
+      "Type": "movie",
+      "RunTime": "26 min",
+      "Genre": "Short, Drama",
+      "Director": "Pauline Gay",
+      "Writer": "Pauline Gay",
+      "Actors": "Corinne Masiero, Salomé Dewaels, Fréderique Moser",
+      "Language": "French",
+      "Country": "France"
     },
     {
       "title": "Oh, Hi!",

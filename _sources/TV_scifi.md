@@ -223,6 +223,7 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1372" target="_blan
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BODdjMjE3ZDUtNDU5Yi00YTU2LTk0YjEtNTYzNDU2Mjc5NWRiXkEyXkFqcGdeQXVyNDUwNjk2NTU@._V1_SX300.jpg" class="zoom-img" width="120"> | 2019 | <details> <summary><strong style="color:#1f6feb;">*Possessed*</strong></summary>  <div class="movie-plot">Adam and Jennifer's movie night is interrupted by a strange noise.</div> </details> | <a href="https://www.imdb.com/title/tt11207884/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81087764" target="_blank">Netflix_link</a> |
 | N/A |  | 2022 | <details> <summary><strong style="color:#1f6feb;">*Half Bad: The Bastard Son & The Devil Himself*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81258637" target="_blank">Netflix_link</a> |
 | N/A |  | 2020 | <details> <summary><strong style="color:#1f6feb;">*Futmalls.com*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81312762" target="_blank">Netflix_link</a> |
+| N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Shadow and Bone - The Afterparty*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81351076" target="_blank">Netflix_link</a> |
 | N/A |  | 2021 | <details> <summary><strong style="color:#1f6feb;">*Bulgasal: Immortal Souls*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81483462" target="_blank">Netflix_link</a> |
 | N/A | <img src="https://m.media-amazon.com/images/M/MV5BODY1ZGM0MGItZmM3Ny00OTQ1LTkwNGYtZGQyNTU5MWFkMzRlXkEyXkFqcGc@._V1_SX300.jpg" class="zoom-img" width="120"> | 2024 | <details> <summary><strong style="color:#1f6feb;">*Tomorrow and I*</strong></summary>  <div class="movie-plot">Explore the intersection of futuristic technologies and Thai culture, and the unimaginable tensions and moral dilemmas that arise out of their inevitable conflict.</div> </details> | <a href="https://www.imdb.com/title/tt31158590/" target="_blank">IMDb_link</a> | <a href="https://www.netflix.com/title/81522263" target="_blank">Netflix_link</a> |
 | N/A |  | 2025 | <details> <summary><strong style="color:#1f6feb;">*Anne Rice's Mayfair Witches*</strong></summary>  <div class="movie-plot">None</div> </details> | N/A | <a href="https://www.netflix.com/title/81664607" target="_blank">Netflix_link</a> |
@@ -271,6 +272,6 @@ Netflix genre: <a href="https://www.netflix.com/browse/genre/1372" target="_blan
 
  
 ---
-*Page last updated on: 2026-02-18*
+*Page last updated on: 2026-02-20*
 
  

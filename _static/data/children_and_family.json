@@ -2092,6 +2092,23 @@
       "Country": "United States"
     },
     {
+      "title": "The Addams Family",
+      "netflix_url": "https://www.netflix.com/title/81034769",
+      "year": "2019",
+      "imdb_rating": "5.8",
+      "imdb_id": "tt1620981",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDg1NTZhN2UtMmVkYi00NzQxLWI2MWEtNTg5M2YyOWU3MmIwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "The Addams family face-off against a crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.",
+      "Type": "movie",
+      "RunTime": "86 min",
+      "Genre": "Animation, Comedy, Family",
+      "Director": "Greg Tiernan, Conrad Vernon",
+      "Writer": "Matt Lieberman, Erica Rivinoja, Conrad Vernon",
+      "Actors": "Oscar Isaac, Charlize Theron, Chloë Grace Moretz",
+      "Language": "English, Spanish, Italian, French",
+      "Country": "Canada, United States, United Kingdom, Vietnam"
+    },
+    {
       "title": "My Octopus Teacher",
       "netflix_url": "https://www.netflix.com/title/81045007",
       "year": "2020",
@@ -3638,6 +3655,23 @@
       "Actors": "Pete Davidson, J.K. Simmons, David Koechner",
       "Language": "English",
       "Country": "United States, Canada, Hong Kong, South Korea, United Kingdom, India"
+    },
+    {
+      "title": "The Addams Family 2",
+      "netflix_url": "https://www.netflix.com/title/81438332",
+      "year": "2021",
+      "imdb_rating": "5.4",
+      "imdb_id": "tt11125620",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2YwZjhjN2UtNDYwYy00YmY2LTk0NGMtNTA5NThmYTZlZWU1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Plot": "Morticia and Gomez are distraught that Wednesday and Pugsley are growing up. To reclaim their bond they decide to cram the family into their haunted camper and hit the road for one last vacation together.",
+      "Type": "movie",
+      "RunTime": "93 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Conrad Vernon, Greg Tiernan, Laura Brousseau",
+      "Writer": "Dan Hernandez, Benji Samit, Ben Queen",
+      "Actors": "Oscar Isaac, Charlize Theron, Chloë Grace Moretz",
+      "Language": "English, Spanish, Latin, Ukrainian",
+      "Country": "Canada, United States, United Kingdom, France, Vietnam"
     },
     {
       "title": "Nimona",
