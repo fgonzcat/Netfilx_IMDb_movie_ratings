@@ -1,5 +1,8 @@
 # Netflix Movies with Best IMDb Ratings 🎬⭐
 
+![QRcode](QR.png)
+
+
 > [!IMPORTANT]  
 > Looking for **what to watch next on Netflix**?  
 > This site ranks Netflix movies **from best to worst using IMDb ratings**, fully reproducible and automatically updated.
