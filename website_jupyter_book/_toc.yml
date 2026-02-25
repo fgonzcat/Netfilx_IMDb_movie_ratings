@@ -55,6 +55,7 @@ parts:
       - file: bollywood 
       - file: brazilian_movies
       - file: canadian_movies
+      - file: colombian_movies_and_TV_shows
       - file: cerebral_movies
       - file: classics 
       - file: comedy 
@@ -78,6 +79,7 @@ parts:
         sections:
           - file: biographical_documentaries 
           - file: crime_documentaries_in_documentaries
+          - file: critically_acclaimed_documentaries
           - file: historical_documentaries 
           - file: science_nature_documentaries
           - file: social_cultural_documentaries
